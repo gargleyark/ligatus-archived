@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3217" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1353" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fore-edge stabilisers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A stout metal pin attached to the centre of the fore-edge usually of the right board (these locators appear to be very much a Germanic phenomenon) and which extends across the fore-edge, and over which a metal fitting with a hole in it which protrudes from the fore-edge of the left board fits when the book is closed. They were presumably intended to prevent books kept on sloping lectern shelves from twisting if the upper board is not supported by the ledge at the bottom of the lectern." , "lang" : "en" } ] }
+}

@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2474",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3129"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1505"} ,
+        { "@id": "http://w3id.org/lob/concept/1297"} ,
+        { "@id": "http://w3id.org/lob/concept/1430"} ,
+        { "@id": "http://w3id.org/lob/concept/1554"} ,
+        { "@id": "http://w3id.org/lob/concept/1439"} ,
+        { "@id": "http://w3id.org/lob/concept/2970"} ,
+        { "@id": "http://w3id.org/lob/concept/1670"} ,
+        { "@id": "http://w3id.org/lob/concept/1714"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "thread" , "@language" : "en" } ,
+        { "@value" : "tr\u00E5d" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Single filaments of fibre, groups of such filaments twisted tightly together, or filamentous lengths formed by spinning and twisting short fibres into a continuous strand." , "@language" : "en" } ,
+        { "@value" : "Tr\u00E5d til hefting er som regel laget av hampefibre som er tvunnet hardt sammen." , "@language" : "nb" } ] }
+] }

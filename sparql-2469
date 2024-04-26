@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2916" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4698" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "grovkornet overflate" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "grain (skins)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The pattern on the hairside of animal skins produced by the arrangement of the hair follicles and pores, characteristic of the species and age of the animals from which the leather is produced. In general, the younger the animal the finer the grain structure. The skin of the female of the species is usually of a finer grain than the male. Because of their durability, uniformity, beauty, and form, grain patterns represent one of the most appealing and highly prized characteristics of leather, and it is for this reason that imitation grains are often embossed on inferior quality leathers and even printed or embossed on other materials, such as cloth or paper." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ru, kornet overflate" , "lang" : "nb" } ] }
+}

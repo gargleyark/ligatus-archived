@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1433" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1535" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "manuscript waste" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "h\u00E5ndskriftsmakulatur" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Manuscript leaves removed from a bound library book, as distinct from recycled document, either bound or unbound." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "gamle manuskripter brukt som f\u00F4ring eller forsterkninger i bokbind " , "lang" : "nb" } ] }
+}

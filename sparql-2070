@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1556">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3407" />
+    <skos:prefLabel xml:lang="nb">forsatsens størrelse lik bokblokken</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">same-size endleaves</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Endleaves which are the same size as the leaves of the bookblock.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Forsatsblad som har samme størrelse som bokblokken.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

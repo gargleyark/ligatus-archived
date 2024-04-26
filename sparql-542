@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2836">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:prefLabel xml:lang="en">book chains</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bokkjetting</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Lenke av metall som er festet til en av bokens permer og til en lesepult eller hylle der boken ble lest eller oppbevart.
+
+
+</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Length of chain used to secure books to shelving. Such chains were usually attached to one or other board at head-, tail- or fore-edge, depending on how the book was shelved.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

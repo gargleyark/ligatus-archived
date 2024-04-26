@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3411">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3273" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2957" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3020" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1400" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2858" />
+    <skos:prefLabel xml:lang="nb">remmer</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">straps (fastening components)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">remser eller bånd av relativt sterkt materiale (skinn, pergament) som utgjør en del av en lukkemekanisme enten alene eller som del av en spenne </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Straps used as part of a fastening, usually combined with a metal component.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

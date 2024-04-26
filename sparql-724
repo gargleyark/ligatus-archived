@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4340",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2352"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "backed spines" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Spines that have been given backing joints either by lacing boards on tightly and closing them or with a backing hammer." , "@language" : "en" } ] }
+] }

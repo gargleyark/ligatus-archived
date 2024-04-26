@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2381">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2340" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3881" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3085" />
+    <skos:prefLabel xml:lang="en">printed decoration</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">trykt dekor</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Formatspesifikk dekor trykt ved hjelp av tresnitt eller metalltyper, som ikke må forveksles med blokktrykt dekor.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Format-specific decoration printed by means of wood-blocks or metal type, and not to be confused with block-printed papers cut up and used as covers on any size of book. Printed decoration often includes the titles of the books, but where titling becomes decoration, or vice versa, is sometimes a difficult question.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

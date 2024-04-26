@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/2831" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1244" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bent and slotted catchplates" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "bent slot (catch plate)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Catchplates made from flat strips of metal folded over the edges of boards at a right angle, with slots filed out of the central part of the folds." , "lang" : "en" } ] }
+}

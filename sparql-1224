@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3979",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3977"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "copper engraving printed paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paper which has been printed with engraved copper plates. The engraved lines made by using copper plates are often distinguished by their fine lines which taper to a point at both ends." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3004>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2270> ;
+	skos:prefLabel	"right"@en ;
+	skos:altLabel	"back"@en ,
+		"front"@en ,
+		"upper"@en ,
+		"lower"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The place on the right of the centre of a book opened as if to be read. All the components or features of a binding on this side of the book can therefore be described as right (e.g. right board, right endleaves, etc.). This removes any confusion about what is the back board on books written in arabic or latin, for instance."@en .

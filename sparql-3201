@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1426" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3464" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "longstitch sets" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The separate groups of threads visible on the outside of pierced support(s) on the spines of longstitch bindings can be described as longstitch sets. A longstitch binding therefore with two sewing stations will have one set and one with three stations will have two sets. However, a binding with four stations can have either two or three sets, and so on." , "lang" : "en" } ] }
+}

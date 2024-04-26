@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3437",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3431"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "shelfmarks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "call numbers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Numeric or alphanumeric codes or other sets of symbols identifying a particular item or items in a library collection, indicating its location on shelving." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4657",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3990"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "skjellmarmorert papir" , "@language" : "nb" } ,
+        { "@value" : "shell marbled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Marmorgrunden sprinkles fullstendig av sm\u00E5 fargedr\u00E5per, fargeflekkene er merkbart lysere i kantene enn i midten og gjennom fortetting \u00E5dres mellomrommet mellom fargeflekkene. " , "@language" : "nb" } ] }
+] }

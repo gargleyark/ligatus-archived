@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1422">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4484" />
+    <skos:prefLabel xml:lang="en">leather joints</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">innvendig skinnfals</skos:prefLabel>
+    <skos:altLabel xml:lang="en">leather hinges</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A narrow strip of thinly-pared tanned skin which crosses the inner joint of a book. Such joints can be purely cosmetic and simply adhered across the joint, or may be sewn-in with the outer endleaf units. Leather joints were often made from the same leather as the covering skin, thus forming a frame of leather around the inside of each board, and were frequently decorated with tooling. Also known as leather hinges. Leather joints, although used in France in the seventeenth century, became popular across Europe in the second half of the eighteenth century. The English binder Roger Payne was unusual in using leather joints of coloured tanned goatskin in books covered in russia leather.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">En smal stripe tynt skjerfet skinn montert over den innvendige falsen i opplokket, ofte samme skinn som overtrekket og som sammen danner en ramme av skinn på innsiden av permen, ofte dekorert med gulltrykk.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

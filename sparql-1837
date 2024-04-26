@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3271>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/3639> ,
+		<http://w3id.org/lob/concept/3325> ,
+		<http://w3id.org/lob/concept/1309> ,
+		<http://w3id.org/lob/concept/3693> ,
+		<http://w3id.org/lob/concept/1668> ;
+	skos:prefLabel	"endband components"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The component parts of endbands."@en .

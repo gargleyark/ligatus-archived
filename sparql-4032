@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2270">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3805" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1381" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3808" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3810" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3004" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3812" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2853" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1336" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1229" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3803" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3814" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3816" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4676" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2947" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1405" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4543" />
+    <skos:prefLabel xml:lang="en">places</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">plassering</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">This hierarchy provides values for the CIDOC-CRM E53 Place:
+
+This class comprises extents in space, in particular on the surface of the earth, in the pure sense of physics: independent from temporal phenomena and matter. 
+The instances of E53 Place are usually determined by reference to the position of “immobile” objects such as buildings, cities, mountains, rivers, or dedicated geodetic marks. A Place can be determined by combining a frame of reference and a location with respect to this frame. It may be identified by one or more instances of E44 Place Appellation.
+It is sometimes argued that instances of E53 Place are best identified by global coordinates or absolute reference systems. However, relative references are often more relevant in the context of cultural documentation and tend to be more precise. In particular, we are often interested in position in relation to large, mobile objects, such as ships. For example, the Place at which Nelson died is known with reference to a large mobile object – H.M.S Victory. A resolution of this Place in terms of absolute coordinates would require knowledge of the movements of the vessel and the precise time of death, either of which may be revised, and the result would lack historical and cultural relevance.
+Any object can serve as a frame of reference for E53 Place determination. The model foresees the notion of a &amp;quot;section&amp;quot; of an E19 Physical Object as a valid E53 Place determination.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">brukes i beskrivelsen for å  angi lokalisering av bokbindets forskjellige deler </skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

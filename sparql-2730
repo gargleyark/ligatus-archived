@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2927",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1254"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4476"} ,
+        { "@id": "http://w3id.org/lob/concept/4478"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "krokspenne " , "@language" : "nb" } ,
+        { "@value" : "hooked clasps" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "del av bokspenne, som regel av metall, der enden er b\u00F8yd for \u00E5 kunne hektes i spennens motsatte del " , "@language" : "nb" } ,
+        { "@value" : "Metal fittings, the outer end of which is rolled over to form a hook which is more less semi-circular in cross section, the inner end of which is attached to the fore-edge of a book board, by means either of a clasp strap or a hinge. The clasp hooks could be made from cast metal or made out of strips of metal. They can be shaped and decorated in many different ways." , "@language" : "en" } ] }
+] }

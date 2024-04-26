@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1572" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1551" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "semi-elliptical spines" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Spine shape in which the central portion of the spine follows a shallow curve and terminates at each joints with more heavily rounded shoulders. This shape is commonly found on British bindings of the last quarter of the 18th century." , "lang" : "en" } ] }
+}

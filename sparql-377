@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1237>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3744> ;
+	skos:prefLabel	"bypass sewing"@en ,
+		"hefting utenom alle heftestasjoner"@nb ;
+	skos:altLabel	"skip-station sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Hefteteknikk der man utelater \u00E5 hefte hvert legg til hvert heftbind, men bare til noen av dem for \u00E5 gj\u00F8re hefteprosessen hurtigere."@nb ,
+		"A sewing structure in which the thread in each gathering does not attach that gathering to all of the sewing supports on the spine, but only to a selection of them. Like all economies, there is a trade-off, in that the fewer the supports sewn around in each gathering, the quicker the sewing, but the weaker the structure. The process is also known as skip-station sewing (Spitzmueller). Bypass sewing has been recorded on a French inboard binding of the second decade of the sixteenth century, but does not become common until the 1550s (Pickwoad Onwards). After that time they come into widespread use across Europe, often, from the seventeenth century, in combination with multi-section sewing."@en .

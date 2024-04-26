@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4626>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4162> ;
+	skos:prefLabel	"silver-leaf paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Metallic paper with a surface entirely covered with beaten silver leaf or silver-coloured leaf. Because of the oxidisation of silver, it is not possible by visual examination alone to know whether the silver leaf is in fact a silver alloy or pure silver."@en .

@@ -1,0 +1,32 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2285>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2277> ;
+	skos:narrower	<http://w3id.org/lob/concept/3448> ,
+		<http://w3id.org/lob/concept/1227> ,
+		<http://w3id.org/lob/concept/3338> ,
+		<http://w3id.org/lob/concept/3343> ,
+		<http://w3id.org/lob/concept/2893> ,
+		<http://w3id.org/lob/concept/1268> ,
+		<http://w3id.org/lob/concept/4174> ,
+		<http://w3id.org/lob/concept/3154> ,
+		<http://w3id.org/lob/concept/3271> ,
+		<http://w3id.org/lob/concept/3273> ,
+		<http://w3id.org/lob/concept/3275> ,
+		<http://w3id.org/lob/concept/3277> ,
+		<http://w3id.org/lob/concept/2368> ,
+		<http://w3id.org/lob/concept/2370> ,
+		<http://w3id.org/lob/concept/3283> ,
+		<http://w3id.org/lob/concept/3287> ,
+		<http://w3id.org/lob/concept/2376> ,
+		<http://w3id.org/lob/concept/1353> ,
+		<http://w3id.org/lob/concept/4684> ,
+		<http://w3id.org/lob/concept/2837> ,
+		<http://w3id.org/lob/concept/3303> ,
+		<http://w3id.org/lob/concept/3305> ,
+		<http://w3id.org/lob/concept/4956> ,
+		<http://w3id.org/lob/concept/1222> ,
+		<http://w3id.org/lob/concept/4854> ;
+	skos:prefLabel	"components"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Constituent parts of objects or structures."@en .

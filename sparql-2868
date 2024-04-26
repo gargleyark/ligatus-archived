@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4739">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2450" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3167" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4506" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4508" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4510" />
+    <skos:prefLabel xml:lang="nb">hår</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">hair</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Material comprising the cylindrical filaments that grow from follicles embedded in the skin of mammals. Hair is a column of overlapping, fused cells that are composed of the protein keratin; hair is composed of three parts: the innermost column is the medula, the surrounding live cells (the cortex) contain pigment, and the outermost dead transparent cells are the cuticular scales. The portion of the hair outside of the skin is called the shaft. Fine, closely spaced hair that covers most of an animal&amp;#039;s body is called fur. Dense, soft, curled hair is called wool. Coarse, stiff hairs are called bristles, spines, or quills. Horsehair and cattle hair have been used for brushes, plaster binders, haircloth, and upholstery stuffing. Rabbit hair, often called rabbit fur, has been used to make felt hats. </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">hår, trådformede strukturer som består av en spesiell form for keratin som dannes ved celledeling, og forhorning av cellene i nedre del av hårsekken (hårfollikkelen)</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

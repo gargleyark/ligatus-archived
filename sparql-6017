@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3090" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "vertical storage" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The storage of books standing on their tail edges. Libraries first began storing books vertically in the sixteenth century when they began to run out of space for horizontal storage, and although a small number of books were stored spine outwards from the 1540s in Paris, initially most books were stored with their fore-edge outwards. In England, this practice, with a very few exceptions, lasted until the mid-seventeenth century." , "lang" : "en" } ] }
+}

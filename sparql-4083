@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2990>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1353> ;
+	skos:prefLabel	"plates (furniture)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sheets of metal other than corner pieces, combined corners or bosses which may cover a large area of or, indeed, whole boards and where they reach the head-, tail- or fore-edges of the boards will be folded over the edges of the boards as well. Where they fit within the limits of the boards, they may be of any shape (square, rectangular, circular, oval, etc., or other, irregular shapes). Such plates will usually have a decorative purpose, and were often used to confer status to liturgical works. In this context they are usually included in the category of treasure bindings. Frequently made of silver or silver gilt, they could be elaborately decorated with engraving, punching, embossing, enamel, repouss\u00E9, etc. Smaller metal plates in the form of votive offerings are also sometimes found nailed to the boards of books, particularly on Armenian bindings."@en .

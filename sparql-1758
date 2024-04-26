@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2370">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2538" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3318" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3059" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3621" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1524" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2540" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2542" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2544" />
+    <skos:prefLabel xml:lang="nb">kapitélbånd</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">endbands</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Components which are found at the head and tail of the spine of a bookblock, which are either sewn with thread or thongs to the head and/or tail edges of the spine of a bookblock or attached by adhesive only. They often include the use of coloured threads thongs or other materials and will therefore have an increasingly decorative function which slowly takes over from their structural function in the 16th century. The term &amp;#039;endband&amp;#039; was coined by Christopher Clarkson in 1967 to describe the substantial, structurally important, sewn bands at head and tail of the spine found on many medieval bindings which not only reinforce the structure of the bookblock, but also the board-attachment. The use of the term has subsequently been broadened to act as the generic name of all the bands found at the ends of the spine, both structural and decorative, traditionally known as headbands, but now distinguishable as headbands or tailbands according to their position.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">materialer som bearbeides og festes til bokblokkens rygg ved hode og fot i forsterkende og/eller dekorativ hensikt  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Components which are found at the head and tail of the spine of a bookblock, which are either sewn with thread or thongs to the head and/or tail edges of the spine of a bookblock (sewn endbands) or attached by adhesive only (stuck-on endbands). They often include the use of coloured threads, thongs or other materials and will therefore have an increasingly decorative function which slowly takes over from their structural function in the 16th century. The term &amp;#039;endband&amp;#039; was coined by Christopher Clarkson in 1967 to describe the substantial, structurally important, separately-sewn bands at head and tail of the spine found on many medieval bindings which not only reinforce the structure of the bookblock, but also the board-attachment. The use of the term has subsequently been broadened to act as the generic name of all the bands found at the ends of the spine, both structural and decorative, traditionally known as headbands, but now distinguishable as headbands or tailbands according to their position. They must always be separately sewn and not be part of the main sewing (see Kapitalbund).</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

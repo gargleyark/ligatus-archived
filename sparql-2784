@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3647">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3287" />
+    <skos:prefLabel xml:lang="en">horizontal wooden plugs</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Flat tapered wooden plugs with angled edges on each side pushed into tapering dovetail recesses cut into the outer surfaces of wooden boards at right angles to their spine edges. The frayed-out slips of the cord sewing supports (always, it would appear, paired single supports) were adhered to the bottom of the recesses before the horizontal wooden plugs, cut to fit exactly into the tapering recesses, were slid over over the slips to hold them in place. The outer ends ofthe plugs were then carved to match the shape of the paired single supports. The technique appears to have been used only in Bavaria, in the late fifteenth and early sixteenth centuries, though why anyone would do something so time-consuming it is hard to imagine, but many examples survive. This technique cannot be seen in books in good condition, as the attachment does not appear on the insides of the boards, but it can often be identified by the very sharp and deep moulding of the covering skin over the carved ends of the horizontal plugs.
+
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

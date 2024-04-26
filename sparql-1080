@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2851",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3374"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "chain plates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "staples" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Flat metal plates fastened to the surface of boards which have rings on their outer ends to which chains can be attached." , "@language" : "en" } ] }
+] }

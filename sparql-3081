@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1672" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1317" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tipped endleaves" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "klebet forsats" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Endleaves which may consist of a single leaf or a single fold which are attached to the first or last leaf of a textblock by means of adhesive only along their spine edges. Tipped endleaves can be found in Italy from the late 15th century through the 16th century." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Forsats best\u00E5ende av et enkeltark eller et falset enkeltark som er festet til f\u00F8rste og siste blad i tekstblokken med en tynn stripe lim langs ryggens kanter." , "lang" : "nb" } ] }
+}

@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4667",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "h\u00E5ndkolorering" , "@language" : "nb" } ,
+        { "@value" : "hand-colouring" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Fargelegging for h\u00E5nd. H\u00E5ndkolorering var den helt dominerende teknikk for \u00E5 fremstille fargebilder i h\u00E5ndpressperioden (1455-1830)." , "@language" : "nb" } ] }
+] }

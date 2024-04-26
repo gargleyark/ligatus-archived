@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1205>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3235> ;
+	skos:narrower	<http://w3id.org/lob/concept/1198> ,
+		<http://w3id.org/lob/concept/1188> ,
+		<http://w3id.org/lob/concept/1529> ,
+		<http://w3id.org/lob/concept/4865> ,
+		<http://w3id.org/lob/concept/1634> ,
+		<http://w3id.org/lob/concept/1603> ;
+	skos:prefLabel	"bankede falser"@nb ,
+		"backing joints"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The shaping of the edges of the spine of a bookblock to accommodate both the swelling created by the sewing thread and the shape of the spine edges of the boards. Backing joints could be created either by lacing boards tightly onto the sewing-support slips and pulling them shut, or by putting the book between backing boards in a backing press and hammering them into shape with a backing hammer. Many bookblocks, however, do not have shaped backing joints, and these should be described as having flat joints."@en ,
+		"falser som oppst\u00E5r p\u00E5 hver side av ryggen n\u00E5r de ytterste leggene p\u00E5 hver side bankes ned, slik at de danner en vinkel i forhold til bokblokken "@nb .

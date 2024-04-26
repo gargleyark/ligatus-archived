@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3230>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2274> ;
+	skos:prefLabel	"dypfalset "@nb ,
+		"tight joints"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"struktur der permen er ansatt tett inntil falsen p\u00E5 bokblokken uten mellomrom mellom perm og bokblokk "@nb ,
+		"Joints in which the boards sit in close contact with the bookblock and hinge directly on the back edges of the boards with no space between the board and the bookblock."@en .

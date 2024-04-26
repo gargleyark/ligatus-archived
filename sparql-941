@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1261>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ,
+		<http://w3id.org/lob/concept/1693> ;
+	skos:prefLabel	"corner tackets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Small tackets of alum-tawed or tanned skin, parchment or thin cord used to hold down the turn-ins of a limp cover at the corners. They could be laced as simple loops through two holes, the ends twisted and/or knotted together usually on the inside of the cover, or through three or more holes to create patterned lacing."@en .

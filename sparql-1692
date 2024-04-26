@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1310",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1606"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3703"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "endband slips" , "@language" : "en" } ,
+        { "@value" : "kapit\u00E9lflik " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "deler av kapit\u00E9lb\u00E5ndkjernen eller heftbind som stikker utover bokblokkryggens tykkelse " , "@language" : "nb" } ,
+        { "@value" : "The parts of a sewing support, endband core or stitched thong which extend beyond the thickness of a bookblock and may be used to attach boards or covers to the bookblock." , "@language" : "en" } ] }
+] }

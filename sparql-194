@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4634">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3545" />
+    <skos:prefLabel xml:lang="nb">ådret klisterpapir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">veined paste paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper decorated by directly applying one or more paste colours in a decorative pattern resembling aligned or diffuse veins. The effect could be achieved by various means, such as stippling with a brush, dabbing or folding the sheet, pressing it and pulling it apart, so that some of the colour would be transferred from the coloured half to the other (mirrored pattern). In most cases, it is almost impossible to identify the precise technique that was used to produce veined paste papers, and several different techniques could be used in combination. Unless a clear mirrored-pattern is visible (e.g. the two halves that have been pressed together and pulled apart are still attached to each other), it is recommended that these papers are described simply as veined paste papers.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Dekoreringsteknikk der en eller flere klisterfarger påføres papiret i et mønster som kan ligne treets årringer, mønsteret skapes ved hjelp av mange forskjellige metoder enten ved hjelp av pensler, eller ved at arket etter innfargning foldes og presses slik at et speilvendt mønster oppstår.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

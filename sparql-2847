@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4539>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3299> ;
+	skos:prefLabel	"sewing direction"@en ,
+		"hefteretning"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"retningen en bokblokk blir heftet - enten fra venstre mot h\u00F8yre eller fra h\u00F8yre mot venstre "@nb ,
+		"The direction in which a bookblock is sewn, i.e. from either left to right or right to left."@en .

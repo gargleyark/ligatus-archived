@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3659",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1222"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "primary boards" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The boards which are attached directly to a sewn bookblock by means of sewing supports slips, bridling, etc. Most bindings will only have primary boards and there is no need to distinguish them as such. This only becomes necessary when secondary boards are adhered to them. Primary boards will be covered, at least around their edges, independently of the secondary boards." , "@language" : "en" } ] }
+] }

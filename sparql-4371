@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3663>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3329> ;
+	skos:prefLabel	"quarter subsidiary cores"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Subsidiary cores placed along the upper front and/or back of the main core, corresponding to NE or NW on a compass dial when looked at it in cross-section. They may be placed either on the front or back of the endband core, but are usually found used together in combination with a back-bead core. They were often used on late medieval bindings, worked with secondary sewing through the primary covering material."@en .

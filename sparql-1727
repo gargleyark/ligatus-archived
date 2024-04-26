@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1320" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "expanding gussets" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Folded triangular inserts of sheet material, most often coloured tanned skin or woven silk textile, used to create expanding pockets at each end of a variety of pocket books (i.e. almanacs, memorandum books, etc.), for the insertion of notes, cards, etc." , "lang" : "en" } ] }
+}

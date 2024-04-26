@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3165",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3740"} ,
+        { "@id": "http://w3id.org/lob/concept/3742"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2971"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paint (coating)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Any dispersion of pigment in a liquid binder. Paint is applied with a brush, roller, sprayer, or by dipping and dries to form a decorative or protective film." , "@language" : "en" } ] }
+] }

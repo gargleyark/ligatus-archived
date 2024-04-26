@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4670",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4682"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "relieff-trykkplater" , "@language" : "nb" } ,
+        { "@value" : "relief printing plates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "trykkplater sk\u00E5ret i relieff der m\u00F8nsteret presses inn i materialoverflaten  " , "@language" : "nb" } ,
+        { "@value" : "Printing plates, cut in relief, in which the design is impressed into the printing surface. Relief printing plates are either positive or negative depending on whether they are printing the design or the background to the design." , "@language" : "en" } ] }
+] }

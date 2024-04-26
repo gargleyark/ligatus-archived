@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4633">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3545" />
+    <skos:prefLabel xml:lang="nb">penseldekorert papir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">brush-patterned paste paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper in which the paste layer has been worked on the surface entirely with one or more brushes in order to produce patterns that are more elaborate than the simple parallel strokes produced by the initial brush-application of the paste.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Penslet klisterpapir, der det fargede klistersjiktet blir bearbeidet med en eller flere pensler og mønsteret som dannes blir mer utarbeidet.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

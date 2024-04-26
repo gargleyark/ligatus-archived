@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1693",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1657"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1261"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "turn-in tackets" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Small tackets used to secure the turn-ins of a cover and to prevent them lifting. They are most often found on the outer corners (known as corner tackets) but can also be found on the inner corners of cases and in the centres of turn-ins." , "@language" : "en" } ] }
+] }

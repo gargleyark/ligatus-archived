@@ -1,0 +1,23 @@
+{
+  "http://w3id.org/lob/concept/3417" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3419" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3421" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3423" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3425" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3769" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3427" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3429" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3771" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3773" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3775" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3777" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3781" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4757" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "actors" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "akt\u00F8rer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "personer som enten individuelt eller sammen i grupper har kunnskaper til \u00E5 utf\u00F8re m\u00E5lbevisste handlinger som de kan holdes ansvarlige for " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Personer som enten individuelt eller sammen i grupper som har evnen til \u00E5 utf\u00F8re bevisste handlinger som de kan holdes anvarlige for. I denne sammenhengen kan det f.eks. v\u00E6re bokbindere, bokselgere, papirmakere, pergamentmakere etc. \r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The purpose of this hierarchy is to provide values for the role types of the CIDOC-CRM entity E39 Actor:\r\n\r\nThis class comprises people, either individually or in groups, who have the potential to perform intentional actions for which they can be held responsible.\r\nThe CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "The purpose of this hierarchy is to provide values for the CIDOC-CRM entity E39 Actor:\r\n\r\nThis class comprises people, either individually or in groups, who have the potential to perform intentional actions for which they can be held responsible.\r\nThe CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body." , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] }
+}

@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1483" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2450" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2484" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "papyrus" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "papyrus" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A writing material prepared from thin strips of the pith of the papyrus plant laid together, soaked, pressed, and dried." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "skrivemateriale laget av strimler av stammen til papyrusplanten som er lagt delvis over hverandre, fuktet, presset og t\u00F8rket " , "lang" : "nb" } ] }
+}

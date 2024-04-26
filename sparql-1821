@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2976>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1386> ;
+	skos:prefLabel	"eik"@nb ,
+		"oak"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"tre i slekten Quercus "@nb ,
+		"The grey-brown wood of trees belonging to the genus Quercus, of the Fagaceae family. It is a durable wood that has a distinctive coarse grain, used in cabinetry, flooring, paneling, panel painting and sculptures. When cut on the quarter, it will show the distinctive figuring created by the medullary rays as they break the surface of the planed plank. It was frequently used for the boards of books at all periods in most northern European countries, but especially in the Low Countries, Britain and France."@en .

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1259",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1619"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hel ryggf\u00F4ring" , "@language" : "nb" } ,
+        { "@value" : "continuous spine linings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Spine linings cut to the width of the spine and which extend from (or close to) the head to the tail of the spine. Such linings were often used on smooth spines created by unsupported sewing or recessed-support sewing, but are occasionally found over raised supports, in which case the lining will be moulded over the supports." , "@language" : "en" } ,
+        { "@value" : "Ryggf\u00F4ring som dekker ryggens bredde og g\u00E5r nesten helt ut over kapit\u00E9lene i hode og fot." , "@language" : "nb" } ] }
+] }

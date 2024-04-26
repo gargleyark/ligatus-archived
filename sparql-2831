@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4193>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4184> ;
+	skos:prefLabel	"h\u00E5ndskrevet tittel"@nb ,
+		"manuscript titles"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Titles written by hand."@en ,
+		"Bindtittel p\u00E5f\u00F8rt med h\u00E5ndskrift."@nb .

@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4606",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1244"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "disk catchplates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Catchplates with either circular recesses in them into which disk clasps can be fastened or a circular projection over which hollow disk clasps can be placed." , "@language" : "en" } ] }
+] }

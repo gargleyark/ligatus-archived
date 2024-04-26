@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1671" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2350" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fast rygg" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "tight backs" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A feature of the spine in which the covering material is adhered either directly to the spine-folds of the bookblock or to the spine-linings. If the spine is flexible, the covering material will therefore move with the spine-folds into a concave shape as the book is opened (throw up)." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "en strukturell egenskap ved bokryggen n\u00E5r ryggmaterialet er limt direkte p\u00E5 bokblokkens rygg eller ryggf\u00F4ring " , "lang" : "nb" } ] }
+}

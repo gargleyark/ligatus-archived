@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4763",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3431"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "initials" , "@language" : "en" } ,
+        { "@value" : "initialer" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

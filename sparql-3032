@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1402">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2354" />
+    <skos:prefLabel xml:lang="en">joint grooves</skos:prefLabel>
+    <skos:altLabel xml:lang="en">French joints</skos:altLabel>
+    <skos:altLabel xml:lang="en">American grooves</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Grooves formed in the covering material in the spaced joints found between the back edges of the boards and the backing joints of the bookblock, also known as a French joints or American grooves. They are made possible by keeping the back edges of the boards a short distance (often approximately equivalent to the thickness of the board, or a &amp;#039;straw&amp;#039;s breadth&amp;#039; according to de Bray) away from the joints of the bookblock and moulding the covering material into the groove so created. This shaping of the cover not only encourages an easier hingeing movement along each joint, but also spreads the strain of opening across a wider strip of the covering material, thus creating a more stable and durable joint. Joint grooves were used in all European countries from the late 16th century onwards and the terms &amp;#039;French joints&amp;#039; and &amp;#039;American grooves&amp;#039; are therefore misleading.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

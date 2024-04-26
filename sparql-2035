@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1352" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1472" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "klaffebind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "full-width cover extensions" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "forlengning av bindets permovertrekk brettet over bindets kant og motst\u00E5ende permside  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Cover extensions each of which is of the same width as the bookblock edge, and which therefore overlap each other across the entire width of the bookblock edge.\r\n" , "lang" : "en" } ] }
+}

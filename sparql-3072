@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1489">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2422" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1639" />
+    <skos:prefLabel xml:lang="nb">klister</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">paste</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A soft, tenacious, pliable adhesive usually with a starch base. The word pasted should not be used where the adhesive referred to is a protein-based glue. If the origin of the adhesive is unclear the broader term  &amp;#039;adhesive&amp;#039; should be used.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">stivelsesbasert klebemiddel </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4075" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3299" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "grain direction" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The predominant alignment of fibres in one direction in a piece of organic material which allows it to bend or fold more easily along it than across. Grain will be found therefore in all types of timber and also in machine-made paper. The direction of the grain in a piece of wood runs vertically up the trunk of the tree and in most bindings with wooden boards the grain runs vertically in the board, but horizontally-grained boards will occasionally be found. The direction of the grain in a piece of machine-made paper runs along the length of the continuous sheet as it emerges from the papermaking machinery." , "lang" : "en" } ] }
+}

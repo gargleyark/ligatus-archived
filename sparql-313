@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1217>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2346> ;
+	skos:prefLabel	"permkanter"@nb ,
+		"board edges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The flat surface across the thickness of a board created when a board is cut. To avoid confusion, the word &#039;edge&#039; should not be used to describe the area around the perimeter of the internal or external surface of a board, which should be described as the border."@en ,
+		"de flate langsg\u00E5ende yttersidene p\u00E5 en tilsk\u00E5ret perm"@nb .

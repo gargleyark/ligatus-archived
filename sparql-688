@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3857",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "innfarging med pensel" , "@language" : "nb" } ,
+        { "@value" : "brush-colouring" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A process by which a surface such as paper or bookblock edges is coated with a single colour directly applied to its surface with a brush with the intention of depositing a solid colour." , "@language" : "en" } ,
+        { "@value" : "Dekoreringsteknikk der overflaten p\u00E5 et papirark eller bokblokksnitt pensles med en enkelt farge for \u00E5 gi det en farget dekor." , "@language" : "nb" } ] }
+] }

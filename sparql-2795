@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3748>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2362> ;
+	skos:narrower	<http://w3id.org/lob/concept/1408> ,
+		<http://w3id.org/lob/concept/3040> ,
+		<http://w3id.org/lob/concept/3402> ,
+		<http://w3id.org/lob/concept/2953> ;
+	skos:prefLabel	"unsupported sewing (techniques)"@en ,
+		"heftet uten bind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sewing gatherings together without the use of sewing supports, but relying on the thread only which passes from one gathering to the next."@en ,
+		"bokblokkens legg sammenf\u00F8yes uten heftbind kun ved heftetr\u00E5d  "@nb .

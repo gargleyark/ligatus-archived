@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2843>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4436> ;
+	skos:prefLabel	"capped pin-clasps"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Clasps designed to fit over a side pin in which the hole in the clasp is covered by a domed cap, hiding the pin when clasped."@en .

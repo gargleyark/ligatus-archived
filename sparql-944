@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1262",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1678"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2826"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "cornerpieces (decoration)" , "@language" : "en" } ,
+        { "@value" : "hj\u00F8rnedekorasjon" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Decoration in the corners of rectangular frames, created either by a block or built up with impressions created by a number of small tools." , "@language" : "en" } ,
+        { "@value" : "preget dekorasjon i hj\u00F8rner, laget enten med et hj\u00F8rnestempel eller satt sammen av flere mindre stempler " , "@language" : "nb" } ] }
+] }

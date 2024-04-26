@@ -1,0 +1,21 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1658",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3039"} ,
+        { "@id": "http://w3id.org/lob/concept/3765"} ,
+        { "@id": "http://w3id.org/lob/concept/2912"} ,
+        { "@id": "http://w3id.org/lob/concept/1436"} ,
+        { "@id": "http://w3id.org/lob/concept/3586"} ,
+        { "@id": "http://w3id.org/lob/concept/2910"} ,
+        { "@id": "http://w3id.org/lob/concept/3579"} ,
+        { "@id": "http://w3id.org/lob/concept/1456"} ,
+        { "@id": "http://w3id.org/lob/concept/2828"} ,
+        { "@id": "http://w3id.org/lob/concept/1691"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tanned skin" , "@language" : "en" } ,
+        { "@value" : "garvet skinn" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "leather" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "dyrehuder som er behandlet med garvestoffer for \u00E5 bli holdbart og kunne anvendes til  l\u00E6r og skinn " , "@language" : "nb" } ,
+        { "@value" : "An animal skin that has been treated with tanning agents to turn it into leather and which, before the 19th century, will be derived only from vegetable sources such as the bark of oak trees, sumac, etc. Because the term leather has been used historically of both alum-tawed and tanned skins, it is safer, wherever there might be confusion, to used the term tanned skin rather than leather, though properly-speaking, they both have the same meaning." , "@language" : "en" } ] }
+] }

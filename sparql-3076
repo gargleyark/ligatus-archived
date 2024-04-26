@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1490">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb">klisterdekor</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">paste-decorating</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Process of decorating a surface by covering it - usually completely - with paste colours (or coloured starch mixture) and decorate it. The decoration is made through the resulting alteration of the coloured paste with a tool or the hand while still wet. This technique is mainly used to produce paste paper, but can also be found on bookblock edges, using similar decorative patterns.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">dekoreringsteknikk der klister blandes med farge og påføres papir eller direkte på snitt</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

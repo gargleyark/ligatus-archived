@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1462" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "onlays (decorative components)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Small pieces of very thin sheet material that are adhered to the surface of a primary cover for decorated purposes. They will usually therefore be of a different colour than the primary cover but may also be made from a different material (e.g. paper on leather). Their use is most often combined with gold-tooling. They should not be confused with inlays." , "lang" : "en" } ] }
+}

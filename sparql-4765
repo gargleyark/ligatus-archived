@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1594" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2971" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "shell gold" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "skjellgull" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bladgull som er revet til et pulver og blandet med honning eller et annet bindemiddel  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Gold leaf ground into a powder and mixed with honey or other binder, applied to bindings with a brush. It differs from gold leaf in having a somewhat granular appearance when viewed under magnification. It takes its name from the mussel shells in which it was originally packaged." , "lang" : "en" } ] }
+}

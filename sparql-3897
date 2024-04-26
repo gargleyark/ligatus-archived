@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1488" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1585" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "passed-behind sewing supports" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Sewing supports secured by passing the threads across them on the spine, but not encircling them with thread (wound supports). Recessed supports could be sewn this way from the late 16th century and flat tape supports from at least the mid-18th century." , "lang" : "en" } ] }
+}

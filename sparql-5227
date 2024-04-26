@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3693>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3271> ;
+	skos:prefLabel	"stuck-on endband linings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of sheet material (paper, tanned skin, alum-tawed skin, parchment or textile) which are adhered to the head or tail of the spine and which project slightly above the head or tail edges of the bookblock. They can be used straight or folded, and if the latter, may be folded over a core. The projecting edges of either type could be decorated with secondary endband sewing, braided with a thong or painted. Until the mid-eighteenth century, such linings will almost always extend beyond the width of the spine, with a lining extension at each side. From the mid-eighteenth century, small pieces of decorated paper or textile folded over lengths of thin cord were used as stuck-on endbands across Europe (except in Britain where these are not found until the nineteenth century). From the 1820s, small pieces of bookcloth could also be used for this purpose."@en .

@@ -1,0 +1,23 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1619",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2368"} ,
+        { "@id": "http://w3id.org/lob/concept/3305"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1468"} ,
+        { "@id": "http://w3id.org/lob/concept/4726"} ,
+        { "@id": "http://w3id.org/lob/concept/4728"} ,
+        { "@id": "http://w3id.org/lob/concept/1680"} ,
+        { "@id": "http://w3id.org/lob/concept/4731"} ,
+        { "@id": "http://w3id.org/lob/concept/1461"} ,
+        { "@id": "http://w3id.org/lob/concept/4737"} ,
+        { "@id": "http://w3id.org/lob/concept/1479"} ,
+        { "@id": "http://w3id.org/lob/concept/1431"} ,
+        { "@id": "http://w3id.org/lob/concept/1255"} ,
+        { "@id": "http://w3id.org/lob/concept/1259"} ,
+        { "@id": "http://w3id.org/lob/concept/1494"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "ryggf\u00F4ring" , "@language" : "nb" } ,
+        { "@value" : "spine linings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "forsterkning i bokryggen som gj\u00F8r at boka holder formen lenger  " , "@language" : "nb" } ,
+        { "@value" : "Pieces of sheet material placed on the spine, and either adhered to it or held in place without adhesive on the spine either by attachment to the boards or the endbands. Adhesive linings were used to reinforce and preserve the shape of the spine and also to control flexibility and thus the opening characteristics of the bookblock. They were made in a variety of different types and combinations of types, and may be placed within the width of the spine or overlap it and be used to reinforce cover attachment and board attachment. Linings can be made from single pieces of sheet material (continuous, overall, and slotted), matched pairs (comb) or multiple pieces, not always of the same type (transverse, panel and patch), attached to different parts of the spine. Each individual piece may therefore need to be described separately. Linings may also be found in multiple layers of the same or different materials. Adhered spine linings were used on Carolingian bindings (Szirmai 1999,p.126-7) and were in regular use by the fifteenth century (ibid., p.194-5), and became increasingly common after the introduction of printed books. For some reason they were less commonly used in Britain than in continental European countries, and tend to be found in Britain on larger and thicker books only until the late eighteenth century, when their use becomes more widespread. By contrast, they were required by the bookbinders&#039; guild regulations in France from the seventeenth century. Lining types can be used to indicate provenance, as some of them are particularly associated with individual countries." , "@language" : "en" } ] }
+] }

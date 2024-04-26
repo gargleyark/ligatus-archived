@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1511" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1226" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "polished edges" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "polerte snitt" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "besk\u00E5rne snitt polert med glitteverkt\u00F8y og/eller voks " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Cut edges, whether decorated or not, were almost always polished with a burnisher. In some cases wax may have been used, while de Bray recommends wiping a burnisher made from a horse&#039;s tooth in your beard in order to get a good shine." , "lang" : "en" } ] }
+}

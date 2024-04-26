@@ -1,0 +1,16 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1265",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2354"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4258"} ,
+        { "@id": "http://w3id.org/lob/concept/1424"} ,
+        { "@id": "http://w3id.org/lob/concept/4358"} ,
+        { "@id": "http://w3id.org/lob/concept/1472"} ,
+        { "@id": "http://w3id.org/lob/concept/1441"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "cover extensions" , "@language" : "en" } ,
+        { "@value" : "utskutte formeringer" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "yapp edges" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Cover extensions are formed by cutting, if there is no turn-in, or folding, if there is a turn-in, an edge of the cover material at some distance beyond the edge of the board or, if there is no board, beyond the edge of the bookblock, thus creating an overlapping edge which was then creased and folded over the edge of the board or bookblock to protect the edge of the bookblock. The edges of a cover which extend beyond the size of the bookblock but which are not creased along the edges of the bookblock should not be described as cover extensions. They simply have more or less wide squares. Cover extensions have for many years been known as yapp edges, getting their name from the nineteenth-century London bible binder, William Yapp, who created limp bindings with drawn-on leather covers which overlapped the edge of the bookblock at head-, tail- and fore-edge (circuit cover extensions). He was undoubtedly not the first binder to do this (the technique was known from the middle-ages), and although his name is firmly attached to this type of edge treatment, it is anachronistic to use it of bindings made before the nineteenth century, and has little meaning in languages other than English. Cover extensions can also be found on the fore-edge of one side of the cover only. Such single cover extensions are typically found where there is an envelope flap extending from the other side of the cover." , "@language" : "en" } ,
+        { "@value" : "forlengning av  overtrekksmateriale/perm slik at det stikker utover bokblokkens/ permens kant, og b\u00F8yes slik at formeringene beskytter bokblokkens snitt " , "@language" : "nb" } ] }
+] }

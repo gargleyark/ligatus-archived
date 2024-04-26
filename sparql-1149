@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2869>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:prefLabel	"cut leather (decoration)"@en ,
+		"l\u00E6rsnitt"@nb ,
+		"cuir cisel\u00E9"@fr ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The result of cut-leather work."@en ,
+		"Resultatet av en fremgangsm\u00E5te der deler av skinnet skj\u00E6res bort for \u00E5 skape en dekorativ effekt.  L\u00E6rsnitt var s\u00E6rlig brukt p\u00E5 1400-tallet i det syd\u00F8stre Tyskland og Spania. "@nb .

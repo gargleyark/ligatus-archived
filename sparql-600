@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3311",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2277"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4490"} ,
+        { "@id": "http://w3id.org/lob/concept/2840"} ,
+        { "@id": "http://w3id.org/lob/concept/2877"} ,
+        { "@id": "http://w3id.org/lob/concept/3035"} ,
+        { "@id": "http://w3id.org/lob/concept/4465"} ,
+        { "@id": "http://w3id.org/lob/concept/4466"} ,
+        { "@id": "http://w3id.org/lob/concept/4468"} ,
+        { "@id": "http://w3id.org/lob/concept/3038"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bindsupplement" , "@language" : "nb" } ,
+        { "@value" : "enclosures" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Protective containers made to fit individual books or sets of books." , "@language" : "en" } ,
+        { "@value" : "spesialtilpasset stivt hylster laget for oppbevaring av en enkelt bok eller et sett av b\u00F8ker " , "@language" : "nb" } ] }
+] }

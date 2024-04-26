@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3699" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2482" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1559" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1531" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "wooden board (materials)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "trepermer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "permer av tre som er gjort av ett stykke med tykkelse p\u00E5 4 - 20mm" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Plank-like wooden boards ranging in thickness from approximately 4 to 20 mm (and occasionally thicker), as opposed to sca&#039;boards which will be found in the range 1 to 3 mm. Thick wooden boards will often be shaped around the edges or across the outer surface and will usually have holes or tunnels drilled in them for the slips of sewing supports and/or endband cores. In the absence of a pre-existing term for these boards, we are describing them simply as wooden boards, and using the term sca&#039;boards to identify the much thinner split boards." , "lang" : "en" } ] }
+}

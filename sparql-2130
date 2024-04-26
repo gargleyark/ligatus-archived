@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2892">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3273" />
+    <skos:prefLabel xml:lang="nb">låsering</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">fastening rings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">metallbeslag  som er festet i forkanten av begge permene med ringer festet i endene til å tre et skriveredskap (stylo) igjennom for å lukke bindet </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Metal fittings attached to the fore-edges of both boards of a binding with rings at their ends which allow a stylus to be passed through them from head to tail, thus holding the book shut.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

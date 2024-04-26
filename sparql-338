@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1226">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3235" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1273" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1700" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4480" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3840" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1511" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4087" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4741" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4712" />
+    <skos:prefLabel xml:lang="en">bookblock edges</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bokblokkens kanter</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The surface of the three outer edges of the bookblock (and not the spine), created when the leaves or gatherings are collected, folded and assembled, usually after sewing, stitching or adhering. An edge may be uncut, rough trimmed or cut, and if cut, may then be decorated.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">kantene oppstår når når bladene eller leggene stables eller sammenføyes til en bokblokk</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

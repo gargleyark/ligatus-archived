@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1473>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1694> ;
+	skos:prefLabel	"overlapping head and tail turn-ins"@en ,
+		"overlappende innslag ved hode og fot "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The turn-ins at the head and tail overlap each other on the inside of the cover. This technique, which uses approximately twice as parchment to create a cover, is therefore often found on the more expensive laced-case limp bindings."@en ,
+		"Innslagene i hode og fot overlapper hverandre p\u00E5 innsiden av permen."@nb ,
+		"The turn-ins at the head and tail overlap each other on the inside of the cover.  This technique, which uses approximately twice as parchment to create a cover, is therefore often found on the more expensive laced-case limp bindings."@en .

@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2912",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1658"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "guadameci" , "@language" : "es" } ,
+        { "@value" : "gilt leather" , "@language" : "en" } ,
+        { "@value" : "gyldenl\u00E6r" , "@language" : "nb" } ,
+        { "@value" : "cuir de Cordoue" , "@language" : "fr" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "Spanish leather" , "@language" : "en" } ,
+        { "@value" : "gilded leather" , "@language" : "en" } ,
+        { "@value" : "cordovan" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "skinn dekorert med preget m\u00F8nster p\u00E5f\u00F8rt bladgull, blads\u00F8lv og farge " , "@language" : "nb" } ,
+        { "@value" : "Leather decorated with gold leaf and also usually silver leaf and colouring, and frequently embossed. Used primarily as a covering for walls and furniture, it is occasionally found on books." , "@language" : "en" } ] }
+] }

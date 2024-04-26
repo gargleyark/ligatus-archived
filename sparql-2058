@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1472">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1265" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1352" />
+    <skos:prefLabel xml:lang="en">overlapping cover extensions</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">fliker</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">forlengelse av overtrekksmateriale i form av snipper som møtes over permene, men som ikke dekker bokblokkens kanter helt  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Cover extensions which overlap each other across the edges of a bookblock, but neither of which extends across the full width of the edge (see full-width cover extensions)</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

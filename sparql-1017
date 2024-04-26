@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1281>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:prefLabel	"cutting presses"@en ;
+	skos:altLabel	"lying presses"@en ,
+		"laying presses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A small, portable press, usually made of wood, with two screws which are used to tighten or release the two wooden cheeks between which a book or books are held with one edge exposed. The screws either rotate or are fixed with wooden nuts. A track formed by two strips of wood is attached to one surface of one of the cheeks in which the plough runs for cutting edges. It is not known when the cutting press was introduced into bookbinding, but it was first depicted by Jost Amman in 1568."@en .

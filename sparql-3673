@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1451" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1694" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "nailed turn-ins" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "stiftede innslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "innslagene p\u00E5 overtrekket er stiftet fast i permen" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The turn-in is held in place with nails. Nails were mostly used to reinforce an adhesive attachment, especially if the turn-ins were narrow and the covering material a little thick or stiff, and therefore difficult to hold in place as the adhesive was drying." , "lang" : "en" } ] }
+}

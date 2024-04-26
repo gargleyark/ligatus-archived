@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1344">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2283" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3899" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3901" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2362" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4549" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3501" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2366" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1204" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4047" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1486" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1708" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1207" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3477" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4708" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1561" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3754" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4067" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3851" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4589" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4930" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1301" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4085" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2295" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2299" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3750" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4069" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4835" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3631" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1648" />
+    <skos:prefLabel xml:lang="nb">ferdiggjøring</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">forwarding techniques</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">prosesser som er involvert i oppbyggingen av bindet inntil den er klar for dekorering </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The processes or steps involved in binding a book up to the point at which it is ready to be decorated. This will normally be thought to include sewing and covering, though some definitions of forwarding exclude either one or the other or both. For the purposes of this manual, it is taken to include sewing and covering.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

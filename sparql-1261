@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4225>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1255> ;
+	skos:prefLabel	"comb-guards with folded stub"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A comb lining in which the lining is folded into a stub between the outermost and the next gathering at the joint, thus allowing the outermost gatherings to be sewn through the lining. It thus serves equally the functions both of a spine lining and an external sewing guard, but is classified here as a spine lining because of its similarity to a tabbed comb guard."@en .

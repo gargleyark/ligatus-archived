@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1576" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1653" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "separate stubs" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The single stubs created by folding pieces of sheet material along one edge. Separate stubs will be created by hook or outside-hook endleaves made from two or more separate pieces of sheet material, as opposed to the folded stub created by a single sheet folded twice to create the hook or stub, but will also be found where single leaves are folded along their spine edges to be incorporated into gatherings in bookblocks." , "lang" : "en" } ] }
+}

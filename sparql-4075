@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2988>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2885> ;
+	skos:prefLabel	"plaited string markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Compound endband string markers in which the secondary marker is composed of various threads which are laced through a ring (the primary marker) and after that plaited as top form a decorative plaited string, often multi-coloured."@en .

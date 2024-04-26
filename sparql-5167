@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3500>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1606> ;
+	skos:prefLabel	"sewn slips"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Slips attached to paper boards by threads sewn through both. This technique was used as early as the mid-fifteenth century in Italy, where it remained in use until the first quarter of the sixteenth century. Sewn slips have also been recorded in a Cambridge binding by the Unicorn binder of the 1490s with laminated boards of tanned calfskin and alum-tawed hairsheep."@en .

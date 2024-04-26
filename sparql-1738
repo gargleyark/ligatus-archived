@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1343">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2354" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4252" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4254" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4256" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4388" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4390" />
+    <skos:prefLabel xml:lang="en">envelope flaps (features)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">fore-edge flaps</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">An extension of the cover of a book which folds across the fore-edge of the bookblock and over the opposite side of the cover (except on Islamic bindings where the envelope flap was traditionally placed under the opposite cover). The leading edge of such flaps was often given a triangular profile, thus resembling the traditional shape of the flap of an envelope. Fore-edge flaps may extend from either the left or right side of the cover and may or may not be secured with a fastening. The fore-edge flap may be an extension of the covering material or a separate piece or pieces which makes it part of a pieced cover.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

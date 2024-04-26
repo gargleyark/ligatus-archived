@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1196",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2362"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rett, l\u00F8pende hefting" , "@language" : "nb" } ,
+        { "@value" : "all-along sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Heftemetode der heftetr\u00E5den f\u00F8res inn og rundt hvert av heftbindene i hvert legg, slik at heftetr\u00E5den er synlig hele veien i midten av hvert legg." , "@language" : "nb" } ,
+        { "@value" : "The sewing thread uses all the sewing stations along the spine-fold of a gathering, either to secure the gathering to sewing supports, create an unsupported or a change-over station, leaving a length of thread in the inner fold of the central bifolium in the spaces between each of the sewing stations, and does not leave any gaps between the lengths of thread. The only exception is where books are sewn on flat tape supports at two-hole stations and the thread passes across the back of the supports and not round them. Where this happens, there will be a gap in the thread in the inner fold behind each support, but the gathering is still sewn all-along." , "@language" : "en" } ] }
+] }

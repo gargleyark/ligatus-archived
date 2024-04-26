@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2888" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "gravyr" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "engraving (metalwork)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "In metalwork, a technique for creating incised linear decoration by use of engraving tools, such as burins." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "fremstilling av trykk basert p\u00E5 dyptrykksteknikk " , "lang" : "nb" } ] }
+}

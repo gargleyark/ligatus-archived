@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1662" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1393" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "omhengt forsats" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "text-hook endleaves" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Forsats som heftes med f\u00F8rste og siste legg i boken og hvor forsatsen er b\u00F8yd rundt ryggen p\u00E5 legget som skal heftes." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A leaf that is hooked (i.e. folded with a stub) around the adjacent text gathering, either alone, in multiples or in combination with other components, such as text guards." , "lang" : "en" } ] }
+}

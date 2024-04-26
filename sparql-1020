@@ -1,0 +1,23 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1481",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2450"} ,
+        { "@id": "http://w3id.org/lob/concept/2484"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1285"} ,
+        { "@id": "http://w3id.org/lob/concept/1241"} ,
+        { "@id": "http://w3id.org/lob/concept/2462"} ,
+        { "@id": "http://w3id.org/lob/concept/2464"} ,
+        { "@id": "http://w3id.org/lob/concept/2466"} ,
+        { "@id": "http://w3id.org/lob/concept/2460"} ,
+        { "@id": "http://w3id.org/lob/concept/1419"} ,
+        { "@id": "http://w3id.org/lob/concept/4614"} ,
+        { "@id": "http://w3id.org/lob/concept/3845"} ,
+        { "@id": "http://w3id.org/lob/concept/3181"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "\u0A15\u0A3E\u0A17\u0A26" , "@language" : "pa-guru" } ,
+        { "@value" : "paper" , "@language" : "en" } ,
+        { "@value" : "papir" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Refers generally to all types of thin matted or felted sheets or webs of fiber formed on a fine screen from a pulpy water suspension and dried." , "@language" : "en" } ,
+        { "@value" : "generell beskrivelse av alle slags materialer som er formet til tynne matter, filter eller fiber som er formet p\u00E5 en fin duk av en vandig l\u00F8sning og deretter t\u00F8rket " , "@language" : "nb" } ,
+        { "@value" : "\u0A2C\u0A28\u0A38\u0A2A\u0A24\u0A40 \u0A26\u0A47 \u0A30\u0A47\u0A36\u0A47 \u0A2F\u0A3E \u0A24\u0A70\u0A26 \u0A28\u0A42\u0A70 \u0A15\u0A41\u0A71\u0A1F \u0A15\u0A47, \u0A2A\u0A3E\u0A23\u0A40 \u0A35\u0A3F\u0A1A \u0A30\u0A32\u0A3E \u0A15\u0A47 \u0A05\u0A24\u0A47 \u0A1B\u0A3E\u0A2A\u0A30\u0A40/\u0A1B\u0A3E\u0A28\u0A23\u0A40 \u0A26\u0A47 \u0A28\u0A3E\u0A32 \u0A15\u0A22 \u0A15\u0A47 \u0A2C\u0A23\u0A40 \u0A35\u0A38\u0A24\u0A42\u0964" , "@language" : "pa-guru" } ] }
+] }

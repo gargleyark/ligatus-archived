@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3717" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1694" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "pared turn-ins" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "skjerfede innslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The edge of the turn-ins of the covering material is pared from one or other surface, often to a feathered edge." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tykkelsen p\u00E5 innslagenes kanter reduseres med en skarp \u00E9negget kniv    " , "lang" : "nb" } ] }
+}

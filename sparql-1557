@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3627>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2346> ;
+	skos:prefLabel	"dovetail channels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Channels, or recesses, cut across two or more planks with angled sides, wider at the bottom, into which a dovetail batten can be slid. Tapering dovetail channels cut at right angles into the external surfaces of the spine edges of wooden boards were also used in conjunction with horizontal wooden plugs for attaching wooden boards in Bavaria from the late fifteenth to the early sixteenth centuries."@en .

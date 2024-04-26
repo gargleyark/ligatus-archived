@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3709>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2540> ;
+	skos:prefLabel	"vevde kapit\u00E9lb\u00E5nd"@nb ,
+		"woven stuck-on endbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Woven stuck-on endbands consist of a length of decorative woven textile adhered to the head and tail of the spine of a bookblock. Woven endbands first become common in German Europe in the first quarter of the eighteenth century, though there is clearly an earlier history. The sources of the textile used for this purpose are at present somewhat obscure, but from their earliest recorded use (1569), lengths of what appear to be woven ribbon, perhaps made as trimmings for clothing or furniture gimp, were used for this purpose. The selvage edges of bolts of cloth have also been identified, as well as very loosely woven ribbons of the sort that can be made on small hand looms, perhaps by individual binders. Woven endbands which imitate worked endbands appear in the mid-eighteenth century."@en ,
+		"vevde lengder av dekorerte kapit\u00E9lb\u00E5nd som kan kuttes til passende lengder til \u00E5 klebe p\u00E5 bokblokkens rygg ved hode og fot "@nb .

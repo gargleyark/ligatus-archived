@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/1449" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3744" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1698" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4023" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4025" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4027" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4017" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4019" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4021" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "multi-section sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "In multi-section sewing, a single length of thread extending between the change-over stations at the head and tail of the gatherings is used to attach two or more gatherings to the sewing supports. According to the number of gatherings attached with each single thread, these are known as two-on sewing, three-on sewing, etc." , "lang" : "en" } ] }
+}

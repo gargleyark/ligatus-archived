@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/1226" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3235" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1273" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1700" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4480" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3840" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1511" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4087" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4741" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4712" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bookblock edges" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bokblokkens kanter" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The surface of the three outer edges of the bookblock (and not the spine), created when the leaves or gatherings are collected, folded and assembled, usually after sewing, stitching or adhering. An edge may be uncut, rough trimmed or cut, and if cut, may then be decorated." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kantene oppst\u00E5r n\u00E5r n\u00E5r bladene eller leggene stables eller sammenf\u00F8yes til en bokblokk" , "lang" : "nb" } ] }
+}

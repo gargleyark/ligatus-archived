@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4344>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4184> ;
+	skos:prefLabel	"lateral titles"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Titles which are written, tooled or printed across the edges or spine. The earliest known examples of lateral spine titles were tooled in Paris in the 1540&#039;s but they do not become a commonplace until the 17th century when more and more books were stored vertically with their spines outwards. Lateral titles in manuscripts on the edges of bookblocks can be found at almost any date according to how the books were stored."@en .

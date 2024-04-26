@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1369>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1368> ;
+	skos:narrower	<http://w3id.org/lob/concept/1691> ,
+		<http://w3id.org/lob/concept/1436> ,
+		<http://w3id.org/lob/concept/4535> ;
+	skos:prefLabel	"geiteskinn"@nb ,
+		"goatskin"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"skinn av geit som er tilberedt enten ved garving, alungarving eller til pergament "@nb ,
+		"The skin of the goat which may be either tanned, tawed or turned into parchment."@en .

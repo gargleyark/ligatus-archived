@@ -1,0 +1,15 @@
+{
+  "http://w3id.org/lob/concept/1400" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3411" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4330" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4438" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3050" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "flettede lisser" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "interlaced straps " , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "braided straps" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "slit-braid straps" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "plaited straps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "flettete lisser av skinn eller tekstil som er tredd gjennom hull i permene og som knytes for \u00E5 holde boken lukket" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Clasp straps formed by a length of leather which is laced through a metal ring-type clasp, leaving an equal length on either side of the clasp. The two halves of the strap are then laced through each other through pre-punched holes, creating a strap with a marked chevron-pattern. Such straps are most often found divided into three separately interlaced elements (triple interlaced straps), but double and single straps will also be found. Such straps are typical of Greek-style bindings and have often been described as plaited, though the technique used is actually not a form of plaiting." , "lang" : "en" } ] }
+}

@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2971>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3165> ;
+	skos:narrower	<http://w3id.org/lob/concept/4502> ,
+		<http://w3id.org/lob/concept/3017> ,
+		<http://w3id.org/lob/concept/1594> ;
+	skos:prefLabel	"metallic paint"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paint made with powdered metal in a suspension in a medium which can then be painted onto a surface."@en .

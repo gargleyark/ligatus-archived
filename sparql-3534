@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2446",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3167"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "perlemor, dekor" , "@language" : "nb" } ,
+        { "@value" : "nacre" , "@language" : "fr" } ,
+        { "@value" : "mother of pearl" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "nacre" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "den indre, glinsende side av perlemuslingens skall  " , "@language" : "nb" } ,
+        { "@value" : "Hard, pearly, iridescent internal layer of various kinds of mollusk shell, extensively used for making small articles and inlays." , "@language" : "en" } ] }
+] }

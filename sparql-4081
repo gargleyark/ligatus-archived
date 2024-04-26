@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2990" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1353" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "plates (furniture)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Sheets of metal other than corner pieces, combined corners or bosses which may cover a large area of or, indeed, whole boards and where they reach the head-, tail- or fore-edges of the boards will be folded over the edges of the boards as well. Where they fit within the limits of the boards, they may be of any shape (square, rectangular, circular, oval, etc., or other, irregular shapes). Such plates will usually have a decorative purpose, and were often used to confer status to liturgical works. In this context they are usually included in the category of treasure bindings. Frequently made of silver or silver gilt, they could be elaborately decorated with engraving, punching, embossing, enamel, repouss\u00E9, etc. Smaller metal plates in the form of votive offerings are also sometimes found nailed to the boards of books, particularly on Armenian bindings." , "lang" : "en" } ] }
+}

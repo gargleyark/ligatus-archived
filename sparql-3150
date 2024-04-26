@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4896",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3988"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "Kiebitzpapier" , "@language" : "de" } ,
+        { "@value" : "Kiebitzpapir" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "plover marbled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Monochrome, mostly brown coloured paper with many fine, mostly black, sprinkles." , "@language" : "en" } ,
+        { "@value" : "brunfarget  papir dekorert med mange sm\u00E5 m\u00F8rke prikker " , "@language" : "nb" } ] }
+] }

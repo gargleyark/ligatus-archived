@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2494",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1268"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "overtrekk med innslag" , "@language" : "nb" } ,
+        { "@value" : "turned-in covers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A cover in which the covering material is wrapped around an inboard binding and turned-in at head, tail and fore-edge. This is the type of cover that will be found on the great majority of books bound in boards (inboard bindings)." , "@language" : "en" } ,
+        { "@value" : "overtrekksmateriale sl\u00E5tt inn rundt permenes kanter og ved ryggens hode og fot etter at permene er montert p\u00E5 bokblokken " , "@language" : "nb" } ] }
+] }

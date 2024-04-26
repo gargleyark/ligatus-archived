@@ -1,0 +1,13 @@
+{
+  "http://w3id.org/lob/concept/4739" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2450" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3167" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4506" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4508" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4510" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "h\u00E5r" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "hair" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Material comprising the cylindrical filaments that grow from follicles embedded in the skin of mammals. Hair is a column of overlapping, fused cells that are composed of the protein keratin; hair is composed of three parts: the innermost column is the medula, the surrounding live cells (the cortex) contain pigment, and the outermost dead transparent cells are the cuticular scales. The portion of the hair outside of the skin is called the shaft. Fine, closely spaced hair that covers most of an animal&#039;s body is called fur. Dense, soft, curled hair is called wool. Coarse, stiff hairs are called bristles, spines, or quills. Horsehair and cattle hair have been used for brushes, plaster binders, haircloth, and upholstery stuffing. Rabbit hair, often called rabbit fur, has been used to make felt hats. " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "h\u00E5r, tr\u00E5dformede strukturer som best\u00E5r av en spesiell form for keratin som dannes ved celledeling, og forhorning av cellene i nedre del av h\u00E5rsekken (h\u00E5rfollikkelen)" , "lang" : "nb" } ] }
+}

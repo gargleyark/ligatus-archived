@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1704",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1537"} ,
+        { "@id": "http://w3id.org/lob/concept/2350"} ,
+        { "@id": "http://w3id.org/lob/concept/3235"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "v-shaped recesses" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "v-nicks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Recesses cut across the spine of a book with two angled knife-cut to remove a small v-shaped section of the spine folds." , "@language" : "en" } ] }
+] }

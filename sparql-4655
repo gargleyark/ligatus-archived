@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4913>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2837> ;
+	skos:prefLabel	"rotating column indicators"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Column indicators made in the form of rotating disks within a fold of parchment with the numbers of the columns present in any opening written on the disks. The indicators are attached to cord markers that can be placed anywhere in the book, and the rotating column indicators can be slid up and down the cord so that the line can be indicated by the position of the indicator."@en .

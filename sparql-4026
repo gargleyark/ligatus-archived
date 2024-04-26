@@ -1,0 +1,23 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1678",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1676"} ,
+        { "@id": "http://w3id.org/lob/concept/1677"} ,
+        { "@id": "http://w3id.org/lob/concept/1679"} ,
+        { "@id": "http://w3id.org/lob/concept/1262"} ,
+        { "@id": "http://w3id.org/lob/concept/4113"} ,
+        { "@id": "http://w3id.org/lob/concept/4115"} ,
+        { "@id": "http://w3id.org/lob/concept/1675"} ,
+        { "@id": "http://w3id.org/lob/concept/2308"} ,
+        { "@id": "http://w3id.org/lob/concept/2319"} ,
+        { "@id": "http://w3id.org/lob/concept/1248"} ,
+        { "@id": "http://w3id.org/lob/concept/1371"} ,
+        { "@id": "http://w3id.org/lob/concept/3393"} ,
+        { "@id": "http://w3id.org/lob/concept/2288"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pregetrykt dekor" , "@language" : "nb" } ,
+        { "@value" : "tooled decoration" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "dekor utf\u00F8rt ved preging med m\u00F8nstrede pregeverkt\u00F8y enten blindt eller med metallfolier " , "@language" : "nb" } ,
+        { "@value" : "Decoration created by impressions made by finishing tools. This may be done either blind or with metal foils." , "@language" : "en" } ] }
+] }

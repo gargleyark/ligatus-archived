@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2374>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2354> ;
+	skos:narrower	<http://w3id.org/lob/concept/1527> ,
+		<http://w3id.org/lob/concept/1542> ,
+		<http://w3id.org/lob/concept/3060> ,
+		<http://w3id.org/lob/concept/1650> ,
+		<http://w3id.org/lob/concept/3145> ;
+	skos:prefLabel	"coiffe"@fr ,
+		"caps"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A feature of the covering material at the head and tail of the spine. Caps could be formed in many different ways often to protect an endband."@en .

@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3300",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4165"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3061"} ,
+        { "@id": "http://w3id.org/lob/concept/4103"} ,
+        { "@id": "http://w3id.org/lob/concept/1413"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "heftbind tredd gjennom perm" , "@language" : "nb" } ,
+        { "@value" : "lace-attached case bindings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "teknikk for \u00E5 f\u00F8ye sammen l\u00F8sbind og bokblokk ved at heftbind og evt. endene p\u00E5 kapit\u00E9lb\u00E5nd tres gjennom hull i l\u00F8sbindet " , "@language" : "nb" } ,
+        { "@value" : "Bindings in which a case-type cover is attached to a sewn bookblock by lacing through it either sewing-support and/or endband slips or secondary tackets. These are usually clearly visible on the outside of the case-cover, though where the attachment has broken down and the slips are broken and lost, it may only be the holes left in the cover that will give evidence of the original attachment." , "@language" : "en" } ] }
+] }

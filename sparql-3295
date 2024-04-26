@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2950>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3154> ;
+	skos:prefLabel	"lettering pieces"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Any label of any material on which lettering or numbers has been written, tooled or printed and may be found on any part of the book."@en .

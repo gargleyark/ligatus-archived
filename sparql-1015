@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1281" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cutting presses" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "lying presses" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "laying presses" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A small, portable press, usually made of wood, with two screws which are used to tighten or release the two wooden cheeks between which a book or books are held with one edge exposed. The screws either rotate or are fixed with wooden nuts. A track formed by two strips of wood is attached to one surface of one of the cheeks in which the plough runs for cutting edges. It is not known when the cutting press was introduced into bookbinding, but it was first depicted by Jost Amman in 1568." , "lang" : "en" } ] }
+}

@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3329>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1309> ;
+	skos:narrower	<http://w3id.org/lob/concept/3327> ,
+		<http://w3id.org/lob/concept/3331> ,
+		<http://w3id.org/lob/concept/3481> ,
+		<http://w3id.org/lob/concept/3483> ,
+		<http://w3id.org/lob/concept/3663> ;
+	skos:prefLabel	"subsidiary cores"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Thin lengths of cord, rolled paper, twisted gut or other material which are laid along the main core and which are always smaller in diameter than the main core. Up until the end of the sixteenth century, they were normally attached by means of secondary endband sewing, but in western European binding from the early seventeenth century ownwards were almost always incorporated into decorative, non-functional, primary sewing. In this form they survive to the end of the eighteenth century and beyond. They were a common feature of many European and Middle-eastern bindings from the Middle Ages through to the nineteenth century and beyond. Single crowning cores running along the top of the main core are the most commonly found and became more widespread in the sixteenth century, and offer an indication of higher quality in a binding. Multiple cores were also used in the middle ages and are often found with secondary sewing which holds the covering skin to primary-sewn endbands. Subsidiary cores can also be found running along the front of endbands in the position more usually occupied by the front bead (bead core)."@en .

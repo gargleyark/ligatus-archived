@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1193",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2350"} ,
+        { "@id": "http://w3id.org/lob/concept/3235"} ,
+        { "@id": "http://w3id.org/lob/concept/1537"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "adhesive recesses" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Recesses cut across the spine folds of a bookblock in order to allow adhesive to reach the centre fold of each gathering. This technique was used in both adhesive structures (with or without an adhesive support) or in sewn structures where adhesive recesses were sometimes used in addition to sewn stations to reinforce a weak structure. They will generally be found between the sewing stations." , "@language" : "en" } ] }
+] }

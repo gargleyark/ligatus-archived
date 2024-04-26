@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1376">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1593" />
+    <skos:prefLabel xml:lang="en">grain splits (skins)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">narvspalt</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Fåreskinn spaltet på langs i to lag. Narvspalt, den ytterste delen av huden ble ofte til et tynt og relativt billig skinn bl.a. brukt på bokbind. Prosessen fører til at fibrene skjæres av og skinnet blir dårlig og like lett å rive i stykker.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The outer split of a sheepskin which has been split into two layers. The hair split was most often turned into a thin and relatively inexpensive leather, known in the 18th century as &amp;#039;grains&amp;#039; (see flesh splits).</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2880",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3154"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2919"} ,
+        { "@id": "http://w3id.org/lob/concept/3065"} ,
+        { "@id": "http://w3id.org/lob/concept/2900"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "edge labels" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Labels made usually of paper or parchment which are adhered to the inside of either the left or right cover of a binding, or tipped to the fore-edge of a leaf towards the centre of a bookblock. Printed edge labels may be assumed to be the work of the booktrade, but manuscript labels would appear to have been the work of the owners of the books rather than the booktrade. As a result that they can be found in a wide range of styles of writing and quality. The title may be lateral or longitudinal depending on how they are oriented on the label. Printed edge labels can be found occasionally at the head-edge of almanacs kept in top-loading slip cases in the early 19th century." , "@language" : "en" } ] }
+] }

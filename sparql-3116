@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3053">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3018" />
+    <skos:prefLabel xml:lang="en">studded shoes</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">kantsko med stift</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">kantsko utstyrt med kantstift </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Metal shoes which have studs attached to them.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

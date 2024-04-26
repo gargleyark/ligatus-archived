@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3433>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3431> ;
+	skos:narrower	<http://w3id.org/lob/concept/3446> ;
+	skos:prefLabel	"annotations"@en ,
+		"annotasjon"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Notes added as comment or explanation, such as those accompanying an entry in a bibliography, reading list, or catalogue intended to describe, explain, or evaluate the publication referred to."@en ,
+		"h\u00E5ndskrevet kommentar eller forklaring til teksten "@nb .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1659>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1585> ;
+	skos:prefLabel	"flat sewing supports"@en ,
+		"flate heftb\u00E5nd"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sewing supports made of flat strips of material, such as parchment or textile, which will in most cases not create raised bands on the spine of a book. On very rare occasions, flat parchment supports may be split to create flat double supports."@en ,
+		"flate b\u00E5nd av pergament eller vevd tekstil brukt som heftb\u00E5nd"@nb .

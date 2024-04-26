@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3367>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/3001> ,
+		<http://w3id.org/lob/concept/3075> ,
+		<http://w3id.org/lob/concept/3076> ;
+	skos:prefLabel	"lukkemekanismens egenskaper"@nb ,
+		"fastenings (features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fastenings which are integral to a component (e.g. a tongue formed out of a cover)."@en ,
+		"karakteristiske egenskaper ved l\u00E5semekanismen og dens deler "@nb .

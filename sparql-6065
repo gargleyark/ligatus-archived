@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3097" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "wrapping bands" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Broad bands of leather attached to one or more edges of a board which made more complex and much wider variants of the single tie. They are found on some early Coptic bindings and their outer ends could be fitted with bone pins that were tucked under the wrapping bands to secure them after they were wrapped around bindings." , "lang" : "en" } ] }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2277">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4207" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3311" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4806" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1186" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4073" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4876" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4879" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4886" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4199" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4202" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4203" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4205" />
+    <skos:prefLabel xml:lang="en">objects</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">This hierarchy provides values for the CIDOC-CRM E22 Man-Made Object:
+
+This class comprises physical objects purposely created by human activity.
+No assumptions are made as to the extent of modification required to justify regarding an object as man-made. For example, an inscribed piece of rock or a preserved butterfly are both regarded as instances of E22 Man-Made Object.</skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

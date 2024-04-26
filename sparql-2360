@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1355">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb">siselering</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">gauffering</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">teknikk som består i å behandle en metalloverflate for å få fram dekorative mønster ved bruk av meisel og punsel </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Decorating the edges of a bookblock by impressing engraved tools into them to create patterns and designs. The edges were usually first decorated with metal leaf, but gauffering on undecorated edges was not uncommon, particularly in Italy in the 16th and 17th centuries. It is also possible to find gold tooling using the techniques for decorating the covers of books on coloured bookblock edges, but it is less confusing to describe this as gauffering rather than tooling, as the distinction between the two is very hard to define.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

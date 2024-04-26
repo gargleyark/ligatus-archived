@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4113" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1678" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "date fields" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The horizontal rectangular panel found below the central panel of many German bindings in which the date of ownership was often tooled. This date may not necessarily be the date of the binding but the date of acquisition by the owner whose initials are found in the initial field." , "lang" : "en" } ] }
+}

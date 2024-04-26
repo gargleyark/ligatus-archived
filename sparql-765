@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4633>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3545> ;
+	skos:prefLabel	"penseldekorert papir"@nb ,
+		"brush-patterned paste paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper in which the paste layer has been worked on the surface entirely with one or more brushes in order to produce patterns that are more elaborate than the simple parallel strokes produced by the initial brush-application of the paste."@en ,
+		"Penslet klisterpapir, der det fargede klistersjiktet blir bearbeidet med en eller flere pensler og m\u00F8nsteret som dannes blir mer utarbeidet."@nb .

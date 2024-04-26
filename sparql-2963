@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3533>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ;
+	skos:prefLabel	"intarsiabind"@nb ,
+		"inlays (decorative components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Small shaped pieces of material, usually of coloured tanned skin of the same thickness as the primary covering material and placed in identically-shaped cut-out areas in the primary cover, in a technique similar to marquetry. Inlays were more difficult to carry out than onlays and presumably therefore more expensive, but were very neat and elegant when well executed. With age, inlays of tanned skin can shrink back from the primary covering material, leaving gaps around their edges and revealing how they were made. This cannot happen with onlays, though they often lift from the surface of the primary cover in damp storage."@en ,
+		"skinnstykker i forskjellige former og farger som felles ned i bindmaterialet og danner figurer eller m\u00F8nstre for \u00E5 dekorere spesielt fine bokbind "@nb .

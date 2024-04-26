@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3693" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3271" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stuck-on endband linings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Pieces of sheet material (paper, tanned skin, alum-tawed skin, parchment or textile) which are adhered to the head or tail of the spine and which project slightly above the head or tail edges of the bookblock. They can be used straight or folded, and if the latter, may be folded over a core. The projecting edges of either type could be decorated with secondary endband sewing, braided with a thong or painted. Until the mid-eighteenth century, such linings will almost always extend beyond the width of the spine, with a lining extension at each side. From the mid-eighteenth century, small pieces of decorated paper or textile folded over lengths of thin cord were used as stuck-on endbands across Europe (except in Britain where these are not found until the nineteenth century). From the 1820s, small pieces of bookcloth could also be used for this purpose." , "lang" : "en" } ] }
+}

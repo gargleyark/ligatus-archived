@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1487" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1268" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1530" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1382" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1345" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1615" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "part covers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A primary cover which does not extend over the whole surface of the binding.  It will however cover the spine and the back edges of the boards, and may also cover the corners and/or edges of the boards. The sides of the binding will either be left uncovered or be covered with another material, such as decorated paper, bookcloth, etc. When describing a binding, it is the covering material that crosses the spine onto the spine-edge of the boards that should always be mentioned first and will define the covering material in brief descriptions." , "lang" : "en" } ] }
+}

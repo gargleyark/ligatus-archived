@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1393",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1573"} ,
+        { "@id": "http://w3id.org/lob/concept/2886"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1662"} ,
+        { "@id": "http://w3id.org/lob/concept/1316"} ,
+        { "@id": "http://w3id.org/lob/concept/1467"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hook-type endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "An endleaf folded along the spine edge to create a stub which can be used as an endleaf-hook, text-hook or outside-hook." , "@language" : "en" } ] }
+] }

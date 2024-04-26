@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3433",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3431"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3446"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "annotations" , "@language" : "en" } ,
+        { "@value" : "annotasjon" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Notes added as comment or explanation, such as those accompanying an entry in a bibliography, reading list, or catalogue intended to describe, explain, or evaluate the publication referred to." , "@language" : "en" } ,
+        { "@value" : "h\u00E5ndskrevet kommentar eller forklaring til teksten " , "@language" : "nb" } ] }
+] }

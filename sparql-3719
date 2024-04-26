@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1457>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2366> ;
+	skos:prefLabel	"one-hole lacing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The boards are attached by lacing each slip from the outside to the inside of the board through a single hole. This technique is often associated with smaller format bookblocks."@en .

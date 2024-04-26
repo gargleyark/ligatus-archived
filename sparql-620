@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3404",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3740"} ,
+        { "@id": "http://w3id.org/lob/concept/3742"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "blekk" , "@language" : "nb" } ,
+        { "@value" : "ink" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "skrive- og tegnemedium, flytende, farget v\u00E6ske    " , "@language" : "nb" } ,
+        { "@value" : "A fluid medium used for drawings or tracings. An opaque, usually black, pigment is mixed with a vehicle such as water to produce a fluid which can be applied with a pen or stylus." , "@language" : "en" } ] }
+] }

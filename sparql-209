@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4708>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:narrower	<http://w3id.org/lob/concept/3752> ,
+		<http://w3id.org/lob/concept/1600> ,
+		<http://w3id.org/lob/concept/1526> ,
+		<http://w3id.org/lob/concept/1410> ;
+	skos:prefLabel	"anchoring techniques"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Techniques used to secure a thread at the beginning or end of a sewn or stitched structure."@en .

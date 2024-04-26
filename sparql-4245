@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4252" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1343" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "pentagonal envelope flaps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Envelope flaps with five sides, two of which on the leading edge come to a shallow point, with short  sides at head and tail at right angles to the fore-edge, and the fifth edge parallel to the fore-edge of the bookblock." , "lang" : "en" } ] }
+}

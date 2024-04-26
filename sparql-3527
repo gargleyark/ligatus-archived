@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2325>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:prefLabel	"malt dekor"@nb ,
+		"painted (decoration)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The result of painting (techniques)."@en ,
+		"resultatet av dekor p\u00E5f\u00F8rt ved maling"@nb .

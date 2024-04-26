@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3013>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2837> ;
+	skos:narrower	<http://w3id.org/lob/concept/2944> ,
+		<http://w3id.org/lob/concept/2885> ;
+	skos:prefLabel	"sewn markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"String markers, either an endband string marker or a leaf string marker, which are sewn directly on an endband or through a leaf."@en .

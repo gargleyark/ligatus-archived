@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2873">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3195" />
+    <skos:prefLabel xml:lang="en">direct attachment (clasps attachment)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The attachment of a clasp directly to the cover of a book. This method of attachment is only found on fore-edge flaps, as this allowed the clasp to be moved into position over the catchplate, which itself would have been attached directly to the opposite side of the cover. The attachment would have been made by means of rivets taken through the cover with small washers or a rivet plate on the inside of the cover to stop the rivets pulling out of it. Most directly-attached catchplates will be of the hook and bar type, or with adjustable catchplates.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

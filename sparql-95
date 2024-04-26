@@ -1,0 +1,13 @@
+{
+  "http://w3id.org/lob/concept/3299" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1236" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4075" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4539" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3791" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3637" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1388" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4089" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "attributes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The patterns or characteristics evident in different parts of the construction and components of a book." , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] }
+}

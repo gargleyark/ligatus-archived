@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1381" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2270" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hairside" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "h\u00E5rside" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "grain side" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "yttersiden av skinnet der h\u00E5rene har grodd " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Describes the surface of the outside of an animal skin, which contains the hair folllicles by which the skins are most often identified." , "lang" : "en" } ] }
+}

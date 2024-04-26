@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1213">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4638" />
+    <skos:prefLabel xml:lang="en">block-printed paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper printed in ink or paste-colours from carved wood-blocks or the blocks used for textile printing where parts of the pattern were created with metal nails or strips. For papers blocked in multiple colours, the individual colours were printed one after another with a drying process in between each colour. They were very popular in Italy, where the Remondini family of Bassano in particular produced a wide range of designs in the eighteenth century, but were also made in most other European countries, including Germany, where they were known a ‘Kattunpapiere’, and France, where they were known as ‘papiers dominotés’, with Rheims and Orléans as two of the major centres of production. Block-printed papers were often given additional decoration in the form of stencilled or free-hand applications of colours (hand-colouring), both of which could have been done before or after printing.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

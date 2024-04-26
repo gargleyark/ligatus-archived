@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3481" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3329" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "contiguous subsidiary cores" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Multiple subsidiary cores placed alongside to each other across the front, and often the top, of the main core(s). They were normally worked in pairs so that you should expect to find four or more cores in a group of contiguous cores." , "lang" : "en" } ] }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1471">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1648" />
+    <skos:prefLabel xml:lang="nb">luntehefting</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">overcasting</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The process of stitching groups of leaves together to allow them to be sewn to sewing supports utilising the sewing techniques also used for folded gatherings. Overcasting is most often found on books consisting entirely of or with large numbers of single leaves. The most often used technique is a form of hellical stitching in which groups of leaves are whipped together along their spine edges.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Håndhefting fra siden av ark som ikke er falset. Passende antall ark heftes sammen til legg med kastesting, leggene heftes deretter gjennom eller rundt heftebånd og forankres i hverandre ved heftestasjonene.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

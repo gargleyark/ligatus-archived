@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3637" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3299" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "forsatsblad, type" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "endleaf formats" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The different arrangements of the elements of endleaves as combined to make the endleaves found on each side of the bookblock. There is a large number of standard formats which can be found on books of all ages and countries." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "utforming av forsatsen finnes i et stort antall standarder til alle tider og i alle land " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1346>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3407> ;
+	skos:prefLabel	"flyblad"@nb ,
+		"free endleaves"@en ;
+	skos:altLabel	"flying leaves"@en ,
+		"flyleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Endleaves which are not adhered to the inside of a board or cover. Free endleaves were known to the late eighteenth-century English binder Roger Payne as &#039;flying leaves&#039; (Wormsley, p.162)."@en ,
+		"forsatblad kan ha flere blanke sider som ikke er klebet til permens innside  "@nb .

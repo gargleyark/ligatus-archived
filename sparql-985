@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1273>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1226> ;
+	skos:narrower	<http://w3id.org/lob/concept/4515> ,
+		<http://w3id.org/lob/concept/1549> ,
+		<http://w3id.org/lob/concept/3528> ,
+		<http://w3id.org/lob/concept/1609> ,
+		<http://w3id.org/lob/concept/1337> ;
+	skos:prefLabel	"snitt"@nb ,
+		"cut edges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"kantene p\u00E5 bokblokken er besk\u00E5ret"@nb ,
+		"The edges of the bookblock have been cut."@en .

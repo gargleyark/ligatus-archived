@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3460>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/3347> ,
+		<http://w3id.org/lob/concept/1440> ,
+		<http://w3id.org/lob/concept/4698> ,
+		<http://w3id.org/lob/concept/1710> ;
+	skos:prefLabel	"material features"@en ,
+		"materialer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> .

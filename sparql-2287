@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4480>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1226> ;
+	skos:prefLabel	"fore-edges (bookblock edges)"@en ,
+		"forsnitt"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"den kanten av bindet og bokblokken der bladene i boken \u00E5pnes og leses i, motst\u00E5ende den kanten som holder bladene i boken sammen og som kalles rygg"@nb ,
+		"The edge of the bookblock opposite the spine from which the books is open. It may be left uncut, or cut, and if cut, may be decorated and/or titled."@en .

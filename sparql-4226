@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4168",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2482"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paper board (materials)" , "@language" : "en" } ,
+        { "@value" : "papp" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "tykt, stivt papir fremstilt av de samme r\u00E5stoffene som kartong og papir, men ofte grovere og mindre bearbeidet " , "@language" : "nb" } ,
+        { "@value" : "Board made entirely of paper by whatever means (laminated, pulp, etc.). The term can be used where the boards of a book are completely covered and the means of their manufacture cannot be identified, but  where it is clear that they are made of paper. " , "@language" : "en" } ] }
+] }

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4446>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3154> ;
+	skos:prefLabel	"spine labels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A small piece of sheet material most often of tanned skin, but also of either paper or parchment, adhered to the spine of a bound book, usually bearing the title, volume number and sometimes date and place of printing, or any other information that an owner might wish to see on the spine of a book. They may be titled in manuscript, printed or tooled."@en .

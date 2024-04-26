@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2436">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2450" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3171" />
+    <skos:prefLabel xml:lang="en">hemp (fiber)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">hamp</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">plante i slekten Cannabis, dyrket som tekstilplante</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Fiber derived from the stalk of the species Cannabis sativa. Fibers range from 1-2 m in length and are yellow to brown in color. They have a high cellulose content with little lignin. Hemp is lustrous, strong, and durable with good resistance to water, salts, light, and insects; used for cordage, fish lines, sailcloth, canvas, burlap, packing, and as a fiber for paper or for plastic filler.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

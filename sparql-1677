@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1304>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2987> ;
+	skos:narrower	<http://w3id.org/lob/concept/3027> ,
+		<http://w3id.org/lob/concept/2977> ,
+		<http://w3id.org/lob/concept/2891> ;
+	skos:prefLabel	"tapp for hektering"@nb ,
+		"edge pins"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A fastening in which a leather strap or straps attached to one board with a metal ring at the outer end fastened onto a metal pin inserted into the edge or edges of the other board."@en ,
+		"del av l\u00E5semekanisme, utformet som en kort pinne som sitter p\u00E5 beslaget p\u00E5 permens overside, og som hekteringen festet i bokremmen, kan hakes p\u00E5 "@nb ,
+		"A fastening in which a leather strap or straps attached to one board with a metal ring at the outer end is fastened onto a metal pin inserted into the edge or edges of the other board."@en .

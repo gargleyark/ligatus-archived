@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1669>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2893> ;
+	skos:narrower	<http://w3id.org/lob/concept/3029> ,
+		<http://w3id.org/lob/concept/3096> ;
+	skos:prefLabel	"lisser"@nb ,
+		"ties"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Tie fastenings on the edges of books usually formed by pairs of flexible lengths of skin or ribbon which can be tied in a knot or bow across the edge of a closed book. Ties found on covers with foredge flaps can have single or multiple ties which are attached either to both the flap and the side of the cover of the book over which the foredge flap is folded, or a single tie attached to the flap which wraps around the whole binding."@en ,
+		"Tie fastenings on the edges of books usually formed by pairs of flexible lengths of skin or ribbon which can be tied in a knot or bow across the edge of a closed book. Ties found on covers with fore-edge flaps can have single or multiple ties which are attached either to both the flap and the side of the cover of the book over which the fore-edge flap is folded, or a single tie attached to the flap which wraps around the whole binding."@en ,
+		"lukkemekanisme som best\u00E5r av remser av skinn eller tekstil som knytes slik at permene p\u00E5 en bok holdes sammen rundt bokblokken. "@nb .

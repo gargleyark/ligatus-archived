@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2895",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "filigree" , "@language" : "en" } ,
+        { "@value" : "filigran m\u00F8nster" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A delicate and intricate pattern either cut into a piece of tanned skin, parchment, paper, etc., often adhered to a background of a contrasting colour or used as a stencil for decorating a cover with stain." , "@language" : "en" } ,
+        { "@value" : "kunstferdige m\u00F8nstre, utf\u00F8rt ved \u00E5 lodde fine s\u00F8lv- eller gulltr\u00E5der fast til en metallplate" , "@language" : "nb" } ] }
+] }

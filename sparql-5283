@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3988>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:narrower	<http://w3id.org/lob/concept/4891> ,
+		<http://w3id.org/lob/concept/4893> ,
+		<http://w3id.org/lob/concept/4896> ;
+	skos:prefLabel	"sprinkled paper"@en ,
+		"sprengt papir"@nb ;
+	skos:altLabel	"splash paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper which has been completely covered with more or less evenly distributed small coloured droplets. The colours or liquids can be directly projected onto the paper in several ways, including tapping a brush with long bristles charged with a colour against an iron bar, scraping a brush with shorter bristles against a metal bar or coarse mesh over a sheet of paper, etc., in order to distribute a fine dispersion of droplets across the entire sheet. One or more colours might be used, and the dispersion and drop size will vary considerably, though the manufacturing processes remain the same. It would appear that such papers could have been made by individual binders as well as by professional manufacturers. Some of the most commonly found patterns of sprinkled papers are: agate sprinkled, Gustav sprinkled and Kiebitzpapier."@en ,
+		"papir som er dekorert med med dr\u00E5per av farge jevnt fordelt over hele overflaten"@nb .

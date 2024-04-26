@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1282>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:narrower	<http://w3id.org/lob/concept/1627> ;
+	skos:prefLabel	"dabbing (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The stain or colour is applied repeatedly in a dabbing motion over the surface of a sheet material, using a material such as natural sponge."@en .

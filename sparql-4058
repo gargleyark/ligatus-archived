@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2981",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3197"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paginering" , "@language" : "nb" } ,
+        { "@value" : "pagination" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "nummerering av hver enkelt side i boken, d.v.s. 2 nummer pr blad " , "@language" : "nb" } ,
+        { "@value" : "The numbering of pages consecutively through a textblock. There will be two pages to each leaf." , "@language" : "en" } ] }
+] }

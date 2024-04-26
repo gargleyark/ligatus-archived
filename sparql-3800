@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2978">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2366" />
+    <skos:prefLabel xml:lang="en">one-hole and turn-in lacing (ties)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A technique of tie-lacing in which the inner end of the tie is placed between the turn-in and the outside of the cover and is either brought through a hole or slot in a wide turn-in or over the edge of a narrow turn-in before being laced through the turn-in, its own inner end and the outside of the cover to form the tie. Ties that are now missing but which were originally brought around the edge of the turn-in can often be recognised by the crushing of the edge as the tie was pulled tight. Occasionally, French binders, who made regular use of this type of tie, would indent a wide turn-in to create narrower sections to allow the ties to be pulled around the edges of the turn-ins.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

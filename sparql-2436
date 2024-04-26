@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1665">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1242" />
+    <skos:prefLabel xml:lang="fr">reliure bradel</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">three-piece cases</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">gebrochener Rücken</skos:prefLabel>
+    <skos:altLabel xml:lang="en">lapped component bindings</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The three-piece case consists of two boards joined by a a spine-piece of thick paper, cartonnage or thin millboard, creating a primary cover which may then have a secondary cover, usually coloured and often decorated, adhered over it. Three-piece cases were made in two different basic types, cut flush and turned-in. The three-piece case was first used in Germany at the beginning of the eighteenth century and in France at the end of the eighteenth century. It was also occasionally used in England in the first quarter of the nineteenth century, before it came into more common use for Ackermann’s Christmas book of 1823 and its successors.
+The German term for the three-piece case, &amp;#039;gebrochener Rücken&amp;#039;, meaning literally &amp;#039;broken back&amp;#039;, is presumably a reference to splitting a one-piece case into two sides with a connecting spine-piece. This meant that it was possible to have a thinner flexible spine-piece that allowed the book to open whilst having a rigid board on each side to support and protect the bookblock, a dual function that was not possible with the one-piece case. The three-piece case was known in France at the end of the eighteenth century as the ‘reliure Bradel’ or ‘cartonnage à la Bradel’ having been introduced there, apparently, by a member of the Bradel family.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The three-piece case consists of two boards joined by a a spine-piece of thick paper, cartonnage or thin millboard, creating a primary cover which may then have a secondary cover, usually coloured and often decorated, adhered over it. Three-piece cases were made in two different basic types, cut flush and turned-in. The three-piece case was first used in Germany at the beginning of the eighteenth century and in France at the end of the eighteenth century. It was also occasionally used in England in the first quarter of the nineteenth century, before it came into more common use for Ackermann’s Christmas book of 1823 and its successors.
+The German term for the three-piece case, &amp;#039;gebrochener Rücken&amp;#039;, meaning literally &amp;#039;broken back&amp;#039;, is presumably a reference to splitting a one-piece case into two sides with a connecting spine piece. This meant that it was possible to have a thinner flexible spine spiece that allowed the book to open whilst having a rigid board on each side to support and protect the bookblock, a dual function that was not possible with the one-piece case. The three-piece case was known in France at the end of the eighteenth century as the ‘reliure Bradel’ or ‘cartonnage à la Bradel’ having been introduced there, apparently, by a member of the Bradel family.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

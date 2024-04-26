@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4109" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1214" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "armorial blocks" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Blocks bearing coats of arms, crests or other armorial achievements found most often on the sides of a binding. Some coats of arms on the sides of bindings were created by single handle tools, not blocks and care should be taken to identify the use of a block. Coats of arms found on the spines of books will be smaller than those on the sides and will have been created by the use of a handle tool rather than a block, as blocks can only be used on flat surfaces." , "lang" : "en" } ] }
+}

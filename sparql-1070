@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2848">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3056" />
+    <skos:prefLabel xml:lang="en">centres (furniture)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Items of furniture which can be either protective or decorative (or both) found in the centre of a board. Centres are most often made of metal, typically copper alloy, but they will also be found made of iron as well as silver and silver-gilt and may be enamelled oven decorated with gemstones,  and will often be of the same design as the corner pieces. Metal centres can be decorated with punches, engraving, embossing, piercing, etc., and may be square, lozenge-shaped, circular, oval, etc. Centres were used from the middle-ages onwards, but increasingly from the end of the sixteenth century, their function becomes more decorative and status-related. Some centres incorporate bosses which may be either hammered out of the centre piece itself (integral bosses) or as separate added components (separate bosses). If simple bosses without any form of decorative surround and of the same design as those found in the corners of the boards are also found in the centres of the boards, they should be described as centre bosses and not as centres. 
+
+
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

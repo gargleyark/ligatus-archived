@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2855>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	"champlev\u00E9"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Enameling that is accomplished by carving away troughs or cells in metal, leaving a raised line that forms the outline of the design. The enamel is laid in the cells, fired, and then filed and polished."@en .

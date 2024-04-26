@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1452" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "narrow cover extensions" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Cover extensions of no more than approximately 3 mm in width, which is the narrowest width that it is practical to make them. On exceptionally thin bookblocks, narrow cover extensions may meet across the edges of the bookblock and should therefore be described as meeting cover extensions. Narrow cover extensions are a common feature of British laced-case parchment bindings of the late 16th and early 17th centuries." , "lang" : "en" } ] }
+}

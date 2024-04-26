@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4344" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4184" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lateral titles" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Titles which are written, tooled or printed across the edges or spine. The earliest known examples of lateral spine titles were tooled in Paris in the 1540&#039;s but they do not become a commonplace until the 17th century when more and more books were stored vertically with their spines outwards. Lateral titles in manuscripts on the edges of bookblocks can be found at almost any date according to how the books were stored." , "lang" : "en" } ] }
+}

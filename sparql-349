@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1228>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2470> ;
+	skos:narrower	<http://w3id.org/lob/concept/1546> ;
+	skos:prefLabel	"lerret "@nb ,
+		"bookcloth"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"glatt t\u00F8y av lin eller bomull vevd i toskaft, som gjennom appretur er gjort stivt og ugjennomtrengelig for lim"@nb ,
+		"Woven textiles specifically designed for use as a covering material for books, with a filler (usually starch-based) intended to prevent adhesives striking through to the surface, which could also take colour and embossed decoration. The first examples, using a simple glazed textile, are found from the mid 1820&#039;s, but from 1830 onwards, they appear in a bewildering variety of grains and colours."@en .

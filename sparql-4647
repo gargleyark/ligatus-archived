@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4879>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2277> ;
+	skos:prefLabel	"retail bindings"@en ;
+	skos:altLabel	"trade bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings made for retail booksellers on the copies of books bought for sale in their shops. These bindings would have been commissioned before the books were sold, but it is almost impossible to know whether a book in a simple binding was bound before or after the point of sale."@en .

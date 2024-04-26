@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3080" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Turk\u2019s head knots " , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Decorative knots that create ball-like ends to lengths of alum-tawed or tanned skin and used particularly by Spanish binders in combination with loops as fastenings for bindings, and sometimes found formed from the ends of leaf tab markers. They got their name from a perceived resemblance between these knots and the turbans thought to have been worn by Turks." , "lang" : "en" } ] }
+}

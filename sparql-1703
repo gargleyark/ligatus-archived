@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1313" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1573" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1379" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2886" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1577" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "endleaf guards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A narrow strip of sheet material, most often of parchment but sometimes of paper, folded lengthways and either sewn on its own or with other endleaf components, but not folded around a text gathering (see text guards). Endleaf guards are most often found folded around a paper endleaf fold, but may occasionally be found on the inside of a fold or outside an endleaf hook." , "lang" : "en" } ] }
+}

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4399>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1244> ;
+	skos:prefLabel	"adjustable catchplates"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"On seventeenth- and eighteenth-century bindings with envelope flaps and pockets on the inside of each board in which to keep notes, cards, etc, the catchplate attached to the opposite board from the envelope flap could have several holes in it (most commonly three) in which the clasp could be fastened according to the amount of material kept in the pockets."@en .

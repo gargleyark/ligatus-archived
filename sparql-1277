@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4498>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4496> ;
+	skos:prefLabel	"cut-out stencils"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A thin piece of sheet material (e.g. metal, cardboard, etc.) in which one or more holes have been cut, of such shape that when a brush charged with pigment is passed over the back of the sheet, a desired pattern, letter, or figure is produced on the surface upon which the sheet is laid. Stencils allowed multiple copies of a design to be repeated and the use of the same stencil can often be recognized on different books."@en .

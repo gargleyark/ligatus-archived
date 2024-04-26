@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2953>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3748> ,
+		<http://w3id.org/lob/concept/2951> ;
+	skos:prefLabel	"linked unsupported sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A form of sewing without supports in which the thread as it emerges from each sewing station is taken behind the sewing thread of the previous gathering before returning either to the same gathering (for intermediate sewing stations), or into the next gathering for kettlestitches."@en .

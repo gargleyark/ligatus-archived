@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3604>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3283> ;
+	skos:prefLabel	"inserted text separators"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Leaves of blank paper inserted by a binder between different texts or editions in composite volumes in order to create a clearly visible separation between them."@en .

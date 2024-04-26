@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3713>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1694> ;
+	skos:prefLabel	"straight-cut turn-ins"@en ,
+		"rettsk\u00E5rne innslagskanter"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Innslagenes kanter er besk\u00E5ret i rette linjer mer eller mindre parallelle med permens/omslagets kanter."@nb ,
+		"The edge of the turn-ins of the covering material is cut at right-angles to its surface."@en .

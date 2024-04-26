@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1450">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1290" />
+    <skos:prefLabel xml:lang="en">multiple bookblock bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">rygg-mot-rygg bind</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">bind med to eller flere bokblokker som deler felles midtperm og som er festet i den høyre falsen på hver bokblokk</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Binding structures which contain more than one bookblock, usually with a shared board between each adjacent bookblock. In the most commonly encountered of a multiple bookblock binding is the dos-à-dos binding.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

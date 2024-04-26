@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3225">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2293" />
+    <skos:prefLabel xml:lang="en">rawhide</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">råhud</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Untanned skin or hide which has had the flesh and hair removed and allowed to dry into a desired shape. It is rendered resistant to putrefaction by liming, stuffing with oils and greases, and sometimes by other preparatory processes. As the name implies, it is not tanned. It is sometimes used for lacings or trimmings, of books, but it is far too stiff and intractable to use as a covering material.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">ugarvet, skinn eller hud der kjøtt og hår er fjernet </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

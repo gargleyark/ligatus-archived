@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3820>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:prefLabel	"rayskin"@en ,
+		"galuchat"@fr ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Skins from any of the various broad flattened cartilaginous fishes known as rays which constitute the order Rajiformes (or Batiformes), having large winglike pectoral fins that (with the body) form a quadrangular or discoid shape. The skin from the back of the fish is covered with papillae which in use are ground flat and the skin stained from the fleshside leaving with disks within a coloured matrix. It is very rarely found on bindings."@en .

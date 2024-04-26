@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1272>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1301> ;
+	skos:prefLabel	"cut before sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The gatherings were cut before they were assembled as a bookblock, usually because the bookblock had an earlier sewing structure with cut edges and has been resewn. Where the bookblock is sewn through the fold, this will usually result in stepped edges at head and tail, as the gatherings are pulled alternately in different directions by the process of sewing. This may therefore be the result of resewing an already bound bookblock."@en .

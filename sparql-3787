@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2494>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1268> ;
+	skos:prefLabel	"overtrekk med innslag"@nb ,
+		"turned-in covers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A cover in which the covering material is wrapped around an inboard binding and turned-in at head, tail and fore-edge. This is the type of cover that will be found on the great majority of books bound in boards (inboard bindings)."@en ,
+		"overtrekksmateriale sl\u00E5tt inn rundt permenes kanter og ved ryggens hode og fot etter at permene er montert p\u00E5 bokblokken "@nb .

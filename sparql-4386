@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1537",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1704"} ,
+        { "@id": "http://w3id.org/lob/concept/2516"} ,
+        { "@id": "http://w3id.org/lob/concept/1193"} ,
+        { "@id": "http://w3id.org/lob/concept/4910"} ,
+        { "@id": "http://w3id.org/lob/concept/1558"} ,
+        { "@id": "http://w3id.org/lob/concept/3577"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "recesses" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Grooves or channels used in a variety of locations on bindings to accommodate a number of different components. These include recesses cut across the spine of a bookblock to accommodate one of several structural processes. They may not all be of the same size or shape, and may be used for either sewn supported, sewn unsupported or adhesive structures, sometimes combining different functions within the same bookblock. Recesses could also be cut across the spines of bookblocks composed of single leaves to accommodate recessed supports in overcast groups of leaves and in oversewn bookblocks. V-shaped recesses were used in Byzantine bindings to allow the chainstitches formed by the unsupported sewing structures typical of such bindings to lie below the surface of the spine and so create the smooth spines which are another characteristic feature of these bindings. Recesses can also be found in wooden boards, to accommodate the thickness of clasp straps, metal chain shackles, pencils for early almanacs, etc." , "@language" : "en" } ] }
+] }

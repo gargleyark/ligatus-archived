@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1241" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1481" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2482" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cartonnage " , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A thick cover paper made by hand in a single sheet from pulp with very long fibres, and heavily sized with gelatine. It was often formed on sheets of textile that leave a clear impression of the woven textile on one or both surfaces. Case covers made from cartonnage were used in Italy from at least the 1480s through to the mid-nineteenth century. Sheets of cartonnage were also laminated with paste to create thicker and stiffer boards for books." , "lang" : "en" } ] }
+}

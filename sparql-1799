@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2886" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1317" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1338" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4484" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1393" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1313" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "endleaf components" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The individual pieces of sheet material used to make up an endleaf unit. There are four standard components that will be found in almost all endleaves: the fold endleaf, the hook-type endleaf, the outside hook endleaf and the endleaf guard." , "lang" : "en" } ] }
+}

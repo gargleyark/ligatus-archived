@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2387" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1222" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "wrapped laminated boards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Boards made from one piece of sheet material enclosed within another which has been wrapped around one edge of the inner lamination and covers both sides of it. In the one example recorded, two different materials were used, a rigid piece of sca&#039;board wrapped in a piece of thin couched-laminate paper board along the spine edge, each material compensating for the weakness of the other." , "lang" : "en" } ] }
+}

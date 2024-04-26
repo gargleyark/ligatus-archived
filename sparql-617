@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3374>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1353> ;
+	skos:narrower	<http://w3id.org/lob/concept/2851> ,
+		<http://w3id.org/lob/concept/2852> ,
+		<http://w3id.org/lob/concept/2854> ,
+		<http://w3id.org/lob/concept/3015> ;
+	skos:prefLabel	"chain components"@en ,
+		"bokkjettingbestanddeler"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bokkjettinger ble anvendt i bibliotek og kirker i middelalderen og senere som tyverisikring. Plassering av kjettingfestet  viser hvordan boken ble oppbevart og sikret. Kjettingen er sjelden bevart. St\u00F8rre hull i permens kant, ofte med rustskader, vitner om at bindet tidligere har hatt kjetting. "@nb ,
+		"The different components which are put together to create chains, including the attachments to both the book and the bookcase."@en .

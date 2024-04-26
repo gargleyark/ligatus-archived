@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3582>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:prefLabel	"straight-grain leather"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Leather, usually tanned goatskin or hairsheep, the grain of which has been artificially emphasised in one direction only by folding the dampened skin hairside to hairside and rolling it backwards and forwards under light pressure, producing an effect not unlike ripples in water. Straight-grain skins became fashionable in the last quarter of the eighteenth century and they were used by the binders of the most elegant books all across Europe. The skin required very careful handling during the covering process if the grain was not to be pulled out or flattened, making their use doubly expensive. By the end of the eighteenth century in Britain, cheaper, artificially-grained (see artificial grains) skins were manufactured to satisfy demand at lower cost, though they lack the natural appearance of the genuine straight-grain skins."@en .

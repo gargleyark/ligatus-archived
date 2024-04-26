@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1658">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2293" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3039" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3765" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2912" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1436" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3586" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2910" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3579" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1456" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2828" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1691" />
+    <skos:prefLabel xml:lang="en">tanned skin</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">garvet skinn</skos:prefLabel>
+    <skos:altLabel xml:lang="en">leather</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">dyrehuder som er behandlet med garvestoffer for å bli holdbart og kunne anvendes til  lær og skinn </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">An animal skin that has been treated with tanning agents to turn it into leather and which, before the 19th century, will be derived only from vegetable sources such as the bark of oak trees, sumac, etc. Because the term leather has been used historically of both alum-tawed and tanned skins, it is safer, wherever there might be confusion, to used the term tanned skin rather than leather, though properly-speaking, they both have the same meaning.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

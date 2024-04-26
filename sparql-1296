@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4589",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "covering" , "@language" : "en" } ,
+        { "@value" : "overtrekkp\u00E5setting" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "prosess der man former et materiale rundt et bokbind " , "@language" : "nb" } ,
+        { "@value" : "The process of wrapping and or moulding a piece of sheet material around a bound book." , "@language" : "en" } ] }
+] }

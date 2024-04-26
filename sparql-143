@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3744" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2362" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1449" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1237" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "abbreviated sewing (techniques)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hurtighefting" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A general term that describes sewing techniques which are accelerated by leaving out elements of the process of sewing (e.g. multi-section sewing and by-pass sewing)." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "generell term for hefteteknikk som utelater elementer i prosessen for \u00E5 spare tid eller for \u00E5 unng\u00E5 \u00F8kning av tykkelsen p\u00E5 bokblokkryggen p\u00E5 grunn av heftetr\u00E5d" , "lang" : "nb" } ] }
+}

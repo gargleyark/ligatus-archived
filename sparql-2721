@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2925" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1254" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hinged clasps" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hengslet bokspenne" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Clasps attached directly to hinge plates by means of pin hinges." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Lukkemekanisme i metall utstyrt med hengsler. " , "lang" : "nb" } ] }
+}

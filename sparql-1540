@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3230",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2274"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "dypfalset " , "@language" : "nb" } ,
+        { "@value" : "tight joints" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "struktur der permen er ansatt tett inntil falsen p\u00E5 bokblokken uten mellomrom mellom perm og bokblokk " , "@language" : "nb" } ,
+        { "@value" : "Joints in which the boards sit in close contact with the bookblock and hinge directly on the back edges of the boards with no space between the board and the bookblock." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4081",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3235"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bolts" , "@language" : "en" } ,
+        { "@value" : "u\u00E5pnet materie" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bretter i papiret som oppst\u00E5r n\u00E5r trykkarkene falses til legg og som m\u00E5 sprettes eller skj\u00E6res opp for at boken skal kunne \u00E5pnes" , "@language" : "nb" } ,
+        { "@value" : "The folded edge at the head, tail, or fore edge of a section of an unopened book. Depending on location, it is known as a head bolt, tail bolt, or fore-edge bolt. Bolts are generally located at the head and/or fore-edge, but cannot be located at all three edges on any one leaf. The folded edge opposite the fore-edge is not a &quot;bolt&quot;, but a spine-fold. Bolts are often opened quickly and with little care, resulting in ragged edges that are difficult to handle when turning leaves. A dull knife used carefully will result in a clean cut, while a knife that is too sharp is difficult to control and often cuts away from the bolt and into one or more leaves." , "@language" : "en" } ] }
+] }

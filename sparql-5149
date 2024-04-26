@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3448" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "segl" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "seals (components)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "et stykke voks, lakk eller bly som blir varmet opp og preget med en signet p\u00E5 et dokument for \u00E5 garantere ekthet  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A piece of wax, lead, or other material with an individual design stamped into it, attached to a book (document) as a guarantee of authenticity." , "lang" : "en" } ] }
+}

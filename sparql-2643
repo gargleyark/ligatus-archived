@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1586>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1606> ;
+	skos:prefLabel	"heftbindender"@nb ,
+		"sewing-support slips"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The part of a sewing support which extends beyond the width of the spine at either side and could be used to attach the boards or cover to a bookblock."@en ,
+		"teknikk for \u00E5 f\u00F8ye sammen permer og bokblokk, der den delen av heftbindet som stikker utenfor bokblokkens rygg brukes til \u00E5 feste permene til bokblokken "@nb .

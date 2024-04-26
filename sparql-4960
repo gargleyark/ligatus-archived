@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2538">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2370" />
+    <skos:prefLabel xml:lang="en">sewn endbands</skos:prefLabel>
+    <skos:altLabel xml:lang="en">worked headbands</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Endbands secured to the bookblock by tiedowns of sewing thread taken down into the gatherings, which may or may not include a core, but are always worked separately from the main sewing of the bookblock. The sewing may be executed with a tiedown in each gathering across the spine or with only two tiedowns, one at each end, or anything in between. All should be described as sewn endbands.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

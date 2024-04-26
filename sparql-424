@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1679",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1678"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4111"} ,
+        { "@id": "http://w3id.org/lob/concept/4097"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bordure" , "@language" : "nb" } ,
+        { "@value" : "tooled frames" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "preget bord eller dekorasjon i kantene p\u00E5 permene" , "@language" : "nb" } ,
+        { "@value" : "Decorative frames created on the sides of a binding by means of tooling with either rolls or fillets or both, or, at an earlier date, by repeated impressions of handle tools." , "@language" : "en" } ] }
+] }

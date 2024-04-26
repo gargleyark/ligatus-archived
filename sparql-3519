@@ -1,0 +1,25 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2281>	rdf:type	skos:Concept ;
+	skos:narrower	<http://w3id.org/lob/concept/1535> ,
+		<http://w3id.org/lob/concept/4545> ,
+		<http://w3id.org/lob/concept/3740> ,
+		<http://w3id.org/lob/concept/3742> ,
+		<http://w3id.org/lob/concept/3161> ,
+		<http://w3id.org/lob/concept/3167> ,
+		<http://w3id.org/lob/concept/2422> ,
+		<http://w3id.org/lob/concept/4533> ,
+		<http://w3id.org/lob/concept/4934> ,
+		<http://w3id.org/lob/concept/2484> ,
+		<http://w3id.org/lob/concept/2400> ,
+		<http://w3id.org/lob/concept/2402> ,
+		<http://w3id.org/lob/concept/2404> ,
+		<http://w3id.org/lob/concept/1500> ,
+		<http://w3id.org/lob/concept/2450> ,
+		<http://w3id.org/lob/concept/3171> ,
+		<http://w3id.org/lob/concept/3173> ,
+		<http://w3id.org/lob/concept/1495> ;
+	skos:prefLabel	"materials"@en ;
+	skos:scopeNote	" "@nb ,
+		"This hierarchy provides values for the CIDOC-CRM E57 Material:\r\nThis class is a specialization of E55 Type and comprises the concepts of materials. \r\nInstances of E57 Material may denote properties of matter before its use, during its use, and as incorporated in an object, such as ultramarine powder, tempera paste, reinforced concrete. Discrete pieces of raw-materials kept in museums, such as bricks, sheets of fabric, pieces of metal, should be modelled individually in the same way as other objects. Discrete used or processed pieces, such as the stones from Nefer Titi&#039;s temple, should be modelled as parts (cf. P46 is composed of).\r\nThis type is used categorically in the model without reference to instances of it, i.e. the Model does not foresee the description of instances of instances of E57 Material, e.g.: \u201Cinstances of  gold\u201D.\r\nIt is recommended that internationally or nationally agreed codes and terminology are used."@en ;
+	skos:topConceptOf	<http://w3id.org/lob/> .

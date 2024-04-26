@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/3129" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2450" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2474" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3729" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cord" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hefthyssing" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Hyssing laget av tvunnede vegetatabilske fibre som oftest fra jute, lin eller hamp, til en tr\u00E5d av en viss tykkelse som egner seg til heftbind og som kjerne i kapit\u00E9lb\u00E5nd.\r\n\r\n\r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A material made by twisting together twisted strands of vegetable fibres to provide a material of a thickness suitable for either a sewing support or endband core, the former often being referred to as sewing cords. Cord is typically made from a variety of bast fibres the most common of which on early bindings will be jute, flax (linen) and hemp.\r\n\r\n\r\n" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "A material made by twisting together twisted strands of vegetable fibres to provide a material of a thickness suitable for either a sewing support or endband core, the former often being referred to as sewing cords. Cord is typically made from a variety of bast fibres the most common of which on early bindings will be jute, flax (linen) and hemp." , "lang" : "en" } ] }
+}

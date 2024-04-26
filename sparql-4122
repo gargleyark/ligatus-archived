@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3149",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3746"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tett hefting" , "@language" : "nb" } ,
+        { "@value" : "pack sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "arch sewing" , "@language" : "en" } ,
+        { "@value" : "packed sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "heftemetode der heftetr\u00E5den f\u00F8res flere ganger rundt heftbindene for \u00E5 fylle ut gapet som kan oppst\u00E5 mellom hvert legg " , "@language" : "nb" } ,
+        { "@value" : "Pack-sewing consists of adding one or more extra turns of thread around the sewing supports (or endband cores) when sewing a gathering, to fill in the gaps that can be left on the supports between the gatherings. The more tightly packed the supports are, the less flexible they become, and the process can be used to control the flexibility of the supports and thus the extent to which the spine will arch upwards as the bookblock is opened. It takes extra time when sewing a bookblock and thus adds to the cost of binding. Pack-sewing was commonly used throughout the medieval period, but was increasingly abandoned after the introduction of printing as a cost-cutting expedient and is seldom if ever found after the sixteenth century. The technique was first recorded by Peter Franck in 1941, under the name &#039;arch sewing&#039;." , "@language" : "en" } ] }
+] }

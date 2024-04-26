@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1253>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3475> ;
+	skos:prefLabel	"clasp bevels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Short external bevels found both above and below the fastenings on the fore-edges of boards with centre chamfers. Clasp bevels were especially popular in bindings with wooden boards made in German-speaking countries in the sixteenth and seventeenth centuries, but will also be found in bindings made in other northern-European countries."@en .

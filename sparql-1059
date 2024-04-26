@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2844" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3187" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "casting" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "st\u00F8ping " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "prosess for \u00E5 lage bokspenner ved \u00E5 helle flytende metall i st\u00F8peformer " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The process of making metal fittings by pouring liquid material into a mold. The cast blanks will then be finished by hands and may be decorating by engraving, drilling and chasing as well as polishing." , "lang" : "en" } ] }
+}

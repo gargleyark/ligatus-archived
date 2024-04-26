@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2951>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2362> ;
+	skos:narrower	<http://w3id.org/lob/concept/2952> ,
+		<http://w3id.org/lob/concept/2953> ,
+		<http://w3id.org/lob/concept/1249> ;
+	skos:prefLabel	"linked sewing"@en ;
+	skos:altLabel	"herringbone sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A type of sewing in which the sewing thread, as it emerges from a gathering at a sewing station between the two elements of a raised double sewing support is taken down round the back of the support to pick up the sewing of one or more previous gatherings before returning through the same sewing station. Linked sewing was also used in unsupported structures to form a chainstitch structure."@en .

@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3034" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4466" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "side-loading slip cases" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kassett" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "slip cases" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Rectangular enclosures that are open on one edge for the insertion of a book. The open edge may either be at the top (top-loading slip cases) or on one side (side-loading slip cases). The early examples often have flexible leather sides (collapsible side-loading slip-cases), but entirely rigid, leather-covered top loading examples (rigid top-loading slip-cases) had been used for fancy pocket books and almanacs from at least the mid-eighteenth century and, covered in printed and decorated paper, were widely used for such books in the early nineteenth century." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Rektangul\u00E6r, separat mer eller mindre stiv beskyttelse som er \u00E5pen i en kant til \u00E5 stikke boken inn i." , "lang" : "nb" } ] }
+}

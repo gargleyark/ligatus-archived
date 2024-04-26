@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1350>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1502> ,
+		<http://w3id.org/lob/concept/1348> ;
+	skos:prefLabel	"full-cover pierced sewing supports"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pierced supports in the form of full covers. Whole covers form an integral part of many longstitch, chainstitch and external support bindings, and may be made of parchment, cartonnage, and tanned or alum-tawed skin, and may also be used in combination with whole-spine pierced supports and multiple pierced supports."@en .

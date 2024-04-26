@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3227",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3746"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "passed-behind sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A technique first used when sewing on recessed single sewing supports where the thread, instead of going around the sewing supports is simply passed across the back of them in the recesses. This took less time and allowed the thread to be tensioned at the change-over station at the end of each gathering rather than at each sewing support, as was necessary when passing the thread around the supports (wound sewing), further accelerating the process. In England, this technique came into use in the first half of the seventeenth century. A similar economy was also possible with flat sewing supports such as parchment and textile tapes, in which the thread passes across the back of the supports and not around them, leaving a gap in the thread which is the width of the sewing supports visible on the inside of the gatherings at each sewing support (also known as tape sewing, Etherington and Roberts). This has been recorded in England from as early as the first decade of the eighteenth century, but does not become common until the mid-century." , "@language" : "en" } ] }
+] }

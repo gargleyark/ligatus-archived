@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4034>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ;
+	skos:narrower	<http://w3id.org/lob/concept/1270> ,
+		<http://w3id.org/lob/concept/1632> ,
+		<http://w3id.org/lob/concept/1411> ,
+		<http://w3id.org/lob/concept/1683> ,
+		<http://w3id.org/lob/concept/1330> ;
+	skos:prefLabel	"hj\u00F8rneovertrekk"@nb ,
+		"corners (cover components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"biter av overtrekksmateriale til \u00E5 dekke permenes ytre hj\u00F8rner p\u00E5 halvbind"@nb ,
+		"The pieces of covering material used in half-bindings to cover the outer corners of the boards. These may be shaped in a number of a different ways."@en .

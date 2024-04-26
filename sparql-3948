@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1509">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:prefLabel xml:lang="en">pocket-book bindings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Small books bound so as to be conveniently carried in a person&amp;#039;s pocket, usually by means of foredge flaps to protect the bookblock. They vary greatly in the extent to which they were decorated but some binders from the 18th century onwards specialised in this type of work, and described themselves as &amp;#039;pocket book binders&amp;#039;, or even &amp;#039;fancy pocket book binders&amp;#039;.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Small books bound so as to be conveniently carried in a person&amp;#039;s pocket, usually by means of fore-edge flaps to protect the bookblock. They vary greatly in the extent to which they were decorated but some binders from the 18th century onwards specialised in this type of work, and described themselves as &amp;#039;pocket book binders&amp;#039;, or even &amp;#039;fancy pocket book binders&amp;#039;.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

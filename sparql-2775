@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3612>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2450> ,
+		<http://w3id.org/lob/concept/3171> ;
+	skos:prefLabel	"straw"@en ,
+		"halm"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"t\u00F8rre stengler og blad av kornsorter, erter og andre \u00E5kervekster"@nb ,
+		"Lengths of dried and often coloured straw which were arranged in patterns or pictorial designs, which would appear in most cases to have been applied to primary covers of another material such as tanned skin or textile, as onlays. Such bindings have been recorded from the 17th century, and were still being made in the early 19th century."@en .

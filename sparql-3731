@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1461>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1619> ;
+	skos:prefLabel	"one-piece slotted spine lining"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A piece of sheet material cut wider than the spine (to provide lining extensions) and to or close to the height of the spine, with slots cut out of it of the same size as the sewing supports to allow it to fit over the supports and lie flat against the spine-folds of the bookblock between them. Slotted linings should not be confused with comb linings which create a lining of a similar pattern but from two pieces of sheet material which overlap each other across the spine, rather than one."@en ,
+		"A piece of sheet material cut wider than the spine (to provide lining joints) and to or close to the height of the spine, with slots cut out of it of the same size as the sewing supports to allow it to fit over the supports and lie flat against the spine-folds of the bookblock between them. Slotted linings should not be confused with comb linings which create a lining of a similar pattern but from two pieces of sheet material which overlap each other across the spine, rather than one."@en .

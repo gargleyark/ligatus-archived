@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4476>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2927> ;
+	skos:prefLabel	"single hooked clasps"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Clasps which are shaped out of a single thickness of sheet metal bent over at one end to form the hook. Cast hooked clasps will also have a single hook. When they are attached to the clasp strap they will usually have a metal plate (the back or rivet plate) on the other side to prevent the rivets used to attach them from pulling through the strap."@en .

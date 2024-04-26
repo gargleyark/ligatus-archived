@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1345" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1487" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rammebind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "frame covers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bind hvis overtrekksmateriale p\u00E5 rygg og permkanter til sammen utgj\u00F8r en ramme p\u00E5 permen  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A cover in which the covering material is found on the spine and the board edges only, leaving an open space in the centre of each board, which was usually covered in a coloured or decorated paper, but which was, occasionally, left uncovered. Frame covers were used from early in the eighteenth century on oversize books, where a full cover might have been thought too expensive, and may be found on relatively cheap bindings on books of plans or maps. They were used on student bindings in Oxford in the eighteenth century, with parchment as the covering material, and a variety of coloured or decorated papers used on the sides. They became fashionable in England for a brief period at the end of the eighteenth and beginning of the nineteenth centuries, when they can be found with extensive gold-tooling and expensive decorated paper on the sides." , "lang" : "en" } ] }
+}

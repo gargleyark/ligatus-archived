@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/2362" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3748" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1474" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3653" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2951" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1196" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3744" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3746" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sewing (techniques)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hefting" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "fold sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bokblokken f\u00F8yes sammen ved hefting, enten maskinelt eller manuelt " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "When a bookblock is sewn, the sewing thread is taken through the spine-folds of the gatherings (or between two leaves of overcast gatherings) to the outside of the spine-fold, where it is either taken through, around, across or behind sewing supports (all of which result in what are known as supported structures). Alternatively, thread alone was used without sewing supports to create unsupported sewing structures, in which each gathering was connected to the previously sewn gathering at each sewing station only by the thread with which it was sewn. In all sewn structures the thread will be seen in the centre-fold of most of the folded gatherings (when they were working fast, binders occasionally missed the centre-folds in gatherings and you may need to look for the thread in the adjacent bifolia). The word sewing is also using of the working in thread of both the primary and secondary sewing of endbands." , "lang" : "en" } ] }
+}

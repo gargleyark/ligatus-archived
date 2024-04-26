@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1228",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2470"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1546"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "lerret " , "@language" : "nb" } ,
+        { "@value" : "bookcloth" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "glatt t\u00F8y av lin eller bomull vevd i toskaft, som gjennom appretur er gjort stivt og ugjennomtrengelig for lim" , "@language" : "nb" } ,
+        { "@value" : "Woven textiles specifically designed for use as a covering material for books, with a filler (usually starch-based) intended to prevent adhesives striking through to the surface, which could also take colour and embossed decoration. The first examples, using a simple glazed textile, are found from the mid 1820&#039;s, but from 1830 onwards, they appear in a bewildering variety of grains and colours." , "@language" : "en" } ] }
+] }

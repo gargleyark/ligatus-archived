@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4065",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2283"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sawing" , "@language" : "en" } ,
+        { "@value" : "saging" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The process of cutting wood by means of a saw, either by hand or mechanically." , "@language" : "en" } ,
+        { "@value" : "prosess der et stykke tre deles ved hjelp av en sag enten for h\u00E5nd eller mekanisk" , "@language" : "nb" } ] }
+] }

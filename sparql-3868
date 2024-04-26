@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1479">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1619" />
+    <skos:prefLabel xml:lang="en">panel spine linings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">ryggfeltfôring</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A square or rectangular lining which more or less exactly covers the spine between the joints and two adjacent sewing supports. In the panels at head and tail, the panel linings extend to the end of the spine, though in some sixteenth-century bindings, the panel linings at head and tail were divided into two to expose the change-over station, perhaps with the intention of disguising the bump created by the kettlestitches.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">firkantete eller rektangulære fôringer som på ryggen som dekker området mellom to heftestasjoner og fra øvre og nedre heftestasjon til hode og fot </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

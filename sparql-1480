@@ -1,0 +1,17 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1329",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1186"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1480"} ,
+        { "@id": "http://w3id.org/lob/concept/2383"} ,
+        { "@id": "http://w3id.org/lob/concept/4470"} ,
+        { "@id": "http://w3id.org/lob/concept/1214"} ,
+        { "@id": "http://w3id.org/lob/concept/4472"} ,
+        { "@id": "http://w3id.org/lob/concept/1651"} ,
+        { "@id": "http://w3id.org/lob/concept/2915"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "dekorstempler" , "@language" : "nb" } ,
+        { "@value" : "finishing tools" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The tools most often of copper alloy, sometimes of iron or steel with engraved or cast designs that were used to impress those designs into the covering materials of books. Finishing tools could be used in the hand (handle tools) or in presses (blocks, panel stamps)." , "@language" : "en" } ,
+        { "@value" : "graverte eller st\u00F8pte trykkformer for stempling i gull-eller blindtrykk p\u00E5 bokbind " , "@language" : "nb" } ] }
+] }

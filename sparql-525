@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2830>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1386> ;
+	skos:prefLabel	"beech"@en ,
+		"b\u00F8k"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pale reddish-brown, close-grain wood from any of several trees of the genus Fagus of the Fagaceae family; it is hard and heavy, and gives a smooth shiny finish. Beech wood is commonly used for flooring, cabinetry, furniture (especially bentwood chairs), tool handles, and turnery. It was frequently used for the boards of books at all periods in most European countries, but especially in Germany and Italy."@en ,
+		"tresort i Fagaceae familien som ofte ble benyttet til permer "@nb .

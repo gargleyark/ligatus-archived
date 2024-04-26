@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4757" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3417" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "paper decorators" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "papirdekorat\u00F8rer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Person som dekorerer papir enten arkvis eller p\u00E5 rull. Papirdekorat\u00F8rene fremstilte dekorert papir som har v\u00E6rt brukt i bokbinding siden 1500-tallet, som overtrekks- og forsatspapir, trekking og f\u00F4ring av esker og etuier i tillegg som underlag for kaligrafi og finere trykksaker." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "People who make decorated papers &#039;in-the-sheet&#039; or &#039;in-the-roll&#039; to be used for whatever purpose a decorated paper might be used. Whether format- and edition-specific decorated paper covers should be considered as decorated or decorative papers is a question yet to be resolved, though both may use exactly the same techniques and very similar designs." , "lang" : "en" } ] }
+}

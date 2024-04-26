@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1676>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1678> ;
+	skos:prefLabel	"preget midtdekorasjon"@nb ,
+		"tooled centres (decoration)"@en ;
+	skos:altLabel	"middlepieces"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The term used by Humfrey Wanley to describe the large central ornaments of the boards of some bindings made for Edward Harley, Earl of Oxford, which were created by small tools."@en ,
+		"st\u00F8rre midtornament utf\u00F8rt med flere mindre h\u00E5ndpregeverkt\u00F8y  "@nb .

@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1473",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1694"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "overlapping head and tail turn-ins" , "@language" : "en" } ,
+        { "@value" : "overlappende innslag ved hode og fot " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The turn-ins at the head and tail overlap each other on the inside of the cover. This technique, which uses approximately twice as parchment to create a cover, is therefore often found on the more expensive laced-case limp bindings." , "@language" : "en" } ,
+        { "@value" : "Innslagene i hode og fot overlapper hverandre p\u00E5 innsiden av permen." , "@language" : "nb" } ,
+        { "@value" : "The turn-ins at the head and tail overlap each other on the inside of the cover.  This technique, which uses approximately twice as parchment to create a cover, is therefore often found on the more expensive laced-case limp bindings." , "@language" : "en" } ] }
+] }

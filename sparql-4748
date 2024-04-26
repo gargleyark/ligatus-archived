@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1584">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1564" />
+    <skos:prefLabel xml:lang="en">sewing-support-type secondary stitching</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A type of secondary stitching in which thongs, usually alum-tawed, are stabbed through the spine edge of a bookblock level with the positions otherwise taken by the sewing supports. This type of secondary stitching was typically used in England and not in France.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

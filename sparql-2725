@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2926" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2893" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hinged spine-locking bars" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Fastenings in which the catchplates and hinge-plates, in the form of metal bars, extend from the fore-edge to the spine-edge of both boards and are linked across the spine by two short metal bars hinged both at the joints and in the centre of the spine and by hinged clasps on the fore-edge." , "lang" : "en" } ] }
+}

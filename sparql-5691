@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3069>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3173> ;
+	skos:prefLabel	"thongs"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Narrow strips of tanned, oil-tanned or alum-tawed skin used for a variety of purposes in bookbindings, such as sewing supports, endband cores, ties, etc. Although the terms &#039;thongs&#039; and &#039;tapes&#039; are very similar in meaning, thongs are typically thicker than tapes made from animal skins. Therefore a length of thin animal skin used for the secondary braiding of an endband should be described as a tape rather than a thong."@en .

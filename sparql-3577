@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3460" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3347" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1440" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4698" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1710" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "material features" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "materialer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] }
+}

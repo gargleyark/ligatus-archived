@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2953">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3748" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2951" />
+    <skos:prefLabel xml:lang="en">linked unsupported sewing</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A form of sewing without supports in which the thread as it emerges from each sewing station is taken behind the sewing thread of the previous gathering before returning either to the same gathering (for intermediate sewing stations), or into the next gathering for kettlestitches.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2279">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2277" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1361" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1395" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4529" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1646" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3028" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3045" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3222" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1190" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2968" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4551" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1450" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4071" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1587" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3016" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4165" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1509" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4167" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3922" />
+    <skos:prefLabel xml:lang="en">bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bokbind</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The structures and, if present, the covers used to hold together and protect the leaves of a bookblock and which allow them to be opened at the fore-edge.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">bokens struktur
+Strukturer for hvordan bind og bokblokk er satt sammen, som gjør at permer/omslag samler og beskytter bladene i bokblokken og som gjør at den kan åpnes.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

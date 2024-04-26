@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3246",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2274"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "spaced joints" , "@language" : "en" } ,
+        { "@value" : "steg" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Joints on inboard bindings in which the spine edges of the boards are secured at a distance from the backing joints, allowing the covering material to be formed into joint grooves between the two." , "@language" : "en" } ,
+        { "@value" : "avstand mellom l\u00F8srygg og permkant p\u00E5 lavfalsede b\u00F8ker, som gj\u00F8r det mulig \u00E5 \u00E5pne permen " , "@language" : "nb" } ] }
+] }

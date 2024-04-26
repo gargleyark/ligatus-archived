@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1395" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1377" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "inboard bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bygd bind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "bound in boards (bindings)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Bindings in which the boards are attached to the bookblock by whatever means before the book was covered. Such books are also described as &#039;bound in boards&#039;." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bindstruktur der permene ansettes mot ryggens bankede falser. Permen klebes enten til ansetningsfalsen og/eller ved at heftbindene festes til permen f\u00F8r overtrekksmaterialet trekkes over ryggen og hele eller deler av permen" , "lang" : "nb" } ] }
+}

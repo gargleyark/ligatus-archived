@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3300">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4165" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3061" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4103" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1413" />
+    <skos:prefLabel xml:lang="nb">heftbind tredd gjennom perm</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">lace-attached case bindings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">teknikk for å føye sammen løsbind og bokblokk ved at heftbind og evt. endene på kapitélbånd tres gjennom hull i løsbindet </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Bindings in which a case-type cover is attached to a sewn bookblock by lacing through it either sewing-support and/or endband slips or secondary tackets. These are usually clearly visible on the outside of the case-cover, though where the attachment has broken down and the slips are broken and lost, it may only be the holes left in the cover that will give evidence of the original attachment.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

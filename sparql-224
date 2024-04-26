@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4893",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3988"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "agatmarmorert papir" , "@language" : "nb" } ,
+        { "@value" : "agate sprinkled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Ufarget eller farget ark med sterk farge sprenges med tett sammenstilte sprutflekker, ofte m\u00F8rke og med frynsede kanter i tillegg til mindre under- og overliggende flekker i kontrastfarger. Agatmarmorert papir er som regel maskinfremstilt og har en h\u00F8yglanset overfate.\r\n\r\n" , "@language" : "nb" } ,
+        { "@value" : "Un-coloured or already coloured paper showing an intense colour, with closely set sprinkles, often black,  with additional smaller overlying or underlying sprinkles in contrasting colours with particularly soft edges.\r\nThe surface of the paper is highly glossed." , "@language" : "en" } ,
+        { "@value" : "Un-coloured or already coloured paper showing an intense colour, with closely set sprinkles, often black, with additional smaller overlying or underlying sprinkles in contrasting colours with particularly soft edges.\r\nThe surface of the paper is highly glossed.\r\n\r\n" , "@language" : "en" } ] }
+] }

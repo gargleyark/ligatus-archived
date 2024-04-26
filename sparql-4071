@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2987>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3273> ;
+	skos:narrower	<http://w3id.org/lob/concept/1304> ,
+		<http://w3id.org/lob/concept/4323> ,
+		<http://w3id.org/lob/concept/2989> ,
+		<http://w3id.org/lob/concept/3026> ;
+	skos:prefLabel	"pins (fastening components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Metal shafts with a sharpened end (tang) driven into either the side or edge of a wooden board over which pin straps or pin clasps can be fastened. They may be shaped and have bolsters."@en .

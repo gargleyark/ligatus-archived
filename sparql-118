@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3417">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3419" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3421" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3423" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3425" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3769" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3427" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3429" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3771" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3773" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3775" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3777" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3781" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4757" />
+    <skos:prefLabel xml:lang="en">actors</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">aktører</skos:prefLabel>
+    <skos:scopeNote xml:lang="nb">personer som enten individuelt eller sammen i grupper har kunnskaper til å utføre målbevisste handlinger som de kan holdes ansvarlige for </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Personer som enten individuelt eller sammen i grupper som har evnen til å utføre bevisste handlinger som de kan holdes anvarlige for. I denne sammenhengen kan det f.eks. være bokbindere, bokselgere, papirmakere, pergamentmakere etc. 
+</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The purpose of this hierarchy is to provide values for the role types of the CIDOC-CRM entity E39 Actor:
+
+This class comprises people, either individually or in groups, who have the potential to perform intentional actions for which they can be held responsible.
+The CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The purpose of this hierarchy is to provide values for the CIDOC-CRM entity E39 Actor:
+
+This class comprises people, either individually or in groups, who have the potential to perform intentional actions for which they can be held responsible.
+The CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body.</skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

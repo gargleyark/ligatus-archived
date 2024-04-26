@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1556" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3407" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "forsatsens st\u00F8rrelse lik bokblokken" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "same-size endleaves" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Endleaves which are the same size as the leaves of the bookblock." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Forsatsblad som har samme st\u00F8rrelse som bokblokken." , "lang" : "nb" } ] }
+}

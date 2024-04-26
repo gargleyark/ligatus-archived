@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1254",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3273"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4608"} ,
+        { "@id": "http://w3id.org/lob/concept/2927"} ,
+        { "@id": "http://w3id.org/lob/concept/2955"} ,
+        { "@id": "http://w3id.org/lob/concept/4436"} ,
+        { "@id": "http://w3id.org/lob/concept/2925"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "clasps (components)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The movable hooks or rings which lock onto catchplates or pins on the opposite side of a bookblock edge." , "@language" : "en" } ] }
+] }

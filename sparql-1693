@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1310>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1606> ;
+	skos:narrower	<http://w3id.org/lob/concept/3703> ;
+	skos:prefLabel	"endband slips"@en ,
+		"kapit\u00E9lflik "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"deler av kapit\u00E9lb\u00E5ndkjernen eller heftbind som stikker utover bokblokkryggens tykkelse "@nb ,
+		"The parts of a sewing support, endband core or stitched thong which extend beyond the thickness of a bookblock and may be used to attach boards or covers to the bookblock."@en .

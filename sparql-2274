@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4404",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2283"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "finishing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The term finishing includes all the decorated processes that follow the process of forwarding the binding, and include polishing, lettering and decorating the covering material both on the inside and the outside of the covers, the pastedowns and endleaves and sometimes the edges of the book. It also includes inlaying, onlaying, varnishing, staining and otherwise decorating and/or protecting the finished bookbinding. The materials that were decorated before they were used to cover the book (i.e. embossing) and the finishing of adhesive and lace-attached covers will be done off the book and therefore before the final stage of the forwarding process. Individual finishing techniques will be found under decorating techniques, surface coating techniques and identification techniques." , "@language" : "en" } ] }
+] }

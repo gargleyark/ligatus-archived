@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3163",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3740"} ,
+        { "@id": "http://w3id.org/lob/concept/3742"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2940"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pigments" , "@language" : "en" } ,
+        { "@value" : "pigmenter" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "fargestoffer som brukes i form av ul\u00F8selige pulvere til farging" , "@language" : "nb" } ,
+        { "@value" : "Any relatively insoluble organic, inorganic, natural or artificial substance that imparts a color to another substance or mixture and always appears as the same specific color when viewed in white light. It is the constituent of paint or ink that provides the color. Distinguished from a dye, which is soluble in the vehicle, a pigment is insoluble in the vehicle, but instead is held in a suspension." , "@language" : "en" } ] }
+] }

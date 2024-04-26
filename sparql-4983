@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3014>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2376> ;
+	skos:prefLabel	"sewn structures"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"All the bookbinding structures that are created by sewing through the folds of individual gatherings or between two leaves of an overcast gathering."@en .

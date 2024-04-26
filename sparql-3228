@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1492">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2482" />
+    <skos:prefLabel xml:lang="nb">laminert papp</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">paste-laminate board (material)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">pasteboards</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Board material made by pasting together pieces of sheet material most often but not always paper and, frequently, re-used paper. Boards made from laminations of parchment, tanned skin and alum-tawed skin are known from the middle ages, but the introduction into Italy from the Islamic world, where the practice had already been in use for two or three centuries, in the fifteenth century of boards made from pasted laminations of paper transformed the appearance and weight of western European bookbindings, and their use spread across Europe, reaching England by the early sixteenth century. Although correctly known as pasteboard, that term has been used so often to mean millboard, and vice versa, as to have lost its precise and accurate meaning. The term paste laminate board is here offered as an alternative until such time as the word pasteboard can be restored to its original meaning.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">fremstilling av papp til bokpermer ved å lime sammen ark av papir</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Board material made by pasting together pieces of sheet material most often but not always paper and, frequently, re-used paper. Boards made from laminations of parchment, tanned skin and alum-tawed skin are known from the middle ages, but the introduction into Italy from the Islamic world, where the practice had already been in use for two or three centuries, in the fifteenth century of boards made from pasted laminations of paper transformed the appearance and weight of western European bookbindings, and their use spread across Europe, reaching England in the early sixteenth century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

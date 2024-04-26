@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2285">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2277" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3448" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1227" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3338" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3343" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2893" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4174" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3154" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3271" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3273" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3275" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3277" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2368" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2370" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3283" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3287" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2376" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4684" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2837" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3303" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3305" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4956" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1222" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4854" />
+    <skos:prefLabel xml:lang="en">components</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Constituent parts of objects or structures.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

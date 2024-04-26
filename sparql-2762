@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3361",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2893"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2897"} ,
+        { "@id": "http://w3id.org/lob/concept/2963"} ,
+        { "@id": "http://w3id.org/lob/concept/2964"} ,
+        { "@id": "http://w3id.org/lob/concept/2961"} ,
+        { "@id": "http://w3id.org/lob/concept/2962"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hempe" , "@language" : "nb" } ,
+        { "@value" : "loop fastenings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "liten l\u00F8kke el. stropp festet til en perm som en del av en lukkemekanisme p\u00E5 et bokbind" , "@language" : "nb" } ,
+        { "@value" : "Fastenings in which either loops of cord, alum-tawed skin, tanned skin, etc. are attached to one side of a binding and are used to hold the book shut by being looped over a knot, bead, toggle, etc. attached to the other side, or loops from each side are secured by passing a stylus through them along the edge." , "@language" : "en" } ] }
+] }

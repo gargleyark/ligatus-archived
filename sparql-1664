@@ -1,0 +1,17 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1301",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1272"} ,
+        { "@id": "http://w3id.org/lob/concept/4517"} ,
+        { "@id": "http://w3id.org/lob/concept/3889"} ,
+        { "@id": "http://w3id.org/lob/concept/4519"} ,
+        { "@id": "http://w3id.org/lob/concept/4541"} ,
+        { "@id": "http://w3id.org/lob/concept/4610"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "edge cutting" , "@language" : "en" } ,
+        { "@value" : "snittskj\u00E6ring" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "trimming (edge cutting)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The cutting of the edges of a bookblock to produce more or less smooth edges for convenience in handling, protection and decoration." , "@language" : "en" } ,
+        { "@value" : "beskj\u00E6ring av bokblokkens snitt for \u00E5 gj\u00F8re dem glatte og forberede dem for dekorering " , "@language" : "nb" } ] }
+] }

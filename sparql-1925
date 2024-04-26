@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4440>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3303> ;
+	skos:prefLabel	"envelope flap inlays"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of stiff sheet material, usually some type of paper board but occasionally scaleboard, over which the covering material of the outer end of an envelope flap is folded. They may be rectangular, triangular, pentagonal, etc."@en .

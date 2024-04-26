@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2878",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2954"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "dropped-lip catchplates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "shovel" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Catchplates, the outer ends of which drop down over the edge of the board before rising to create a gutter-like groove into which the hooked clasp fastens. Dropped-lip catchplates, especially if nailed into shallow recesses on the surface of a board will keep the clasp within the thickness of the bound book, and would therefore be relatively safe to shelve vertically." , "@language" : "en" } ] }
+] }

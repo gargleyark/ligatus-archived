@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2930>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:prefLabel	"imitation russia leather"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Skins prepared outside Russia in imitation of genuine russia leather, most obviously by the dicing of the skins. The imitation skins do not share the durability of the genuine examples and are often now in poor condition. Such skins were made in France and England in the eighteenth century and cowhides (and other skins) made in imitation of russia leather were known in the U.S.A. as American russia."@en .

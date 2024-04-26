@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3901">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:prefLabel xml:lang="en">adhering (forwarding)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">ansmøring</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The use of adhesive, either paste or glue, to attach one component to another.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The use of adhesive, either paste or glue, to hold the leaves or gatherings of a bookblock together.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">manuell eller maskinell påføring av lim eller klister på en flate </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

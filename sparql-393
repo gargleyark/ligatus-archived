@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1342>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3283> ;
+	skos:prefLabel	"dobbeltblad"@nb ,
+		"bifolia"@en ;
+	skos:altLabel	"folds"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Et ark som er falset p\u00E5 midten slik at det oppst\u00E5r to blad av omtrent lik st\u00F8rrelse, f.eks. en bokside med dobbel sidest\u00F8rrelse som falses i bokens for- eller toppsnitt."@nb ,
+		"A piece of sheet material folded to create two leaves of more or less equal size."@en .

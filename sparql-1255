@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/4165" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3300" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1195" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "case bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "innhengt bind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Bindings in which the cover with or without boards is attached to the assembled bookblock as a single component, or case. This can be done by means of lacing or adhering." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "teknikk for sammenf\u00F8yning av bind med eller uten permer og bokblokken, der bindet lages for seg f\u00F8r det festes til bokblokken, enten ved liming eller ved at heftbindene tres gjennom hull i l\u00F8sbindet" , "lang" : "nb" } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2897" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3361" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "folded-loop fastenings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Folded length of metal, textile or animal skin attached to the fore-edges of both boards of a binding which create loops at their outer ends which allow a stylus or pencil to be passed through them from head to tail, thus holding the book shut." , "lang" : "en" } ] }
+}

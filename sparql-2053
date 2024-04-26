@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1407>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2342> ;
+	skos:prefLabel	"falske festbind"@nb ,
+		"kettlebands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The raised bands originally created by the kettle-stitches at the head and tail of the spine of the book, but often, in fact, created over lengths of cord or leather as part of the design of the spine, as false kettlebands, where the actual kettlestitches were not in an aesthetically pleasing position. "@en ,
+		"Falske bind plassert \u00F8verst og nederst p\u00E5 ryggen der hvor festbindene normalt befinner seg som en del av bokryggens design."@nb .

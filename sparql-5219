@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3689>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1309> ;
+	skos:prefLabel	"straight cores"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of animal skins cut into strips without any further manipulation, though two or more strips of thin material such as parchment may be used to make the core up to the required thickness."@en .

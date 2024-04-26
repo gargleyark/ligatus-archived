@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3143" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2540" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "folded stuck-on endbands" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Stuck-on endbands formed by folding pieces of sheet material lengthways and adhering them to the spine in such a way that the folded edge projects beyond the height of the bookblocks. Folded stuck-on endband linings will often incorporate a core." , "lang" : "en" } ] }
+}

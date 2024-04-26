@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1197>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:prefLabel	"alungarvet skinn "@nb ,
+		"alum-tawed skin"@en ;
+	skos:altLabel	"white leather"@en ,
+		"white tawed"@en ,
+		"hungarian leather"@en ,
+		"whittawed"@en ,
+		"tawed"@en ,
+		"cuir de Hongrie"@fr ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A skin prepared in an aqueous solution of a double salt of aluminium and potassium sulphates. The process, which is of great antiquity, produces a white skin which is dried (crusted) and then staked, or worked over a blunt metal knife, to produce a soft, supple skin, qualities which could be enhanced by the addition of flour and egg-yolk to the tawing solution. If wetted again, as many blind-tooled German bindings of the late fifteenth to the mid-eighteenth century were before tooling, the skin becomes once more hard and horny, as though it had reverted to the raw, untanned state. Also known as tawed skin (Reed, pp.62-65)."@en ,
+		"mineralsk garveprosess der aluminiumsulfat (alun) og natriumsulfat (koksalt) er anvendt for \u00E5 f\u00E5 et hvitt og smidig skinn"@nb .

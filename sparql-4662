@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4943",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4941"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4949"} ,
+        { "@id": "http://w3id.org/lob/concept/4951"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "r\u00E9glure" , "@language" : "fr" } ,
+        { "@value" : "text ruling (features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Ruled lines to guide the writing of manuscript texts. These may be made either by impressing lines into the leaves or using a medium such as graphite or ink to create horizontal lines either above or below the lines to be written and vertical lines to define the beginnings and ends of the lines of text." , "@language" : "en" } ] }
+] }

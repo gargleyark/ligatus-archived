@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3087",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3161"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "ferniss" , "@language" : "nb" } ,
+        { "@value" : "varnish" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A solution of a resin in a volatile solvent or a drying oil, which when spread out in a thin film, dries and hardens by evaporation of the volatile solvent, or by the oxidation of the oil, or both; applied as a protective coating or to enhance the appearance of the surface underneath." , "@language" : "en" } ,
+        { "@value" : "overflatebehandlingsmiddel  som gir en hard og blank overflate" , "@language" : "nb" } ] }
+] }

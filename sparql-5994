@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4234",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1317"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "u\u00E5pnet forsats" , "@language" : "nb" } ,
+        { "@value" : "unopened endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "forsats satt sammen av enkle falsede ark der falsene i hode, fot eller foran ikke er blitt sprettet opp " , "@language" : "nb" } ,
+        { "@value" : "Endleaves folded from single sheets in which bolts on the head, tail or fore-edges have not been opened." , "@language" : "en" } ] }
+] }

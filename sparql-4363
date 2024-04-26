@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2999>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ;
+	skos:prefLabel	"quarter strips"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Narrow lengths of sheet metal, tanned or alum-tawed skin nailed along the cut edges of quarter bindings in Germany and Italy in the late 15th and early 16th century."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3723>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1694> ;
+	skos:prefLabel	"irregular turn-ins"@en ,
+		"ubesk\u00E5rne innslag"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The edges of the turn-ins are not trimmed and retained the irregular edges of the animal skin."@en ,
+		"Innslagene er ikke besk\u00E5ret og har beholdt skinnets ujevne kanter."@nb .

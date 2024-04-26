@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1337">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1273" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1274" />
+    <skos:prefLabel xml:lang="en">flush edges</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">kantskåret bokblokk med omslag/ perm</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The boards and or cover are cut to the same size as the bookblock. This may be done either before the boards or cover are attached to the bookblock, in which case their edges and those of the bookblock will often not line up exactly (especially, as is often the case, where such boards are attached to bookblocks with uncut edges), or their edges may be &amp;#039;cut flush&amp;#039; together with the edges of the bookblock in a single operation. In both cases, the boards will be flush with the bookblock.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">boken beskjæres samtidig med permene, slik at permenes kanter flukter med bokblokkens kanter, overtrekket kan ha innslag</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

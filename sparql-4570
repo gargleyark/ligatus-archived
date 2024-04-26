@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3810",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2270"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rygg" , "@language" : "nb" } ,
+        { "@value" : "spine (place)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "den delen av boken som ved hefting eller annen metode holder leggene eller bokblokkens blad sammen" , "@language" : "nb" } ,
+        { "@value" : "The location on the book where the leaves are held together to create a codex-form book which opens from the opposite edge (fore-edge)." , "@language" : "en" } ] }
+] }

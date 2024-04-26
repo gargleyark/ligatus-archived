@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3305",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1619"} ,
+        { "@id": "http://w3id.org/lob/concept/1655"} ,
+        { "@id": "http://w3id.org/lob/concept/1618"} ,
+        { "@id": "http://w3id.org/lob/concept/3041"} ,
+        { "@id": "http://w3id.org/lob/concept/1624"} ,
+        { "@id": "http://w3id.org/lob/concept/3391"} ,
+        { "@id": "http://w3id.org/lob/concept/1392"} ,
+        { "@id": "http://w3id.org/lob/concept/4077"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "spine components" , "@language" : "en" } ,
+        { "@value" : "ryggkomponenter" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "alle deler som er brukt i konstruksjonen og utformingen av bokblokkens rygg " , "@language" : "nb" } ,
+        { "@value" : "The components used in the treatment and construction of the spines of bookblocks." , "@language" : "en" } ] }
+] }

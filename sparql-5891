@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4583>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3458> ;
+	skos:prefLabel	"text areas"@en ,
+		"tekstomr\u00E5de"@nb ;
+	skos:altLabel	"text blocks"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The area of a page containing the printed, written, or illustrative matter, within the four margins."@en ,
+		"omr\u00E5de p\u00E5 en side med skrevet, trykt eller illustrert innhold innenfor fire marger "@nb .

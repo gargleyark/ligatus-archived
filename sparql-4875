@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1642>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1334> ;
+	skos:prefLabel	"stitched flayholes"@en ;
+	skos:altLabel	"sewn flayholes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Holes made in an animal skin during flaying or processing which have been sewn up with thread to prevent them from opening up into larger holes when the skin is stretched and dryed. Sewn flayholes are a common feature of skins made into parchment."@en .

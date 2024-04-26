@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3367",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3001"} ,
+        { "@id": "http://w3id.org/lob/concept/3075"} ,
+        { "@id": "http://w3id.org/lob/concept/3076"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "lukkemekanismens egenskaper" , "@language" : "nb" } ,
+        { "@value" : "fastenings (features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Fastenings which are integral to a component (e.g. a tongue formed out of a cover)." , "@language" : "en" } ,
+        { "@value" : "karakteristiske egenskaper ved l\u00E5semekanismen og dens deler " , "@language" : "nb" } ] }
+] }

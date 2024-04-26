@@ -1,0 +1,23 @@
+{
+  "http://w3id.org/lob/concept/2893" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4219" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4221" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3005" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4602" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2926" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2845" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2874" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2864" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3047" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1669" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3158" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3159" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3361" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fastenings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "lukkemekanisme" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "festeanordning som har til hensikt \u00E5 holde bindets permer lukket rundt bokblokken n\u00E5r boken ikke er i bruk " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Fastenings are used to hold a book shut when it is not in use. They can take a variety of forms and be made from many different materials, but their essential function is secure one board or cover to the other across the fore-edge of the bookblock and often the head and tail edges as well. Fastenings were in use from the earliest times, but after the introduction of printing and, more particularly, the near universal use of paper-leaved textblocks, their use gradually became more and more decorative and status-related (ie. for liturgical or ceremonial use), unless they are found on books which were intended to be carried about, in which case they retain a primarily functional purpose. Fastenings may also be found on enclosures." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Fastenings are used to hold a book shut when it is not in use. They can take a variety of forms and be made from many different materials, but their essential function is secure one board or cover to the other across the foredge of the bookblock and often the head and tail edges as well. Fastenings were in use from the earliest times, but after the introduction of printing and, more particularly, the near universal use of paper-leaved textblocks, their use gradually became more and more decorative and status-related (ie. for liturgical or ceremonial use), unless they are found on books which were intended to be carried about, in which case they retain a primarily functional purpose. Fastenings may also be found on enclosures." , "lang" : "en" } ] }
+}

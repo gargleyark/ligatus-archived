@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1573",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1317"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1313"} ,
+        { "@id": "http://w3id.org/lob/concept/1338"} ,
+        { "@id": "http://w3id.org/lob/concept/1393"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tilf\u00F8yde forsatsblad" , "@language" : "nb" } ,
+        { "@value" : "separate endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Separate forsatsblad som er lagt til en allerede eksisterende tekstblokk av bokbinderen og som tilsammen utgj\u00F8r en fullstendig bokblokk. Selv om forsatsen best\u00E5r av et begrenset antall komponenter, kan de kombineres p\u00E5 uendelig mange m\u00E5ter og lages av en rekke forskjellige typer materialer. Detaljert beskrivelse av forsatsen er nyttig fordi visse typer assosieres med spesielle innbindingsteknikker, regional proveniens og til og med individuelle bokbindere eller eiere." , "@language" : "nb" } ,
+        { "@value" : "Separate endleaves are those added by a bookbinder to a pre-existing textblock, either manuscript or printed, and together with the textblock make up a complete bookblock. Although made from a limited number of components, these components can be combined in a seemingly endless number of different endleaf formats. They can also be made from a large number of different materials or combinations of materials. The importance of describing endleaf formats in detail comes from the association between certain endleaf formats and different types of binding, national provenances and even individual owners and binders." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4541>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1301> ;
+	skos:prefLabel	"cutting flush to the boards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of cutting the leaves of a bookblock down to the size of the boards to which they have already been sewn. This technique was commonly employed for Greek-style bindings."@en .

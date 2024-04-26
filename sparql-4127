@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3163>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3740> ,
+		<http://w3id.org/lob/concept/3742> ;
+	skos:narrower	<http://w3id.org/lob/concept/2940> ;
+	skos:prefLabel	"pigments"@en ,
+		"pigmenter"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"fargestoffer som brukes i form av ul\u00F8selige pulvere til farging"@nb ,
+		"Any relatively insoluble organic, inorganic, natural or artificial substance that imparts a color to another substance or mixture and always appears as the same specific color when viewed in white light. It is the constituent of paint or ink that provides the color. Distinguished from a dye, which is soluble in the vehicle, a pigment is insoluble in the vehicle, but instead is held in a suspension."@en .

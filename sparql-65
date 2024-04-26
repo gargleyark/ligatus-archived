@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2406>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2404> ;
+	skos:narrower	<http://w3id.org/lob/concept/2894> ,
+		<http://w3id.org/lob/concept/2408> ;
+	skos:prefLabel	"alloy"@en ,
+		"legering"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"blanding av metaller"@nb ,
+		"Substance having metallic properties, consisting of two or more metallic elements or of metallic and nonmetallic elements, which are miscible with each other when molten, and do not separate into distinct layers when solid."@en .

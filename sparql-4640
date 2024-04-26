@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4861">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3429" />
+    <skos:prefLabel xml:lang="nb">rubrikator</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">rubricators</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Scribes who execute rubrics, which are headings, catchwords, or marginal index words written in red (the remainder of the text being in black), or otherwise distinguished in lettering, as guides to the contents of pages. These scribes may or may not be responsible for the rest of the text. The more common underlinings, capital strokes, paragraph marks (paraphs), and simple initials, largely in red, but also found in blue and (less commonly) green or yellow, in early printed books as well as manuscripts are technically speaking not rubrics, but the person producing them is typically referred to as a rubricator. In printed books, however, the rubrics would be printed in red ink, often from one setting of type, using pierced frisket sheets to separate the words to be printed in red ink.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Skriftlærd som utfører rubrisering, overskrifter, titler eller marginale stikkord skrevet i rødt (resten av teksten er i sort), eller som på annen måte med skrift viser til innholdet på sidene. Rubrikatoren kan eller kan ikke være ansvarlig for resten av teksten. De mer vanlige understrekinger, kapitéler, avsnittsmerker, og enkle initialer, hovedsakelig i rødt, men også funnet i blått og (mindre vanlig) grønt eller gult, i tidlige trykte bøker samt manuskripter er teknisk sett ikke rubrisering, men personen som produserer dem, kalles vanligvis en rubrikator.
+
+
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3431">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3793" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4765" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4759" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4761" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4763" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4749" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3444" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3452" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3433" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3437" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3441" />
+    <skos:prefLabel xml:lang="en">symbolic objects</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">This hierarchy provides values for CIDOC-CRM E90 Symbolic Object:
+
+This class comprises identifiable symbols and any aggregation of symbols, such as characters, identifiers, traffic signs, emblems, texts, data sets, images, musical scores, multimedia objects, computer program code or mathematical formulae that have an objectively recognizable structure and that are documented as single units.
+
+It includes sets of signs of any nature, which may serve to designate something, or to communicate some propositional content. 
+
+An instance of E90 Symbolic Object does not depend on a specific physical carrier, which can include human memory, and it can exist on one or more carriers simultaneously. An instance of E90 Symbolic Object may or may not have a specific meaning, for example an arbitrary character string.
+
+In some cases, the content of an instance of E90 Symbolic Object may completely be represented by a serialized digital content model, such as a sequence of ASCII-encoded characters, an XML or HTML document, or a TIFF image.  The property P3 has note allows for the description of this content model. In order to disambiguate which symbolic level is the carrier of the meaning, the property P3.1 has type can be used to specify the encoding (e.g. &amp;quot;bit&amp;quot;, &amp;quot;Latin character&amp;quot;, RGB pixel).</skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

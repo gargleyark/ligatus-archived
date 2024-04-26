@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3181>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1481> ;
+	skos:prefLabel	"cover paper"@en ,
+		"grovt papir til omslag"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"papirkvalitet med relativt sett  h\u00F8yere vekt enn trykke- og skrivepapir "@nb ,
+		"Thick, strong papers specially designed as a material to be used for covers. They were made as laid and later wove papers which were much thicker than typical manuscript and printing papers, but thinner than cartonnage."@en .

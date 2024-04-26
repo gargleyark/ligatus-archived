@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4886>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2277> ;
+	skos:prefLabel	"codex-form books"@en ,
+		"bok"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"skrevne el. trykte blader som er heftet eller bundet til en enhet med omslag eller bind "@nb ,
+		"Groups of leaves of sheet materials, most often parchment or paper, gathered together and secured along one edge (the spine) with some form of structure that allows either surface of each leaf to be seen when the leaves are opened from the opposite edge. "@en .

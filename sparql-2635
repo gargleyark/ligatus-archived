@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1580>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/1703> ,
+		<http://w3id.org/lob/concept/3567> ,
+		<http://w3id.org/lob/concept/2508> ;
+	skos:prefLabel	"sewing structures"@en ,
+		"heftestruktur"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The structures by which the leaves or gatherings of a book are sewn together to create a single bookblock. Sewing structures may be either supported or unsupported, but the thread will always be taken either through the fold of a folded gathering or between two leaves of an overcast gathering."@en ,
+		"en bokblokk kan heftes p\u00E5 heftbind eller uten heftbind, men heftetr\u00E5den vil alltid l\u00F8pe i midten av et legg eller kastet over ryggen p\u00E5 legget hvis det best\u00E5r av (l\u00F8se) ark "@nb .

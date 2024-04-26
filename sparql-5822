@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4223",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1255"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tabbed comb spine linings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Comb spine linings in which small tabs of parchment are left at the inner end of each of the slots cut across the lining for the sewing supports and which are folded around the outermost gatherings on both sides of the bookblock to act as external sewing guards. The tabs were intended to reinforce the sewing of the outermost gathering on each side, and can be seen between the two outermost gatherings, usually with one tab to each sewing station, but occasionally with one tab covering two adjacent sewing stations. This type of lining would appear to be south German, and is found on bindings made in the late fifteenth and early sixteenth centuries." , "@language" : "en" } ] }
+] }

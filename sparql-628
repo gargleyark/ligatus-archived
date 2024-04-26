@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3419",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bokbinder" , "@language" : "nb" } ,
+        { "@value" : "bookbinders" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "People who bind books, which entails using various procedures, performed by hand or machine, to secure leaves or gatherings, usually within covers." , "@language" : "en" } ,
+        { "@value" : "en person som anvender seg av ulike metoder og teknikker enten for h\u00E5nd eller ved hjelp av maskiner for \u00E5 innordne blad og legg til en innbinding, som regel med et overtrekk " , "@language" : "nb" } ] }
+] }

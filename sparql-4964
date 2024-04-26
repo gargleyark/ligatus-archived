@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2921">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3746" />
+    <skos:prefLabel xml:lang="en">single-station sewing</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Sewing each sewing support individually across the spine with no thread-link between the supports and no separate change-over stations. This early medieval technique is seldom encountered, but shows in the centre fold of each gathering as a series of short lengths of thread one behind each sewing support. One type of single-station sewing has been described by Christopher Clarkson, who called it &amp;#039;helical&amp;#039; sewing (Clarkson, C., 1993. English Monastic Bookbinding in the 12th Century. In M. Maniaci &amp;amp; P. F. Munafò, eds. Studi e testi. Città del Vaticano: Biblioteca Apostolica Vaticana, p.185).</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2833",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2837"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "board strap markers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "lifting tabs" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Straps, usually made of leather, which are attached to the inside of one or both boards of bindings, usually on the fore-edges, with the outer ends inserted between the leaves of the bookblock as a marker. The inner ends may lie over or under the turn-ins and in the latter case, will emerge through holes made in the covering material on the edges of the boards. The inner end of the straps may be secured either by one or more nails or adhesive, and the outer ends may be cut to a decorative profile. Board strap markers are a common feature of Greek-style bindings." , "@language" : "en" } ] }
+] }

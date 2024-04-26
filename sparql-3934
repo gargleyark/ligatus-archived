@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1502",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4174"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3133"} ,
+        { "@id": "http://w3id.org/lob/concept/3135"} ,
+        { "@id": "http://w3id.org/lob/concept/2510"} ,
+        { "@id": "http://w3id.org/lob/concept/1350"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pierced sewing supports" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "back plates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A support in the form of either pieces of material cut to the width of the spine or a single piece which extends to the height and width of the spine, or, in the case of longstitch bindings, a guard or full cover wrapped around the spine of a bookblock, and through and to which the gatherings are sewn. The materials used include cartonnage, parchment, leather, horn and wood. Pierced supports, as the materials used indicate, can either be rigid or more or less flexible. Entire bookblocks were sewn through pierced supports, often using patterned sewing, and they should not be confused with the sewing restraint technique in which the thread from the outermost gathering at each end of the bookblock only was sewn through the supports in order to prevent the gatherings sliding off the ends of the sewing supports. On some longstitch bindings sewn through full covers of cartonnage, the sewing was reinforced by the addition of pieces of thin, flexible parchment or leather placed on the outside of the covers which were intended to prevent the thread from tearing through the cartonnage. These are usually so thin and flexible that they could not have been used as supports on their own and can safely been described as longstitch reinforcements. Where they are thick and stiff, they should, however, be described as pierced supports. It may not always be easy to distinguish which is which." , "@language" : "en" } ] }
+] }

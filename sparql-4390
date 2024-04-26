@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1539",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rektangul\u00E6r rammedekor" , "@language" : "nb" } ,
+        { "@value" : "rectangular frames (decoration)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A commonly used decorative element which may be tooled, drawn or painted, which reflects the rectangular shape of the side of a bound book." , "@language" : "en" } ,
+        { "@value" : "dekorativt element som kan v\u00E6re preget, tegnet eller malt og som reflekterer bokens rektangul\u00E6re form  " , "@language" : "nb" } ] }
+] }

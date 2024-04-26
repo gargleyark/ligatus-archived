@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3814">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2270" />
+    <skos:prefLabel xml:lang="nb">utside</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">outer (place)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">external</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">beskriver en komponent som vender utover i forhold til midten  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The place closer to the outside of the binding.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

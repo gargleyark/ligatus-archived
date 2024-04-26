@@ -1,0 +1,16 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2484",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1481"} ,
+        { "@id": "http://w3id.org/lob/concept/1483"} ,
+        { "@id": "http://w3id.org/lob/concept/4616"} ,
+        { "@id": "http://w3id.org/lob/concept/2969"} ,
+        { "@id": "http://w3id.org/lob/concept/2470"} ,
+        { "@id": "http://w3id.org/lob/concept/2293"} ,
+        { "@id": "http://w3id.org/lob/concept/2482"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sheet (materials)" , "@language" : "en" } ,
+        { "@value" : "ark" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Material that is presented in broad, thin sheets or layers, which may be either rigid or flexible." , "@language" : "en" } ] }
+] }

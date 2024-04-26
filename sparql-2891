@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1398>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3407> ;
+	skos:prefLabel	"integrert forsats"@nb ,
+		"integral endleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Integral endleaves are formed by using blank leaves from either the left or right or both ends of a textblock to act as endleaves. In manuscripts they will often be ruled to the same pattern as the rest of the text leaves and can be found at either end of the textblock. In printed books they will usually only be found at the end of the textblock, where the printer has not been able to fill a complete sheet in the final gathering. If the final gathering provides an insufficient number of blank leaves to make up the desired endleaf format, the binder may add additional, separate endleaves to make good the deficiency. There will usually be a set of separate endleaves at the beginning of the textblock, though a number of German editions of the later eighteenth century supplied titlepages with conjugate blank leaves which can also be used as a substitute for separate endleaves. It may appear difficult to decide whether blank text leaves (text blanks) at one or other end of a textblock should be considered as endleaves. However, if a text blank has been pasted to the inside of a board or cover as a pastedown or if there are separate endleaves only at the other end of the textblock, the text blanks may with confidence be described as integral endleaves. Where this is not the case, it is safer to describe them simply as text blanks."@en ,
+		"Forsats som er dannet av blanke tekstblad i tekstblokken."@nb .

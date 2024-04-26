@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3777",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3779"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "metallarbeidere" , "@language" : "nb" } ,
+        { "@value" : "metalworkers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Those skilled or trained in the craft of working metal, whether practical or decorative." , "@language" : "en" } ,
+        { "@value" : "yrkesbetegnelse p\u00E5 folk som er utdannet/trent i \u00E5 arbeide med metall enten praktisk eller dekorativt " , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1662>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1393> ;
+	skos:prefLabel	"omhengt forsats"@nb ,
+		"text-hook endleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Forsats som heftes med f\u00F8rste og siste legg i boken og hvor forsatsen er b\u00F8yd rundt ryggen p\u00E5 legget som skal heftes."@nb ,
+		"A leaf that is hooked (i.e. folded with a stub) around the adjacent text gathering, either alone, in multiples or in combination with other components, such as text guards."@en .

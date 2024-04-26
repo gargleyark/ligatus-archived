@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3344>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:narrower	<http://w3id.org/lob/concept/2850> ,
+		<http://w3id.org/lob/concept/3094> ;
+	skos:prefLabel	"paper moulds"@en ,
+		"papirform"@nb ;
+	skos:altLabel	"paper mold"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"form til \u00E5 danne papirark "@nb ,
+		"The rectangular wooden frame which holds a screen of parallel (laid mould) or woven (wove mould) brass wires which is dipped into the paper pulp in the vat to pick up the pulp for a single sheet of paper and through which water drains away in the formation of a sheet of handmade paper."@en .

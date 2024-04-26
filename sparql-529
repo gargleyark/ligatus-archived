@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2831>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1244> ;
+	skos:prefLabel	"bent and slotted catchplates"@en ;
+	skos:altLabel	"bent slot (catch plate)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Catchplates made from flat strips of metal folded over the edges of boards at a right angle, with slots filed out of the central part of the folds."@en .

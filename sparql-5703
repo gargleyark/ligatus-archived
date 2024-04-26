@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3075>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3367> ;
+	skos:prefLabel	"tunge og sliss"@nb ,
+		"tongue and slot"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"lukkemekanisme for konvolutter der konvoluttens \u00F8vre del er formet som en tunge for \u00E5 tres inn i en sliss i konvoluttens nedre del "@nb ,
+		"Envelope flap fastenings in which the tongue of the envelope flap is inserted into a slot on the opposite cover."@en .

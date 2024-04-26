@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1431" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1619" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lozenge lining" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A more or less square lining rotated through 45\u00B0, so that two opposing corners line up, one above the other, in approximately the centre of the spine and the other two corners form triangular joints. This lining has been recorded on three limp laced-case German bindings of the third quarter of the sixteenth century." , "lang" : "en" } ] }
+}

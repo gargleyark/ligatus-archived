@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2516",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2350"} ,
+        { "@id": "http://w3id.org/lob/concept/3235"} ,
+        { "@id": "http://w3id.org/lob/concept/1537"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sewing recesses" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Recesses cut or sawn across the spine of a bookblock either to accommodate recessed sewing supports or the chains of stitches of unsupported sewing structures." , "@language" : "en" } ] }
+] }

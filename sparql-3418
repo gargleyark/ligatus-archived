@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/5423",
+      "@type" : [ "http://www.cidoc-crm.org/cidoc-crm/E55_Type" ,
+        "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2000/01/rdf-schema#label" : [ { "@value" : "leaf markers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2837"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2945"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "leaf markers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Markers attached to an external edge of a leaf." , "@language" : "en" } ] }
+] }

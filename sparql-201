@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4665>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3990> ;
+	skos:prefLabel	"\u00E5dret papir"@nb ,
+		"veined marbled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fargene sprutes p\u00E5 marmor\u00E9rgrunden og manipuleres enten manuelt eller kjemisk, slik at dr\u00E5pene forblir fargel\u00F8se s\u00E5 papiret skinner i gjennom, mens fargene presses sammen til \u00E5rringer som omgir dr\u00E5pene."@nb .

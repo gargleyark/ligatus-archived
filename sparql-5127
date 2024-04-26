@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3306>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2376> ;
+	skos:prefLabel	"stitched structures"@en ,
+		"sideheftede strukturer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"strukturer der heftetr\u00E5d e.l. er tredd gjennom hull i den indre margen p\u00E5 hele bokblokken "@nb ,
+		"The different structures used to make stitched bindings by passing thread, thongs, etc. through the inner margin of an entire bookblock."@en .

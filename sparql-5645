@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2480" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3171" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1611" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1386" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "wood" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "trevirke" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The principal tissue of trees and other plants that provides both strength and a means of conducting nutrients. Wood is one of the most versatile materials known." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "trevirke, teknisk og kommersiell betegnelse p\u00E5 tre som r\u00E5stoff for bearbeidings- eller foredlingsprosess" , "lang" : "nb" } ] }
+}

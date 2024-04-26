@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3141" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2540" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "h\u00E5ndstukket kapit\u00E9lb\u00E5nd" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "worked stuck-on endbands" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "h\u00E5ndlaget kapit\u00E9lb\u00E5nd som er stukket eller brodert for h\u00E5nd" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Stuck-on endbands in which the linings have been decorated (or worked) with thread through and around the part which projects beyond the height of the bookblock. The working of the thread will often take the form of a secondary endband sewing, but may be nothing more than a simple helix of thread worked through the exposed edge of the stuck-on endband lining." , "lang" : "en" } ] }
+}

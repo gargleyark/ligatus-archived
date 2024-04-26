@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1532">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1657" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3392" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1696" />
+    <skos:prefLabel xml:lang="en">quire tackets</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Tackets, typically found at the head and tail of individual gatherings, that were used to hold the individual bifolia within a gathering together without a cover. These were often used during the medieval period to secure the bifolia as the manuscript was being written but were also occasionally used on incunabula for reasons as yet unclear. </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

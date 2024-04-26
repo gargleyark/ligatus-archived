@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2480>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3171> ;
+	skos:narrower	<http://w3id.org/lob/concept/1611> ,
+		<http://w3id.org/lob/concept/1386> ;
+	skos:prefLabel	"wood"@en ,
+		"trevirke"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The principal tissue of trees and other plants that provides both strength and a means of conducting nutrients. Wood is one of the most versatile materials known."@en ,
+		"trevirke, teknisk og kommersiell betegnelse p\u00E5 tre som r\u00E5stoff for bearbeidings- eller foredlingsprosess"@nb .

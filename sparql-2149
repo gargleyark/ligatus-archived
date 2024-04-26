@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2898" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3197" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "foliering" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "foliation" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "plassering av etterf\u00F8lgende numre p\u00E5 hvert blad i en bok, som regel p\u00E5 h\u00F8yre side. Hvert blad har to sider, en recto og verso side. Kan ogs\u00E5 referere til nummerering av hele boken " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The placing of consecutive numbers one on each folio of a book; may also refer to the overall configuration of the numbering in the book. Each folio therefore has two pages, sometimes distinguished as recto and verso, or a and b sides, but these will change according to the direction of writing. Defining as left or right sides of a leaf will avoid this problem." , "lang" : "en" } ] }
+}

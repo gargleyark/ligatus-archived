@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3477",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "board shaping" , "@language" : "en" } ,
+        { "@value" : "permens utforming" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Rektangul\u00E6re permer med rette hj\u00F8rner kan bearbeides for \u00E5 gi kanter og overflater forskjellige utforminger." , "@language" : "nb" } ,
+        { "@value" : "The process by which rectangular boards with square edges are given a variety of shapes around their edges and across their external surfaces." , "@language" : "en" } ] }
+] }

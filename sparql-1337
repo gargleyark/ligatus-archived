@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4775>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:prefLabel	"combs (decorative tools)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Rake-like tools used in trough marbling, which consist of lengths of wood or metal fitted with a row of metal pins, the ends of which are dipped into the colours floating on a bath of size and then moved to manipulate the colours into combed patterns."@en .

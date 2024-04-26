@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3015">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3374" />
+    <skos:prefLabel xml:lang="en">shackles (book chain attachment)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">clips</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A component acting as chain attachment in which a metal fitting is folded over both sides of a board to which it will be secured with one or more nails or rivets, and through the outer end of which the first link of a chain is passed. This was the most commonly used fitting for securing chains to boards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

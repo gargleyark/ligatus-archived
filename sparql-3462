@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1434",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "marmorert dekor under gullsnitt" , "@language" : "nb" } ,
+        { "@value" : "marbling under the gold" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "An edge decoration technique in which the edges of a book are first marbled, and then gilded on top of the marbled colour. While the marbling is scarcely visible when the book is closed, it can be seen more clearly on the fore-edge when the book is opened and the edges of leaves are slightly separated. This is because the marbling colours penetrate slightly into the paper and can be seen on the sides of the leaves along the cut edge. The technique is particularly associated with French bindings of the seventeenth and eighteenth centuries." , "@language" : "en" } ,
+        { "@value" : "dekoreringsteknikk der bokens snitt f\u00F8rst blir marmorert for s\u00E5 \u00E5 bli dekket av av gull " , "@language" : "nb" } ] }
+] }

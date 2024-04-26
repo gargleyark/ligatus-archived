@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4672" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "spine covering (cover components)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The piece of covering material in a part cover which covers the spine and extends onto the back edges of the boards. The part which lies over the spine of the bookblock and therefore extends only from head to tail and from joint to joint should be distinguished as spine covering (cover features). it is this part of a part-cover which defines the primary covering material of a binding not the sides or corners, which may be different." , "lang" : "en" } ] }
+}

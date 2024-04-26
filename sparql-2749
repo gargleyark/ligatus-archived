@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3068" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3173" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "heftb\u00E5nd" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "tape" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "flate b\u00E5nd av tekstil eller pergament til \u00E5 hefte b\u00F8ker p\u00E5" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "As used on bookbindings, narrow, flexible strips of textile or thin animal skin such as parchment, used most often as sewing supports. They should be distinguished from the more decorative &#039;ribbons&#039;, which were used as bookmarks, ties, secondary sewing on endbands, etc." , "lang" : "en" } ] }
+}

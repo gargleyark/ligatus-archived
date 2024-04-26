@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2470>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2484> ,
+		<http://w3id.org/lob/concept/2450> ;
+	skos:narrower	<http://w3id.org/lob/concept/1239> ,
+		<http://w3id.org/lob/concept/1506> ,
+		<http://w3id.org/lob/concept/4585> ,
+		<http://w3id.org/lob/concept/4238> ,
+		<http://w3id.org/lob/concept/1448> ,
+		<http://w3id.org/lob/concept/1228> ,
+		<http://w3id.org/lob/concept/1706> ;
+	skos:prefLabel	"textile"@en ,
+		"tekstil"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sheet material created by weaving organic fibres."@en ,
+		"materiale fremstilt av tekstilfiber, som kan komme fra vekst- eller dyreriket "@nb .

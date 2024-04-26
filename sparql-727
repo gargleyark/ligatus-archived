@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4392" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1412" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "laced cases" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bindtredd l\u00F8sbind " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Case-type covers which are attached to a sewn bookblock by means of lacing the sewing-support slips and/or endband core slips through the joints of the case." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Case-type covers which are attached to a sewn bookblock by means of the sewing supports and/or endband core slips only." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bindtreing anvendes for \u00E5 f\u00F8ye sammen en allerede heftet bokblokk med et l\u00F8sbind ved bruk av heftbindene og eller endene p\u00E5 kapit\u00E9lb\u00E5ndene " , "lang" : "nb" } ] }
+}

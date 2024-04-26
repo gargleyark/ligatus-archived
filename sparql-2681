@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2442" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2438" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "horn" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "horn" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "stoffet som dyrehorn best\u00E5r av, gjenstander av horn" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Outgrowth of modified skin or compacted hair, often occuring in pairs, projecting from the frontal bones on either side of the skull, consisting of a nondeciduous cuticle composed of keratin. Distinguished from &quot;antler,&quot; which is modified bone." , "lang" : "en" } ] }
+}

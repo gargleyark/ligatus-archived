@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1621" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2350" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1307" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "spine panels" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ryggfelt " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The areas of the spine which lie between the sewing supports and at the head and tail of the spine. Where there are kettle- or halfbands, panels will be divided into half panels for the purpose of describing what may be found in them by way of decoration, etc. The word compartment has also been used to describe these areas of the spine." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "omr\u00E5der p\u00E5 ryggen som ligger mellom heftbindene og ryggens hode og fot" , "lang" : "nb" } ] }
+}

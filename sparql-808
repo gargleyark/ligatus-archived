@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4939",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "billedlig dekor" , "@language" : "nb" } ,
+        { "@value" : "pictorial decoration" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "dekor med billedlig fremstilling av objekters\u00E5 som landskap, bygninger eller blomster  " , "@language" : "nb" } ,
+        { "@value" : "Decoration in the form of the depiction of objects, landscapes, buildings, flowers etc. Such depictions can be carried out in any medium, such as tooling, drawing, embroidery, painting, etc." , "@language" : "en" } ] }
+] }

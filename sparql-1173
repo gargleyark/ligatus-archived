@@ -1,0 +1,28 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3277>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/1266> ,
+		<http://w3id.org/lob/concept/4240> ,
+		<http://w3id.org/lob/concept/1320> ,
+		<http://w3id.org/lob/concept/4242> ,
+		<http://w3id.org/lob/concept/1589> ,
+		<http://w3id.org/lob/concept/1624> ,
+		<http://w3id.org/lob/concept/4672> ,
+		<http://w3id.org/lob/concept/2999> ,
+		<http://w3id.org/lob/concept/4675> ,
+		<http://w3id.org/lob/concept/3041> ,
+		<http://w3id.org/lob/concept/1618> ,
+		<http://w3id.org/lob/concept/1655> ,
+		<http://w3id.org/lob/concept/1302> ,
+		<http://w3id.org/lob/concept/1462> ,
+		<http://w3id.org/lob/concept/4034> ,
+		<http://w3id.org/lob/concept/3533> ,
+		<http://w3id.org/lob/concept/1240> ,
+		<http://w3id.org/lob/concept/1206> ,
+		<http://w3id.org/lob/concept/3293> ,
+		<http://w3id.org/lob/concept/1261> ,
+		<http://w3id.org/lob/concept/3086> ;
+	skos:prefLabel	"cover components"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The components used in the covering of books."@en .

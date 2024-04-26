@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2460",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1481"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "eastern paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Eastern papers come in a wide variety of types that is sometimes difficult to distinguish with any accuracy. One of the more common types has polished, somewhat toned surfaces with a softer, fibrous interior. Often, eastern papers are very opaque and rather thick by comparison with western papers, and show no distinct laid pattern; others show quite coarse laid patterns." , "@language" : "en" } ] }
+] }

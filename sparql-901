@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1251>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2346> ;
+	skos:prefLabel	"utsparinger i permen"@nb ,
+		"channels"@en ;
+	skos:altLabel	"grooves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Hule spor sk\u00E5ret ut i trepermen for \u00E5 gi plass til treing og festing av bokblokkens heftbind- og kapit\u00E9lb\u00E5nds-ender."@nb ,
+		"Recesses cut into the surface of a board to accommodate sewing-support or endband slips or bridling threads."@en .

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1543" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1303" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "reverse points (edge grooves)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "In Greek-style bindings, the grooves which were frequently cut into the edges of the boards were either run round the corners or stopped short of the corners. If they were stopped, they may end in reverse points, in which the point faces inwards." , "lang" : "en" } ] }
+}

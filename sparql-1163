@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/3145" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2374" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "covered endbands (caps)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "saddle-stitch endband" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A type of cap formation, in which the covering material has been pulled right over the primary-sewn endband core down to the surface of the bookblock edge in front of the endband. It is held in place by a secondary sewing in the form of a saddle sewing which is passed under the endband core and pulls the covering material tightly to it from both sides. Typically the excess cover material in front of the endband is trimmed off with a knife after the secondary sewing is completed, leaving a knife-cut in the bookblock edge. On some German bindings of the late 15th century the cover material was not trimmed back, and was left lying over the bookblock edges." , "lang" : "en" } ] }
+}

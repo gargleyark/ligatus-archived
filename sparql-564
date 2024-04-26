@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2945",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2837"} ,
+        { "@id": "http://w3id.org/lob/concept/5423"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2868"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "leaf tab markers" , "@language" : "en" } ,
+        { "@value" : "bladmerker" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "tab" , "@language" : "en" } ,
+        { "@value" : "fore-edge marker" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Small, usually rectangular, pieces of leather, parchment, paper or textile, often coloured or decorated, or even metal, which are adhered to the fore-edges of the leaves of a bookblock in order permanently to mark the locations of specific passages in a text, beginnings of sections, etc. They can be pasted on one side of a leaf or, if folded, to both sides of a leaf. Some folded leaf tab markers were folded tightly over the edges of the leaves, others project from the edge to a greater or lesser extent. The outer ends of some folded leaf tab markers were formed into turk&#039;s head knots. The inner ends only of leaf tab markers are sometime found preserved in books that have had their fore-edges cut as the result of rebinding. They may or may not be be numbered or lettered, and could be added at any time after a book was bound." , "@language" : "en" } ,
+        { "@value" : "for inndeling av bokblokken festes biter av materiale som papir, skinn, pergament eller tekstil i ytterkanten av et blad " , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1682>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3156> ;
+	skos:prefLabel	"trenails"@en ;
+	skos:altLabel	"wooden nails"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Wooden nails, which could be made out of a variety of woods, usually hard woods, and could either be shaped by whittling or by driving a thin piece of wood through a drilled hole of the required diameter in a metal plate known as a dowel plate. The latter process will make a perfectly cylindrical nail which will hold fast in a drilled hole which is slightly smaller in diameter than the trenail. Wooden nails were not affected by the corrosive salts in alum-tawed skin and therefore work well with this material. They were commonly used in Italian bindings, where the lacing path (a tunnel in the spine edge of the board leading into an external channel) required nails to prevent the slips pulling out of the boards, until replaced by metal nails at the end of the fifteenth century. They were also used elsewhere in Europe when the slips could not be pegged or wedged into holes drilled in the boards."@en .

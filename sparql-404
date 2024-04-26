@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1395",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2279"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1377"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "inboard bindings" , "@language" : "en" } ,
+        { "@value" : "bygd bind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "bound in boards (bindings)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Bindings in which the boards are attached to the bookblock by whatever means before the book was covered. Such books are also described as &#039;bound in boards&#039;." , "@language" : "en" } ,
+        { "@value" : "bindstruktur der permene ansettes mot ryggens bankede falser. Permen klebes enten til ansetningsfalsen og/eller ved at heftbindene festes til permen f\u00F8r overtrekksmaterialet trekkes over ryggen og hele eller deler av permen" , "@language" : "nb" } ] }
+] }

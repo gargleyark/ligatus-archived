@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1298" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2356" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "drilled holes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The hole was created in the board with a drill. Drilled holes are usually associated with wooden boards and will result in a round hole, although different types of drill (drill bit, auger, gimlet, etc.) may have been used to make the hole. To achieve holes with an elongated profile, a second or even third hole may drilled adjacent to the first, and drilled holes may be finished, in such a way as to disguise, partially or completely, the original method used to make the hole." , "lang" : "en" } ] }
+}

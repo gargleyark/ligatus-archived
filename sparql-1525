@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2877>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3311> ;
+	skos:prefLabel	"drop-back boxes"@en ,
+		"skjelleske"@nb ;
+	skos:altLabel	"fall-down-back boxes"@en ,
+		"clamshell boxes"@en ,
+		"drop-spine boxes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bokeske best\u00E5ende av to brett med lave kanter p\u00E5 tre sider og som er hengslet til ryggstykket, st\u00F8rrelsen er slik at den underste delen passer inn i den \u00F8verste n\u00E5r esken er lukket. N\u00E5r skjellesken er \u00E5pen, ligger den flatt p\u00E5 underlaget, slik at det er enkelt \u00E5 komme til innholdet."@nb ,
+		"Boxes with two three-sided trays (one made to fit inside the other when closed) with a spine piece or back that is hinged onto the open edges of both trays, allowing the outer tray, or lid, to lie flat on a table when open."@en .

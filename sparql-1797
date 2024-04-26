@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2885>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3013> ;
+	skos:narrower	<http://w3id.org/lob/concept/2988> ;
+	skos:prefLabel	"endband string markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Markers which are made from string, the inner end of which is attached to the headband."@en .

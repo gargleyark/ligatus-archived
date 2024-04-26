@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1242">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1191" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2924" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1412" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1460" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4395" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2825" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1665" />
+    <skos:prefLabel xml:lang="nb">løsbind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">cases</skos:prefLabel>
+    <skos:altLabel xml:lang="en">wrappers</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Covers which are complete in themselves before they are attached to bookblocks. They may or may not have boards and other components in addition to a cover but no part of them can have been attached to the bookblock separately before the cover was attached. In almost all recorded examples, the spine of the case is not adhered to the spine of the bookblock, but is left instead with a natural hollow back. Cases can be attached to the bookblock by adhesive only, primary or secondary tackets, longstitch bindings and bindings with external sewing supports. In one instance, a case made of cartonnage has been recorded adhered to the boards of an inboard binding. This as yet unique example should therefore be described as a primary cover on an inboard binding.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">omslaget/bindet  blir laget for seg før det festes til bokblokken</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

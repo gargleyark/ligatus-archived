@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2434",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3171"} ,
+        { "@id": "http://w3id.org/lob/concept/2450"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "flax (fiber)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Fiber derived from the bast or skin of the stem of the species Linum usitatissimum. Soft, flexible fibers are produced by retting the stem of the flax plant, then washing and cleaning the fibers. Flax fibers are thinner and longer than cotton, but the fiber tube has thicker walls resulting in a stronger thread. Additionally, flax fibers are used for linen fabric, thread for making shoes and bookbinding, fish line, and twine. Waste flax fibers are used in banknotes, cigarette covers, and writing and drawing paper." , "@language" : "en" } ] }
+] }

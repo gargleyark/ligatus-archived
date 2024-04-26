@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4694>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/3077> ,
+		<http://w3id.org/lob/concept/4696> ;
+	skos:prefLabel	"lukkemekanismens utforming"@nb ,
+		"fastening features"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"utforming av l\u00E5semekanismen eller deler av l\u00E5semekanismen "@nb ,
+		"Features found on fastenings and fastening components."@en .

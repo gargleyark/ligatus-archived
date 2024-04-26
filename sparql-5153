@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3452" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3431" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "superekslibris" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "supralibros (information objects)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "super ex-libris" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Indications of ownership, often heraldic,  on the covers or external surfaces of a book. This information may be given by being blocked on the left (or right) sides of a book or may be engraved on furniture or fastenings attached to a binding. In some cases a centre might be made in the form of a cast coat of arms. They may be elaborately decorated and form part of the decorative scheme of a binding in addition to giving information about ownership.\r\n\r\n" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "eiermerke, ofte med heraldisk motiv plassert p\u00E5 permene eller p\u00E5 utsiden av en bok " , "lang" : "nb" } ] }
+}

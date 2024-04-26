@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2283">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3183" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3187" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2992" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1221" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1365" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1638" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4958" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4960" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4962" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3093" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2889" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4404" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4406" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1341" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3089" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3090" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3707" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3032" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3905" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3019" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1243" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4773" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2856" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4061" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4244" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4063" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4065" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2935" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2859" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3209" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2929" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4057" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3195" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3197" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/5429" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4045" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3204" />
+    <skos:prefLabel xml:lang="en">techniques</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">teknikk</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">The intention is that this hierarchy will provide types for the range of the CRM property: P32 used general technique (was technique of)</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">metodisk fremgangsmåte, praktiske regler som følges og er nødvendige, særlig ved frembringelse og utøvelse av kunst, i håndverk ell. annen faglig virksomhet</skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

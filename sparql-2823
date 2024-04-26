@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4099>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:prefLabel	"hud"@nb ,
+		"hide"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"skinn fra store dyr i r\u00E5 eller ugarvet tilstand "@nb ,
+		"The skin of an animal, raw or dressed: more particularly applied to the skins of the larger beasts and such as may be tanned into leather."@en .

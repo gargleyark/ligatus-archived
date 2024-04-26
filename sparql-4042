@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2510",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1502"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pierced spine-guard sewing supports" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A guard folded around the spine edge of the bookblock through which the gatherings are sewn. A full cover could then be folded over the pierced guard, or the pierced guard might be placed inside a full cover and both sewn through at the same time. Alternatively, a case might be attached to the pierced-guard sewing support by means of secondary tackets." , "@language" : "en" } ] }
+] }

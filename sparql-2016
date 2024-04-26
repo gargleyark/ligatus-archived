@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1346",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3407"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "flyblad" , "@language" : "nb" } ,
+        { "@value" : "free endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "flying leaves" , "@language" : "en" } ,
+        { "@value" : "flyleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Endleaves which are not adhered to the inside of a board or cover. Free endleaves were known to the late eighteenth-century English binder Roger Payne as &#039;flying leaves&#039; (Wormsley, p.162)." , "@language" : "en" } ,
+        { "@value" : "forsatblad kan ha flere blanke sider som ikke er klebet til permens innside  " , "@language" : "nb" } ] }
+] }

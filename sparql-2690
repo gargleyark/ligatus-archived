@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2534",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2342"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "halfbands" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Raised bands found between the raised bands created by sewing supports and of a smaller size. Halfbands were originally created by single sewing supports (genuine halfbands) placed between larger double sewing supports on 15th-century German bindings, but by the 1480&#039;s the single supports began to be replaced by false bands (false halfbands), a practice found also in Italy in the mid-16th century." , "@language" : "en" } ] }
+] }

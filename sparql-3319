@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2957>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3411> ;
+	skos:prefLabel	"long pin straps"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Long straps attached to one board with a hole in them towards but not at their outer end which fit over side pins on the opposite board. The hole was often reinforced with a metal plate, also with a hole in it, either folded around the strap or riveted to it. In other cases, the outer end of the strap will have a more complex metal fitting, sometimes zoomorphic and/or hinged, which either has a hole in it that fits over the side pin (open pin clasp) or a domed cap that covers it (capped pin clasp). Both types can have a hole or loop at the end of the clasp through which twisted parchment, alum-tawed, tanned or oil-tanned skin or braided thread pulls could be laced, which were used to pull the cap or pin clasp off the side pin."@en .

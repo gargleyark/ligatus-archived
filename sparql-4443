@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1553>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3876> ;
+	skos:narrower	<http://w3id.org/lob/concept/1681> ,
+		<http://w3id.org/lob/concept/1525> ;
+	skos:prefLabel	"run marbling"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of decorating a covering material such as paper or animal skins in which a liquid has been dropped onto and allowed to run over its surface to leave irregular, flowing traces. The effect can be achieved with coloured stains, or by chemical means, or by a combination of both. The covering material could be so decorated either before or after it was put onto the book, but skin materials were most often decorated on the book (leaving the spine, board edges and turn-ins undecorated), whilst papers were more often decorated in the sheet, before they were put onto the book."@en ,
+		"Process of decorating a covering material such as paper or animal skins in which a coloured or an uncoloured liquid has been directly and purposely dribbled on their surface to leave distinguishable traces. The effect can be purely mechanical, but can also be achieved by chemical means or by a combination of both."@en .

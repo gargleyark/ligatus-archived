@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1249">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2951" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3657" />
+    <skos:prefLabel xml:lang="en">chainstitch</skos:prefLabel>
+    <skos:altLabel xml:lang="en">link-stitch</skos:altLabel>
+    <skos:altLabel xml:lang="en">linkstitch</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A type of unsupported sewing in which the sewing thread, as it emerges from an individual sewing station, is taken down and round the thread emerging from the same station in the previous gathering(s), forming linked chains of thread across the spine. Chainstitch can be found on both supported and unsupported structures.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

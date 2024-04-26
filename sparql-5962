@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1700",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1226"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "udekorerte snitt" , "@language" : "nb" } ,
+        { "@value" : "undecorated edges" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Edges that may have been cut and polished but have receive no form of decoration." , "@language" : "en" } ,
+        { "@value" : "snitt som kan v\u00E6re besk\u00E5ret og polert, men som ikke har f\u00E5tt noen form for dekor " , "@language" : "nb" } ] }
+] }

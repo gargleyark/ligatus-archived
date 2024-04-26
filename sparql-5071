@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3041>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3305> ,
+		<http://w3id.org/lob/concept/3277> ;
+	skos:prefLabel	"spine tabs"@en ;
+	skos:altLabel	"tab linings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of thick animal skin, usually alum-tawed, secured to the head or tail of the spine (or occasionally as a continuous strip) by the external tiedowns and which project above the endbands to form a tab. The tabs were trimmed to a variety of profiles and the primary cover was often trimmed to the same shape and sewn to the edge of the tab with decorative sewing. Tabs were a characteristic feature of romanesque bindings and fell out of use in the early thirteenth century.\r\n"@en .

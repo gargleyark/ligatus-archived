@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1490",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "klisterdekor" , "@language" : "nb" } ,
+        { "@value" : "paste-decorating" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Process of decorating a surface by covering it - usually completely - with paste colours (or coloured starch mixture) and decorate it. The decoration is made through the resulting alteration of the coloured paste with a tool or the hand while still wet. This technique is mainly used to produce paste paper, but can also be found on bookblock edges, using similar decorative patterns." , "@language" : "en" } ,
+        { "@value" : "dekoreringsteknikk der klister blandes med farge og p\u00E5f\u00F8res papir eller direkte p\u00E5 snitt" , "@language" : "nb" } ] }
+] }

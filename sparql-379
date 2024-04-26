@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/1244" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2831" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4397" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4399" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2827" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4604" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4606" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2954" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bokspennebeslag" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "catchplates" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "catch plate" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Fittings, usually in metal, mounted on the surface of a board, either under or over the covering material, and fitted with a slot, hole or pin in or on to which a clasp or ring can be secured. Pins are also found on their own as edge pins and side pins, which are not part of a larger fitting." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Del av lukkemekanisme, som regel i metall, montert p\u00E5 siden av permen enten over eller under overtrekksmaterialet og som er utstyrt med en spalte, hull eller tapp til hvilken en krok eller ring kan hektes p\u00E5." , "lang" : "nb" } ] }
+}

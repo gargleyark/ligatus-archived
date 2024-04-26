@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1690">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2346" />
+    <skos:prefLabel xml:lang="en">tunnels (board features)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">tunnel</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">hule ganger eller spor boret ut i trepermer for treing og festing av bokblokkens heftbind </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Holes drilled from the back edge of the board more or less parallel to the surfaces of the board to accommodate the slips of the sewing supports and/or endbands, as opposed to holes drilled from one surface to the other. The bridges which lie over the tunnels along the back edges of wooden boards will sometimes be found broken, making it difficult to identify that there were once tunnels in the board.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

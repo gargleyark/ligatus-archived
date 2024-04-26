@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4320>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:prefLabel	"dabbed paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper in which colours are directly applied in discrete applications on a white or previously coloured sheet, by repeatedly dabbing or pressing a tool, or any object, dipped in colour onto it, in order to produce an irregular design. Some of these papers were decorated with what appears to have been small pieces of natural sponge (sponge-decorating) dipped in colour and dabbed over the surface of the paper. One or more colours might be used, and the process might conform to a rough pattern or be completely random."@en .

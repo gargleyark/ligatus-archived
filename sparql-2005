@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1341>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:prefLabel	"folding"@en ,
+		"falsing av trykkeark"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"bretting av trykkeark for h\u00E5nd eller i falsemaskin til legg "@nb ,
+		"The process of folding printed sheets into gatherings according to format. This is work that was costed separately in some early bookbinders price lists and would either have been done within the booktrade before the book was sent to the binder or by the binder."@en .

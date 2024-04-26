@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4045>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:prefLabel	"stifting"@nb ,
+		"nailing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The use of nails to attach a component to another."@en ,
+		"bruk av stift for \u00E5 f\u00F8ye et element sammen med et annet "@nb .

@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/4659" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3990" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Spanish-type marbled paper" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "spansk marmorert papir" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Et vilk\u00E5rlig basism\u00F8nster p\u00E5 hele overflaten endres og det skapes et b\u00F8lgeaktig m\u00F8nster ved bevegelse i papiret id\u00E9t det legges p\u00E5 marmorgrunden, b\u00F8lgene l\u00F8per rett og er s\u00E5 godt som parallelle." , "lang" : "nb" } ] }
+}

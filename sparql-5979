@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3840>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1226> ;
+	skos:prefLabel	"ubesk\u00E5rete kanter"@nb ,
+		"uncut edges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bookblock edges that have not been cut as part of the binding process (see also &#039;cut before sewing&#039;). Where the bookblock is made from handmade paper, this will result in some or all of the leaves retaining two or more deckle edges, unless only some of the edges have been cut, leaving one or two of them uncut. "@en ,
+		"r\u00E5kantene i bokblokken er ikke besk\u00E5ret "@nb .

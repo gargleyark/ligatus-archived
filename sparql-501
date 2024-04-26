@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2491>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4779> ;
+	skos:prefLabel	"blokktrykk"@nb ,
+		"block-printing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Trykketeknikk der m\u00F8nsteret skj\u00E6res ut i blokker av tre som gir preg i h\u00F8ytrykk i likhet med boktrykk og stempling. M\u00F8nstre med finere detaljer, som for eksempel sm\u00E5 prikker ble ansatt p\u00E5 trykkblokken med metallstifter etter modell fra tekstiltrykk."@nb ,
+		"Printing technique with paste colours or other colours using carved wood-blocks or the blocks used for textile printing where parts of the pattern were created with metal nails."@en .

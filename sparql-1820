@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2976",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1386"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "eik" , "@language" : "nb" } ,
+        { "@value" : "oak" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "tre i slekten Quercus " , "@language" : "nb" } ,
+        { "@value" : "The grey-brown wood of trees belonging to the genus Quercus, of the Fagaceae family. It is a durable wood that has a distinctive coarse grain, used in cabinetry, flooring, paneling, panel painting and sculptures. When cut on the quarter, it will show the distinctive figuring created by the medullary rays as they break the surface of the planed plank. It was frequently used for the boards of books at all periods in most northern European countries, but especially in the Low Countries, Britain and France." , "@language" : "en" } ] }
+] }

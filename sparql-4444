@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1615">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1487" />
+    <skos:prefLabel xml:lang="nb">rygg og front overtrekk</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">spine and fore-edge covers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Overtrekksmateriale som bare er montert på bokens rygg og i forkant på permene.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A cover in which primary covering material is found on the spine and fore-edges of the boards only. The sides may or may not be covered separately by a cover or decorated paper. Bindings with parchment on the spine and fore-edges were a feature of Oxford bindings in the 18th century, though they will be found more generally with leather in the early 19th century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

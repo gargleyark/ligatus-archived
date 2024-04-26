@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3235">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2516" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1558" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1226" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1211" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1664" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4081" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3577" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1205" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1622" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2378" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1578" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1193" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1579" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1647" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3407" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1704" />
+    <skos:prefLabel xml:lang="en">bookblock features</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bokblokkens egenskaper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Synlige egenskaper ved bokblokken som er resultat av innordning av leggene, forsatsen, hefting og tilskjæring av legg og forsats.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The features visible on a bookblock which result from the gathering, sewing, shaping and cutting of the gatherings and endleaves.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

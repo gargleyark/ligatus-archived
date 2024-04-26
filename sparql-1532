@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2884",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "drivning" , "@language" : "nb" } ,
+        { "@value" : "metal embossing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "repouss\u00E9" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Dekorasjonsteknikk innen metallarbeid, der metallet formes ved hamring med punsel fra baksiden slik at m\u00F8nsteret fremst\u00E5r i relieff." , "@language" : "nb" } ,
+        { "@value" : "In metalwork, a technique for decorating a surface by hammering the reverse of the object, sometimes into a mold of wood that has been carved in intaglio, to create designs in relief." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1701>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3407> ;
+	skos:prefLabel	"undersize endleaves"@en ,
+		"forsatsens st\u00F8rrelse mindre enn bokblokken"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Forsatsblad tilf\u00F8rt av bokbinderen som er mindre enn boklokkens st\u00F8rrelse."@nb ,
+		"A leaf that is smaller than the size of the bookblock. Where the bookblock edges are uncut, it is a matter of judgement whether to describe them as full-size or undersize. This term should be used to describe leaves added by the binder (i.e. endleaves and/or interleaving)."@en .

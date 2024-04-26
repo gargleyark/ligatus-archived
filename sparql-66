@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2422">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2281" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1366" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1489" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1364" />
+    <skos:prefLabel xml:lang="en">adhesives</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">klebemiddel</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">adesivi</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Substances, in the form of a liquid, paste, powder, or dry film; used for sticking or adhering one surface to another. Substances capable of holding materials together by a surface attachment.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">middel til å klebe noe fast med </skos:scopeNote>
+    <skos:scopeNote xml:lang="it">Sostanze in forma liquida, pasta, polvere oppure film secco; utilizzati per fare aderire una supeficie all&amp;#039;altra. Sostanze capaci di unire insieme materiali attraverso una supeficie di contatto.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

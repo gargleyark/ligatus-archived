@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2521>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1578> ;
+	skos:prefLabel	"knife-cut sewing holes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Openings made in the spine-folds of gatherings by means of a knife-cut made across the spine of the bookblock before sewing. This was a common medieval technique that survived in the early years of the 16th century."@en .

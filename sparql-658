@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3558">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3956" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3962" />
+    <skos:prefLabel xml:lang="en">brocade paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">brokadepapir</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">papier doré gaufré</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Brokatpapier</skos:prefLabel>
+    <skos:altLabel xml:lang="en">gilt paper</skos:altLabel>
+    <skos:altLabel xml:lang="en">Dutch gilt paper</skos:altLabel>
+    <skos:altLabel xml:lang="en">Augsburg paper</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">farget eller dekorert papir som er helt eller delvis preget med bladmetall, motivet fremtrer i metalltrykk som positiv, eller negativ  ved at bakgrunnen blir dekket av bladmetall</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The term brocade paper is somewhat complicated as it covers a variety of different types of embossed decorated paper, many of which themselves use more than one decorative technique. It was developed in Augsburg at the end of the seventeenth century, at more or less the same time as bronze-varnish paper, and created the most expensive decorated papers of their time, which were sold all over Europe. The most commonly found type was created by metal-leaf embossing over an uncoloured or previously decorated paper, where metal leaf, therefore, only partially covers the surface. The paper, whether coloured or uncoloured, is first coated with some form of heat-set adhesive, covered with metal leaf, usually an alloy of a base metal, and then placed on a felt or a soft support. The paper is then embossed in a rolling press with heated engraved plates (usually made from a copper alloy, such as brass), which creates a slight relief in the paper and transfers a metallic decorative pattern or letters to the depressions in the embossed surface. The excess of metal is finally brushed off the paper to leave the metal leaf visible only in the depressed areas of the embossed design (created by the raised parts of the plates). The metal leaf was used either with a positive plate to create the elements of the design (when a motif such as a flower is in metal) or with a negative plate, in which the metal leaf becomes the background to a design which is revealed in the colour of the paper. The paper used prior to metal-leaf embossing could be uncoloured, already coloured (brush-colouring, engine-colouring, paste paper, etc.) or decorated with a variety of techniques including stencilling, hand-colouring, sprinkling etc.
+A specific type of brocade paper, called drap d’or, was first coloured through stencils, then metal-leaf embossed and finally coloured by hand afterwards in specific areas of the design (hand-colouring), in order to enhance parts of the decoration (e.g. petals or flower leaves).
+A very rare type of decorated paper was created by blind-embossing a metallic paper, which was therefore already entirely covered with metal leaf and blind-embossed, before being decorated by hand with coloured paint. Because it is coloured as well as embossed with the same type of plate used for brocade paper, these papers can also be described as brocade papers.
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

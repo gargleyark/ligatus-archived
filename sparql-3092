@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2438">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3167" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2440" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2442" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2444" />
+    <skos:prefLabel xml:lang="en">keratinous materials</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Animal material that contains keratin.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

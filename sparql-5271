@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3958>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3855> ;
+	skos:narrower	<http://w3id.org/lob/concept/3859> ,
+		<http://w3id.org/lob/concept/4639> ;
+	skos:prefLabel	"surface-coloured paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper which has been completely covered with a layer of colour applied to one or both of its sides, but which penetrates only its surface, if at all, and does not go all the way through it."@en .

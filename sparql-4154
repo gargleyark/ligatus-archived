@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3427",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "printers (actors)" , "@language" : "en" } ,
+        { "@value" : "trykkere" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "refererer til  personer som arbeider innen kommersiell trykkevirksomhet" , "@language" : "nb" } ,
+        { "@value" : "Refers to people in the commercial printing trade. For artists who make prints, see &quot;printmakers.&quot;" , "@language" : "en" } ] }
+] }

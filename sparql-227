@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4914" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "syl" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "awl" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A sharp metal spike usually set in a wooden handle and used for making holes in board and other penetrable materials by forcing the material apart as opposed to removing it by cutting or drilling." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "redskap best\u00E5ende av en st\u00E5lspiss med h\u00E5ndtak av tre eller plast  " , "lang" : "nb" } ] }
+}

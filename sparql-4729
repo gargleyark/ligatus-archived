@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1575" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1317" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "separate pastedowns" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A leaf of sheet material pasted to the inside of a board or cover which is not conjugate with any component in the adjacent endleaf unit, leaving an open joint. Separate pastedowns may be original to the binding, but could be added at a later date to a binding without pastedowns to hide the exposed inner surface of the boards. Separate pastedowns are often found in British bindings of the mid-seventeenth century, and are particularly associated with low and medium quality bindings. They may be made of either plain or decorated paper." , "lang" : "en" } ] }
+}

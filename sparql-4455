@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1617>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2354> ;
+	skos:prefLabel	"ryggsteg"@nb ,
+		"spine creases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"avstand mellom rygg og perm i et l\u00F8sbind som gir plass til overtrekket, slik at det skal passe rundt bokblokkens rygg "@nb ,
+		"The creases made in a case cover to allow it to fit around the spine of a bookblock. They are creased or scored down the centre of the cover from the inside, running from head to tail of the spine, and are placed so that the distance between them is the same as the width of the spine of the bookblock. Many case-covers only have spine creases, and do not have joint creases."@en .

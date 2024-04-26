@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/3344" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2850" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3094" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "paper moulds" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "papirform" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "paper mold" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "form til \u00E5 danne papirark " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The rectangular wooden frame which holds a screen of parallel (laid mould) or woven (wove mould) brass wires which is dipped into the paper pulp in the vat to pick up the pulp for a single sheet of paper and through which water drains away in the formation of a sheet of handmade paper." , "lang" : "en" } ] }
+}

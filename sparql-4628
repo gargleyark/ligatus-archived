@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4638">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3960" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3981" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3969" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1213" />
+    <skos:prefLabel xml:lang="en">relief-printed paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Papers printed from wood-blocks, metal plates or type ornaments in which the non-printing areas are removed, leaving the design raised so that ink could be applied to its raised surface and then transferred to sheets of paper.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3175",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "undersized lacing holes" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Holes drilled in wooden boards that are slightly too small for the sewing support slips used to attach them.  The slips would be forced through the holes, where they would be jammed tight (pulling them with pliers or pincers if necessary). Adhesive was often worked into the slips to make sure that they were securely fixed in place without the use of pegs. It is possible to find boards in which some thinner slips would be secured with pegs or skin wedges, and the thicker ones jammed tight and adhered." , "@language" : "en" } ] }
+] }

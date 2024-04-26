@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2480">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3171" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1611" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1386" />
+    <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">trevirke</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The principal tissue of trees and other plants that provides both strength and a means of conducting nutrients. Wood is one of the most versatile materials known.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">trevirke, teknisk og kommersiell betegnelse på tre som råstoff for bearbeidings- eller foredlingsprosess</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

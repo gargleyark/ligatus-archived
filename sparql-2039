@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1363" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : " forgylling" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "gilding" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : " p\u00E5legging av gull- eller annet bladmetall, som festes med et bindemiddel (eggehvite) p\u00E5 overflaten av et annet materiale, for eksempel papir, skinn eller tre" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Process involving the surface application of gold or another metal in the form of leaf, powder applied directly to the surface, powder mixed with a binder or other forms to approximate the effect of solid or inlaid metal." , "lang" : "en" } ] }
+}

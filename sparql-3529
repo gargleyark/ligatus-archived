@@ -1,0 +1,15 @@
+{
+  "http://w3id.org/lob/concept/2404" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2406" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4107" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2414" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2416" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2418" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2420" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "metal" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "metall" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "fast stoff av en gruppe som teller de fleste grunnstoffene, med formbarhet, glans og ledningsevne som typiske egenskaper " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Any of a large group of substances that typically show a characteristic luster, are good conductors of electricity and heat, are opaque, can be fused, and are usually malleable or ductile." , "lang" : "en" } ] }
+}

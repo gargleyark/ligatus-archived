@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4519>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1301> ;
+	skos:prefLabel	"glattskj\u00E6ring"@nb ,
+		"smooth cutting"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The final cutting of rough-cut edges to create solid-cut edges."@en ,
+		"renskj\u00E6ring av kanter slik at de blir rette/glatte "@nb .

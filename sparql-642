@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3528">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1273" />
+    <skos:prefLabel xml:lang="nb">beskårne kanter</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">cut-solid edges</skos:prefLabel>
+    <skos:altLabel xml:lang="en">plain cut edges</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The edges of an assembled bookblock which have been cut overall to produce a smooth edge. Such edges may be cut by either a draw-knife or a plough and would be suitable then for colouring, gilding, polishing, etc. Cutting the edges of a book makes the leaves easier to turn and keep clean, and until the beginning of the 19th century, were generally preferred to uncut edges.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Bokblokkens kanter beskjæres med kniv eller høvel for å gjøre dem glatte, dette gjør det enklere å bla i boken og holde kantene rene. Snitt må beskjæres som forberedelse til dekorering med farge, gull, polering m.m.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

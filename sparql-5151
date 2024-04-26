@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3448>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:prefLabel	"segl"@nb ,
+		"seals (components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"et stykke voks, lakk eller bly som blir varmet opp og preget med en signet p\u00E5 et dokument for \u00E5 garantere ekthet  "@nb ,
+		"A piece of wax, lead, or other material with an individual design stamped into it, attached to a book (document) as a guarantee of authenticity."@en .

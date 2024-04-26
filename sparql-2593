@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1391" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2350" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1454" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1202" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hollow backs" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hul rygg" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "hulrom som oppst\u00E5r mellom bokblokkens rygg og overtrekksmaterialet n\u00E5r boken \u00E5pnes, fordi overtrekksmaterialet ikke er klebet direkte p\u00E5 bokblokkens rygg eller til ryggf\u00F4ringen " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A feature of the spine in which the covering material is not adhered to the spine-folds of the bookblock or to the spine linings, but is able to arch away from the spine-folds as the book is opened." , "lang" : "en" } ] }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1274">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1337" />
+    <skos:prefLabel xml:lang="nb">kantskåret bokblokk med omslag og perm uten innslag</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">cut flush edges</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">boken beskjæres etter at permene og overtrekket er montert, slik at permens kanter flukter med bokblokkens kanter - overtrekket har derfor ikke innslag</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The boards and/or covering material are cut level (i.e. flush) with the bookblock in a single operation. When cut after covering, the covering material will, as a result, not have turn-ins, as they would be cut off when the edges were cut. If these bindings have boards, the edges of the boards will therefore be exposed. In some bindings, however the boards were cut flush before the book was covered, and in those the board edges may be covered. Cut-flush edges are often found on cheaper limp bindings with a variety of inboard and cased structures across Europe from the sixteenth century onwards, and, at a later date in Britain, were mostly associated with cheaply-made blank books in the stationery-binding trade or on cheaper printed books, particularly those with a practical purpose, such as technical manuals, guide books, etc.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

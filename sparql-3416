@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/5423">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label xml:lang="en">leaf markers</rdfs:label>
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2837" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2945" />
+    <skos:prefLabel xml:lang="en">leaf markers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Markers attached to an external edge of a leaf.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

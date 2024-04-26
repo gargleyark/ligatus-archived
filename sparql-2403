@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1375>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4698> ;
+	skos:prefLabel	"grain layer (skins)"@en ,
+		"narv"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The external layer of a processed skin which contains the hair follicles."@en ,
+		"Utsiden av et tilberedt skinn som inneholder h\u00E5rsekker. H\u00E5rsekkene etterlater seg fordypninger som er karakteristiske for de forskjellige skinnsortene. "@nb .

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1211",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3235"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1508"} ,
+        { "@id": "http://w3id.org/lob/concept/4006"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "blade marks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Marks left on the edges of bookblocks by the sharp metal blades of the tools (e.g. draw-knife, plough, etc.) used to cut them. The most carefully cut edges seldom leave blade marks, but the quicker the work and the blunter the blade, the more obvious the marks will be." , "@language" : "en" } ] }
+] }

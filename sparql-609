@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3327>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3329> ;
+	skos:prefLabel	"back-bead subsidiary cores"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Subsidiary cores located under the back of the main core, against the bookblock, at the point where a back bead is made."@en .

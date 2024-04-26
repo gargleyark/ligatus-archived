@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2286">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3283" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3541" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1208" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1209" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1661" />
+    <skos:prefLabel xml:lang="en">gatherings</skos:prefLabel>
+    <skos:altLabel xml:lang="en">quires</skos:altLabel>
+    <skos:altLabel xml:lang="en">sections</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A group of folded or single leaves which can be used either singly or with other gatherings to create a textblock. Gatherings may consist of printed, manuscript or blank leaves or combinations of these.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

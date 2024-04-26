@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/5433" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1425" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "secondary longstitch weaving" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "interwoven long stitches" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A longstitch technique which includes the winding of thread over, around and between groups of longstitch threads within individual sets on the outside of the spine, as a separate operation carried out on a book that is already sewn. This has a protective and tensioning effect for the longstitch threads but it could be used to decorative effect." , "lang" : "en" } ] }
+}

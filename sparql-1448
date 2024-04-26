@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1292",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1585"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1544"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "double sewing supports" , "@language" : "en" } ,
+        { "@value" : "doble heftbind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sewing supports which consist of two elements of a suitable material (e.g. tanned or alum-tawed skin, cord, etc.) lying side by side across the spine of a bookblock. They are usually sewn by taking the thread between the two elements with straight or linked sewing, but may from the seventeenth century onwards be sewn around as if they were a single sewing support (double sewing support sewn as one), which accelerated the process of sewing whilst preserving the strength of the double slips for the purposes of board attachment." , "@language" : "en" } ,
+        { "@value" : "heftbind som best\u00E5r av to elementer" , "@language" : "nb" } ] }
+] }

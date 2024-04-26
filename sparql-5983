@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4091>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4089> ;
+	skos:prefLabel	"underdimensjonerte komponenter"@nb ,
+		"undersize"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"In relation to a bookblock, undersize describes endleaves, inserted interleaving, boards and drawn-on covers which are noticeably smaller in height and/or width than the textblock."@en ,
+		"deler som er for sm\u00E5 i forhold til bokblokken, kan v\u00E6re permer, vareovertrekk, forsats og innlegg  "@nb .

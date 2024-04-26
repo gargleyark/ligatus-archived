@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2967">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1309" />
+    <skos:prefLabel xml:lang="en">main cores (endband components)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The endband cores which are attached to the bookblock by the primary sewing and which therefore act as the foundation for any secondary endband sewing and subsidiary cores. Primary sewing can also be worked around two main cores of the same diameter, known as double main cores. Double main cores were a common feature of Greek-style endbands, but were also used on some expensive bindings in the late-eighteenth century. From the late sixteenth century, main cores can be sewn with a subsidiary crowning core with primary sewing only.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

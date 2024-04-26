@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3311>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2277> ;
+	skos:narrower	<http://w3id.org/lob/concept/4490> ,
+		<http://w3id.org/lob/concept/2840> ,
+		<http://w3id.org/lob/concept/2877> ,
+		<http://w3id.org/lob/concept/3035> ,
+		<http://w3id.org/lob/concept/4465> ,
+		<http://w3id.org/lob/concept/4466> ,
+		<http://w3id.org/lob/concept/4468> ,
+		<http://w3id.org/lob/concept/3038> ;
+	skos:prefLabel	"bindsupplement"@nb ,
+		"enclosures"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Protective containers made to fit individual books or sets of books."@en ,
+		"spesialtilpasset stivt hylster laget for oppbevaring av en enkelt bok eller et sett av b\u00F8ker "@nb .

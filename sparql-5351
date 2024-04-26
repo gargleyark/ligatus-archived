@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4444>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3154> ;
+	skos:prefLabel	"side labels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A small piece of sheet material most often either paper, parchment or tanned skin, adhered to one or other side of a bound book (or both), usually bearing a title or a mark of ownership, which may be in manuscript, printed or tooled."@en .

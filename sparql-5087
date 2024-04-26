@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3047>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2893> ;
+	skos:prefLabel	"strap and buckle fastenings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fastening in which a leather strap is used with a buckle to hold the book shut, most often used in conjunction with a fore-edge flap as found on stationery bindings."@en .

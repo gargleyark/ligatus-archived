@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4600" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1317" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sewn endleaves" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "medheftet forsats" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Forsats som er heftet gjennom falsen som del av en bokblokk." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Endleaves that have been sewn through the fold as part of a bookblock." , "lang" : "en" } ] }
+}

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3866>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4126> ;
+	skos:narrower	<http://w3id.org/lob/concept/4618> ;
+	skos:prefLabel	"engine-coloured papers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper coloured all the way through its thickness by engine-colouring."@en .

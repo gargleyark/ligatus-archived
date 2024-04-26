@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1556>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3407> ;
+	skos:prefLabel	"forsatsens st\u00F8rrelse lik bokblokken"@nb ,
+		"same-size endleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Endleaves which are the same size as the leaves of the bookblock."@en ,
+		"Forsatsblad som har samme st\u00F8rrelse som bokblokken."@nb .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4757>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3417> ;
+	skos:prefLabel	"paper decorators"@en ,
+		"papirdekorat\u00F8rer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Person som dekorerer papir enten arkvis eller p\u00E5 rull. Papirdekorat\u00F8rene fremstilte dekorert papir som har v\u00E6rt brukt i bokbinding siden 1500-tallet, som overtrekks- og forsatspapir, trekking og f\u00F4ring av esker og etuier i tillegg som underlag for kaligrafi og finere trykksaker."@nb ,
+		"People who make decorated papers &#039;in-the-sheet&#039; or &#039;in-the-roll&#039; to be used for whatever purpose a decorated paper might be used. Whether format- and edition-specific decorated paper covers should be considered as decorated or decorative papers is a question yet to be resolved, though both may use exactly the same techniques and very similar designs."@en .

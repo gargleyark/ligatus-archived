@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1569>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1565> ;
+	skos:prefLabel	"secondary tackets, transverse"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Transverse secondary tackets have a length of the tacket material stretched across the spine from joint to joint without being twisted."@en .

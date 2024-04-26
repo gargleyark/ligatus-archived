@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1303">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2346" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1543" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1510" />
+    <skos:prefLabel xml:lang="en">edge grooves</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Grooves cut into the edges of a board. Grooved edges are characteristic of Byzantine/Greek binding. They may stop short or run around the corners, and may be V-shaped or semi-circular in cross-section.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

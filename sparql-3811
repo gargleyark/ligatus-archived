@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3293>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ;
+	skos:narrower	<http://w3id.org/lob/concept/4246> ;
+	skos:prefLabel	"overbands"@en ;
+	skos:altLabel	"leather bands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Reinforcements in the form of straps, usually of a thick, strong, tanned skin, secured to the spine together with a case-type cover by secondary tackets. The ends of the bands pass over the joints of the case and are attached to the sides with ornamental lacing. Centrally-placed straps may also be extended into a strap and buckle fastening associated with a fore-edge envelope flap. Leather bands are typically found on tacketed stationery bindings, but are very occasionally found on printed books. In eighteenth- and nineteenth-century British stationery bindings, the bands were often made of russia calf and the bands were consequently known as &#039;russia bands&#039;. Lacing of a variety of colours and materials, most often white (from parchment or alum-tawed thongs), as well as coloured textile ribbons, was used to secure the ends of the bands to the cover, with the intention of creating a decorative effect by contrasting the colour of the lacing with that of the case, in addition to the intricacy of the ornamental lacing patterns."@en .

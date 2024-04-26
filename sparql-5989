@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4230" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1663" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "u\u00E5pnet bokblokk" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "unopened textblocks" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bokblokk best\u00E5ende av falsede kvartark eller mindre, der falsene i hode, fot eller foran ikke er blitt sprettet opp " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Textblocks composed of sheets folded in quarto format or smaller in which the bolts on the head, tail or fore-edges have not been opened." , "lang" : "en" } ] }
+}

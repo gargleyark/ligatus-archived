@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3994">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3996" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3998" />
+    <skos:prefLabel xml:lang="nb">rennemarmorert papir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">run-marbled paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper on which coloured or uncoloured liquids have been directly and purposely allowed to run across its surface, creating an effect not unlike running water. The effect can be achieved either by a simple colourant or by chemical means, or by a combination of both.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Dekoreringsteknikk der man lar farget eller ufarget flytende væske renne nedover overflaten på papiret, slik at det skapes et mønster. Effekten kan oppnås mekanisk eller kjemisk ved at man spruter på et løsningsmiddel eller en kombinasjon av begge.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1667">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2295" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4561" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4563" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4553" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4557" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4559" />
+    <skos:prefLabel xml:lang="nb">stramming over opphøyninger</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">tying-up (techniques)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Ved påsetting av skinn på rygger med opphøyninger må skinnet holdes nede for å feste godt. Det gjøres ved at boken settes i en klosspresse utstyrt med en rekke av spiker på hver side og en tynn, fast snor vikles stramt over opphøyningene og rundt spikerene, slik at snoren etterlater seg et tydelig avtrykk i skinnet. En tilsvarende snor strammes rundt danderingene opp og nede for å opprettholde fasongen mens skinnet tørker.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The process by which a covering skin on the spine of a book is held tightly to the bookblock, especially on each side of the raised bands and at the caps, by a length of cord wrapped tightly across the spine. The cord typically used for this process was tightly twisted and often leaves a clear impression of itself in the covering skin.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

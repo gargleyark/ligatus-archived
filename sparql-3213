@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1429" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1268" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1300" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "loose secondary covers" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "varetrekk" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "beskyttende trekk, opprinnelig satt l\u00F8st utenp\u00E5 boken, men som i ettertid kan v\u00E6re festet    " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A secondary cover which in its original form was not permanently attached to the primary cover and could therefore be removed. Many such covers were fixed in place by the addition of bosses, corners, etc., even though their design indicates that they were originally intended to be loose. Dust wrappers can be considered as a subgroup of loose secondary covers." , "lang" : "en" } ] }
+}

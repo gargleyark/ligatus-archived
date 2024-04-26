@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4415>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3475> ;
+	skos:prefLabel	"internal bevels"@en ,
+		"permkanter avfaset p\u00E5 innsiden"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A bevel cut from the internal surface of the board i.e. the side of the board closer to the bookblock."@en ,
+		"Avfasing av den innvendige kanten av permen, den som vender mot bokblokken."@nb .

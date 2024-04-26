@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1260",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1214"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hj\u00F8rnestempler" , "@language" : "nb" } ,
+        { "@value" : "corner blocks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Tool used to create large ornamented corners in rectangular frames with a single impression." , "@language" : "en" } ,
+        { "@value" : "forgyllerverkt\u00F8y spesialtilpasset til preging av ornamenter i hj\u00F8rner " , "@language" : "nb" } ] }
+] }

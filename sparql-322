@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1221">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2283" />
+    <skos:prefLabel xml:lang="en">boarding (skin techniques)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The process of softening a piece of tanned or alum-tawed skin and/or enhancing its natural grain by rolling the dampened skin backwards and forwards hairside to hairside under a wooden board held in the hand or strapped to the fore-arm.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

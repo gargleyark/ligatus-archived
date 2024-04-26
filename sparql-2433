@@ -1,0 +1,20 @@
+{
+  "http://w3id.org/lob/concept/1658" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2293" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3039" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3765" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2912" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1436" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3586" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2910" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3579" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1456" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2828" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1691" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tanned skin" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "garvet skinn" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "leather" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "dyrehuder som er behandlet med garvestoffer for \u00E5 bli holdbart og kunne anvendes til  l\u00E6r og skinn " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "An animal skin that has been treated with tanning agents to turn it into leather and which, before the 19th century, will be derived only from vegetable sources such as the bark of oak trees, sumac, etc. Because the term leather has been used historically of both alum-tawed and tanned skins, it is safer, wherever there might be confusion, to used the term tanned skin rather than leather, though properly-speaking, they both have the same meaning." , "lang" : "en" } ] }
+}

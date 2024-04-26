@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1500" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "pieced (materials)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Where a piece of material, such as a cover, board or endleaf, which is not large enough for its purpose has been filled in with a separate piece of the same or a similar material. A cover therefore might consist of one piece of leather for the spine and one for each side in order to create a full cover of apparently the same material. This is distinct from patch material where some damage or loss has been made good." , "lang" : "en" } ] }
+}

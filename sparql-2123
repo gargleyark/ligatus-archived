@@ -1,0 +1,20 @@
+{
+  "http://w3id.org/lob/concept/2450" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2468" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4739" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2432" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2434" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2436" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1481" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3822" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3612" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3129" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2470" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1483" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fibre materials" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "fibermaterialer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The organic fibrous materials used in the manufacture of threads, cords and textiles as well as paper." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Organiske fibre som benyttes til fremstilling av tr\u00E5d, hyssing, tekstiler og papir." , "lang" : "nb" } ] }
+}

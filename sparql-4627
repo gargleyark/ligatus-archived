@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4517>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1301> ;
+	skos:prefLabel	"rough cutting"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The preliminary cutting of the edge of a bookblock to remove the bulk of the unwanted leaf edges in preparation for the smooth cutting of the edge which would create a solid-cut edge."@en .

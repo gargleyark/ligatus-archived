@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3156",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3343"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2896"} ,
+        { "@id": "http://w3id.org/lob/concept/2871"} ,
+        { "@id": "http://w3id.org/lob/concept/4923"} ,
+        { "@id": "http://w3id.org/lob/concept/1682"} ,
+        { "@id": "http://w3id.org/lob/concept/2875"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "stift" , "@language" : "nb" } ,
+        { "@value" : "nails" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "liten metallspiker med hode som fester metallbeslag til permen " , "@language" : "nb" } ,
+        { "@value" : "Slender and usually pointed and headed fasteners designed for impact insertion." , "@language" : "en" } ] }
+] }

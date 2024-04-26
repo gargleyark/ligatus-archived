@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1253",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3475"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "clasp bevels" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Short external bevels found both above and below the fastenings on the fore-edges of boards with centre chamfers. Clasp bevels were especially popular in bindings with wooden boards made in German-speaking countries in the sixteenth and seventeenth centuries, but will also be found in bindings made in other northern-European countries." , "@language" : "en" } ] }
+] }

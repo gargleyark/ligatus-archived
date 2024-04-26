@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1243",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2283"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "casing-in" , "@language" : "en" } ,
+        { "@value" : "innhengning av l\u00F8sbind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Teknikk for \u00E5 feste l\u00F8sbindet til bokblokken med lim." , "@language" : "nb" } ,
+        { "@value" : "Refers to the process of attaching a case-cover to an assembled bookblock by means of adhesive only." , "@language" : "en" } ] }
+] }

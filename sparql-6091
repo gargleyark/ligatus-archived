@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3818>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3161> ;
+	skos:prefLabel	"whiting (material)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Chalk that has been ground and washed for use in paint, ink, and putty, and often found on the fleshside of skins prepared as parchment with the intention of brightening the colour and reducing the translucence of the material."@en .

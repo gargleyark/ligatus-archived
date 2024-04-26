@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2987",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3273"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1304"} ,
+        { "@id": "http://w3id.org/lob/concept/4323"} ,
+        { "@id": "http://w3id.org/lob/concept/2989"} ,
+        { "@id": "http://w3id.org/lob/concept/3026"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pins (fastening components)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Metal shafts with a sharpened end (tang) driven into either the side or edge of a wooden board over which pin straps or pin clasps can be fastened. They may be shaped and have bolsters." , "@language" : "en" } ] }
+] }

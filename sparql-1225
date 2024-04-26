@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3979>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3977> ;
+	skos:prefLabel	"copper engraving printed paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper which has been printed with engraved copper plates. The engraved lines made by using copper plates are often distinguished by their fine lines which taper to a point at both ends."@en .

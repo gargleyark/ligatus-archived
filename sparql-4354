@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1531",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3699"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3665"} ,
+        { "@id": "http://w3id.org/lob/concept/3667"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "quartered boards" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "split wood" , "@language" : "en" } ,
+        { "@value" : "quarter-cut boards" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Wooden planks obtained from the trunk of a tree inline with the medullary rays radiating from the centre of the trunk, with the growth rings at right angles to the sides of the planks. Such planks were procured either by splitting or sewing the wood along the medullary rays." , "@language" : "en" } ] }
+] }

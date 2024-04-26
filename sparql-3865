@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1477" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1602" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "paired single supports" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tett sammenstilte bind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "separate bind som er plassert i n\u00E6rheten av hverandre, men som heftes individuelt og ikke som doble bind " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Single supports arranged in closely-spaced pairs on the spine, but still sewn individually and not as double supports. Paired single supports were often used on southern German in the late 15th and early 16th centuries, and resurfaced briefly in London in the mid-18th century." , "lang" : "en" } ] }
+}

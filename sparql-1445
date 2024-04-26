@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1291>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3746> ;
+	skos:prefLabel	"double sewing support sewn as one (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The two elements of the supports are encircled by the sewing thread which does not therefore pass between them. This was an economy introduced by the mid 17th century that retained the strength of the board attachment, but greatly reduced the time taken to sew the bookblock."@en .

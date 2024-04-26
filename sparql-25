@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1195>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4165> ;
+	skos:narrower	<http://w3id.org/lob/concept/1223> ;
+	skos:prefLabel	"adhesive-case bindings"@en ;
+	skos:altLabel	"case bindings"@en ,
+		"cased-in bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings with adhesive cases. They are the results of the technique of casing-in. They are also known from the 19th century as &#039;cased-in&#039; or &#039;case bindings&#039;."@en .

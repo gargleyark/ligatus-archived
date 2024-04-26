@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1363>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	" forgylling"@nb ,
+		"gilding"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	" p\u00E5legging av gull- eller annet bladmetall, som festes med et bindemiddel (eggehvite) p\u00E5 overflaten av et annet materiale, for eksempel papir, skinn eller tre"@nb ,
+		"Process involving the surface application of gold or another metal in the form of leaf, powder applied directly to the surface, powder mixed with a binder or other forms to approximate the effect of solid or inlaid metal."@en .

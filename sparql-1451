@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1293" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "draw knives" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "drawing knife" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Two-handled knives with a straight blade used in woodworking which are utilised by pulling them toward the user, which were also used to cut the edges of bookblocks. Until the introduction of the plough in the mid-sixteenth century, the draw knives were used almost universally in western Europe, though single handled knives seem to have been used in eastern Mediterranean countries. They were used in two stages, the first to give the edge a rough trim, the second to give the final, smooth cut (Randle Holme). As they are drawn diagonally across the edge of the bookblocks, they were likely to leave more or less prominent diagonal blade marks in the edge." , "lang" : "en" } ] }
+}

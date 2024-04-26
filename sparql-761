@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4630>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3545> ;
+	skos:prefLabel	"penslet klisterpapir"@nb ,
+		"brushed paste paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Dekoreringsteknikk der stivelsesklister tilsatt farge ble penslet i \u00E9n retning over papiret og er gjenkjennbart p\u00E5 de mer eller mindre parallelle str\u00F8kene som dannes av penselen, kan v\u00E6re ensfarget eller flerfarget. Penslet klisterpapir er den tidligste form for dekorert papir vi kjenner i Europa. Eksempler p\u00E5 spillkort der baksiden var dekorert med denne teknikken stammer fra ca. 1430. "@nb ,
+		"Paper coloured with one or several colours directly applied to its surface with a brush, leaving clear strokes to create a decorative pattern in the colour layer. The paste colours were brushed in straight lines, either horizontally, vertically or diagonally over the entire surface, leaving more or less parallel strokes of the brush."@en .

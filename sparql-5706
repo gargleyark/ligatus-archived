@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3076",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3367"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tunge og stropp" , "@language" : "nb" } ,
+        { "@value" : "tongue and strap" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Envelope flap fastenings in which the tongue of the envelope flap is inserted under a strap on the opposite cover." , "@language" : "en" } ,
+        { "@value" : "lukkemekanisme for konvolutter der konvoluttens \u00F8vre del tres under en stropp som er festet til konvoluttens nedre del " , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2295">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4031" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4035" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4587" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1667" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4591" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4593" />
+    <skos:prefLabel xml:lang="nb">overtrekkingsteknikk</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">covering techniques</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">All the processes involved in turning a piece of sheet material into a cover for a book.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">teknikk brukt til å trekke et bokbind med materiale </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

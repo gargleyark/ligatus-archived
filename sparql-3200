@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1426">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3464" />
+    <skos:prefLabel xml:lang="en">longstitch sets</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The separate groups of threads visible on the outside of pierced support(s) on the spines of longstitch bindings can be described as longstitch sets. A longstitch binding therefore with two sewing stations will have one set and one with three stations will have two sets. However, a binding with four stations can have either two or three sets, and so on.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

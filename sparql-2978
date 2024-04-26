@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3723",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1694"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "irregular turn-ins" , "@language" : "en" } ,
+        { "@value" : "ubesk\u00E5rne innslag" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The edges of the turn-ins are not trimmed and retained the irregular edges of the animal skin." , "@language" : "en" } ,
+        { "@value" : "Innslagene er ikke besk\u00E5ret og har beholdt skinnets ujevne kanter." , "@language" : "nb" } ] }
+] }

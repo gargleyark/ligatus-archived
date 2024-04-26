@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1483>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2450> ,
+		<http://w3id.org/lob/concept/2484> ;
+	skos:prefLabel	"papyrus"@en ,
+		"papyrus"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A writing material prepared from thin strips of the pith of the papyrus plant laid together, soaked, pressed, and dried."@en ,
+		"skrivemateriale laget av strimler av stammen til papyrusplanten som er lagt delvis over hverandre, fuktet, presset og t\u00F8rket "@nb .

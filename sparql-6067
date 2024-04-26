@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3097>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3273> ;
+	skos:prefLabel	"wrapping bands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Broad bands of leather attached to one or more edges of a board which made more complex and much wider variants of the single tie. They are found on some early Coptic bindings and their outer ends could be fitted with bone pins that were tucked under the wrapping bands to secure them after they were wrapped around bindings."@en .

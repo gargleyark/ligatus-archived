@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2912>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1658> ;
+	skos:prefLabel	"guadameci"@es ,
+		"gilt leather"@en ,
+		"gyldenl\u00E6r"@nb ,
+		"cuir de Cordoue"@fr ;
+	skos:altLabel	"Spanish leather"@en ,
+		"gilded leather"@en ,
+		"cordovan"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"skinn dekorert med preget m\u00F8nster p\u00E5f\u00F8rt bladgull, blads\u00F8lv og farge "@nb ,
+		"Leather decorated with gold leaf and also usually silver leaf and colouring, and frequently embossed. Used primarily as a covering for walls and furniture, it is occasionally found on books."@en .

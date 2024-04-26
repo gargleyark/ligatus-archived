@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3721",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1694"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "grovsk\u00E5rne innslag" , "@language" : "nb" } ,
+        { "@value" : "rough-trimmed turn-ins" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The edges of the turn-ins are trimmed in uneven, often curving lines, which will not be parallel to the edges of the cover." , "@language" : "en" } ,
+        { "@value" : "Innslagenes kanter er ujevnt besk\u00E5ret, ofte i buede linjer som ikke er parallelle med permenes/omslagets kanter." , "@language" : "nb" } ] }
+] }

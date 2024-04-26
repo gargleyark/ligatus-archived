@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3697>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1379> ;
+	skos:prefLabel	"text guards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Guards, usually of parchment, folded around the first and last text gatherings of a bookblock, usually in conjonction with full-width texthooks of paper."@en .

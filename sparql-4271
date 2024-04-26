@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4653>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3990> ;
+	skos:prefLabel	"p\u00E5fuglmarmorert papir"@nb ,
+		"peacock marbled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Dekorert papir basert p\u00E5 kammarmoreringsteknikk der m\u00F8nsteret utarbeides p\u00E5 overflaten ved \u00E5 vrikke kammen frem og tilbake i korte bevegelser, slik at det skapes tett sammenstilte p\u00E5fuglfj\u00E6rlignende formasjoner."@nb .

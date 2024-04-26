@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2984>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1268> ;
+	skos:prefLabel	"pierced covers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Covers in which a design has been created by removing pieces of the covering material to leave behind the required shapes or patterns. Pierced covers will invariably be used over a lining or underlay of another material such as a coloured woven silk textile."@en .

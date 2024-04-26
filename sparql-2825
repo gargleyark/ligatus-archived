@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/4167" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/5427" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3137" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1377" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sewn bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heftet bok" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Bindings in which individual gatherings are sewn as opposed to being stitched or adhered." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bokblokkens legg sammenf\u00F8yes ved hefting " , "lang" : "nb" } ] }
+}

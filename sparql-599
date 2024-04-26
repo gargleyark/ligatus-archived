@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/3311" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4490" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2840" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2877" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3035" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4465" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4466" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4468" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3038" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bindsupplement" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "enclosures" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Protective containers made to fit individual books or sets of books." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "spesialtilpasset stivt hylster laget for oppbevaring av en enkelt bok eller et sett av b\u00F8ker " , "lang" : "nb" } ] }
+}

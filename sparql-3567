@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2973>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3029> ;
+	skos:prefLabel	"mixed-colour paired ties"@en ,
+		"mangefargede lisser i par"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A pair of ties each of which is of different colour and which will create a multi-colour bow on the edge of the book."@en ,
+		"lukkemekanisme som best\u00E5r av tvunnete tr\u00E5der av sammensatte farger festet til hver sin perm og som knytes slik at permene holdes sammen rundt bokblokken "@nb .

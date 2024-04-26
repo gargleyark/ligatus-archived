@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2416">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2404" />
+    <skos:prefLabel xml:lang="en">iron</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">jern</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Metallisk grunnstoff med kjemisk symbol Fe og atomnr. 26.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Pure metallic element having symbol Fe and atomic number 26; metallic iron is silvery in color, lustrous, soft, ductile, malleable, and slightly magnetic; it rusts when exposed to moist air. It is rarely found as a native metal (telluric iron) except in meteorites (meteoric iron). Iron is most often found throughout the world as iron oxides (hematite, magnetite, limonite, and siderite) mixed with other ores.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

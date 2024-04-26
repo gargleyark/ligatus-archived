@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4067>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:prefLabel	"lining (spine techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The technique of lining the spine with a piece or pieces of sheet material to reinforce it and hold it in shape."@en .

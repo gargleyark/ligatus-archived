@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1681",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1553"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tree marbling" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A type of run-marbling in which the stains are allowed to run down from the sides of boards that have been made concave like a shallow gutter and to run off the tail edge, creating a pattern that somewhat resembles a tree. Although tree marbling was used on a variety of leathers, it is most commonly found in Britain on tanned calf and it is for this reason often known as &#039;tree calf&#039;, though not all bindings so described are actually covered in calfskin. Many American bindings for instance covered in tanned sheepskin were marbled in this manner. Tree marbling was introduced into English bookbinding in the third quarter of the eighteenth century." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4694",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3077"} ,
+        { "@id": "http://w3id.org/lob/concept/4696"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "lukkemekanismens utforming" , "@language" : "nb" } ,
+        { "@value" : "fastening features" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "utforming av l\u00E5semekanismen eller deler av l\u00E5semekanismen " , "@language" : "nb" } ,
+        { "@value" : "Features found on fastenings and fastening components." , "@language" : "en" } ] }
+] }

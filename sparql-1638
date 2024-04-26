@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4945">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4941" />
+    <skos:prefLabel xml:lang="en">decorative ruling (features)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Ruling on the printed pages of letterpress books for the purpose of decorating titlepages and other important pages in a book as well as separating the text on a page from headlines, pagination, notes in the margins, etc.  This type of ruling was prevalent from the 16th century on the continent to the end of the 18th century in England. The color of the ruling is almost always red, now often faded to brown, particularly in the earlier continental books. The practice was usually reserved for large paper copies or special copies. Binders often carried out this work, which was most easily done before a book was bound, but professional rulers were also available for this work.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

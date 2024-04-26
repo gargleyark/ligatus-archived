@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2880>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3154> ;
+	skos:narrower	<http://w3id.org/lob/concept/2919> ,
+		<http://w3id.org/lob/concept/3065> ,
+		<http://w3id.org/lob/concept/2900> ;
+	skos:prefLabel	"edge labels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Labels made usually of paper or parchment which are adhered to the inside of either the left or right cover of a binding, or tipped to the fore-edge of a leaf towards the centre of a bookblock. Printed edge labels may be assumed to be the work of the booktrade, but manuscript labels would appear to have been the work of the owners of the books rather than the booktrade. As a result that they can be found in a wide range of styles of writing and quality. The title may be lateral or longitudinal depending on how they are oriented on the label. Printed edge labels can be found occasionally at the head-edge of almanacs kept in top-loading slip cases in the early 19th century."@en .

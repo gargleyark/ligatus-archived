@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3661" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "punch-gilt decoration (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A decorative technique which uses small gilded or coloured discs of gesso or other materials inserted into holes punched in the primary leather coverings of books from the Islamic world. They were also used in the second half of the fifteenth century in both Spain and Italy, in which latter country the decoration became known as \u2018alla fiorentina\u2019, as well as in the Italian-inspired Corvinian workshop in Buda." , "lang" : "en" } ] }
+}

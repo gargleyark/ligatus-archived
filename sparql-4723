@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1572>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1551> ;
+	skos:prefLabel	"semi-elliptical spines"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Spine shape in which the central portion of the spine follows a shallow curve and terminates at each joints with more heavily rounded shoulders. This shape is commonly found on British bindings of the last quarter of the 18th century."@en .

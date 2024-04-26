@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2879>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1353> ;
+	skos:narrower	<http://w3id.org/lob/concept/2882> ,
+		<http://w3id.org/lob/concept/2881> ,
+		<http://w3id.org/lob/concept/3018> ;
+	skos:prefLabel	"kantbeslag"@nb ,
+		"edge fittings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of metal furniture which are folded over the edge of a board and may sometimes also be folded over onto the inside of the board."@en ,
+		"metallbeslag som er foldet rundt og festet langs permens ytterste kant for \u00E5 beskytte den   "@nb .

@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3069",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3173"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "thongs" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Narrow strips of tanned, oil-tanned or alum-tawed skin used for a variety of purposes in bookbindings, such as sewing supports, endband cores, ties, etc. Although the terms &#039;thongs&#039; and &#039;tapes&#039; are very similar in meaning, thongs are typically thicker than tapes made from animal skins. Therefore a length of thin animal skin used for the secondary braiding of an endband should be described as a tape rather than a thong." , "@language" : "en" } ] }
+] }

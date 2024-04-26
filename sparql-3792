@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2525">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1585" />
+    <skos:prefLabel xml:lang="en">raised sewing supports</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">opphøyde hefthyssinger</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Sewing supports that are placed on the surface of the spine of a bookblock and to which the gatherings are sewn.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">hefthyssinger som ligger på overflaten av bokblokkens rygg og som leggene heftes til </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

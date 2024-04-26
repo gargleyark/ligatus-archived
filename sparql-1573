@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4015>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2366> ;
+	skos:prefLabel	"flettverksdekor"@nb ,
+		"decorative lacing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"sammenhengende flette- eller nettingm\u00F8nster brukt som dekor p\u00E5 bokbind, s\u00E6rlig protokoller "@nb ,
+		"The process of lacing thongs or tapes through holes in the covers of books to create decorative patterns. Decorative lacing is typically found on the leather bands on tacketed stationery bindings and turn-in lacing on limp covers."@en .

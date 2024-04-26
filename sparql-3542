@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2967",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1309"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "main cores (endband components)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The endband cores which are attached to the bookblock by the primary sewing and which therefore act as the foundation for any secondary endband sewing and subsidiary cores. Primary sewing can also be worked around two main cores of the same diameter, known as double main cores. Double main cores were a common feature of Greek-style endbands, but were also used on some expensive bindings in the late-eighteenth century. From the late sixteenth century, main cores can be sewn with a subsidiary crowning core with primary sewing only." , "@language" : "en" } ] }
+] }

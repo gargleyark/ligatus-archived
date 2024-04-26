@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3490" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1606" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "slips cut at the joints" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heftbindender, besk\u00E5ret ved falsen" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Der heftbindendene ikke er n\u00F8dvendige for \u00E5 feste permer eller omslag til bokblokken, ble de ofte besk\u00E5ret inntil bokryggens fals." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "When the slips of either the endband cores or the sewing supports are not required for either board or cover attachment, they are usually removed by being cut at the joints, that is, flush with the joints of the bookblock." , "lang" : "en" } ] }
+}

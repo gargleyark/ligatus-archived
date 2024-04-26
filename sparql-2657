@@ -1,0 +1,18 @@
+{
+  "http://w3id.org/lob/concept/2356" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1298" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2995" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1417" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1578" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1334" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1501" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1647" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1607" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4423" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hull" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "holes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Openings made in a piece of material either as a result of its manufacture or by means of tools such as drills, awls, chisels, knives, etc.  In bindings slips, ties, threads, etc. were often passed through holes to create some form of attachment between the material in which the hole is made and the material passed through it. Other holes might be natural phenomena, such a flayholes, or decorative, as in the holes made in pierced covers to reveal the underlay material." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "\u00E5pninger laget i materialet ved hjelp av verkt\u00F8y som n\u00E5l, syl, kniv eller biologisk aktivitet" , "lang" : "nb" } ] }
+}

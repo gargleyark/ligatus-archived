@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3277">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1266" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4240" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1320" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4242" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1589" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1624" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4672" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2999" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4675" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3041" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1618" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1655" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1302" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1462" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4034" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3533" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1240" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1206" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3293" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1261" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3086" />
+    <skos:prefLabel xml:lang="en">cover components</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The components used in the covering of books.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

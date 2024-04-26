@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1198>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1205> ;
+	skos:prefLabel	"angled joints"@en ,
+		"banket fals 45\u00B0"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Joints which are angled at 45\u00B0. "@en ,
+		"de ytterste leggene p\u00E5 hver side av bokblokken blir banket til 45\u00B0"@nb .

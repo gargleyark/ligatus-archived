@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1251" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2346" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "utsparinger i permen" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "channels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "grooves" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Hule spor sk\u00E5ret ut i trepermen for \u00E5 gi plass til treing og festing av bokblokkens heftbind- og kapit\u00E9lb\u00E5nds-ender." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Recesses cut into the surface of a board to accommodate sewing-support or endband slips or bridling threads." , "lang" : "en" } ] }
+}

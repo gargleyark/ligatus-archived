@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3306" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2376" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stitched structures" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "sideheftede strukturer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "strukturer der heftetr\u00E5d e.l. er tredd gjennom hull i den indre margen p\u00E5 hele bokblokken " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The different structures used to make stitched bindings by passing thread, thongs, etc. through the inner margin of an entire bookblock." , "lang" : "en" } ] }
+}

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1433>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1535> ;
+	skos:prefLabel	"manuscript waste"@en ,
+		"h\u00E5ndskriftsmakulatur"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Manuscript leaves removed from a bound library book, as distinct from recycled document, either bound or unbound."@en ,
+		"gamle manuskripter brukt som f\u00F4ring eller forsterkninger i bokbind "@nb .

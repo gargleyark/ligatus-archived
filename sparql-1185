@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3479>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1222> ;
+	skos:prefLabel	"constructed boards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Boards for exceptionally large books which are made up from multiple components such as planks and rails, or battens sitting in dovetail grooves. Such boards may be up to 20 mm thick, or more, and can be found on the anthiponers and graduals used in large churches."@en .

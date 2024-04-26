@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1451">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1694" />
+    <skos:prefLabel xml:lang="en">nailed turn-ins</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">stiftede innslag</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">innslagene på overtrekket er stiftet fast i permen</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The turn-in is held in place with nails. Nails were mostly used to reinforce an adhesive attachment, especially if the turn-ins were narrow and the covering material a little thick or stiff, and therefore difficult to hold in place as the adhesive was drying.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

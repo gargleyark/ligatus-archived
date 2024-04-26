@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4336>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3631> ;
+	skos:prefLabel	"tucking-in endband slips"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of securing the unused endband slips of sewn bookblocks by tucking them into the joints of a lace-attached cover."@en .

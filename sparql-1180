@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3441",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3431"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "kolofon" , "@language" : "nb" } ,
+        { "@value" : "colophons" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The inscriptions which the copyist or printer placed on the last page of a manuscript or book with the facts about its production, author, date, title, etc." , "@language" : "en" } ,
+        { "@value" : "liten tekst med tekniske opplysninger om et manuskript, en bok, en avis, et tidsskrift eller et magasins utgivelse: copyright, trykkested og -\u00E5r, papir og skrift, bokbinder, opplag, utgave eller bidragsytere " , "@language" : "nb" } ] }
+] }

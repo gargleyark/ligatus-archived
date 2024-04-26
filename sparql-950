@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1264">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2482" />
+    <skos:prefLabel xml:lang="nb">presset papp</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">couched-laminate board (material)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">millboards</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">fremstilling av papp til bokpermer ved å presse ark av papir sammen uten lim</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Couched laminates were made by couching sheets of paper one on top of the other straight from the papermaker&amp;#039;s vat, relying on the hydrogen bonds formed between the sheets to hold them together, reinforced by heavy pressing after couching.  Because such boards were made in paper mills, they are also known as millboard, though this term has been so generally used of all paper boards in the literature that it has largely lost its specific meaning. Couched-laminate boards made from sheets of a cream- or grey-coloured paper were introduced after adhesive laminates, but are found by the end of the fifteenth century and become more common in all parts of Europe through the sixteenth century. They were used in Britain but not in large quantities until the introduction of couched laminates made from rope-fibre in the last quarter of the seventeenth century, which remained in widespread use in Britain only through to the nineteenth century. The surfaces of the boards may bear the impression of the screens on which they were made, which may have the appearance of a woven screen of varying degrees fineness or coarseness (textile?) or a laid pattern, again of varying qualities. They can often be distinguished from paste laminates where damaged corners are visible. The layers of paper separate leaving fibres attached between and to the separating surfaces, whereas paste laminates tend to break down cleanly into their separate layers.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

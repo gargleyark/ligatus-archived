@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2945">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2837" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/5423" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2868" />
+    <skos:prefLabel xml:lang="en">leaf tab markers</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bladmerker</skos:prefLabel>
+    <skos:altLabel xml:lang="en">tab</skos:altLabel>
+    <skos:altLabel xml:lang="en">fore-edge marker</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Small, usually rectangular, pieces of leather, parchment, paper or textile, often coloured or decorated, or even metal, which are adhered to the fore-edges of the leaves of a bookblock in order permanently to mark the locations of specific passages in a text, beginnings of sections, etc. They can be pasted on one side of a leaf or, if folded, to both sides of a leaf. Some folded leaf tab markers were folded tightly over the edges of the leaves, others project from the edge to a greater or lesser extent. The outer ends of some folded leaf tab markers were formed into turk&amp;#039;s head knots. The inner ends only of leaf tab markers are sometime found preserved in books that have had their fore-edges cut as the result of rebinding. They may or may not be be numbered or lettered, and could be added at any time after a book was bound.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">for inndeling av bokblokken festes biter av materiale som papir, skinn, pergament eller tekstil i ytterkanten av et blad </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

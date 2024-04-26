@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4943" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4941" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4949" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4951" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "r\u00E9glure" , "lang" : "fr" } ,
+      { "type" : "literal", "value" : "text ruling (features)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Ruled lines to guide the writing of manuscript texts. These may be made either by impressing lines into the leaves or using a medium such as graphite or ink to create horizontal lines either above or below the lines to be written and vertical lines to define the beginnings and ends of the lines of text." , "lang" : "en" } ] }
+}

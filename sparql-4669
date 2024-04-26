@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1554" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2474" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "s-twist thread" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "s-tvunnet tr\u00E5d" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Tr\u00E5d der bastfibrene er tvunnet slik at de danner en S (sett fra \u00F8verst til venstre mot nederst til h\u00F8yre)." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A ply in which the angle of the final twist of the thread is that of the central stroke of a capital S (i.e. from top left to bottom right)." , "lang" : "en" } ] }
+}

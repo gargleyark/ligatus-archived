@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4593>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2295> ;
+	skos:prefLabel	"adhered all-over (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A technique in which the secondary cover is adhered all-over to the primary cover."@en .

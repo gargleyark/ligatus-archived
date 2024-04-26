@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1525",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1553"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "prussian marbling" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A form of stain decoration in which coloured stains were run across the sides of the book from spine to foredge to create irregular horizontal streaks of colour (James Coghlan)." , "@language" : "en" } ,
+        { "@value" : "A form of stain decoration in which coloured stains were run across the sides of the book from spine to fore-edge to create irregular horizontal streaks of colour (James Coghlan)." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4392",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1412"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "laced cases" , "@language" : "en" } ,
+        { "@value" : "bindtredd l\u00F8sbind " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Case-type covers which are attached to a sewn bookblock by means of lacing the sewing-support slips and/or endband core slips through the joints of the case." , "@language" : "en" } ,
+        { "@value" : "Case-type covers which are attached to a sewn bookblock by means of the sewing supports and/or endband core slips only." , "@language" : "en" } ,
+        { "@value" : "bindtreing anvendes for \u00E5 f\u00F8ye sammen en allerede heftet bokblokk med et l\u00F8sbind ved bruk av heftbindene og eller endene p\u00E5 kapit\u00E9lb\u00E5ndene " , "@language" : "nb" } ] }
+] }

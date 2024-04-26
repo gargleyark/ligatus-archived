@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1316>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1393> ;
+	skos:prefLabel	"endleaf-hook endleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"An endleaf that is folded with a stub along its spine edge.  It may be used alone, in multiples or as a component within an endleaf unit, but is not folded around the adjacent text gathering."@en .

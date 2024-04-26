@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1595" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2350" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "skulder" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "shoulders" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The part of the backed joints on the spine of a book which project beyond the thickness of the rest of the bookblock. They can take a variety of shapes according to how the spine is treated." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "den bankede falsen p\u00E5 ryggen som stikker utenfor tykkelsen p\u00E5 resten av bokblokken " , "lang" : "nb" } ] }
+}

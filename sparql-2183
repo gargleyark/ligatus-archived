@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2907>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3413> ;
+	skos:prefLabel	"frame buckles (buckle components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Square, D-shaped or rounded metal ring at one end of a belt, through which the other end is inserted to be secured by a tang which passes through holes punched in the belt."@en .

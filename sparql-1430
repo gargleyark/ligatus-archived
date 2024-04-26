@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1288">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="en">dicing (techniques)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A lattice pattern created on the surface of a sheet material by means either of two sets of parallel lines impressed at an angle to each other or by two impressions of a plate engraved with straight lines or a single plate with the lattice pattern engraved onto it.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

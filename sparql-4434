@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1551",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2352"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1550"} ,
+        { "@id": "http://w3id.org/lob/concept/1389"} ,
+        { "@id": "http://w3id.org/lob/concept/1572"} ,
+        { "@id": "http://w3id.org/lob/concept/1604"} ,
+        { "@id": "http://w3id.org/lob/concept/1437"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rounded spines" , "@language" : "en" } ,
+        { "@value" : "rundet rygg" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "ryggen rundes for \u00E5 utligne \u00F8kning i ryggens tykkelse som oppst\u00E5r p.g.a. heftetr\u00E5den " , "@language" : "nb" } ,
+        { "@value" : "Spines that have been rounded, usually as the result of accomodating the swelling created by the sewing thread in the spine of the bookblock." , "@language" : "en" } ] }
+] }

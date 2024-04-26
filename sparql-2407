@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1376>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1593> ;
+	skos:prefLabel	"grain splits (skins)"@en ,
+		"narvspalt"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"F\u00E5reskinn spaltet p\u00E5 langs i to lag. Narvspalt, den ytterste delen av huden ble ofte til et tynt og relativt billig skinn bl.a. brukt p\u00E5 bokbind. Prosessen f\u00F8rer til at fibrene skj\u00E6res av og skinnet blir d\u00E5rlig og like lett \u00E5 rive i stykker."@nb ,
+		"The outer split of a sheepskin which has been split into two layers. The hair split was most often turned into a thin and relatively inexpensive leather, known in the 18th century as &#039;grains&#039; (see flesh splits)."@en .

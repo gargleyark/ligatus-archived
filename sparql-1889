@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3864>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4773> ;
+	skos:prefLabel	"engine-colouring"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A process by which a paper is coloured all the way through its thickness by means of adding dyes or colours to the pulp in the vat or \u2018engine\u2019 during the manufacturing process. One well-known type of engine-coloured paper was named after the English papermaker Thomas Cobb who, in 1796, patented a method for dyeing pulp based on the principles of textile dyeing. Cobb&#039;s finest papers had dark tones, primarily deep browns and olive colours, and were very popular (Krill 1987, Irving 1997). By extension, therefore, many blue papers as well as drab papers manufactured in other mills have sometimes been called Cobb papers, even though there is seldom any evidence that he made them. If his name is to be used to describe such papers, they should be described as \u2018Cobb-type papers\u2019. In bookbinding, these papers were extensively used during the first half of the 19th century, if not earlier, both as a covering material and as endleaves "@en .

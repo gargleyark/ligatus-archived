@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3143>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2540> ;
+	skos:prefLabel	"folded stuck-on endbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Stuck-on endbands formed by folding pieces of sheet material lengthways and adhering them to the spine in such a way that the folded edge projects beyond the height of the bookblocks. Folded stuck-on endband linings will often incorporate a core."@en .

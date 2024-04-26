@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2366">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2978" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3849" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3831" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1457" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3071" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3021" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2906" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1484" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2956" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2499" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2922" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1571" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1199" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1625" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1499" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3916" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4015" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3829" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3918" />
+    <skos:prefLabel xml:lang="en">lacing (techniques)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The process of attaching boards to a textblock by passing the bands or cords on which the textblock is sewn through holes cut into the boards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

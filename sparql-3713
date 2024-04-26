@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1456" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1658" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "semsgarvet skinn" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "oil-tanned skin" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "chamois" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "fransk for oljegarvet skinn uten narv som er mykt, smidig og vaskbart  (pusseskinn)" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Hides or skins penetrated with oil or other lipid-rich substances to produce a durable, soft-napped leather such as chamois." , "lang" : "en" } ] }
+}

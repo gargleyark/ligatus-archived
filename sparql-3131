@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3390>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3343> ;
+	skos:prefLabel	"rivets"@en ,
+		"klinknagle"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A metal pin with a head at one end and the other end beaten out with a hammer on the other side of the material(s) it has been passed through, to secure it."@en ,
+		"kort metallpinne som er felt inn i den delen av en bokspenne som  er feste til forpermen "@nb .

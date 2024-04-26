@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3577" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1537" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2350" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3235" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "knife-cut recesses" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Recesses created with a knife on the spine of the bookblock either to accomodate the thread in unsupported sewing stations or to act as adhesive recesses to allow the adhesive on the spine to reach the inner bifolia of each gathering." , "lang" : "en" } ] }
+}

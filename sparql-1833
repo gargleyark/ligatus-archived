@@ -1,0 +1,20 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3154>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/1210> ,
+		<http://w3id.org/lob/concept/2979> ,
+		<http://w3id.org/lob/concept/2880> ,
+		<http://w3id.org/lob/concept/3091> ,
+		<http://w3id.org/lob/concept/1673> ,
+		<http://w3id.org/lob/concept/2950> ,
+		<http://w3id.org/lob/concept/2994> ,
+		<http://w3id.org/lob/concept/4444> ,
+		<http://w3id.org/lob/concept/4446> ,
+		<http://w3id.org/lob/concept/3435> ,
+		<http://w3id.org/lob/concept/2870> ;
+	skos:prefLabel	"etikett"@nb ,
+		"labels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of sheet material, most often coloured tanned skin, paper or parchment, adhered or otherwise attached to the outside of a binding, bearing information about the contents of the book (typically the author&#039;s name and the title), a press or shelfmark, a price, etc. The information may be given in manuscript, tooled or printed. "@en ,
+		"seddel, liten plate ell. lign. med p\u00E5skrift til \u00E5 feste p\u00E5 en ting for \u00E5 angi dens navn\n\n"@nb .

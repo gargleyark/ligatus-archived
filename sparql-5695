@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3071>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2366> ;
+	skos:prefLabel	"three-hole lacing "@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of attaching the boards to a bookblock by lacing each sewing support slip through three holes, an entry, an exit and a re-entry hole, drilled or pierced close to the spine edge of the board. Three-hole lacing is typical of French bindings."@en .

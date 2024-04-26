@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1523" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1535" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "trykkmakulatur" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "printed waste" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "kassert materiale innen den grafiske produksjonen " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Whole or part sheets of printed material which were used in the construction of a binding. Spoiled printed sheets and unsold sheets from a printer&#039;s or bookseller&#039;s warehouse supplied most of this category of material, and its source may sometimes give clues as to the location and even identify the binder who used it." , "lang" : "en" } ] }
+}

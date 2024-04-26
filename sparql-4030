@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1683",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4034"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "triangular corners " , "@language" : "en" } ,
+        { "@value" : "permovertrekk til halvbind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The material used on the sides of the binding is cut to create a triangular shape on the exposed part of the covering material on the outer corners of the boards." , "@language" : "en" } ,
+        { "@value" : "Til halvbind skj\u00E6res hj\u00F8rnene p\u00E5 permovertrekkets ytterside av for at hj\u00F8rnene som er i samme materiale som ryggovertrekket, skal kunne eksponeres." , "@language" : "nb" } ] }
+] }

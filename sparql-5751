@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3318>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2370> ;
+	skos:prefLabel	"tacked endbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Endbands with cores consisting of lengths of twisted or braided cord or other, usually decorative, material that are secured to the head and tail edges of the spine of the bookblock by tacking them with thread which passes through the spine-folds of selected gatherings before returning to the core at an angle across the spine. The tiedowns on tacked endbands may be as little as 2-3 mm in length."@en .

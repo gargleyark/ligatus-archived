@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4614" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1481" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "card" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kartong" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A term in wide use but apparently without a specific definition to describe a relatively stiff thick paper or a thin paper board." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tynn, fin papp " , "lang" : "nb" } ] }
+}

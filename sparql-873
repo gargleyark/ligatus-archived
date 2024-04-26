@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1243>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:prefLabel	"casing-in"@en ,
+		"innhengning av l\u00F8sbind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Teknikk for \u00E5 feste l\u00F8sbindet til bokblokken med lim."@nb ,
+		"Refers to the process of attaching a case-cover to an assembled bookblock by means of adhesive only."@en .

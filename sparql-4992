@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3017">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2971" />
+    <skos:prefLabel xml:lang="nb">skjellsølv</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">shell silver</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Silver leaf ground into a powder and mixed with honey or other binder, applied to bindings with a brush. It differs from silver leaf in having a somewhat granular appearance when viewed under magnification. It takes its name from the mussel shells in which it was originally packaged.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">bladsølv som er revet til et pulver og blandet med honning eller et annet bindemiddel </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

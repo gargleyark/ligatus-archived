@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4466>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3311> ;
+	skos:narrower	<http://w3id.org/lob/concept/3034> ,
+		<http://w3id.org/lob/concept/3079> ;
+	skos:prefLabel	"bokfutteral"@nb ,
+		"slip cases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Rectangular enclosures that are open on one edge for the insertion of a book. The open edge may either be at the top (top-loading slip cases) or on one side (side-loading slip cases). The earliest English examples of side-loading slip cases date from the last quarter of the eighteenth century and have flexible leather sides (collapsible side-loading slip-cases). Entirely rigid, leather-covered top loading examples (rigid top-loading slip-cases) were used for fancy pocket books and almanacs from at least the mid-eighteenth century and, covered in printed and decorated paper, were widely used for such books in the early nineteenth century. They were also commonly used for folding maps."@en .

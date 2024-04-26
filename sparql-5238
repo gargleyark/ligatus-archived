@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3816",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2270"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "squares" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The part of the boards and/or cover of a book that project beyond the edges of the bookblock. Squares vary not only according to the size of a book (larger books will tend to have wider squares than smaller books) but also in proportion to the size of the binding. Where boards have squares, the squares can be characterised as narrow, medium and wide, where medium describes a square that is approximately equal to the thickness of the board, and narrow and wide indicate widths that are noticeably less or more than medium. The squares on the fore-edges and those at head and tail may be of different widths, with the fore-edge squares often being somewhat wider. Books with projecting index tabs may have very wide squares on the fore edge to protect the index tabs. The squares found on limp covers are not so easily described, and measurements may be necessary." , "@language" : "en" } ] }
+] }

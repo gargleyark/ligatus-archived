@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4876",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2277"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "edition bindings" , "@language" : "en" } ,
+        { "@value" : "forlagsbind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "publishers&#039; bindings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bokbind p\u00E5 bok som selges ferdig innbundet fra et forlag " , "@language" : "nb" } ,
+        { "@value" : "Wholesale quantity bindings (actually almost always adhesive-case bindings) to the order and at the expense of the publisher or distributor, as opposed to individual bindings executed for the retail bookseller or the purchaser. Edition bindings became very common in the 19th century, but earlier examples can be found." , "@language" : "en" } ] }
+] }

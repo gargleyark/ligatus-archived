@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2340">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2310" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2842" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2312" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2317" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2321" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4710" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2905" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3044" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2869" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1399" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1641" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4130" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2895" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2301" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1678" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4745" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4747" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1539" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1614" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1636" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2325" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2381" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2329" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4936" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2333" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4939" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2335" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4458" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1201" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2303" />
+    <skos:prefLabel xml:lang="en">decoration (features)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">binddekor</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">ornamentering av bindets synlige overflater ved bruk av forskjellige teknikker</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The ornamentation of the visible surfaces of a binding by one of the many different techniques used for this purpose, the most common of which include tooling, stain decoration and painting.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

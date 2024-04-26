@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3754" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "runding av bokryggen" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "rounding" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "teknikk for \u00E5 gi bokblokkens rygg en rund fasong ofte med hjelp av hammer" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The technique of shaping the spine into convex arc. This may be the result of accommodating the thickness of the sewing thread in the spine or induced by means of manipulation or hammering after an adhesive has been applied to the spine. The process is often combined with backing." , "lang" : "en" } ] }
+}

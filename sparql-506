@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2547">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2536" />
+    <skos:prefLabel xml:lang="en">braided secondary endband sewing</skos:prefLabel>
+    <skos:altLabel xml:lang="en">plaited endbands</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A type of secondary endband sewing in which threads or thongs are braided around the core of a sewn endband. The braiding may be done before or after the book is covered and if after, will go through the covering material at head and tail of the spine. Braiding may occasionally be found on Kapitalbünde, if they are very close to the head and tail of the spine.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

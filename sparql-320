@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1219",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2368"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "board linings " , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Pieces of sheet material adhered to one or other, or both, surfaces of a board before the book is covered, and either before or after the board is attached to the bookblock. Linings on the inside of the board may have been intended to counteract the tendency of the covering material to pull the board outwards as it shrank on drying, but in other cases the purpose may have been to consolidate or neaten up the board surface. They should not be confused with the sometimes complex linings in white paper adhered to the boards and spines of inboard bindings with raised sewing supports and tight-backs covered in parchment made in the Low Countries in the seventeenth and eighteenth centuries, whose purpose was to brighten the appearance of the thin, rather translucent parchment used on these bindings and disguise the sewing supports, spine linings, etc." , "@language" : "en" } ] }
+] }

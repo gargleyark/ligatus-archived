@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1304">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2987" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3027" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2977" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2891" />
+    <skos:prefLabel xml:lang="nb">tapp for hektering</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">edge pins</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A fastening in which a leather strap or straps attached to one board with a metal ring at the outer end fastened onto a metal pin inserted into the edge or edges of the other board.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">del av låsemekanisme, utformet som en kort pinne som sitter på beslaget på permens overside, og som hekteringen festet i bokremmen, kan hakes på </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A fastening in which a leather strap or straps attached to one board with a metal ring at the outer end is fastened onto a metal pin inserted into the edge or edges of the other board.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

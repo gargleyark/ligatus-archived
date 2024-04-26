@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3299">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1236" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4075" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4539" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3791" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3637" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1388" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4089" />
+    <skos:prefLabel xml:lang="en">attributes</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">The patterns or characteristics evident in different parts of the construction and components of a book.</skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

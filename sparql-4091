@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2992>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:prefLabel	"polering"@nb ,
+		"polishing"@en ;
+	skos:altLabel	"burnishing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"bearbeiding av et materiale for \u00E5 gj\u00F8re overflaten glatt, jevn og blank  "@nb ,
+		"The process of putting a heightened shine on the surface of a material by rubbing it with a smooth stone or metal tool. This may be done to a covering skin, usually leather, by a variety of means, including polishing with a hot iron with or without a prior coating of egg-glaire and plating between polished plates. Paper, especially that used in the area of the eastern Mediterranean, was often polished with a smooth stone as a preparation for writing, and the cut edges of bookblocks were almost always polished with one of a variety of materials, including stone, metal and the teeth of horses."@en .

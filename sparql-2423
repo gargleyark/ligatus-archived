@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1535>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:narrower	<http://w3id.org/lob/concept/1433> ,
+		<http://w3id.org/lob/concept/1523> ;
+	skos:prefLabel	"gjenbrukt materiale"@nb ,
+		"re-used (materials)"@en ;
+	skos:altLabel	"recycled"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"gjenbruk av tidligere brukte materialer "@nb ,
+		"The term used to describe materials that have already been used either for another purpose or for the same purpose on another book, such as parchment from medieval manuscripts or printed paper leaves used for covers, endleaves and spine linings,or  discarded covers or boards transferred from one bookblock to another."@en .

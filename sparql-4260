@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4472">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1329" />
+    <skos:prefLabel xml:lang="nb">plakett</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">plaquettes</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A usually circular or oval design engraved in intaglio, often in imitation of classical cameos. The relief impression made by a plaquette may be in another material (e.g. gesso) inlaid into the covering material (and into the thickness of the board if the design is deep enough), or it may be impressed directly into the covering material, with or without the use of a metal leaf. They may also be painted.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Et sirkulært eller ovalt stykke metall med gravert dekor festet på permenes utsider. Plakettene har en dekorativ funksjon og varierende form. De er laget av alt fra forgylt sølv til jern, ofte gravert, drevet eller bearbeidet på annen måte. De kan også forekomme som malt, emaljerte eller beslagne med edelstener.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

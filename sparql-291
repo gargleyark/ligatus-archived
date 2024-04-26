@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1210" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3154" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "binders&#039; tickets" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bokbinderetikett" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "name pallets" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Liten gravert, trykket eller av og til h\u00E5ndskrevet etikett med bokbinderens navn og eventuelt adresse som regel limt p\u00E5 innsiden av for- eller bakpermen. Alternativt kunne bokbinderen trykke navnet sitt blindt, i gull eller med blekk ofte p\u00E5 innslaget p\u00E5 innsiden av bakpermen." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Small engraved, printed or occasionally manuscript labels, usually pasted inside the left or right cover, or on the adjoining endleaves, giving the name (and usually the address) of the bookbinder.  Tickets were used from the early 18th century until about 1825, but were not often seen in England until about 1780. The use of the ticket gave way to the practice by binders of lettering their names in gilt, blind, or ink." , "lang" : "en" } ] }
+}

@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2482>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2484> ;
+	skos:narrower	<http://w3id.org/lob/concept/1418> ,
+		<http://w3id.org/lob/concept/3825> ,
+		<http://w3id.org/lob/concept/4168> ,
+		<http://w3id.org/lob/concept/3699> ,
+		<http://w3id.org/lob/concept/1264> ,
+		<http://w3id.org/lob/concept/1528> ,
+		<http://w3id.org/lob/concept/1492> ,
+		<http://w3id.org/lob/concept/1241> ;
+	skos:prefLabel	"board (materials)"@en ,
+		"permer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Board as it is manufactured in large sheets before being cut to size as the boards for use on individual books."@en ,
+		"de plane sidestykkene som er festet til hver side av en bokblokk for \u00E5 beskytte og forsterke den og som sammen med den utgj\u00F8r et bind "@nb .

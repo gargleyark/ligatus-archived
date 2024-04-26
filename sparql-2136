@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2895">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2340" />
+    <skos:prefLabel xml:lang="en">filigree</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">filigran mønster</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A delicate and intricate pattern either cut into a piece of tanned skin, parchment, paper, etc., often adhered to a background of a contrasting colour or used as a stencil for decorating a cover with stain.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">kunstferdige mønstre, utført ved å lodde fine sølv- eller gulltråder fast til en metallplate</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

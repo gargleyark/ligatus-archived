@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4585",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2470"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "lin" , "@language" : "nb" } ,
+        { "@value" : "linen" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "linbast spunnet til tr\u00E5d og garn" , "@language" : "nb" } ,
+        { "@value" : "General name for textile woven from the spun fibre of the flax plant or the material used to spin threads (i.e. linen thread)." , "@language" : "en" } ] }
+] }

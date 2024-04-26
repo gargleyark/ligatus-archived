@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1622",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3235"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "spine-folds" , "@language" : "en" } ,
+        { "@value" : "ryggfals" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "last folds" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "brett p\u00E5 falsede legg eller forsats gjennom hvilke bokblokken blir heftet " , "@language" : "nb" } ,
+        { "@value" : "Folds found in the spine edge of a gathering or an endleaf component through which a bookblock will be sewn." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/3045" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "protokoller" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "stationery bindings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "archival bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "blank-book bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ledger bindings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The bindings found on books made to be written in, such as ledgers, account books, etc. A variety of structures were used for these books (e.g. laced-case, tacketed, springback, etc.), but they were all intended to serve the same purpose. In eighteenth-century England, the binders who made these books were known as &#039;vellum binders&#039;, as parchment was the predominant covering material used on these books at that time." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Skriveb\u00F8ker med blanke ark beregnet for handels -, institusjonell - og privat virksomhet s\u00E5 som regnskapsb\u00F8ker, offisielle opptegnelser og arkivdokument." , "lang" : "nb" } ] }
+}

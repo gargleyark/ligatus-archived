@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2525" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1585" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "raised sewing supports" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "opph\u00F8yde hefthyssinger" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Sewing supports that are placed on the surface of the spine of a bookblock and to which the gatherings are sewn." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hefthyssinger som ligger p\u00E5 overflaten av bokblokkens rygg og som leggene heftes til " , "lang" : "nb" } ] }
+}

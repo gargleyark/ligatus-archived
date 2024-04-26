@@ -1,0 +1,27 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2279>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2277> ;
+	skos:narrower	<http://w3id.org/lob/concept/1361> ,
+		<http://w3id.org/lob/concept/1395> ,
+		<http://w3id.org/lob/concept/4529> ,
+		<http://w3id.org/lob/concept/1646> ,
+		<http://w3id.org/lob/concept/3028> ,
+		<http://w3id.org/lob/concept/3045> ,
+		<http://w3id.org/lob/concept/3222> ,
+		<http://w3id.org/lob/concept/1190> ,
+		<http://w3id.org/lob/concept/2968> ,
+		<http://w3id.org/lob/concept/4551> ,
+		<http://w3id.org/lob/concept/1450> ,
+		<http://w3id.org/lob/concept/4071> ,
+		<http://w3id.org/lob/concept/1587> ,
+		<http://w3id.org/lob/concept/3016> ,
+		<http://w3id.org/lob/concept/4165> ,
+		<http://w3id.org/lob/concept/1509> ,
+		<http://w3id.org/lob/concept/4167> ,
+		<http://w3id.org/lob/concept/3922> ;
+	skos:prefLabel	"bindings"@en ,
+		"bokbind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The structures and, if present, the covers used to hold together and protect the leaves of a bookblock and which allow them to be opened at the fore-edge."@en ,
+		"bokens struktur\r\nStrukturer for hvordan bind og bokblokk er satt sammen, som gj\u00F8r at permer/omslag samler og beskytter bladene i bokblokken og som gj\u00F8r at den kan \u00E5pnes."@nb .

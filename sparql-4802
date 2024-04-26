@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1606",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3490"} ,
+        { "@id": "http://w3id.org/lob/concept/3494"} ,
+        { "@id": "http://w3id.org/lob/concept/3496"} ,
+        { "@id": "http://w3id.org/lob/concept/3498"} ,
+        { "@id": "http://w3id.org/lob/concept/3500"} ,
+        { "@id": "http://w3id.org/lob/concept/1416"} ,
+        { "@id": "http://w3id.org/lob/concept/3695"} ,
+        { "@id": "http://w3id.org/lob/concept/1310"} ,
+        { "@id": "http://w3id.org/lob/concept/3847"} ,
+        { "@id": "http://w3id.org/lob/concept/1586"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "slips" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The parts of a sewing support, endband core or stitched core which extend beyond the thickness of a bookblock and may be used to attach boards or covers to the bookblock." , "@language" : "en" } ] }
+] }

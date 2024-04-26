@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4126>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3855> ;
+	skos:narrower	<http://w3id.org/lob/concept/3866> ,
+		<http://w3id.org/lob/concept/3869> ;
+	skos:prefLabel	"pulp-coloured paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper coloured all the way through its thickness with one colour only by means of engine-colouring or pulp made from already coloured fibres. In order to distinguish these, it may be necessary to use a powerful magnifying glass or low-powered microscope. Coloured fibres will show up as distinct entities, often mixed with white fibres, whereas an organic colourant will leave an even colour throughout the paper, though there may also be a scattering of coloured fibres included in the mix as some papers made with coloured fibres were subsequently dyed. Mineral dyes will usually leave material, often crystalline, between the fibres."@en .

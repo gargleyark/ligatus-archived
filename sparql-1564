@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3962",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3558"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "drap d\u00B4or dekorert papir" , "@language" : "nb" } ,
+        { "@value" : "drap d&#039;or" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A specific type of brocade paper that is first coloured through stencils, then metal-leaf embossed and finally coloured by hand afterwards in specific areas of the design (hand-colouring), in order to enhance parts of the decoration (e.g. petals or flower leaves)." , "@language" : "en" } ,
+        { "@value" : "sjablong- eller blokktrykt dekorert papir med gull- eller s\u00F8lvfarget relieffpreg og h\u00E5ndkolorerte detaljer  " , "@language" : "nb" } ] }
+] }

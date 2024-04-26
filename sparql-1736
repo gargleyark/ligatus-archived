@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1322",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1379"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1256"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "extension guards" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Strips of sheet material (most often paper) tipped to the spine edges of individual leaves or bifolia which can then be folded, either individually or in groups (see bookbinder&#039;s gatherings), and sewn through. Guards were frequently used to hold the folds of folded plates or maps at distance from the spine of the bookblock, to allow them to be opened flat and not &#039;lost&#039; in the gutter. Leaves attached to a bookblock in this manner are referred to as guarded." , "@language" : "en" } ] }
+] }

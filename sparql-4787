@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1600>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4708> ;
+	skos:prefLabel	"single-knot start (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A single knot tied at the end of a length of thread which will hold the thread at the first stitching hole at the start of the stitching or sewing process."@en .

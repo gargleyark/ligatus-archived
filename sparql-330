@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1223">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1195" />
+    <skos:prefLabel xml:lang="en">boards-and-cover adhesive case-bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">innhengt løsbind</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Lavfalset bok som er bundet inn ved at bokblokk og perm er laget hver hver for seg og hengt inn til slutt, en innbindingsform som passer godt til store opplag og blir ofte benyttet på forlagsbind. En type av løsbind med tekstilovertrekk ble utviklet på begynnelsen av 1800-tallet og ble etterhvert dominerende. </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Bindings with a case-type cover in which two boards and a spine inlay are held together by the primary covering material. This design of case was developed in the early 19th century and became the dominant type used on 19th century cloth-covered adhesive case bindings.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

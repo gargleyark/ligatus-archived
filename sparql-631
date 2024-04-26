@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3421" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3417" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "booksellers" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bokhandler" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "People or firms that buy and sell books, including proprietors of bookshops. In contexts before about 1800, refers also to those responsible for issuing books, later called &quot;publishers.&quot;" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "person eller firma som selger eller kj\u00F8per b\u00F8ker" , "lang" : "nb" } ] }
+}

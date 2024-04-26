@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4665",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3990"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "\u00E5dret papir" , "@language" : "nb" } ,
+        { "@value" : "veined marbled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Fargene sprutes p\u00E5 marmor\u00E9rgrunden og manipuleres enten manuelt eller kjemisk, slik at dr\u00E5pene forblir fargel\u00F8se s\u00E5 papiret skinner i gjennom, mens fargene presses sammen til \u00E5rringer som omgir dr\u00E5pene." , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4041>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3899> ;
+	skos:prefLabel	"assembling endleaves"@en ,
+		"sammensetning av forsatsblad"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of making up the endleaves at each end of a textblock. Each set of endleaves will consist of one or more endleaf units, and each endleaf unit wil consist of one or more endleaf components, and each endleaf component will almost always have two endleaf elements, one on each side of a spine-fold."@en ,
+		"Prosess for tillagning av forsats p\u00E5 hver side av tekstblokken, der hvert sett av forsatser best\u00E5r av en eller flere komponenter,  som igjen kan best\u00E5 av minst to elementer, et element p\u00E5 hver side av ryggfalsen."@nb .

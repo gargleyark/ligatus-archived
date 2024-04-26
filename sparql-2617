@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1468" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1619" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "overall spine linings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heldekkende ryggf\u00F4ring" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The lining is cut to the height of, but wider than, the spine, thus creating a lining extension on each side which can be adhered to the board or cover. If the extensions are to be placed against the insides of the boards, the lining extensions will have to be either pierced or split at each sewing support to allow the slips to remain on the outside of the board. Overall linings with the extensions adhered to the outside of the board are a typical of Greek-style and Islamic bindings." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "forsterkning av papir, tekstil eller skinn som klebes p\u00E5 bokblokkens rygg slik at hele ryggen dekkes" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The lining is cut to the height of, but wider than, the spine, thus creating a lining joint on each side which can be adhered to the board or cover. If the joints are to be placed against the insides of the boards, the lining joint will have to be either pierced or split at each sewing support to allow the slips to remain on the outside of the board. Overall linings with the joints adhered to the outside of the board are a typical of Greek-style and Islamic bindings." , "lang" : "en" } ] }
+}

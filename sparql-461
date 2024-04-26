@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2342>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2350> ;
+	skos:narrower	<http://w3id.org/lob/concept/2534> ,
+		<http://w3id.org/lob/concept/1326> ,
+		<http://w3id.org/lob/concept/1358> ,
+		<http://w3id.org/lob/concept/1533> ,
+		<http://w3id.org/lob/concept/1407> ;
+	skos:prefLabel	"bind"@nb ,
+		"bands (spine features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"synlige opph\u00F8yde tverrb\u00E5nd p\u00E5 bokryggen, enten ekte eller falske bind, heftbind eller kjedesting "@nb ,
+		"Any raised bands, either genuine or false, lying across the spine of a book, either as raised sewing supports, halfbands or kettlebands."@en .

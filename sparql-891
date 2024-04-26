@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1249" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2951" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3657" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "chainstitch" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "link-stitch" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "linkstitch" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A type of unsupported sewing in which the sewing thread, as it emerges from an individual sewing station, is taken down and round the thread emerging from the same station in the previous gathering(s), forming linked chains of thread across the spine. Chainstitch can be found on both supported and unsupported structures." , "lang" : "en" } ] }
+}

@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/2342" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2350" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2534" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1326" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1358" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1533" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1407" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "bands (spine features)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "synlige opph\u00F8yde tverrb\u00E5nd p\u00E5 bokryggen, enten ekte eller falske bind, heftbind eller kjedesting " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Any raised bands, either genuine or false, lying across the spine of a book, either as raised sewing supports, halfbands or kettlebands." , "lang" : "en" } ] }
+}

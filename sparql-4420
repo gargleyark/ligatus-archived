@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1548">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2383" />
+    <skos:prefLabel xml:lang="nb">rulle</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">rolls (tools and equipment)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A hand-held finishing tool consisting of a brass wheel, the circumference of which is engraved so as to impress a continuous repeating pattern as it revolves under (considerable) pressure. The decorative roll was used in Germany at least as early as the 1460s, and was in common use by the second decade of the 16th century.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">dekorstempel i form av rulle </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

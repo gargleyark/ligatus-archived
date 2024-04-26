@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2416",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2404"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "iron" , "@language" : "en" } ,
+        { "@value" : "jern" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Metallisk grunnstoff med kjemisk symbol Fe og atomnr. 26." , "@language" : "en" } ,
+        { "@value" : "Pure metallic element having symbol Fe and atomic number 26; metallic iron is silvery in color, lustrous, soft, ductile, malleable, and slightly magnetic; it rusts when exposed to moist air. It is rarely found as a native metal (telluric iron) except in meteorites (meteoric iron). Iron is most often found throughout the world as iron oxides (hematite, magnetite, limonite, and siderite) mixed with other ores." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1201",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "coloured decoration" , "@language" : "en" } ,
+        { "@value" : "farget dekor" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Colours applied to the covering material by means of paints or stains, either before or after the book was covered." , "@language" : "en" } ,
+        { "@value" : "forskjellige metoder og teknikker til \u00E5 farge deler av boken enten inni eller utenp\u00E5 " , "@language" : "nb" } ] }
+] }

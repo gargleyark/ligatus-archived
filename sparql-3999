@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1524>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2370> ;
+	skos:prefLabel	"projecting endbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Endbands which project beyond the height of the boards, because the boards are flush at head and tail with the edges of the bookblock. The height of the boards allow the endband cores to be taken onto the edges of the boards and to be sewn to them. This is a typical feature of Greek-style bindings, and these endbands are often described as Greek-style endbands, though the same structure can found on bindings from other middle-eastern countries (e.g. Armenia)."@en .

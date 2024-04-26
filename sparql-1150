@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2912">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1658" />
+    <skos:prefLabel xml:lang="es">guadameci</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">gilt leather</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">gyldenlær</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">cuir de Cordoue</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Spanish leather</skos:altLabel>
+    <skos:altLabel xml:lang="en">gilded leather</skos:altLabel>
+    <skos:altLabel xml:lang="en">cordovan</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">skinn dekorert med preget mønster påført bladgull, bladsølv og farge </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Leather decorated with gold leaf and also usually silver leaf and colouring, and frequently embossed. Used primarily as a covering for walls and furniture, it is occasionally found on books.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

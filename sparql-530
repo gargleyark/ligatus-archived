@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2833">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2837" />
+    <skos:prefLabel xml:lang="en">board strap markers</skos:prefLabel>
+    <skos:altLabel xml:lang="en">lifting tabs</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Straps, usually made of leather, which are attached to the inside of one or both boards of bindings, usually on the fore-edges, with the outer ends inserted between the leaves of the bookblock as a marker. The inner ends may lie over or under the turn-ins and in the latter case, will emerge through holes made in the covering material on the edges of the boards. The inner end of the straps may be secured either by one or more nails or adhesive, and the outer ends may be cut to a decorative profile. Board strap markers are a common feature of Greek-style bindings.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

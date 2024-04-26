@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1371" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1678" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "gulltrykt" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "gold-tooled (decoration)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The result of gold tooling." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dekor som er preget med gull eller gullfarget metall (legering)" , "lang" : "nb" } ] }
+}

@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/3305" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1619" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1655" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1618" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3041" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1624" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3391" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1392" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4077" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "spine components" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ryggkomponenter" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "alle deler som er brukt i konstruksjonen og utformingen av bokblokkens rygg " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The components used in the treatment and construction of the spines of bookblocks." , "lang" : "en" } ] }
+}

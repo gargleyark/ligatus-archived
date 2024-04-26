@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4545>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:prefLabel	"covering material"@en ,
+		"overtrekksmaterialer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"materiale som brukes til \u00E5 dekke bokens rygg og hele eller deler av permene "@nb ,
+		"The material used as the primary or secondary cover of a binding."@en .

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1558">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2350" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3235" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1537" />
+    <skos:prefLabel xml:lang="en">sawn-in recesses</skos:prefLabel>
+    <skos:altLabel xml:lang="en">saw-cuts</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Recesses created by a saw on the spine of the bookblock either to accomodate recessed sewing supports or as adhesive recesses to allow the adhesive on the spine to reach the inner bifolia of each gathering.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

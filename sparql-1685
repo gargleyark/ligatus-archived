@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1307>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1621> ;
+	skos:prefLabel	"end-of-spine infill panels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The areas created at the outer ends of the panels at the head and tail of the spine of a book where the decoration found between the sewing supports and repeated at head and tail is shorter than these panels. The infil panels may be left blank or filled with tooling."@en .

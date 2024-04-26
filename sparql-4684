@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1562">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:prefLabel xml:lang="nb">sekundært overtrekk</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">secondary covers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">overtrekk som ligger utenpå et primært overtrekk, for å beskytte eller forskjønne bindets primære overtrekk  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">An additional cover placed over a primary cover and attached to the book by whatever means. The attachment might be made by means of adhesive, pockets sewn or folded into the fore-edges of the secondary cover into which the fore-edges of the primary cover could be inserted, lacing the turn-ins of the secondary cover together on the inside of the boards or cover, simply folding the secondary cover in at head, tail and fore-edge, etc. The medieval chemise should be defined as a type of secondary cover. Many plain laced or adhesive cases of cartonnage were originally given secondary covers of decorated paper, but all other types of binding could be given secondary covers, either by professional bookbinders or by their owners at any time after they were made.  Secondary covers added at a later date are often identified by the fact that their turn-ins will be adhered over the pastedowns of the original bindings and their turn-ins at head and tail will be cut at the joints. Dust wrappers should also be considered as secondary covers, albeit somewhat ephemeral ones. A secondary cover always requires the existence of a primary cover. Secondary covers may also be found on boxes.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

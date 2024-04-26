@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3029",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1669"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2973"} ,
+        { "@id": "http://w3id.org/lob/concept/2974"} ,
+        { "@id": "http://w3id.org/lob/concept/3030"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paired ties" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Single ties attached opposite each other to both sides of a cover and which are therefore tied together in pairs across the edges of the bookblock. Two ties will therefore make one pair and it is essential to specify when referring to ties whether you are describing individual ties or pairs of ties (e.g. does the description &#039;four ties&#039; mean four pairs of ties or four single ties making two paired ties?)." , "@language" : "en" } ] }
+] }

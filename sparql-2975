@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3606>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3283> ;
+	skos:prefLabel	"interleaving (textblock components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Leaves of text-weight blank paper, hard-sized for writing on, bound into textblocks to supply a blank leaf in between each text leaf for the purpose of writing notes on. They could be supplied in a number of different ways, either as tipped single leaves or bifolia folded into each gathering, with a bifolium of blank paper around the outside of alternate gatherings to supply a single blank leaf between each gathering. In the centre of the gatherings, some binders would provide a full bifolium, giving two blank leaves between the facing text pages or a single leaf with a folded stub, both of which would therefore be sewn with the gathering, or a tipped single leaf. Interleaved textblocks are commonly found in books used in educational environments, and the university booksellers appears to have sold textbooks, both new and secondhand, with interleaving."@en .

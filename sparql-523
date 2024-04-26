@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2830" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1386" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "beech" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "b\u00F8k" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Pale reddish-brown, close-grain wood from any of several trees of the genus Fagus of the Fagaceae family; it is hard and heavy, and gives a smooth shiny finish. Beech wood is commonly used for flooring, cabinetry, furniture (especially bentwood chairs), tool handles, and turnery. It was frequently used for the boards of books at all periods in most European countries, but especially in Germany and Italy." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tresort i Fagaceae familien som ofte ble benyttet til permer " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1358",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2342"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "ekte bind " , "@language" : "nb" } ,
+        { "@value" : "genuine bands" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Bands created by structural features across the spine of the book such as raised sewing supports (i.e. not recessed) and kettlestitches, which may be emphasized with extra turns of thread in order to create more distinct bands." , "@language" : "en" } ,
+        { "@value" : "heftbind som ligger utenp\u00E5 bokblokkens rygg og som utgj\u00F8r tverrg\u00E5ende opph\u00F8yninger p\u00E5 bindryggen " , "@language" : "nb" } ] }
+] }

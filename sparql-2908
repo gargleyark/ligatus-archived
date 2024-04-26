@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1694">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2354" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1473" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3717" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3719" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3721" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3723" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1684" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1451" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3713" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3715" />
+    <skos:prefLabel xml:lang="en">turn-ins</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">innslag</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The parts of a cover that are turned in around one or more of its edges. Turn-ins will be found both over boards, cover linings and on limp covers. They can vary enormously in width, and may even overlap each other from head and tail on the inside of a limp cover. They will also vary enormously in the ways in which they are trimmed - from straight and parallel to the edge of the cover to edges which are irregular and uneven. Over boards, they may be pared before or after they have been turned-in in, and they can be left plain or they can be decorated with stains and tooling. Turning-in creates neat, straight edges on a cover, and, in limp bindings with relatively thin covers, will reinforce the edges of the cover. They are for this reason often found on the fore-edges of limp bindings that do not have turn-ins at head and tail or on the leading edge of fore-edge envelope flaps.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">den delen av overtrekksmaterialet som blir slått inn på innsiden av permen og som ikke synes på utsiden av permen</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

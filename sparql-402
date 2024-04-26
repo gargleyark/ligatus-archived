@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1395">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1377" />
+    <skos:prefLabel xml:lang="en">inboard bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bygd bind</skos:prefLabel>
+    <skos:altLabel xml:lang="en">bound in boards (bindings)</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bindings in which the boards are attached to the bookblock by whatever means before the book was covered. Such books are also described as &amp;#039;bound in boards&amp;#039;.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">bindstruktur der permene ansettes mot ryggens bankede falser. Permen klebes enten til ansetningsfalsen og/eller ved at heftbindene festes til permen før overtrekksmaterialet trekkes over ryggen og hele eller deler av permen</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3033>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2354> ;
+	skos:prefLabel	"skirts (cover)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Long flexible extensions at the tail end of either a primary or more probably a secondary cover, which can be gathered together in a knot, ring or hook, or left long and loose, and often associated with girdle books, though they can also be found in books that could never have been used as girdle books, on account of their large size."@en .

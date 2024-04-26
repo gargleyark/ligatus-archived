@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3535>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:narrower	<http://w3id.org/lob/concept/3534> ;
+	skos:prefLabel	"burnishing tools"@en ;
+	skos:altLabel	"burnishers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Tools used to burnish or polish the cut edges of bookblocks. It usually consists of a polished tip, which may be anything from polished stone to a horse&#039;s tooth, set in a wooden handle."@en .

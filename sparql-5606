@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1690",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2346"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tunnels (board features)" , "@language" : "en" } ,
+        { "@value" : "tunnel" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "hule ganger eller spor boret ut i trepermer for treing og festing av bokblokkens heftbind " , "@language" : "nb" } ,
+        { "@value" : "Holes drilled from the back edge of the board more or less parallel to the surfaces of the board to accommodate the slips of the sewing supports and/or endbands, as opposed to holes drilled from one surface to the other. The bridges which lie over the tunnels along the back edges of wooden boards will sometimes be found broken, making it difficult to identify that there were once tunnels in the board." , "@language" : "en" } ] }
+] }

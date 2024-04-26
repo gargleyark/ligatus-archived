@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/2482" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2484" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1418" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3825" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4168" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3699" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1264" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1528" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1492" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1241" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "board (materials)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "permer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Board as it is manufactured in large sheets before being cut to size as the boards for use on individual books." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "de plane sidestykkene som er festet til hver side av en bokblokk for \u00E5 beskytte og forsterke den og som sammen med den utgj\u00F8r et bind " , "lang" : "nb" } ] }
+}

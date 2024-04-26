@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4657>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3990> ;
+	skos:prefLabel	"skjellmarmorert papir"@nb ,
+		"shell marbled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Marmorgrunden sprinkles fullstendig av sm\u00E5 fargedr\u00E5per, fargeflekkene er merkbart lysere i kantene enn i midten og gjennom fortetting \u00E5dres mellomrommet mellom fargeflekkene. "@nb .

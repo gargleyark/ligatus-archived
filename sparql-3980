@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1520">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1517" />
+    <skos:prefLabel xml:lang="en">primary stitching within cover</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The stitched bookblock has a drawn-on cover of sheet material wrapped around it after the stitching, and the thread or other material used for the stitching will therefore be hidden under the cover. Such covers are most often adhered to the endleaves, where these are present, and the spine, or along the back edges of the textblock and the spine if there are no endleaves. While such covers are usually of paper, parchment was also used. A variation, apparently found only in Germany in the eighteenth century, is a quarter spine of coloured or decorated paper, which covers the spine and the stitching only.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

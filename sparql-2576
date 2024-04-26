@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1386">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2480" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2830" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2976" />
+    <skos:prefLabel xml:lang="en">hardwood </skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">løvtre</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Fellesbetegnelse på tofrøbladede trær med flate, tynne blad. Til permer ble som regel trevirke av bøk og eik benyttet, selvom alm og kastanje også forekommer.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Wood produced from broad-leaved deciduous trees, varying widely in color and grain pattern; usually but not always harder than softwood. The examples that are most likely to be used as book boards on western European bindings are beech and oak, though other hardwoods can be found such as elm and chestnut.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

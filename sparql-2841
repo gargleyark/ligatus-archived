@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4533" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sewing thread" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heftetr\u00E5d" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The thread usually of linen but also of other fibres used to sew or stitch books." , "lang" : "en" } ,
+      { "type" : "literal", "value" : " tr\u00E5d som brukes for sammenhefting av bokblokkens legg " , "lang" : "nb" } ] }
+}

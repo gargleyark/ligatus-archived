@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1421" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lapped mitres" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "overlappende hj\u00F8rner" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "hj\u00F8rneinnslag" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Lapped mitres are created when either the foredge or the head or tail turn-ins lie one on top of the other at the corners without being locked together. This is the most frequently encountered corner formation in bindings with both limp covers and covers over boards." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Lapped mitres are created when either the fore-edge or the head or tail turn-ins lie one on top of the other at the corners without being locked together. This is the most frequently encountered corner formation in bindings with both limp covers and covers over boards." , "lang" : "en" } ] }
+}

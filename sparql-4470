@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1623",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3507"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "spine-lining extensions" , "@language" : "en" } ,
+        { "@value" : "ryggf\u00F4ringsforlengelse" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "forlengelse av ryggf\u00F4ringer og kapit\u00E9lb\u00E5nd som stikker utenfor ryggens bredd og som er festet til permene, ansetnings- eller forsatspapir eller som er frie " , "@language" : "nb" } ,
+        { "@value" : "The parts of a spine lining, endband lining or stuck-on endband lining which extend beyond the width of the spine and may be adhered to the boards, cover or endleaves of a book, or be left free." , "@language" : "en" } ] }
+] }

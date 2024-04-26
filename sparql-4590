@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4002",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "relieff" , "@language" : "nb" } ,
+        { "@value" : "relief (techniques)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The process of impressing a design into a covering material using relief tools." , "@language" : "en" } ,
+        { "@value" : "et skulpturarbeid der motivet er delvis opph\u00F8yd og framhevet i forhold til et plant underlag eller en bakgrunnsflate" , "@language" : "nb" } ] }
+] }

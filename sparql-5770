@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3705",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1309"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tvunnede skinnstrimler" , "@language" : "nb" } ,
+        { "@value" : "twisted cores" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bearbeiding av skinnstrimler ved at de tvinnes for \u00E5 f\u00E5 en rund form" , "@language" : "nb" } ,
+        { "@value" : "Cores made from animal skin were often twisted to produce a round cross section. The end of the slips, where these are visible laced into boards or case-type covers, often show the twist very clearly. Cord cores will, by definition, be twisted." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2930" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2293" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "imitation russia leather" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Skins prepared outside Russia in imitation of genuine russia leather, most obviously by the dicing of the skins. The imitation skins do not share the durability of the genuine examples and are often now in poor condition. Such skins were made in France and England in the eighteenth century and cowhides (and other skins) made in imitation of russia leather were known in the U.S.A. as American russia." , "lang" : "en" } ] }
+}

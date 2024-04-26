@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4519",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1301"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "glattskj\u00E6ring" , "@language" : "nb" } ,
+        { "@value" : "smooth cutting" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The final cutting of rough-cut edges to create solid-cut edges." , "@language" : "en" } ,
+        { "@value" : "renskj\u00E6ring av kanter slik at de blir rette/glatte " , "@language" : "nb" } ] }
+] }

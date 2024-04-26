@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4393" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1412" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tacketed cases" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "sekund\u00E6rtredd l\u00F8sbind " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "treingen kan  utf\u00F8res for \u00E5 sammenf\u00F8ye et allerede heftet  innlegg med en l\u00F8sperm " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Case-type covers which are attached to a sewn bookblock by means of secondary tackets only." , "lang" : "en" } ] }
+}

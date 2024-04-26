@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1663",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3283"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4230"} ,
+        { "@id": "http://w3id.org/lob/concept/1257"} ,
+        { "@id": "http://w3id.org/lob/concept/1466"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tekstblokk" , "@language" : "nb" } ,
+        { "@value" : "textblocks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The word textblock is used to describe all the leaves in a book on which the text is written or printed. Where there is more than one text in a single binding, as in the case of composite volumes or Sammelb\u00E4nde, all the different texts are included in a single textblock. A textblock does not include endleaves or other leaves added by a binder, such as inserted text separators or interleaving, even though these may now carry additional written material. Endleaves and all other leaves added by the binder are, however, included in a bookblock. In certain exceptional circumstances, such as dos-\u00E0-dos bindings, a single binding may contain two or more bookblocks, each of which can in theory be a composite volume. Stationery bindings will often be made with a textblock which consists of blank gatherings yet to be written in, in which the outermost leaf of the outermost gathering at each end will be used as endleaves in the form of pastedowns (i.e. integral endleaves), and in these cases the textblock and the bookblock are the same thing. If the outermost gatherings of such a book are made in a different format from the rest of the gatherings (e.g. four leaves as opposed to eight leaves, or outside hooks instead of bifolia), or made from a different, possibly coloured, paper, these can be described as endleaves, and the other leaves as the textblock, together making the bookblock. " , "@language" : "en" } ,
+        { "@value" : "alle skrevne eller trykte blad eller legg i en ubundet eller bundet bok som er blitt samlet i en fysisk enhet  " , "@language" : "nb" } ] }
+] }

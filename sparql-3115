@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3034>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4466> ;
+	skos:prefLabel	"side-loading slip cases"@en ,
+		"kassett"@nb ;
+	skos:altLabel	"slip cases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Rectangular enclosures that are open on one edge for the insertion of a book. The open edge may either be at the top (top-loading slip cases) or on one side (side-loading slip cases). The early examples often have flexible leather sides (collapsible side-loading slip-cases), but entirely rigid, leather-covered top loading examples (rigid top-loading slip-cases) had been used for fancy pocket books and almanacs from at least the mid-eighteenth century and, covered in printed and decorated paper, were widely used for such books in the early nineteenth century."@en ,
+		"Rektangul\u00E6r, separat mer eller mindre stiv beskyttelse som er \u00E5pen i en kant til \u00E5 stikke boken inn i."@nb .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4639>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3958> ;
+	skos:prefLabel	"coated paper"@en ,
+		"bestr\u00F8ket papir"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"p\u00E5f\u00F8ring av et skikt best\u00E5ende av bindemiddel, fyllstoffer og evt. pigmenter til papir, med det form\u00E5l \u00E5 gi papiroverflaten en glatt overflate og eventuelt en fargenyanse"@nb ,
+		"Paper coloured by adding one or more smooth applications or coatings of a mixture of a binder and pigment to one or both of its sides. These papers have a smooth, enamel-like surface, in which the colour does not penetrate the paper, and may present either a matt or glossy surface, the latter finish being obtained by burnishing or calendering. Some coated papers were embossed with a fine pattern such as moir\u00E9. Such papers do not appear to have been used before the 1820s."@en .

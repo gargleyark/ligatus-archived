@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1484">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2366" />
+    <skos:prefLabel xml:lang="en">parallel lacing</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Two-hole lacing in which the two holes are arranged parallel to the joints of the bookblock. This type of lacing can be found in both boards and laced cases and the slips can be pointed either upwards or downwards, and will often be found pointed in one direction on one side and in the other on the other side</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

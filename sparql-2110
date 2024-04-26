@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1706">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2470" />
+    <skos:prefLabel xml:lang="en">velvet (textile)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">fløyel</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">silke-, bomulls- el. kunstfiberstoff med kort, tykk lo på den ene siden</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A textile with a warp pile weave, typically silk, with a short, soft dense pile produced by a supplementary warp that is raised in loops above the surface of the textile through the introduction of rods (trevats) during the weaving; the loops may be cut (hand-cut velvet) or left uncut.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

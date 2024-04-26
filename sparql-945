@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1262>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1678> ;
+	skos:narrower	<http://w3id.org/lob/concept/2826> ;
+	skos:prefLabel	"cornerpieces (decoration)"@en ,
+		"hj\u00F8rnedekorasjon"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Decoration in the corners of rectangular frames, created either by a block or built up with impressions created by a number of small tools."@en ,
+		"preget dekorasjon i hj\u00F8rner, laget enten med et hj\u00F8rnestempel eller satt sammen av flere mindre stempler "@nb .

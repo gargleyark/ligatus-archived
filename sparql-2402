@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1375",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4698"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "grain layer (skins)" , "@language" : "en" } ,
+        { "@value" : "narv" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The external layer of a processed skin which contains the hair follicles." , "@language" : "en" } ,
+        { "@value" : "Utsiden av et tilberedt skinn som inneholder h\u00E5rsekker. H\u00E5rsekkene etterlater seg fordypninger som er karakteristiske for de forskjellige skinnsortene. " , "@language" : "nb" } ] }
+] }

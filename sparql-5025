@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3027" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1304" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "simple edge pins" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Metal shafts with a pointed tang at their inner ends, often shaped at their outer end and often with a shaped bolster to prevent the projecting edge pin from being driven too far into holes drilled into the edge of the boards." , "lang" : "en" } ] }
+}

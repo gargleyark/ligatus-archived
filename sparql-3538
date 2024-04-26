@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2466",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1481"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "maskinlaget papir " , "@language" : "nb" } ,
+        { "@value" : "machine-made paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paper made in a continuous length in a papermaking machine as opposed to individual sheets made by hand on a paper mould. Machine-made papers have a pronounced grain which runs parallel to the length of the paper." , "@language" : "en" } ,
+        { "@value" : "papir produsert p\u00E5 en l\u00F8pende vire av en maskin i motsetning til for h\u00E5nd " , "@language" : "nb" } ] }
+] }

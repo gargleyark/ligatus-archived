@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1633>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2346> ;
+	skos:prefLabel	"rettsk\u00E5rne permkanter"@nb ,
+		"square edges (board edges)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Rettsk\u00E5rne permkanter er typiske for pappermer, den innvendige ryggkanten kan v\u00E6re skredd for \u00E5 tilpasses bokblokkens falser. Avfasing av pappen p\u00E5 permenes ytterkanter er et 1900-talls fenomen."@nb ,
+		"Board edges cut at right-angles to the inner and outer surfaces can be described as square, and this is typical of all paper boards (external bevelled edges of paper boards are largely a nineteenth-century phenomenon). Spine edges may have internal bevels to match the shape of the joints of the bookblock."@en .

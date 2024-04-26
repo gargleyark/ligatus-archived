@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2882>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2879> ;
+	skos:prefLabel	"kantstift"@nb ,
+		"edge studs"@en ;
+	skos:altLabel	"heels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Raised fittings attached to the head-, fore- and, most often, tail-edge of a board to protect the edges of the binding or give a vertical orientation to a binding with an uneven tail edge (e.g. Greek-style binding) on a sloping lectern shelf. Such studs were usually made of a copper alloy and were made in a variety of shapes, sometimes combined with shoes or corners. Also known as &#039;heels&#039; (Szirmai, p.264)."@en ,
+		"utskytende kantbeslag, som regel av metall, som er festet til permkantene"@nb .

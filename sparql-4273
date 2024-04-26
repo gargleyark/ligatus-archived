@@ -1,0 +1,16 @@
+{
+  "http://w3id.org/lob/concept/4682" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4148" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4152" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4138" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4670" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4504" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4134" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4136" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4777" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4456" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "printing tools" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Tools and equipment used for printing using either relief or intaglio surfaces." , "lang" : "en" } ] }
+}

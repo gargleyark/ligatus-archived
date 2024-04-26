@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2878>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2954> ;
+	skos:prefLabel	"dropped-lip catchplates"@en ;
+	skos:altLabel	"shovel"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Catchplates, the outer ends of which drop down over the edge of the board before rising to create a gutter-like groove into which the hooked clasp fastens. Dropped-lip catchplates, especially if nailed into shallow recesses on the surface of a board will keep the clasp within the thickness of the bound book, and would therefore be relatively safe to shelve vertically."@en .

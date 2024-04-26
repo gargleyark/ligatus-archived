@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/2470" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2484" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2450" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1239" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1506" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4585" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4238" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1448" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1228" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1706" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "textile" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tekstil" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Sheet material created by weaving organic fibres." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "materiale fremstilt av tekstilfiber, som kan komme fra vekst- eller dyreriket " , "lang" : "nb" } ] }
+}

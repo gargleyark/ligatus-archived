@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2527" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1585" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "innsagde bind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "recessed sewing supports" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "fordypninger som sages inn i bokblokkens rygg for \u00E5 romme heftehyssing, slik at ryggen blir glatt  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Sewing supports that are placed in recesses cut across the spine of a bookblock and to which the gatherings are sewn." , "lang" : "en" } ] }
+}

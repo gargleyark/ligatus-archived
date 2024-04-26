@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1419>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1481> ;
+	skos:prefLabel	"laminated paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper produced by adhering together two or more layers of paper to reinforce a leaf or cover."@en .

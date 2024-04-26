@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4034">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3277" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1270" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1632" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1411" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1683" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1330" />
+    <skos:prefLabel xml:lang="nb">hjørneovertrekk</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">corners (cover components)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">biter av overtrekksmateriale til å dekke permenes ytre hjørner på halvbind</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The pieces of covering material used in half-bindings to cover the outer corners of the boards. These may be shaped in a number of a different ways.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4651",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3990"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "moir\u00E9 marbled paper" , "@language" : "en" } ,
+        { "@value" : "moar\u00E9marmorert papir" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Et vilk\u00E5rlig basism\u00F8nster p\u00E5 hele overflaten endres og det skapes et b\u00F8lgeaktig m\u00F8nster ved bevegelse i papiret id\u00E9t det legges p\u00E5 marmorgrunden, b\u00F8lgene er bueformet og minner om moar\u00E9. I motsetning til spansk marmorert papir der b\u00F8lgeformasjonen er rette og s\u00E5 godt som parallelle." , "@language" : "nb" } ] }
+] }

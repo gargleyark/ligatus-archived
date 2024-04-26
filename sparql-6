@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1190">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2549" />
+    <skos:prefLabel xml:lang="en">adhesive structure bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">limbind</skos:prefLabel>
+    <skos:altLabel xml:lang="en">perfect bindings</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bindings in which the gatherings are held together by adhesive only, without any form of sewing or stitching. They may, however, be reinforced by glueing strips of material into recesses cut across the spine. The earliest examples of European adhesive bindings recorded on printed books are English, with one example dating from the 1620s and a small group from the period 1670-1690. German examples have been identified from the second half of the eighteenth-century and very occasionally in England at the end of the eighteenth century. The small number of survivals from these early periods is a reflection either of the ephemeral nature of some of the texts bound in this manner, or the inherent instability of such structures before the introduction of flexible adhesives. The so-called &amp;#039;Perfect binding&amp;#039; patented in 1836 and probably first used in 1839 (Middleton, p.30), in which caoutchouc was used as the adhesive, proved no more durable.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">bind der ryggen blir frest (høvlet) ned, rufset opp og etterpå limt med kald- eller varmlim </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

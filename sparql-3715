@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1456>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1658> ;
+	skos:prefLabel	"semsgarvet skinn"@nb ,
+		"oil-tanned skin"@en ;
+	skos:altLabel	"chamois"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"fransk for oljegarvet skinn uten narv som er mykt, smidig og vaskbart  (pusseskinn)"@nb ,
+		"Hides or skins penetrated with oil or other lipid-rich substances to produce a durable, soft-napped leather such as chamois."@en .

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1531">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3699" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3665" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3667" />
+    <skos:prefLabel xml:lang="en">quartered boards</skos:prefLabel>
+    <skos:altLabel xml:lang="en">split wood</skos:altLabel>
+    <skos:altLabel xml:lang="en">quarter-cut boards</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Wooden planks obtained from the trunk of a tree inline with the medullary rays radiating from the centre of the trunk, with the growth rings at right angles to the sides of the planks. Such planks were procured either by splitting or sewing the wood along the medullary rays.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

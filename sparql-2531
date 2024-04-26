@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4510>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4739> ;
+	skos:prefLabel	"guard hair"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fine hairs in an animal skin which lie under and are protected by the coarse hairs."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2516>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2350> ,
+		<http://w3id.org/lob/concept/3235> ,
+		<http://w3id.org/lob/concept/1537> ;
+	skos:prefLabel	"sewing recesses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Recesses cut or sawn across the spine of a bookblock either to accommodate recessed sewing supports or the chains of stitches of unsupported sewing structures."@en .

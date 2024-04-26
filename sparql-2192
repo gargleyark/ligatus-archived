@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3087">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3161" />
+    <skos:prefLabel xml:lang="nb">ferniss</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">varnish</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A solution of a resin in a volatile solvent or a drying oil, which when spread out in a thin film, dries and hardens by evaporation of the volatile solvent, or by the oxidation of the oil, or both; applied as a protective coating or to enhance the appearance of the surface underneath.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">overflatebehandlingsmiddel  som gir en hard og blank overflate</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/2321" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2340" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3881" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "marmorering" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "marbled (decoration)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "dekorm\u00F8nstre som ved hjelp av stor variasjon av farger og teknikker etterligner utseendet p\u00E5 marmor " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Decoration in which a variety of colours can be used to create patterns more or less accurately resembling the appearance of marble on sheet materials, bookblock edges, etc., by a variety of different processes (e.g. trough-marbling, run-marbling, hand-drawn marbling, printed marbling, etc.). In any description, the process should be defined as precisely as possible." , "lang" : "en" } ] }
+}

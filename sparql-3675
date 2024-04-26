@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1451>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1694> ;
+	skos:prefLabel	"nailed turn-ins"@en ,
+		"stiftede innslag"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"innslagene p\u00E5 overtrekket er stiftet fast i permen"@nb ,
+		"The turn-in is held in place with nails. Nails were mostly used to reinforce an adhesive attachment, especially if the turn-ins were narrow and the covering material a little thick or stiff, and therefore difficult to hold in place as the adhesive was drying."@en .

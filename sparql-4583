@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3994>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:narrower	<http://w3id.org/lob/concept/3996> ,
+		<http://w3id.org/lob/concept/3998> ;
+	skos:prefLabel	"rennemarmorert papir"@nb ,
+		"run-marbled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper on which coloured or uncoloured liquids have been directly and purposely allowed to run across its surface, creating an effect not unlike running water. The effect can be achieved either by a simple colourant or by chemical means, or by a combination of both."@en ,
+		"Dekoreringsteknikk der man lar farget eller ufarget flytende v\u00E6ske renne nedover overflaten p\u00E5 papiret, slik at det skapes et m\u00F8nster. Effekten kan oppn\u00E5s mekanisk eller kjemisk ved at man spruter p\u00E5 et l\u00F8sningsmiddel eller en kombinasjon av begge."@nb .

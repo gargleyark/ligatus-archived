@@ -1,0 +1,20 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2277>	rdf:type	skos:Concept ;
+	skos:narrower	<http://w3id.org/lob/concept/4207> ,
+		<http://w3id.org/lob/concept/3311> ,
+		<http://w3id.org/lob/concept/2279> ,
+		<http://w3id.org/lob/concept/4806> ,
+		<http://w3id.org/lob/concept/2285> ,
+		<http://w3id.org/lob/concept/1186> ,
+		<http://w3id.org/lob/concept/4073> ,
+		<http://w3id.org/lob/concept/4876> ,
+		<http://w3id.org/lob/concept/4879> ,
+		<http://w3id.org/lob/concept/4886> ,
+		<http://w3id.org/lob/concept/4199> ,
+		<http://w3id.org/lob/concept/4202> ,
+		<http://w3id.org/lob/concept/4203> ,
+		<http://w3id.org/lob/concept/4205> ;
+	skos:prefLabel	"objects"@en ;
+	skos:scopeNote	"This hierarchy provides values for the CIDOC-CRM E22 Man-Made Object:\r\n\r\nThis class comprises physical objects purposely created by human activity.\r\nNo assumptions are made as to the extent of modification required to justify regarding an object as man-made. For example, an inscribed piece of rock or a preserved butterfly are both regarded as instances of E22 Man-Made Object."@en ;
+	skos:topConceptOf	<http://w3id.org/lob/> .

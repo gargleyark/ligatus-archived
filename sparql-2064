@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1478",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2383"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2949"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "filett" , "@language" : "nb" } ,
+        { "@value" : "pallets" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "H\u00E5ndverkt\u00F8y som benyttes til forgylling av bokrygger - best\u00E5r av buet messingstempel med inngravert dekorasjon eller bord festet til et h\u00E5ndtak.   \r\n" , "@language" : "nb" } ,
+        { "@value" : "Handle tools with a long curved face bearing a band of engraved decoration that can be rocked across a binding, but more typically across the spine of a binding to create bands of decoration." , "@language" : "en" } ] }
+] }

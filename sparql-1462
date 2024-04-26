@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1297">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2474" />
+    <skos:prefLabel xml:lang="nb">vokset tråd</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">dressed thread</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Tråden kan være blitt beskyttet med voks for å hindre at den flosser og tvinner seg under hefting. Voksen kan ofte oksidere til oransje-brun farge.
+
+</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Thread has been protected with a coating of a substance such as wax or a size to stop it fraying and twisting as it is used. When wax was used, it often oxidises to an orangey-brown colour.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

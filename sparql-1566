@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3975">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3183" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3941" />
+    <skos:prefLabel xml:lang="en">intaglio printing</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">dyptrykk</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">trykkemetode hvor det som skal trykkes, blir gravert eller etset inn i en plate, og hvor fargen ligger i fordypningene  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Printing process in which the image is printed from ink held in the recessed areas of the plate or block, which have been engraved or etched away.
+
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

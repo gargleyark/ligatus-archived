@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4633",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3545"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "penseldekorert papir" , "@language" : "nb" } ,
+        { "@value" : "brush-patterned paste paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paper in which the paste layer has been worked on the surface entirely with one or more brushes in order to produce patterns that are more elaborate than the simple parallel strokes produced by the initial brush-application of the paste." , "@language" : "en" } ,
+        { "@value" : "Penslet klisterpapir, der det fargede klistersjiktet blir bearbeidet med en eller flere pensler og m\u00F8nsteret som dannes blir mer utarbeidet." , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4585">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2470" />
+    <skos:prefLabel xml:lang="nb">lin</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">linen</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">linbast spunnet til tråd og garn</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">General name for textile woven from the spun fibre of the flax plant or the material used to spin threads (i.e. linen thread).</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

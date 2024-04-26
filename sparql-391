@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1342" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "dobbeltblad" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "bifolia" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "folds" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Et ark som er falset p\u00E5 midten slik at det oppst\u00E5r to blad av omtrent lik st\u00F8rrelse, f.eks. en bokside med dobbel sidest\u00F8rrelse som falses i bokens for- eller toppsnitt." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A piece of sheet material folded to create two leaves of more or less equal size." , "lang" : "en" } ] }
+}

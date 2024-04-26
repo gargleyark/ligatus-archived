@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3805",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2270"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tail" , "@language" : "en" } ,
+        { "@value" : "fot" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Nedre del av boken n\u00E5r den st\u00E5r vertikalt p\u00E5 en hylle." , "@language" : "nb" } ,
+        { "@value" : "The bottom of a bound book as placed vertically on a shelf." , "@language" : "en" } ] }
+] }

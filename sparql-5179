@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3515>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3501> ;
+	skos:narrower	<http://w3id.org/lob/concept/4011> ,
+		<http://w3id.org/lob/concept/4117> ,
+		<http://w3id.org/lob/concept/3849> ;
+	skos:prefLabel	"slip attachment"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The attachment of boards to sewn bookblocks by means of the slips of the sewing supports."@en .

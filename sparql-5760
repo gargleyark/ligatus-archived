@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3699">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2482" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1559" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1531" />
+    <skos:prefLabel xml:lang="en">wooden board (materials)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">trepermer</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">permer av tre som er gjort av ett stykke med tykkelse på 4 - 20mm</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Plank-like wooden boards ranging in thickness from approximately 4 to 20 mm (and occasionally thicker), as opposed to sca&amp;#039;boards which will be found in the range 1 to 3 mm. Thick wooden boards will often be shaped around the edges or across the outer surface and will usually have holes or tunnels drilled in them for the slips of sewing supports and/or endband cores. In the absence of a pre-existing term for these boards, we are describing them simply as wooden boards, and using the term sca&amp;#039;boards to identify the much thinner split boards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

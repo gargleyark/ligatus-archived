@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4416" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3475" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "external bevels" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "permkanter avfaset p\u00E5 utsiden" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A bevel cut from the external surface of the board." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Avfasing av permens utvendige kanter." , "lang" : "nb" } ] }
+}

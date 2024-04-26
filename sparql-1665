@@ -1,0 +1,16 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1301>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:narrower	<http://w3id.org/lob/concept/1272> ,
+		<http://w3id.org/lob/concept/4517> ,
+		<http://w3id.org/lob/concept/3889> ,
+		<http://w3id.org/lob/concept/4519> ,
+		<http://w3id.org/lob/concept/4541> ,
+		<http://w3id.org/lob/concept/4610> ;
+	skos:prefLabel	"edge cutting"@en ,
+		"snittskj\u00E6ring"@nb ;
+	skos:altLabel	"trimming (edge cutting)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The cutting of the edges of a bookblock to produce more or less smooth edges for convenience in handling, protection and decoration."@en ,
+		"beskj\u00E6ring av bokblokkens snitt for \u00E5 gj\u00F8re dem glatte og forberede dem for dekorering "@nb .

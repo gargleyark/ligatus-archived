@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3318",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2370"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tacked endbands" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Endbands with cores consisting of lengths of twisted or braided cord or other, usually decorative, material that are secured to the head and tail edges of the spine of the bookblock by tacking them with thread which passes through the spine-folds of selected gatherings before returning to the core at an angle across the spine. The tiedowns on tacked endbands may be as little as 2-3 mm in length." , "@language" : "en" } ] }
+] }

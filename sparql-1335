@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4775" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "combs (decorative tools)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Rake-like tools used in trough marbling, which consist of lengths of wood or metal fitted with a row of metal pins, the ends of which are dipped into the colours floating on a bath of size and then moved to manipulate the colours into combed patterns." , "lang" : "en" } ] }
+}

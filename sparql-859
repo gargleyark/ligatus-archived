@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1240" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cap cores" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A core, usually of cord, folded into the cap at the head and tail of the spine. Cap cores have been recorded from the last quarter of the sixteenth century, used to reinforce the caps of books bound in boards with wide squares and/or thin covering materials. In the early twentieth century this technique was associated with stationery bindings with spring backs, and was known as &#039;setting the head [or tail] with cord&#039;." , "lang" : "en" } ] }
+}

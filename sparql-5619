@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1695>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1585> ;
+	skos:prefLabel	"tvunnet heftbind"@nb ,
+		"twisted sewing supports"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"heftbind best\u00E5ende av to eller flere skinnremser som er rullet eller tvunnet f\u00F8r bruk"@nb ,
+		"The sewing support material is twisted. Cords, of course, will always be twisted, but skin materials were also twisted in order to give them an even, round cross section suited to sewing. It is not always possible to determine whether a core has been twisted or rolled when only a cut or broken cross section is visible, and in these cases it is safer to offer both options in the form &#039;twisted or rolled?&#039;."@en .

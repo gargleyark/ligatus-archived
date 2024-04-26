@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1465">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2344" />
+    <skos:prefLabel xml:lang="nb">gjæret hjørneinnslag med åpning</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">open mitres</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The two cut edges if the mitered corner do not meet when they are folded over. It is possible for the cut edges of a butt mitre to pull apart slightly on leather covered boards as the leather dries and shrinks.The gap create by this prc ess is typically very narrow (less than 1 mm), and should not be confused with open mitres, which may be anything from 2-5 mm wide.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Gjæret hjørneinnslag der de to rett avskårne kantene ikke møtes men har en åpen avstand på omkring 2 - 5 mm, som ikke må forveksles med at åpningens avstand skyldes uttørking og krymping av skinnet.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1376",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1593"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "grain splits (skins)" , "@language" : "en" } ,
+        { "@value" : "narvspalt" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "F\u00E5reskinn spaltet p\u00E5 langs i to lag. Narvspalt, den ytterste delen av huden ble ofte til et tynt og relativt billig skinn bl.a. brukt p\u00E5 bokbind. Prosessen f\u00F8rer til at fibrene skj\u00E6res av og skinnet blir d\u00E5rlig og like lett \u00E5 rive i stykker." , "@language" : "nb" } ,
+        { "@value" : "The outer split of a sheepskin which has been split into two layers. The hair split was most often turned into a thin and relatively inexpensive leather, known in the 18th century as &#039;grains&#039; (see flesh splits)." , "@language" : "en" } ] }
+] }

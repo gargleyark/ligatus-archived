@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2346">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1633" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1303" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1271" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3055" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1203" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3627" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1251" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1217" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3023" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4910" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2497" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1690" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3787" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2834" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3789" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2991" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3475" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4423" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4925" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1631" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1233" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1231" />
+    <skos:prefLabel xml:lang="nb">permenes egenskaper</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">board features</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">All features relating to the shaping and functional preparation of the boards of a book.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">alt som har med forberedelse og  funksjonell utforming av permene</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

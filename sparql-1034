@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2354">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3077" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1402" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1694" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1596" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1404" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3033" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3082" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1265" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4573" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2374" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1343" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1616" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1617" />
+    <skos:prefLabel xml:lang="en">cover features</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">All the features of the cover of a book relating to its different parts, preparation, application and shaping. </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

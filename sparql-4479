@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2352>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/1455> ,
+		<http://w3id.org/lob/concept/4340> ,
+		<http://w3id.org/lob/concept/1333> ,
+		<http://w3id.org/lob/concept/4460> ,
+		<http://w3id.org/lob/concept/1610> ,
+		<http://w3id.org/lob/concept/1551> ;
+	skos:prefLabel	"spines (bookblocks)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The edge of the bookblock opposite the fore-edge where the spine-folds of the gatherings, sewing supports, external endband tiedowns and spine linings will be found."@en .

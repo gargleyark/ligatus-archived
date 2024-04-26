@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/2869" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2340" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cut leather (decoration)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "l\u00E6rsnitt" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "cuir cisel\u00E9" , "lang" : "fr" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The result of cut-leather work." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Resultatet av en fremgangsm\u00E5te der deler av skinnet skj\u00E6res bort for \u00E5 skape en dekorativ effekt.  L\u00E6rsnitt var s\u00E6rlig brukt p\u00E5 1400-tallet i det syd\u00F8stre Tyskland og Spania. " , "lang" : "nb" } ] }
+}

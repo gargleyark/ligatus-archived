@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2468>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2450> ,
+		<http://w3id.org/lob/concept/3167> ;
+	skos:prefLabel	"silk (fibre)"@en ,
+		"silke"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fine continuous protein fiber consisting primarily of fibroin filaments, secreted by silk caterpillars."@en ,
+		"tekstil vevd av fine, lange proteintr\u00E5der fra silkeormens kokong"@nb .

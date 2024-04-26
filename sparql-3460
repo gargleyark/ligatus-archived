@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1434">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb">marmorert dekor under gullsnitt</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">marbling under the gold</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">An edge decoration technique in which the edges of a book are first marbled, and then gilded on top of the marbled colour. While the marbling is scarcely visible when the book is closed, it can be seen more clearly on the fore-edge when the book is opened and the edges of leaves are slightly separated. This is because the marbling colours penetrate slightly into the paper and can be seen on the sides of the leaves along the cut edge. The technique is particularly associated with French bindings of the seventeenth and eighteenth centuries.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">dekoreringsteknikk der bokens snitt først blir marmorert for så å bli dekket av av gull </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

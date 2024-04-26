@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4956>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:prefLabel	"printed sheets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sheets, usually of paper, which form individual bibliographical units on which books were printed and then folded according to their format prior to binding."@en .

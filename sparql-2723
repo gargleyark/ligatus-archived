@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2925>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1254> ;
+	skos:prefLabel	"hinged clasps"@en ,
+		"hengslet bokspenne"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Clasps attached directly to hinge plates by means of pin hinges."@en ,
+		"Lukkemekanisme i metall utstyrt med hengsler. "@nb .

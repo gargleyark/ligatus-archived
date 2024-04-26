@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1693>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1657> ;
+	skos:narrower	<http://w3id.org/lob/concept/1261> ;
+	skos:prefLabel	"turn-in tackets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Small tackets used to secure the turn-ins of a cover and to prevent them lifting. They are most often found on the outer corners (known as corner tackets) but can also be found on the inner corners of cases and in the centres of turn-ins."@en .

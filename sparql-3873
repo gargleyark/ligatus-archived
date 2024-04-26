@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1480" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1329" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "panel stamps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A relatively large block of metal or wood, usually the former, and usually engraved intaglio, which was used to impress a design on the cover of a book. They could be used either cold on dampened leather or heated (when made of metal) on dry leather and were usually blocked in blind and used in pairs, one on each side of the binding, though on larger books multiple impressions of blocks can be found. Cast copies of blocks have been identified, which means that the identification of individual blocks can only be made through damage or the positions of nail holes." , "lang" : "en" } ] }
+}

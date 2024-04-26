@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4099">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2293" />
+    <skos:prefLabel xml:lang="nb">hud</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">hide</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">skinn fra store dyr i rå eller ugarvet tilstand </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The skin of an animal, raw or dressed: more particularly applied to the skins of the larger beasts and such as may be tanned into leather.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3765",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1658"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "kordovan" , "@language" : "nb" } ,
+        { "@value" : "Kordovan" , "@language" : "de" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The name given in Germany to a thick, black, tanned goatskin, which was highly prized in the seventeenth and eighteenth centuries, particularly for bindings on liturgica and bibles, so much so that it appears that the skin was rarely tooled in gold." , "@language" : "en" } ,
+        { "@value" : "fint l\u00E6r av geitskinn " , "@language" : "nb" } ] }
+] }

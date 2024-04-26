@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1190" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2549" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "adhesive structure bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "limbind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "perfect bindings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Bindings in which the gatherings are held together by adhesive only, without any form of sewing or stitching. They may, however, be reinforced by glueing strips of material into recesses cut across the spine. The earliest examples of European adhesive bindings recorded on printed books are English, with one example dating from the 1620s and a small group from the period 1670-1690. German examples have been identified from the second half of the eighteenth-century and very occasionally in England at the end of the eighteenth century. The small number of survivals from these early periods is a reflection either of the ephemeral nature of some of the texts bound in this manner, or the inherent instability of such structures before the introduction of flexible adhesives. The so-called &#039;Perfect binding&#039; patented in 1836 and probably first used in 1839 (Middleton, p.30), in which caoutchouc was used as the adhesive, proved no more durable." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bind der ryggen blir frest (h\u00F8vlet) ned, rufset opp og etterp\u00E5 limt med kald- eller varmlim " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,15 @@
+{
+  "http://w3id.org/lob/concept/2383" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1329" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1384" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1385" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1548" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1478" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3177" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1699" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "h\u00E5ndforgyllingsverkt\u00F8y" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "hand tools" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Forgyllerverkt\u00F8y utstyrt med treh\u00E5ndtak som brukes for h\u00E5nd og som inkluderer sm\u00E5 h\u00E5ndstempler, filetter og ruller.\r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Finishing tools fitted with wooden handles and impressed by hand as opposed to blocks, panels, etc. which have to be used in presses. Hand tools will therefore include small hand tools, hand letters, rolls, fillets and pallets." , "lang" : "en" } ] }
+}

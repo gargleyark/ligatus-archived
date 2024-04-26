@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1366",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2422"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "glue" , "@language" : "en" } ,
+        { "@value" : "animalsk lim" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "An impure protein obtained by hydrolysis of collagenous material such as skin, bone, and connective tissue by various methods. The word glued should not be used where the adhesive referred to is a starch-based paste. If the origin of the adhesive is unclear the word &#039;adhesive&#039; only should be used." , "@language" : "en" } ,
+        { "@value" : "lim kokt p\u00E5 hud og ben fra dyr " , "@language" : "nb" } ] }
+] }

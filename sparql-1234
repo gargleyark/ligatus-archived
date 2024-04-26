@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4035">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2295" />
+    <skos:prefLabel xml:lang="en">corner formation</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">hjørneinnslag</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The cutting of the outer corners of a cover both limp and over boards by mitering them, to allow them to be folded in when creating the turn-ins.  A large number of different techniques were used.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">beskjæring av hjørnematerialet som blir slått inn på innsiden av permen og som ikke synes på utsiden av permen danner hjørneinnslag </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

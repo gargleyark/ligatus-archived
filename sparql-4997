@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3019" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "short at head and tail spacing (support spacing)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The sewing supports are arranged so as to create panels at head and tail that are shorter than the panels between the sewing supports. This arrangement was often used for less expensive bindings in the early 16th century that do not have endbands, in which placing the sewing supports closer to the head and tail compensated for the lack of structural endbands." , "lang" : "en" } ] }
+}

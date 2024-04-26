@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1211>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3235> ;
+	skos:narrower	<http://w3id.org/lob/concept/1508> ,
+		<http://w3id.org/lob/concept/4006> ;
+	skos:prefLabel	"blade marks"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Marks left on the edges of bookblocks by the sharp metal blades of the tools (e.g. draw-knife, plough, etc.) used to cut them. The most carefully cut edges seldom leave blade marks, but the quicker the work and the blunter the blade, the more obvious the marks will be."@en .

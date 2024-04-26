@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1224",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1186"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "folders (tools and equipment)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A thin length of wood, bone (bone folder), ivory, or other material, approximately 12 to 20 centimetres long, and about 2 to 4 centimetres wide, and approximately 3 mm thick. They were made in a variety of shapes to suit different purposes, and were used in folding sheets by hand and cutting bolts, and also in numerous other binding operations." , "@language" : "en" } ] }
+] }

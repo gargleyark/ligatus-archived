@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1315>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1653> ;
+	skos:prefLabel	"endleaf stubs"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The narrow strip of a piece of sheet material that is created when the sheet material is folded along the spine edge, making one wide leaf on one side of the fold and one narrow strip, or stub, on the other. Hook endleaves and outside hook endleaves are both folded to create stubs, as are guards. In the latter case, both elements are stubs, though the outer element is usually wider than the inner (it may be up to half the width of the text leaves, beyond which it should be described as a leaf). Stubs can also be created when the larger, outer part of a leaf is torn or cut away either before or after it is pasted to the inside of a board or cover."@en .

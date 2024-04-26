@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2358">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2283" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1434" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1280" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4236" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3857" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1282" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3862" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4055" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2884" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2932" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4667" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2860" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1628" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2855" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3661" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4002" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1490" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1688" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1476" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3984" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1305" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1306" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2888" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3971" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1294" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3973" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1598" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2360" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1355" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1288" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3876" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3883" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1363" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3395" />
+    <skos:prefLabel xml:lang="en">decorating techniques</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">binddekoreringsteknikker</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">All the decorative techniques that may be applied to the external surfaces of a book (covers and bookblock edges) and the insides of the boards or cover, as well decorated papers, furniture and fastenings and enclosures.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">alle dekorative teknikker som er påført en bok, på yttersidene av bind og snitt og på innsiden av permene eller omslaget, dekorert papir, beslg og låsemekanismer </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

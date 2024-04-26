@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3825>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2482> ;
+	skos:prefLabel	"rope fibre board (materials)"@en ;
+	skos:altLabel	"tar boards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A particular type of couched-laminate board widely used in England in the 18th century and later, made from rope fibre."@en .

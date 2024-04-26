@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1309">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3271" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3629" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3705" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3673" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2967" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3329" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3687" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3689" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3691" />
+    <skos:prefLabel xml:lang="en">endband cores</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">kapitélbånd kjerne</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">snor av hamp eller skinn som tilføres som forsterkende element i kapitélbånd </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Endband cores are lengths of material, both flexible and, occasionally, inflexible, which are either sewn to the head and tail of the spine of a bookblock in a worked endband, or are incorporated into a stuck-on endband. They can be single or multiple but they should be described individually as separate endband components. They can be made out of a variety of materials and can extend onto the boards where they can be fastened through a variety of techniques or can be cut straight to the bookblock spine edge. Endband cores which extend and are fastened to the boards play a crucial role in the reinforcement of the attachment between the boards and the bookblock especially so in Greek-style bindings. Their number can vary from one to as many as 7 or even more according to the sewing technique used. A core may consist of a single cord or other material length, or from multiple lengths of the same material, for example a bundle of thin threads used together as to form a single cord. They are described starting from the core immediately in contact with the bookblock edge at head or tail, proceeding outwards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

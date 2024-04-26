@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1378>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3283> ;
+	skos:prefLabel	"guard sheets"@en ;
+	skos:altLabel	"barrier sheets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Thin leaves of laid or wove paper inserted into a book to prevent the transfer of ink from a plate or illustration to a facing page, or vice-versa. It may be loose in the book, sewn in with the binding, or, more often, tipped to the leaf it protects. "@en .

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2937>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2837> ;
+	skos:prefLabel	"knotted string markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"String bookmarks are most often knotted to either various parts of an endband, to a ring attached to an endband, or after being laced through the thickness of a leaf in the fore-edge."@en ,
+		"String bookmarks are most often knotted to either various parts of an endband, to a ring attached to an endband, or after being laced through the thickness of a leaf in the foredge."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1640>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3475> ;
+	skos:prefLabel	"steep bevel"@en ,
+		"bratt kant"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"sterkt hellende kant"@nb ,
+		"A bevel cut at an angle noticeably more than 45 degrees to the surface of the board."@en .

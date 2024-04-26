@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4913" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2837" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rotating column indicators" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Column indicators made in the form of rotating disks within a fold of parchment with the numbers of the columns present in any opening written on the disks. The indicators are attached to cord markers that can be placed anywhere in the book, and the rotating column indicators can be slid up and down the cord so that the line can be indicated by the position of the indicator." , "lang" : "en" } ] }
+}

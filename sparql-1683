@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1307" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1621" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "end-of-spine infill panels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The areas created at the outer ends of the panels at the head and tail of the spine of a book where the decoration found between the sewing supports and repeated at head and tail is shorter than these panels. The infil panels may be left blank or filled with tooling." , "lang" : "en" } ] }
+}

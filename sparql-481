@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2396>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3167> ;
+	skos:narrower	<http://w3id.org/lob/concept/2398> ;
+	skos:prefLabel	"ben"@nb ,
+		"bone"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The rigid, calcareous material that is white in color and forms the skeleton of vertebrates; primarily composed of calcium hydroxyapatite with smaller amounts of calcium carbonate, calcium fluoride, magnesium phosphate, and ossein, a high molecular weight protein. Bones have a concentric structure with central lymphatic canals surrounded by a spongy lamellar region protected by a dense outer cortex. Bone has been carved and used since ancient times for many purposes, including fish-hooks, spear heads, needles, handles, and art objects. Bones were also burnt to produce bone black and boiled to produce bone glue. Bone can be distinguished from ivory by being generally whiter, more porous, and less dense. "@en ,
+		"betegnelse for benvev og knokler"@nb .

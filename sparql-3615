@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4162>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3953> ;
+	skos:narrower	<http://w3id.org/lob/concept/4624> ,
+		<http://w3id.org/lob/concept/4626> ,
+		<http://w3id.org/lob/concept/4628> ;
+	skos:prefLabel	"metal-leaf paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Metallic paper created by adhering sheets of metal leaf to papers that have already been coated with a bole or gesso. They can use metal leaves of pure gold or silver (gold leaf paper or silver leaf paper) or of a gold alloy (gold alloy paper). These papers were often burnished afterwards to produce a bright shine."@en .

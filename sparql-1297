@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4589>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:prefLabel	"covering"@en ,
+		"overtrekkp\u00E5setting"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"prosess der man former et materiale rundt et bokbind "@nb ,
+		"The process of wrapping and or moulding a piece of sheet material around a bound book."@en .

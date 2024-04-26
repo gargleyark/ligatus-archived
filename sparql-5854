@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4504",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4682"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "wood-blocks" , "@language" : "en" } ,
+        { "@value" : "treblokk" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "materiale til \u00E5 skj\u00E6re ut m\u00F8nstre, ord eller bilder for \u00E5 overf\u00F8re ved hjelp av trykk til papir, tekstil eller andre materialer " , "@language" : "nb" } ,
+        { "@value" : "Blocks of wood on which designs, words, or other images are cut in order to transfer an impression in inks or other colours in a medium by means of printing on paper, textile or other material." , "@language" : "en" } ] }
+] }

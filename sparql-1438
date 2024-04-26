@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1290">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1450" />
+    <skos:prefLabel xml:lang="nb">tvillingbind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">dos-à-dos bindings</skos:prefLabel>
+    <skos:altLabel xml:lang="en">back-to-back bindings</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bindings in which two bookblocks with the same vertical orientation share a central board attached to each bookblock, so that the spine of each bookblock lies alongside the fore-edge of the other. The binding is so designed that the two boards on the outside of the binding will open at the first page of each textblock, allowing both bookblocks to be opened at their titlepages. These bindings are also known as back-to-back bindings. Very occasionally, three bookblocks will be found bound together in this manner, with two shared boards, though the third bookblock will not have its left-board and titlepage on the outside of the binding, unless it is turned head to tail. Dos-à-dos bindings were fashionable in England in the first half of the seventeenth century, and were often extensively tooled in gold or had embroidered covers. They were also made in Germany.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Innbindingsteknikk der to bøker i samme format bindes inn sammen ved at de deler en perm i midten og at den ene bokens rygg ligger parallelt med den andre bokens forkant.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

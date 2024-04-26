@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2299>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:narrower	<http://w3id.org/lob/concept/1225> ,
+		<http://w3id.org/lob/concept/1692> ;
+	skos:prefLabel	"back-cornering"@en ,
+		"skredde permhj\u00F8rner"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"For \u00E5 lette forming av overtrekkets innslag inn mot ryggen ble litt av hj\u00F8rnene p\u00E5 permen besk\u00E5ret p\u00E5 skr\u00E5."@nb ,
+		"The process of cutting away the corners at both head and tail of the spine edge of a board. This was to serve either of two purposes - to lower the height of the board either, if the squares were particularly wide, to the level of the endband, or, if there was no endband, to the level of the bookblock, or to accommodate the turn-in of the covering material. The shape of the back-cornering can vary widely."@en .

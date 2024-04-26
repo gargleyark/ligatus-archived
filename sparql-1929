@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4442>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3303> ,
+		<http://w3id.org/lob/concept/2368> ;
+	skos:prefLabel	"envelope flap linings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The material used to line the inside of a fore-edge flap, which may be the same as that used for the pastedown or another material altogether. The material will frequently be either decorated or coloured."@en .

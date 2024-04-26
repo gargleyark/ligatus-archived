@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1443" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2924" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "metallbind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "metal cases " , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A cover which is entirely made of metal including the spine, with hinges along the joints. Such covers may be either primary covers over inboard bindings or secondary covers over inboard bindings which have a different primary cover, usually of leather. If only the boards are covered with metal, it should be described as furniture." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "helbind av metall, inkludert ryggen, som er hengslet langs ryggfalsene  " , "lang" : "nb" } ] }
+}

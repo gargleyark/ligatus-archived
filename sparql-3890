@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1486",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "skjerfing" , "@language" : "nb" } ,
+        { "@value" : "paring" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "\u00E5 redusere tykkelsen p\u00E5 skinnets kanter " , "@language" : "nb" } ,
+        { "@value" : "The process of reducing the thickness of a piece of material, typically leather, by shaving it with an extremely sharp knife (paring knife). Leather was usually pared from the flesh-side, so as to retain the grain layer intact. In the sixteenth century, many northern-European bindings had the edges of the turn-ins trimmed out from the hairside at a rather steeper angle than is typical of paring, and it is questionable as to whether this should be called paring rather than trimming (Szirmai 1999, p.232). Edge paring at a shallow angle from the flesh-side has been recorded from the 1470s, but does not become common until well into the sixteenth century, and paring covering skins along the joints to increase the flexibility of the joints is found on some thick pigskin covers on German bindings of the late sixteenth century." , "@language" : "en" } ] }
+] }

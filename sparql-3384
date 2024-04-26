@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4103">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3300" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1414" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1415" />
+    <skos:prefLabel xml:lang="en">laced-case bindings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bindings in which a cover in the form of a case is attached to a sewn or stitched bookblock by lacing the slips of the sewing supports and/or endband cores or the secondary stitching thongs through the joints of the case. The slips are therefore visible on the outside of the cover along the joints, unless hidden by a secondary cover. Laced-case bindings were in use in Italy and France in the last quarter of the fifteenth century, but are found in every country of Europe in a myriad of different variations throughout the sixteenth century. In northern Europe they are rarely found after the middle of the seventeenth century, but their use continued for longer in the same century in Italy and until the early nineteenth century in Spain.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Bindings in which a cover in the form of a case is attached to a sewn or stitched bookblock by lacing the slips of the sewing supports and/or endband cores or the secondary stitching thongs through the joints of the case. The slips are therefore visible on the outside of the cover along the joints, unless hidden by a secondary cover. Laced-case limp bindings were in use in Italy and France in the last quarter of the fifteenth century, but are found in every country of Europe in a myriad of different variations throughout the sixteenth century. In northern Europe laced-case limp bindings are rarely found after the middle of the seventeenth century, but their use continued for longer in the same century in Italy and until the early nineteenth century in Spain. Laced-case bindings with boards continued to be made throughout Europe until the nineteenth century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

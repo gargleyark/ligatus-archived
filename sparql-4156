@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3534">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3535" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4450" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4453" />
+    <skos:prefLabel xml:lang="nb">polerings jern</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">polishing irons</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Metal tools heated and used to flatten the grain of tanned skins, particularly goatskin, using the heat to go beyond the heat shrinkage temperature to fix the polished surface in place. Two types of polishing irons were used, one for the spine with a curved face, and the other, the siding iron, in the shape of a cylinder mounted at right-angles to a wooden handle which was used for polishing the sides of bindings.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">metallverktøy som ble varmet opp for å glitte overflaten på garvede skinn </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

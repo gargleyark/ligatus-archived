@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1262">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1678" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2826" />
+    <skos:prefLabel xml:lang="en">cornerpieces (decoration)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">hjørnedekorasjon</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Decoration in the corners of rectangular frames, created either by a block or built up with impressions created by a number of small tools.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">preget dekorasjon i hjørner, laget enten med et hjørnestempel eller satt sammen av flere mindre stempler </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

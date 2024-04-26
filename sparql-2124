@@ -1,0 +1,21 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2450",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2468"} ,
+        { "@id": "http://w3id.org/lob/concept/4739"} ,
+        { "@id": "http://w3id.org/lob/concept/2432"} ,
+        { "@id": "http://w3id.org/lob/concept/2434"} ,
+        { "@id": "http://w3id.org/lob/concept/2436"} ,
+        { "@id": "http://w3id.org/lob/concept/1481"} ,
+        { "@id": "http://w3id.org/lob/concept/3822"} ,
+        { "@id": "http://w3id.org/lob/concept/3612"} ,
+        { "@id": "http://w3id.org/lob/concept/3129"} ,
+        { "@id": "http://w3id.org/lob/concept/2470"} ,
+        { "@id": "http://w3id.org/lob/concept/1483"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "fibre materials" , "@language" : "en" } ,
+        { "@value" : "fibermaterialer" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The organic fibrous materials used in the manufacture of threads, cords and textiles as well as paper." , "@language" : "en" } ,
+        { "@value" : "Organiske fibre som benyttes til fremstilling av tr\u00E5d, hyssing, tekstiler og papir." , "@language" : "nb" } ] }
+] }

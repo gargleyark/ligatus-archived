@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3577>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1537> ,
+		<http://w3id.org/lob/concept/2350> ,
+		<http://w3id.org/lob/concept/3235> ;
+	skos:prefLabel	"knife-cut recesses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Recesses created with a knife on the spine of the bookblock either to accomodate the thread in unsupported sewing stations or to act as adhesive recesses to allow the adhesive on the spine to reach the inner bifolia of each gathering."@en .

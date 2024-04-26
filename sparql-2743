@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3042>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4189> ;
+	skos:prefLabel	"head of the spine (titles)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Any form of title written, tooled or printed found on the spine of a binding. Up until the 18th century, it would appear that most titles were the responsibility of the owner of the book rather than the bookseller or binder. Labels printed for the bookseller or publisher make their appearance in England in the 1730&#039;s but do not become widespread until the last quarter of the century."@en .

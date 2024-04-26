@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1257",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1663"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "composite textblocks" , "@language" : "en" } ,
+        { "@value" : "Sammelb\u00E4nde" , "@language" : "de" } ,
+        { "@value" : "samlebind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "sammelbands" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bok som inneholder flere forskjellige tekster som er bundet sammen i et bind " , "@language" : "nb" } ,
+        { "@value" : "Single textblocks containing two or more manuscript parts or printed editions, as opposed to multiple textblock bindings which contain two or more discrete textblocks, each of which may, of course, be a composite textblock." , "@language" : "en" } ] }
+] }

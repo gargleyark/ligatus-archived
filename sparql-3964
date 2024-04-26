@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1515">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:prefLabel xml:lang="nb">primært overtrekk </skos:prefLabel>
+    <skos:prefLabel xml:lang="en">primary covers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">trekk som dekker bokens rygg og hele eller deler av permene </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The first, and often only, cover on a binding, and which could serve as the finished external surface of the binding. The term is used to distinguish the covering first put onto the book before the addition of a secondary cover. It is not possible to have a secondary cover unless there is already a primary cover, and the primary cover will always cover at least the spine and the spine-edges of the boards if not the whole book. On some medieval bindings it is possible to have a full secondary cover over a quarter primary cover, resulting in a binding in which the secondary cover will be in direct contact with the larger part of the boards. This does not make it a primary cover, as the quarter spine covering will always have been there first. Where case covers are concerned, the primary cover may stand alone. A primary covering may take the form of a part cover and therefore be made of one or more different materials. Case covers present a more complex problem of definition, in that the primary cover of laced-case binding, one-piece case binding or longstitch binding through a full cover is the case cover itself. Any decorated paper subsequently wrapped around them is therefore a secondary cover. If an adhesive case cover is made in the German manner as a three-piece case cover, it must, by analogy, constitute the primary cover and the decorated paper often added to them would also be a secondary cover. However, in the type of case developed in the 1820s, in which the boards and spine inlay were held together by their covering (usually of bookcloth), the separate boards and spine inlay cannot really be thought of as a cover in themselves (unlike the German three-piece case which, although made of three separate components, is attached to a bookblock as a single unit). It would seem, therefore, sensible for the components which make up a full case cover (i.e. one which reaches around the spine from fore-edge to fore-edge) to be regarded as a primary cover from the moment when they are joined together as a single unit. Any subsequent covering should be thought of as a secondary covering. A longstitch guard, therefore, because it does not extend to the fore-edges of a bookblock, does not constitute a primary cover, which role is taken by the full cover which was folded over it.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

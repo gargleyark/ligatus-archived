@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4910">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1537" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2346" />
+    <skos:prefLabel xml:lang="en">clasp-strap recesses</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Shallow recesses cut into the borders of the external surface of boards to accommodate the ends of clasp straps and into which they are usually secured by nails. They are usually square or rectangular in shape, and may either be of the same depth all over, with three vertical sides, or have a sloping base that rises from the edge of the board to the surface of the board, to take a strap pared to the same profile.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

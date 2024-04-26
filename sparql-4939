@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2420>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2404> ;
+	skos:prefLabel	"silver (metal)"@en ,
+		"s\u00F8lv"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A malleable, ductile, white metal with characteristic sheen, considered a precious metal. As a pure metal, silver is second to gold in malleability and ductility, can be polished to a highly reflective surface, and was used, typically in an alloy, to make book fastenings and furniture on more expensive bindings, as well as in jewelry, coinage, mirrors, tableware, etc."@en ,
+		"edelt hvit- el. gr\u00E5ligglinsende metall "@nb .

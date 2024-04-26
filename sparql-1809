@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2888>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	"gravyr"@nb ,
+		"engraving (metalwork)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"In metalwork, a technique for creating incised linear decoration by use of engraving tools, such as burins."@en ,
+		"fremstilling av trykk basert p\u00E5 dyptrykksteknikk "@nb .

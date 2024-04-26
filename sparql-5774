@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3711",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3287"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "wooden pegs" , "@language" : "en" } ,
+        { "@value" : "treplugger" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Tapering pieces of wood, more or less round in cross section, used to secure sewing-support slips in holes drilled in wooden boards. Although single pegs were normally used, multiple pegs can sometimes be found where the hole was much larger than the slip." , "@language" : "en" } ,
+        { "@value" : "for \u00E5 sikre at permene festes ordentlig til bokblokken, brukes plugger av tre til \u00E5 l\u00E5se heftbindene som er tredd gjennom hull eller tuneller i trepermene  " , "@language" : "nb" } ] }
+] }

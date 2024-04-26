@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4011">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3515" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4029" />
+    <skos:prefLabel xml:lang="en">surface-adhering (slips)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">heftbindender klebet til permen</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Adhering the slips of transverse sewing supports to either the internal or external surface of the boards, to attach them to sewn bookblocks.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Teknikk for å føye sammen permer og bokblokk, der endene av heftbindene klebes enten til permenes innside eller utside for å feste dem til bokblokken.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2963" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3361" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "loop and stylus fastenings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Fastenings in which folded loops made from strips of metal, textile, ribbon, parchment or tanned skin are fastened to the fore-edges of both boards, and which line up when the books are closed and can be secured with a stylus, often a thin pencil to be used for writing notes." , "lang" : "en" } ] }
+}

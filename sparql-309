@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1214>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1329> ;
+	skos:narrower	<http://w3id.org/lob/concept/4109> ,
+		<http://w3id.org/lob/concept/1260> ,
+		<http://w3id.org/lob/concept/1247> ;
+	skos:prefLabel	"blocks (finishing tools)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Engraved or cast metal blocks used to decorated the sides of bindings. Typically, these will consist of corners and centrepieces and other designs too large to be tooled by hand rather than in some form of press."@en .

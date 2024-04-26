@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1341" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "folding" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "falsing av trykkeark" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bretting av trykkeark for h\u00E5nd eller i falsemaskin til legg " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The process of folding printed sheets into gatherings according to format. This is work that was costed separately in some early bookbinders price lists and would either have been done within the booktrade before the book was sent to the binder or by the binder." , "lang" : "en" } ] }
+}

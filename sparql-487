@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2412" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2408" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bronze" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Refers to a broad range of alloys of copper, specifically any non-ferrous alloy of copper, tin, and zinc or other trace metals. Bronze was made before 3,000 BCE -- possibly as early as 10,000 BCE, although its common use in tools and decorative items is dated only in later artifacts. The proportions of copper and tin vary widely, from 70 to 95 percent copper in surviving ancient artifacts. Because of the copper base, bronze may be very malleable and easy to work. By the Middle Ages in Europe, it was recognized that using the metals in certain proportions could yield specific properties. Some modern bronzes contain no tin at all, substituting other metals such as aluminum, manganese, and even zinc. Historically, the term was used interchangeably with &quot;latten.&quot; U.S. standard bronze is composed of 90% copper, 7% tin and 3% zinc. Ancient bronze alloys sometimes contained up to 14% tin." , "lang" : "en" } ] }
+}

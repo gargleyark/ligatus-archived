@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/2396" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3167" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2398" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "ben" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "bone" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The rigid, calcareous material that is white in color and forms the skeleton of vertebrates; primarily composed of calcium hydroxyapatite with smaller amounts of calcium carbonate, calcium fluoride, magnesium phosphate, and ossein, a high molecular weight protein. Bones have a concentric structure with central lymphatic canals surrounded by a spongy lamellar region protected by a dense outer cortex. Bone has been carved and used since ancient times for many purposes, including fish-hooks, spear heads, needles, handles, and art objects. Bones were also burnt to produce bone black and boiled to produce bone glue. Bone can be distinguished from ivory by being generally whiter, more porous, and less dense. " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "betegnelse for benvev og knokler" , "lang" : "nb" } ] }
+}

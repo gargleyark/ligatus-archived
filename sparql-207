@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/4708" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3752" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1600" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1526" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1410" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "anchoring techniques" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Techniques used to secure a thread at the beginning or end of a sewn or stitched structure." , "lang" : "en" } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1674" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tongued mitres" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "In a tongued mitre, the two turn-ins that meet at a corner are trimmed to leave a space between them which is filled by a strip, or tongue, of the covering skin which is pulled over the corner to lie between them. The covering skin was usually trimmed on the board, and this often leaves clearly visible knife-cuts in the board which allows the existence of tongued mitres to be identified even when the tongues, and possibly the turn-ins, have been lost. The tongued mitre was developed to allow relatively thick covering skins to be drawn neatly over the corners of thick wooden boards. Tongued mitres were a common feature of medieval bindings, and are found on Armenian and Byzantine as well as western European bindings. Their western-European use continued until the mid-sixteenth century, when they are found on books with both paper and wooden boards." , "lang" : "en" } ] }
+}

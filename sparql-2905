@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1618" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3305" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "l\u00F8srygginnlegg" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "spine inlays" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Strips of thick and relatively stiff paper or thin card, used to stiffen the spine areas of adhesive boards-and-cover case-bindings. They are cut to the height of the boards and leave gaps of 2-3 mm between the sides of the inlays and the spine edges of the boards. The boards and spine inlays are held together by the covering material to make a case." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "pappremse plassert langs bokblokkens rygg festet til overtrekksmaterialet " , "lang" : "nb" } ] }
+}

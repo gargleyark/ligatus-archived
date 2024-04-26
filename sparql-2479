@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3222>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:prefLabel	"posebind"@nb ,
+		"girdle-book bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"bind der skinnet p\u00E5 permens nedre kant ikke er sl\u00E5tt inn, men forlenget slik at det danner en pose som ender i en knute "@nb ,
+		"A term that does not really describe bindings but a feature pertaining to either a primary or secondary cover on a binding that would allow a book to be attached to a belt or girdle. Typically, a girdle book will have an inboard binding in which the tail edge of the primary or secondary covering material extends into a long skirt which is gathered at the end by a knot, decorated ring or metal hook, allowing the book to hang head-down from a belt or girdle. When the book is raised while still attached to the belt, the text will therefore be correctly oriented for reading. Books with secondary covers with extended tail-edge skirts without the ring, knot or hook are often depicted in art being held in the hand upside down by their skirts, but it is unclear whether these should be considered as girdle books."@en .

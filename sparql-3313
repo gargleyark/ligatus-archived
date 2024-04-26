@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2956" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2366" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "long lacing path" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The path taken by a sewing support slip which enters the spine edge of a board through a tunnel to emerge into a channel in either surface of the board which connects to a hole which takes the slip into a second channel cut into the opposite side of the board, where it is secured in yet another hole with a wedge." , "lang" : "en" } ] }
+}

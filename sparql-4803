@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1606>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/3490> ,
+		<http://w3id.org/lob/concept/3494> ,
+		<http://w3id.org/lob/concept/3496> ,
+		<http://w3id.org/lob/concept/3498> ,
+		<http://w3id.org/lob/concept/3500> ,
+		<http://w3id.org/lob/concept/1416> ,
+		<http://w3id.org/lob/concept/3695> ,
+		<http://w3id.org/lob/concept/1310> ,
+		<http://w3id.org/lob/concept/3847> ,
+		<http://w3id.org/lob/concept/1586> ;
+	skos:prefLabel	"slips"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The parts of a sewing support, endband core or stitched core which extend beyond the thickness of a bookblock and may be used to attach boards or covers to the bookblock."@en .

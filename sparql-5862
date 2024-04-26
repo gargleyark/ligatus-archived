@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4553",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1667"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tying-up darts (techniques)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Where the cords cross over each other on the spine edge of each board at the ends of the raised bands, which is done to pull the covering skin tightly into the raised bands, they often leave triangular dart-shaped impressions which can then be tooled over to regularise them and which become a decorative feature of the tooling design on the sides." , "@language" : "en" } ] }
+] }

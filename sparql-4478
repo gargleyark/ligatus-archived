@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2352",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1455"} ,
+        { "@id": "http://w3id.org/lob/concept/4340"} ,
+        { "@id": "http://w3id.org/lob/concept/1333"} ,
+        { "@id": "http://w3id.org/lob/concept/4460"} ,
+        { "@id": "http://w3id.org/lob/concept/1610"} ,
+        { "@id": "http://w3id.org/lob/concept/1551"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "spines (bookblocks)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The edge of the bookblock opposite the fore-edge where the spine-folds of the gatherings, sewing supports, external endband tiedowns and spine linings will be found." , "@language" : "en" } ] }
+] }

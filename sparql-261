@@ -1,0 +1,33 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1186>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2277> ;
+	skos:narrower	<http://w3id.org/lob/concept/4682> ,
+		<http://w3id.org/lob/concept/3344> ,
+		<http://w3id.org/lob/concept/3548> ,
+		<http://w3id.org/lob/concept/1224> ,
+		<http://w3id.org/lob/concept/4914> ,
+		<http://w3id.org/lob/concept/1293> ,
+		<http://w3id.org/lob/concept/3535> ,
+		<http://w3id.org/lob/concept/1328> ,
+		<http://w3id.org/lob/concept/3543> ,
+		<http://w3id.org/lob/concept/1329> ,
+		<http://w3id.org/lob/concept/3179> ,
+		<http://w3id.org/lob/concept/1184> ,
+		<http://w3id.org/lob/concept/4009> ,
+		<http://w3id.org/lob/concept/4000> ,
+		<http://w3id.org/lob/concept/3874> ,
+		<http://w3id.org/lob/concept/3084> ,
+		<http://w3id.org/lob/concept/1281> ,
+		<http://w3id.org/lob/concept/4775> ,
+		<http://w3id.org/lob/concept/3581> ,
+		<http://w3id.org/lob/concept/4059> ,
+		<http://w3id.org/lob/concept/4954> ,
+		<http://w3id.org/lob/concept/4767> ,
+		<http://w3id.org/lob/concept/1689> ,
+		<http://w3id.org/lob/concept/4496> ;
+	skos:prefLabel	"tools and equipment"@en ,
+		"stempel"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"pregeverkt\u00F8y til \u00E5 lage avtrykk med   "@nb ,
+		"The tools and equipment used in the processes of hand-bookbinding, decorating paper, woodworking, etc."@en .

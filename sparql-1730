@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1321">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3475" />
+    <skos:prefLabel xml:lang="en">extended centre bevels</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bevels which are stopped close to the corners of a board, leaving the corners at full thickness. The difference between a centre bevel and an extended centre bevel lies in the distance between the end of the bevel and the corner. A centre bevel will always stop well short of the corner (and thus occupy no more than about 50-70% of the edge depending on the size of the book) to allow corner furniture to be attached to the unbevelled part of the board. An extended centre bevel will take the bevel to within 10-20mm of the corner.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

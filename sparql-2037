@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1352>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1472> ;
+	skos:prefLabel	"klaffebind"@nb ,
+		"full-width cover extensions"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forlengning av bindets permovertrekk brettet over bindets kant og motst\u00E5ende permside  "@nb ,
+		"Cover extensions each of which is of the same width as the bookblock edge, and which therefore overlap each other across the entire width of the bookblock edge.\r\n"@en .

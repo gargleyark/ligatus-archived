@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3602>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3475> ;
+	skos:prefLabel	"fine bevels"@en ,
+		"rundet permkant "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A small amount of the edge has been removed at approximately 45\u00B0, just enough to soften the square edges of a board."@en ,
+		"Litt av permkantene er fjernet for \u00E5 gi kantene et avrundet preg."@nb .

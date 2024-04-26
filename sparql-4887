@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1645>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1646> ;
+	skos:prefLabel	"stitched without a cover (bindings)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A stitched bookblock which has no cover at all, and never has had one."@en .

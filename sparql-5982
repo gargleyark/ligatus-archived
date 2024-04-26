@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4091",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4089"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "underdimensjonerte komponenter" , "@language" : "nb" } ,
+        { "@value" : "undersize" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "In relation to a bookblock, undersize describes endleaves, inserted interleaving, boards and drawn-on covers which are noticeably smaller in height and/or width than the textblock." , "@language" : "en" } ,
+        { "@value" : "deler som er for sm\u00E5 i forhold til bokblokken, kan v\u00E6re permer, vareovertrekk, forsats og innlegg  " , "@language" : "nb" } ] }
+] }

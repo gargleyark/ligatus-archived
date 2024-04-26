@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4496>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:narrower	<http://w3id.org/lob/concept/4498> ,
+		<http://w3id.org/lob/concept/4500> ;
+	skos:prefLabel	"stencils"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Material or materials placed on a surface over and around which stains or paints can be applied to create patterns on the surface."@en .

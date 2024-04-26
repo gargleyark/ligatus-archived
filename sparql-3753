@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1469" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3876" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "overall staining (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The application of an even coating of a stain to give the covering material a different colour overall. This could be done on the cover before it was put on the book in which case the enire surface will be stained or after the book was covered in which case either the turn-ins will not be stained across their entire width, or the stain will also be found on the boards of the book if it has any." , "lang" : "en" } ] }
+}

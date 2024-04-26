@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1624>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3305> ,
+		<http://w3id.org/lob/concept/3277> ;
+	skos:prefLabel	"spine pieces"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"This the central part of a German three-piece case-type cover, usually made of a thin couched-laminate board (millboard) which is formed around the spine and shoulders of the rounded and backed spine of a sewn bookblock and to each side of which a board is adhered, with an overlap of about 20-30 mm. This construction leaves a space between the spine edges of the boards and the shoulders formed in the spine piece creating the characteristic joint grooves visible in the paper secondary covers invariably found on these cases. The edges of the spine piece on the inside of the boards can therefore be seen as steps that are usually clearly visible under the turn-ins of the secondary cover and the pastedowns. Very occasionally the sides of the spine pieces were adhered to the outside of the boards, therefore creating the steps on the outside of the case."@en .

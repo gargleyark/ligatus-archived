@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4659>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3990> ;
+	skos:prefLabel	"Spanish-type marbled paper"@en ,
+		"spansk marmorert papir"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Et vilk\u00E5rlig basism\u00F8nster p\u00E5 hele overflaten endres og det skapes et b\u00F8lgeaktig m\u00F8nster ved bevegelse i papiret id\u00E9t det legges p\u00E5 marmorgrunden, b\u00F8lgene l\u00F8per rett og er s\u00E5 godt som parallelle."@nb .

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3859">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3958" />
+    <skos:prefLabel xml:lang="en">solid-brushed papers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper coloured with a single colour directly applied to its surface with a brush with the intention of creating a solid colour. In many papers, brush strokes may be visible in the colour layer used to make these papers. Various types of colour, including paste colours, were used to make these papers, but when paste-colours were used and also manipulated into patterns on the surface of the paper, they should be described as paste papers.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

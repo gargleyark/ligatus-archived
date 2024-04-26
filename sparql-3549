@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2969" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3740" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2484" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1370" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1715" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1597" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "metal leaf" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Metal beaten or rolled out to extreme thinness for use in gold-tooling, gilding or other decorative processes." , "lang" : "en" } ] }
+}

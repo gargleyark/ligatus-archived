@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3616" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1379" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "leaf guards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Strips of paper to which single leaves, or single bifolia, especially with maps and engravings on them, and which needed to be secured at a small distance from the spine edge of the bookblock, were adhered along their spine edges. Leaf guards could be folded either singly or in groups (binder\u2019s gatherings), to create a fold through which the leaves could be sewn to sewing supports. The guards could, if necessary, be increased in thickness to that of the leaves attached to them either by folding them one of more times to increase their thickness at the spine, or by bulking them out with separate loose guards inserted into the spine-folds (compensating guards)." , "lang" : "en" } ] }
+}

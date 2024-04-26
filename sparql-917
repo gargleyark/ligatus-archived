@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1255>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1619> ;
+	skos:narrower	<http://w3id.org/lob/concept/4223> ,
+		<http://w3id.org/lob/concept/4225> ;
+	skos:prefLabel	"comb spine linings"@en ,
+		"kamf\u00F4ring"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"ryggf\u00F4ring der materialet er utformet som en kam"@nb ,
+		"Spine linings made of two parts, each of which is slotted along one edge to allow it to be adhered to the spine on each side of the sewing supports, but retaining a continuous lining extension in each joint, giving them the appearance of a comb with very wide &#039;teeth&#039;. The teeth lie over each other in the spine panels, creating two thicknesses of lining. In French bindings of the seventeenth century and later the linings could then be stiffened by an application of animal glue. Although mostly made of parchment, Italian examples using paper have been recorded from the late sixteenth century. They can be found with both square and tapered teeth. The unslotted, outer halves of each lining, the lining extensions, in the joints, can be found adhered to the inside of the boards of inboard bindings or left unadhered in laced-case bindings. The cases of German one-piece adhesive-case bindings of the early sixteenth century have also been found adhered to comb-lining joints. Comb linings were used in the late middle-ages in both Germany and Italy, though they fell out of use in the former early in the sixteenth century and in the latter by the end of the same century. They were taken up in France in the second quarter of the sixteenth century at a time when Italian binding decoration was fashionable in France, and by the end of the century they had become a standard part of French inboard bindings, and remained so until at least the mid-eighteenth century. In bindings in good condition, they can often be recognised by the presence of the joints, which may adhered to the inside of boards, and by the cut-out around each sewing support along the joints."@en .

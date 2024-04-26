@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1701",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3407"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "undersize endleaves" , "@language" : "en" } ,
+        { "@value" : "forsatsens st\u00F8rrelse mindre enn bokblokken" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Forsatsblad tilf\u00F8rt av bokbinderen som er mindre enn boklokkens st\u00F8rrelse." , "@language" : "nb" } ,
+        { "@value" : "A leaf that is smaller than the size of the bookblock. Where the bookblock edges are uncut, it is a matter of judgement whether to describe them as full-size or undersize. This term should be used to describe leaves added by the binder (i.e. endleaves and/or interleaving)." , "@language" : "en" } ] }
+] }

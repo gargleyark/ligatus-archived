@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3719",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1694"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "straight-trimmed turn-ins" , "@language" : "en" } ,
+        { "@value" : "rettsk\u00E5rne innslag" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Innslagenes kanter er besk\u00E5ret i rette linjer mer eller mindre parallelle med permens/omslagets kanter." , "@language" : "nb" } ,
+        { "@value" : "The edges of the turn-ins are trimmed in straight lines more or less parallel to the edges of the cover." , "@language" : "en" } ] }
+] }

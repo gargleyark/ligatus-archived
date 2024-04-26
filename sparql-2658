@@ -1,0 +1,19 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2356",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1298"} ,
+        { "@id": "http://w3id.org/lob/concept/2995"} ,
+        { "@id": "http://w3id.org/lob/concept/1417"} ,
+        { "@id": "http://w3id.org/lob/concept/1578"} ,
+        { "@id": "http://w3id.org/lob/concept/1334"} ,
+        { "@id": "http://w3id.org/lob/concept/1501"} ,
+        { "@id": "http://w3id.org/lob/concept/1647"} ,
+        { "@id": "http://w3id.org/lob/concept/1607"} ,
+        { "@id": "http://w3id.org/lob/concept/4423"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hull" , "@language" : "nb" } ,
+        { "@value" : "holes" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Openings made in a piece of material either as a result of its manufacture or by means of tools such as drills, awls, chisels, knives, etc.  In bindings slips, ties, threads, etc. were often passed through holes to create some form of attachment between the material in which the hole is made and the material passed through it. Other holes might be natural phenomena, such a flayholes, or decorative, as in the holes made in pierced covers to reveal the underlay material." , "@language" : "en" } ,
+        { "@value" : "\u00E5pninger laget i materialet ved hjelp av verkt\u00F8y som n\u00E5l, syl, kniv eller biologisk aktivitet" , "@language" : "nb" } ] }
+] }

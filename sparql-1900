@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3941",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3975"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "kobberstikk" , "@language" : "nb" } ,
+        { "@value" : "engraving (printing)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The use of a rolling press and intaglio plate to produce a design and/or lettering on a piece of sheet material before it is used as the cover of a book." , "@language" : "en" } ,
+        { "@value" : "Dyptrykksteknikk der en gravert metallplate settes inn med sverte og bildet overf\u00F8res til arket ved hjelp av en trykkpresse. Kobberstikk brukes ogs\u00E5 p\u00E5 det ferdige trykk\r\n\r\nteknikk for \u00E5 stikke (skj\u00E6re) m\u00F8nster og tekst i metall med forskjellig typer verkt\u00F8y kalt stikler " , "@language" : "nb" } ] }
+] }

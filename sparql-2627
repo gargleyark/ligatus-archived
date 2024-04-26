@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1578>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3235> ,
+		<http://w3id.org/lob/concept/2356> ;
+	skos:narrower	<http://w3id.org/lob/concept/2519> ,
+		<http://w3id.org/lob/concept/2521> ;
+	skos:prefLabel	"heftehull"@nb ,
+		"sewing holes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"hull i ryggen p\u00E5 legg som viser hvor n\u00E5l og heftetr\u00E5den g\u00E5r eller har g\u00E5tt"@nb ,
+		"Holes made in the spine-folds of gatherings in order for them to be sewn."@en .

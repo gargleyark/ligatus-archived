@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4162" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3953" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4624" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4626" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4628" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "metal-leaf paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Metallic paper created by adhering sheets of metal leaf to papers that have already been coated with a bole or gesso. They can use metal leaves of pure gold or silver (gold leaf paper or silver leaf paper) or of a gold alloy (gold alloy paper). These papers were often burnished afterwards to produce a bright shine." , "lang" : "en" } ] }
+}

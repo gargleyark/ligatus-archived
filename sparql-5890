@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4583",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3458"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "text areas" , "@language" : "en" } ,
+        { "@value" : "tekstomr\u00E5de" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "text blocks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The area of a page containing the printed, written, or illustrative matter, within the four margins." , "@language" : "en" } ,
+        { "@value" : "omr\u00E5de p\u00E5 en side med skrevet, trykt eller illustrert innhold innenfor fire marger " , "@language" : "nb" } ] }
+] }

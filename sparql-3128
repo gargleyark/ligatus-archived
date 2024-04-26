@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3390">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3343" />
+    <skos:prefLabel xml:lang="en">rivets</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">klinknagle</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A metal pin with a head at one end and the other end beaten out with a hammer on the other side of the material(s) it has been passed through, to secure it.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">kort metallpinne som er felt inn i den delen av en bokspenne som  er feste til forpermen </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

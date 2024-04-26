@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1211">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3235" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1508" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4006" />
+    <skos:prefLabel xml:lang="en">blade marks</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Marks left on the edges of bookblocks by the sharp metal blades of the tools (e.g. draw-knife, plough, etc.) used to cut them. The most carefully cut edges seldom leave blade marks, but the quicker the work and the blunter the blade, the more obvious the marks will be.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+{
+  "http://w3id.org/lob/concept/2295" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4031" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4035" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4587" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1667" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4591" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4593" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "overtrekkingsteknikk" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "covering techniques" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "All the processes involved in turning a piece of sheet material into a cover for a book." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "teknikk brukt til \u00E5 trekke et bokbind med materiale " , "lang" : "nb" } ] }
+}

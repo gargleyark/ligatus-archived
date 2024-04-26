@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1343",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2354"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4252"} ,
+        { "@id": "http://w3id.org/lob/concept/4254"} ,
+        { "@id": "http://w3id.org/lob/concept/4256"} ,
+        { "@id": "http://w3id.org/lob/concept/4388"} ,
+        { "@id": "http://w3id.org/lob/concept/4390"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "envelope flaps (features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "fore-edge flaps" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "An extension of the cover of a book which folds across the fore-edge of the bookblock and over the opposite side of the cover (except on Islamic bindings where the envelope flap was traditionally placed under the opposite cover). The leading edge of such flaps was often given a triangular profile, thus resembling the traditional shape of the flap of an envelope. Fore-edge flaps may extend from either the left or right side of the cover and may or may not be secured with a fastening. The fore-edge flap may be an extension of the covering material or a separate piece or pieces which makes it part of a pieced cover." , "@language" : "en" } ] }
+] }

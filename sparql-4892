@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1648">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1517" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1471" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1289" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1564" />
+    <skos:prefLabel xml:lang="nb">sidehefting</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">stitching (techniques)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">stabbing (techniques)</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">hefteteknikk som utføres langsetter og fra utsiden av ryggen på bokblokken </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The process of holding bookblocks together by stabbing a material such as thread, textile tape, parchment or tanned or tawed skin thongs through the inner margin of an entire bookblock (see also stitching in blocks). Stitching is such a simple technique that it was used both formally and informally from a very early date, but was recognised as a cheap and inferior alternative to sewing, and attempts were made in England in 1586 to control its use in order to protect the work of the bookbinders.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

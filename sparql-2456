@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2414">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2404" />
+    <skos:prefLabel xml:lang="nb">gull</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">gold (metal)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">metallisk grunnstoff med kjemisk symbol Au og atomnr. 79 </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Pure metallic element having symbol Au and atomic number 79; a soft, inert, shiny reddish yellow metal that is very malleable and ductile. Gold has been highly valued and found in artifacts dating to before 5000 BCE. Native gold, found in quartz veins (vein gold) and alluvial deposits (placer gold), generally contains some silver and copper. Gold is purified by dissolution in mercury or cyanide solutions, by melting, or by electrodeposition. The purity of commercial gold is expressed in karats which is the number of parts of gold in 24 parts of the alloy. Today gold is primarily used for monetary systems and for jewelery.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

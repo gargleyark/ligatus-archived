@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3283",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2286"} ,
+        { "@id": "http://w3id.org/lob/concept/1378"} ,
+        { "@id": "http://w3id.org/lob/concept/1379"} ,
+        { "@id": "http://w3id.org/lob/concept/1342"} ,
+        { "@id": "http://w3id.org/lob/concept/1663"} ,
+        { "@id": "http://w3id.org/lob/concept/3604"} ,
+        { "@id": "http://w3id.org/lob/concept/3606"} ,
+        { "@id": "http://w3id.org/lob/concept/1246"} ,
+        { "@id": "http://w3id.org/lob/concept/1601"} ,
+        { "@id": "http://w3id.org/lob/concept/1317"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bookblock components" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The different components which when combined make a bookblock." , "@language" : "en" } ] }
+] }

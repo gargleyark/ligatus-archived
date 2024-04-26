@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1404",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2354"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "joint creases" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A creased or scored line made from the outside of a cover from head to tail, parallel to the spine crease and a short distance from it towards the fore-edges of the cover. They are found on both sides of the cover and were made to assist the easy opening of a case-cover by sharing the hingeing movement required of a cover with the joint crease. A cover opened to 180\u00B0 with only spine creases will make the cover material hinge through 180\u00B0 along one narrow line, subjecting the cover to a great deal of stress. By adding joint creases, the movement is shared, with each crease only hingeing through 90\u00B0, thus reducing the strain on the cover." , "@language" : "en" } ] }
+] }

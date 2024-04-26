@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/3740" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4622" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3002" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4598" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2969" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1541" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3404" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1637" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3163" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3165" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3575" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "dekormateriale" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "decorative materials" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] }
+}

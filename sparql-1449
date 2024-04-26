@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1292>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1585> ;
+	skos:narrower	<http://w3id.org/lob/concept/1544> ;
+	skos:prefLabel	"double sewing supports"@en ,
+		"doble heftbind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sewing supports which consist of two elements of a suitable material (e.g. tanned or alum-tawed skin, cord, etc.) lying side by side across the spine of a bookblock. They are usually sewn by taking the thread between the two elements with straight or linked sewing, but may from the seventeenth century onwards be sewn around as if they were a single sewing support (double sewing support sewn as one), which accelerated the process of sewing whilst preserving the strength of the double slips for the purposes of board attachment."@en ,
+		"heftbind som best\u00E5r av to elementer"@nb .

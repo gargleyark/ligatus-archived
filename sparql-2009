@@ -1,0 +1,37 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1344>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:narrower	<http://w3id.org/lob/concept/3899> ,
+		<http://w3id.org/lob/concept/3901> ,
+		<http://w3id.org/lob/concept/2362> ,
+		<http://w3id.org/lob/concept/4549> ,
+		<http://w3id.org/lob/concept/3501> ,
+		<http://w3id.org/lob/concept/2366> ,
+		<http://w3id.org/lob/concept/1204> ,
+		<http://w3id.org/lob/concept/4047> ,
+		<http://w3id.org/lob/concept/1486> ,
+		<http://w3id.org/lob/concept/1708> ,
+		<http://w3id.org/lob/concept/1207> ,
+		<http://w3id.org/lob/concept/3477> ,
+		<http://w3id.org/lob/concept/4708> ,
+		<http://w3id.org/lob/concept/1561> ,
+		<http://w3id.org/lob/concept/3754> ,
+		<http://w3id.org/lob/concept/4067> ,
+		<http://w3id.org/lob/concept/3851> ,
+		<http://w3id.org/lob/concept/4589> ,
+		<http://w3id.org/lob/concept/4930> ,
+		<http://w3id.org/lob/concept/1301> ,
+		<http://w3id.org/lob/concept/4085> ,
+		<http://w3id.org/lob/concept/2295> ,
+		<http://w3id.org/lob/concept/2299> ,
+		<http://w3id.org/lob/concept/3750> ,
+		<http://w3id.org/lob/concept/4069> ,
+		<http://w3id.org/lob/concept/4835> ,
+		<http://w3id.org/lob/concept/3631> ,
+		<http://w3id.org/lob/concept/1648> ;
+	skos:prefLabel	"ferdiggj\u00F8ring"@nb ,
+		"forwarding techniques"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"prosesser som er involvert i oppbyggingen av bindet inntil den er klar for dekorering "@nb ,
+		"The processes or steps involved in binding a book up to the point at which it is ready to be decorated. This will normally be thought to include sewing and covering, though some definitions of forwarding exclude either one or the other or both. For the purposes of this manual, it is taken to include sewing and covering."@en .

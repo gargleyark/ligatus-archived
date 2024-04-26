@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2829>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3273> ;
+	skos:prefLabel	"beads (fastening components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of hard material (bone, ivory, glass, ceramic) formed in spherical or ovoid shapes attached to the left or right sides of a binding and over which a loop from the other side is secured to hold a book shut."@en .

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1628">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1613" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1560" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4433" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1286" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1438" />
+    <skos:prefLabel xml:lang="en">sprinkling (techniques)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">sprenging</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">spruting av flytende farge på en overflate som skal dekoreres  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A scattering of small droplets of coloured stain or liquid pigment on the surface to be decorated. Sprinkling was traditionally carried out by striking a large brush charged with colour against an iron bar over the surface to be sprinkled (a cover or a bookblock edge), or, more recently, by rubbing a brush with short bristles dipped in the colour across a metal sieve or grid.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

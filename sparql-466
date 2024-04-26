@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2350">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1193" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1666" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1391" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1621" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2516" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4189" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1704" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1671" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2862" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2342" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1558" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3078" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1595" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3577" />
+    <skos:prefLabel xml:lang="nb">bokbindets rygg</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">spine features</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">All the features relating to the formation, function,  decoration and titling of the spine of a book and the spine covering.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">egenskaper som har å gjøre med utforming, funksjon og dekorasjon av bokens rygg og ryggens overtrekk</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

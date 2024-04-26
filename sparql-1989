@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1336>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2270> ;
+	skos:prefLabel	"kj\u00F8ttside"@nb ,
+		"fleshside"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Overflaten av den siden av et skinn som har vendt inn mot kroppen."@en ,
+		"Describes the surface of the inside of an animal skin from which the inner subcutaneous flesh and fat have been removed."@en .

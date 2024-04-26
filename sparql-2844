@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4539">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3299" />
+    <skos:prefLabel xml:lang="en">sewing direction</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">hefteretning</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">retningen en bokblokk blir heftet - enten fra venstre mot høyre eller fra høyre mot venstre </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The direction in which a bookblock is sewn, i.e. from either left to right or right to left.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

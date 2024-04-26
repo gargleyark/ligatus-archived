@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1688">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb">bakkemarmorering</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">trough-marbling</skos:prefLabel>
+    <skos:altLabel xml:lang="en">marbling (technique)</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Dekoreringsteknikk der mønsteret ikke dannes direkte på papiret, men på en flytende marmoreringsgrund - ved å legge papiret på grunden, overføres mønsteret til papiret.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Process of decorating sheets of paper or other sheet materials by transferring colours floating on the surface of a size to the sheets by laying them directly onto the colours. In a flat trough filled with water and a surface-tension medium like gum tragacanth, liquid colours are sprinkled on the surface using various brushes and then manipulated into the desired arrangement on the surface of the size. A sheet of paper is then directly laid onto the colours to transfer them to the paper. Each sheet is thus unique, as although the same basic design may be copied, there will always be differences. The liquid colours are sprinkled on the surface of the size using various brushes and successively shaped into patterns drawn with points, rakes (or ‘combs’), or dropped one after the other to create more random patterns. Once the desired pattern is achieved in the trough, a sheet of paper (usually blank but sometimes already marbled with another design) is laid on the surface of the size, where the design is permanently transferred to the paper by absorption, and then lifted up, after which it is hung up to dry. When dry, the decorated paper can finally be burnished to produce an attractive gloss and to seal the surface of the colours. This technique can also be applied to decorate book edges, by dipping the edges of a firmly-compressed book one after the other into the trough to pick up the colours .</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

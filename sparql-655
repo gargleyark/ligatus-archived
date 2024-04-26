@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3548" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "beating stones" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A block of marble or fine lime stone, the top surface of which is dressed absolutely smooth and on which the gatherings were beaten. It would appear that in Germany the binders sat to beat books on low blocks whereas the Dutch binders stood to do this work." , "lang" : "en" } ] }
+}

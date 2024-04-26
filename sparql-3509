@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1476" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "maling" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "painting (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Decoration technique where a pigment is used in a thick layer on the surface of a material." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dekor fremstilt av et fargesjikt p\u00E5 et underlag som oftest  p\u00E5f\u00F8rt med pensel " , "lang" : "nb" } ] }
+}

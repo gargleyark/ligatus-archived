@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2844>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3187> ;
+	skos:prefLabel	"casting"@en ,
+		"st\u00F8ping "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"prosess for \u00E5 lage bokspenner ved \u00E5 helle flytende metall i st\u00F8peformer "@nb ,
+		"The process of making metal fittings by pouring liquid material into a mold. The cast blanks will then be finished by hands and may be decorating by engraving, drilling and chasing as well as polishing."@en .

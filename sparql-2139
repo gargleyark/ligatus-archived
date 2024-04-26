@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2895>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:prefLabel	"filigree"@en ,
+		"filigran m\u00F8nster"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A delicate and intricate pattern either cut into a piece of tanned skin, parchment, paper, etc., often adhered to a background of a contrasting colour or used as a stencil for decorating a cover with stain."@en ,
+		"kunstferdige m\u00F8nstre, utf\u00F8rt ved \u00E5 lodde fine s\u00F8lv- eller gulltr\u00E5der fast til en metallplate"@nb .

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2460">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1481" />
+    <skos:prefLabel xml:lang="en">eastern paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Eastern papers come in a wide variety of types that is sometimes difficult to distinguish with any accuracy. One of the more common types has polished, somewhat toned surfaces with a softer, fibrous interior. Often, eastern papers are very opaque and rather thick by comparison with western papers, and show no distinct laid pattern; others show quite coarse laid patterns.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

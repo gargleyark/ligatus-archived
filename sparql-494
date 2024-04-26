@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2482">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2484" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1418" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3825" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4168" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3699" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1264" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1528" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1492" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1241" />
+    <skos:prefLabel xml:lang="en">board (materials)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">permer</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Board as it is manufactured in large sheets before being cut to size as the boards for use on individual books.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">de plane sidestykkene som er festet til hver side av en bokblokk for å beskytte og forsterke den og som sammen med den utgjør et bind </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

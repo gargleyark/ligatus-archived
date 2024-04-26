@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4533",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sewing thread" , "@language" : "en" } ,
+        { "@value" : "heftetr\u00E5d" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The thread usually of linen but also of other fibres used to sew or stitch books." , "@language" : "en" } ,
+        { "@value" : " tr\u00E5d som brukes for sammenhefting av bokblokkens legg " , "@language" : "nb" } ] }
+] }

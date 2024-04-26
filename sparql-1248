@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4111",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1679"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "concentric frames" , "@language" : "en" } ,
+        { "@value" : "speilbind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Permdekor best\u00E5ende av to eller flere pregede rammer utenp\u00E5 hverandre, feltet i mellom rammene fikk ofte en sprengt dekor, kalles ogs\u00E5 Holbergbind." , "@language" : "nb" } ,
+        { "@value" : "Two or more tooled frames, usually rectangular, found one inside the other on the sides of books. These are sometime described as \u2018panelled\u2019 but as this can be confused with the use of the term panels on spines, the term frame avoids this possible confusion. The areas between and within the frames were often sprinkled as discrete areas of decoration." , "@language" : "en" } ] }
+] }

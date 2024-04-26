@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1568" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1565" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "secondary tackets, saltire" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Secondary tackets which form a saltire cross on the spine of a case-cover, which may be looped around sewing supports or endband cores, through pierced supports, or through the gatherings of a sewn bookblock with unsupported sewing. The secondary tackets are most often made of alum-tawed skin, but examples of both cords and tanned skins may also be found. All recorded examples of this type of tacket have been Italian, and were found on editions dating from the 1470&#039;s to at least the middle of the 16th century. They were also used on Italian stationery bindings as late as the eighteenth century to secure covers made of cartonnage, but no printed book with a cartonnage tacketed cover has yet been recorded." , "lang" : "en" } ] }
+}

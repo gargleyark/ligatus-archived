@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3091",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3154"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "volume number labels" , "@language" : "en" } ,
+        { "@value" : "bindnummeretikett" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "etikett med nummer som angir bindets plass i et bokverk med samme tittel " , "@language" : "nb" } ,
+        { "@value" : "Labels which have on them the volume numbers in a multi-volume set." , "@language" : "en" } ] }
+] }

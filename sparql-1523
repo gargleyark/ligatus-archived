@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/2877" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3311" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "drop-back boxes" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "skjelleske" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "fall-down-back boxes" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "clamshell boxes" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "drop-spine boxes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Bokeske best\u00E5ende av to brett med lave kanter p\u00E5 tre sider og som er hengslet til ryggstykket, st\u00F8rrelsen er slik at den underste delen passer inn i den \u00F8verste n\u00E5r esken er lukket. N\u00E5r skjellesken er \u00E5pen, ligger den flatt p\u00E5 underlaget, slik at det er enkelt \u00E5 komme til innholdet." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Boxes with two three-sided trays (one made to fit inside the other when closed) with a spine piece or back that is hinged onto the open edges of both trays, allowing the outer tray, or lid, to lie flat on a table when open." , "lang" : "en" } ] }
+}

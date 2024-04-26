@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1647>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2356> ,
+		<http://w3id.org/lob/concept/3235> ;
+	skos:prefLabel	"stitching holes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Holes pierced or stabbed through the inner margin of an entire bookblock with a sharp point. It is axiomatic that a stitching hole does not go through a spine fold, as that would be a sewing hole."@en .

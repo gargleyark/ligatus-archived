@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2408" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2406" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2410" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2412" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "copper alloy" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kobberlegering" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "kobberforbindelse eller blanding av kobber og andre metaller " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Alloy in which copper is the principle element. Brass is one of the most commonly-encountered copper alloys and is an alloy of copper and zinc, usually with copper as the major alloying element and zinc up to 40% by weight. Bronze will usually contain copper and a small amount of tin. Both brass and bronze are therefore copper alloys, and unless the alloy is known, it is safer to call both of them copper alloys." , "lang" : "en" } ] }
+}

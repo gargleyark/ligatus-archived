@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3044>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:prefLabel	"stamped decoration (metalwork)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The decoration of pieces of soft metal such as a copper alloy by the use of stamping-dies hammered or pressed into the metal. Stamped decoration is often found on the metal furniture of late fifteenth and early sixteenth century bindings."@en .

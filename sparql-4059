@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2981>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3197> ;
+	skos:prefLabel	"paginering"@nb ,
+		"pagination"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"nummerering av hver enkelt side i boken, d.v.s. 2 nummer pr blad "@nb ,
+		"The numbering of pages consecutively through a textblock. There will be two pages to each leaf."@en .

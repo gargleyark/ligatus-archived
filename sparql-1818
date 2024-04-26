@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2976">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1386" />
+    <skos:prefLabel xml:lang="nb">eik</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">oak</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">tre i slekten Quercus </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The grey-brown wood of trees belonging to the genus Quercus, of the Fagaceae family. It is a durable wood that has a distinctive coarse grain, used in cabinetry, flooring, paneling, panel painting and sculptures. When cut on the quarter, it will show the distinctive figuring created by the medullary rays as they break the surface of the planed plank. It was frequently used for the boards of books at all periods in most northern European countries, but especially in the Low Countries, Britain and France.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

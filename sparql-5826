@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4240",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3277"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tips" , "@language" : "en" } ,
+        { "@value" : "tupper" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Corners, usually of parchment, found on the outer corners of boards with quarter covers and almost completely (sometimes completely) covered by the covering material used on the sides. They were often used by French bookbinders from the late eighteenth century onwards." , "@language" : "en" } ,
+        { "@value" : "hj\u00F8rner ofte av pergament, festet ytterst p\u00E5 permhj\u00F8rnene p\u00E5 kvartbind for \u00E5 beskytte hj\u00F8rnene n\u00E5r overtrekket var papir" , "@language" : "nb" } ] }
+] }

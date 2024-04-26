@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4193" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4184" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "h\u00E5ndskrevet tittel" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "manuscript titles" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Titles written by hand." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Bindtittel p\u00E5f\u00F8rt med h\u00E5ndskrift." , "lang" : "nb" } ] }
+}

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4456>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4682> ;
+	skos:prefLabel	"type ornaments (tools)"@en ;
+	skos:altLabel	"printer&#039;s flowers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Decorative designs cast as foundry type as used by letterpress printers. Typically used to print the paper used to cover books, but could also be heated sufficiently to tool in gold before melting."@en .

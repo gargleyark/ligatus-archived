@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1627" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1282" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sponge decorating (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A type of decoration which was made by dabbing small pieces of what appears to have been natural sponge dipped into colour over the surface to be decorated. One or more colours might be used, and the process might conform to a rough pattern or be completely random. Sponge decoration will be found on both sheet material such as paper, parchment or tanned skin, or on cut bookblock edges." , "lang" : "en" } ] }
+}

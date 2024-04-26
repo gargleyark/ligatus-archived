@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3175">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1417" />
+    <skos:prefLabel xml:lang="en">undersized lacing holes</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Holes drilled in wooden boards that are slightly too small for the sewing support slips used to attach them.  The slips would be forced through the holes, where they would be jammed tight (pulling them with pliers or pincers if necessary). Adhesive was often worked into the slips to make sure that they were securely fixed in place without the use of pegs. It is possible to find boards in which some thinner slips would be secured with pegs or skin wedges, and the thicker ones jammed tight and adhered.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

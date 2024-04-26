@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1201" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2340" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "coloured decoration" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "farget dekor" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Colours applied to the covering material by means of paints or stains, either before or after the book was covered." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "forskjellige metoder og teknikker til \u00E5 farge deler av boken enten inni eller utenp\u00E5 " , "lang" : "nb" } ] }
+}

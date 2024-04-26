@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1382>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1487> ;
+	skos:prefLabel	"halvbind"@nb ,
+		"half covers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"benevnelse p\u00E5 bind der rygg og hj\u00F8rner har et annet overtrekksmateriale enn permene"@nb ,
+		"A part cover in which the spine and the back edge of the boards are covered in one material and the outer corners of the boards are covered with pieces of either the same or a different material."@en .

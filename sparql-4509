@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3005" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2893" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "ring and stylus fastenings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Metal fastenings in which fastening rings attached to the fore-edges of both boards line up when the books are closed and can be secured with a metal stylus. The stylus was often used for writing on specially prepared parchment leaves in almanacs or memorandum books." , "lang" : "en" } ] }
+}

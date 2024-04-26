@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1669",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2893"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3029"} ,
+        { "@id": "http://w3id.org/lob/concept/3096"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "lisser" , "@language" : "nb" } ,
+        { "@value" : "ties" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Tie fastenings on the edges of books usually formed by pairs of flexible lengths of skin or ribbon which can be tied in a knot or bow across the edge of a closed book. Ties found on covers with foredge flaps can have single or multiple ties which are attached either to both the flap and the side of the cover of the book over which the foredge flap is folded, or a single tie attached to the flap which wraps around the whole binding." , "@language" : "en" } ,
+        { "@value" : "Tie fastenings on the edges of books usually formed by pairs of flexible lengths of skin or ribbon which can be tied in a knot or bow across the edge of a closed book. Ties found on covers with fore-edge flaps can have single or multiple ties which are attached either to both the flap and the side of the cover of the book over which the fore-edge flap is folded, or a single tie attached to the flap which wraps around the whole binding." , "@language" : "en" } ,
+        { "@value" : "lukkemekanisme som best\u00E5r av remser av skinn eller tekstil som knytes slik at permene p\u00E5 en bok holdes sammen rundt bokblokken. " , "@language" : "nb" } ] }
+] }

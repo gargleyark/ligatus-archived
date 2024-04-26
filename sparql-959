@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1266" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2368" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3649" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cover linings " , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A piece of sheet material such as cartonnage or laminated sheets of paper cut to the height of the bookblock and endbands, folded around a bookblock and secured to it by lacing the sewing support slips through it. The cover lining is distinguished from boards in that both sides are part of a single continuous piece of material wrapped around the spine, as opposed to boards which must always be separate entities. Cover linings were never intended to be left exposed and will therefore also always be found with covers of parchment folded over them, through both of which the endbands slips are laced. Cover linings are a French phenomenon and first appear in the last quarter of the 16th century. Early in the 17th century, French binders simplified the structure by folding the parchment cover over the cover lining and attaching both at the same time by means of the endband slips, without lacing the sewing support slips through the cover lining (the slips were usually cut off at the joints). In this form the cover lining survived until the end of the eighteenth century." , "lang" : "en" } ] }
+}

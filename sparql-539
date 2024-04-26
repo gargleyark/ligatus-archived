@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2835" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3468" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bolsters" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The projecting shoulders of handle tools at the top of the tangs which are inserted into wooden handles, intended to prevent the tang being driven too far into the handle. Bolsters will also often be found at the inner ends of side- and edge-pins." , "lang" : "en" } ] }
+}

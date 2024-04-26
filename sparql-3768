@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1533">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2342" />
+    <skos:prefLabel xml:lang="nb">opphøyde bind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">raised bands</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">forhøyninger på ryggen der hefthyssingen ligger </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The ridges formed across the spine of a bound book by a raised sewing support or a false raised band under the covering material. The term itself does not distinguish which type of support lies under it, and both types can be found on the same spine. Care must therefore be taken to identify which type is present if a full description of a binding is to be made.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

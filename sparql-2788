@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3746">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2362" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1291" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2921" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2952" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1425" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3149" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3227" />
+    <skos:prefLabel xml:lang="nb">heftet på bind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">supported sewing (techniques)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Bokblokkens legg heftes i midten til tverrgående heftbind.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Sewing gatherings  through the fold to either transverse or pierced sewing supports, as opposed to unsupported sewing that does not have any type of sewing support.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Sewing gatherings through the fold to either transverse or pierced sewing supports, as opposed to unsupported sewing that does not have any type of sewing support.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

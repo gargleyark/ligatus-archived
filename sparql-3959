@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1511>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1226> ;
+	skos:prefLabel	"polished edges"@en ,
+		"polerte snitt"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"besk\u00E5rne snitt polert med glitteverkt\u00F8y og/eller voks "@nb ,
+		"Cut edges, whether decorated or not, were almost always polished with a burnisher. In some cases wax may have been used, while de Bray recommends wiping a burnisher made from a horse&#039;s tooth in your beard in order to get a good shine."@en .

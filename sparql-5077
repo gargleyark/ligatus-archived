@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3044" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2340" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stamped decoration (metalwork)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The decoration of pieces of soft metal such as a copper alloy by the use of stamping-dies hammered or pressed into the metal. Stamped decoration is often found on the metal furniture of late fifteenth and early sixteenth century bindings." , "lang" : "en" } ] }
+}

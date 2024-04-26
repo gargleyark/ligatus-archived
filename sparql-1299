@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4598" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3740" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "colourant" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "fargestoffer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Organiske og uorganiske substanser som reflekterer lys i den synlige delen av spekteret og som brukes til \u00E5 gi gjenstander og materialer farge. \r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Any substance capable of or used for coloring another material. A colorant may be a dye or a pigment." , "lang" : "en" } ] }
+}

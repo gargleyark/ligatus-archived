@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1461",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1619"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "one-piece slotted spine lining" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A piece of sheet material cut wider than the spine (to provide lining extensions) and to or close to the height of the spine, with slots cut out of it of the same size as the sewing supports to allow it to fit over the supports and lie flat against the spine-folds of the bookblock between them. Slotted linings should not be confused with comb linings which create a lining of a similar pattern but from two pieces of sheet material which overlap each other across the spine, rather than one." , "@language" : "en" } ,
+        { "@value" : "A piece of sheet material cut wider than the spine (to provide lining joints) and to or close to the height of the spine, with slots cut out of it of the same size as the sewing supports to allow it to fit over the supports and lie flat against the spine-folds of the bookblock between them. Slotted linings should not be confused with comb linings which create a lining of a similar pattern but from two pieces of sheet material which overlap each other across the spine, rather than one." , "@language" : "en" } ] }
+] }

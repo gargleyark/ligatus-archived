@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1205">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3235" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1198" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1188" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1529" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4865" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1634" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1603" />
+    <skos:prefLabel xml:lang="nb">bankede falser</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">backing joints</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The shaping of the edges of the spine of a bookblock to accommodate both the swelling created by the sewing thread and the shape of the spine edges of the boards. Backing joints could be created either by lacing boards tightly onto the sewing-support slips and pulling them shut, or by putting the book between backing boards in a backing press and hammering them into shape with a backing hammer. Many bookblocks, however, do not have shaped backing joints, and these should be described as having flat joints.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">falser som oppstår på hver side av ryggen når de ytterste leggene på hver side bankes ned, slik at de danner en vinkel i forhold til bokblokken </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

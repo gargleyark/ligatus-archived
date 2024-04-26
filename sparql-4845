@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/1628" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1613" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1560" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4433" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1286" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1438" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sprinkling (techniques)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "sprenging" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "spruting av flytende farge p\u00E5 en overflate som skal dekoreres  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A scattering of small droplets of coloured stain or liquid pigment on the surface to be decorated. Sprinkling was traditionally carried out by striking a large brush charged with colour against an iron bar over the surface to be sprinkled (a cover or a bookblock edge), or, more recently, by rubbing a brush with short bristles dipped in the colour across a metal sieve or grid." , "lang" : "en" } ] }
+}

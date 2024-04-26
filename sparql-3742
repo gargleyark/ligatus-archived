@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1464",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2274"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "open joints" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Joints in which the inner joints are not covered by endleaf elements or lining extensions, but which are left exposed. Open joints are often found on British bindings of the later sixteenth and first three quarters of the seventeenth century, in which none of the endleaves or guards were adhered to the inside of the boards or cover, though the inner surface of the board may be covered with a separate pastedown." , "@language" : "en" } ] }
+] }

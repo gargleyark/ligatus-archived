@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4165>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:narrower	<http://w3id.org/lob/concept/3300> ,
+		<http://w3id.org/lob/concept/1195> ;
+	skos:prefLabel	"case bindings"@en ,
+		"innhengt bind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings in which the cover with or without boards is attached to the assembled bookblock as a single component, or case. This can be done by means of lacing or adhering."@en ,
+		"teknikk for sammenf\u00F8yning av bind med eller uten permer og bokblokken, der bindet lages for seg f\u00F8r det festes til bokblokken, enten ved liming eller ved at heftbindene tres gjennom hull i l\u00F8sbindet"@nb .

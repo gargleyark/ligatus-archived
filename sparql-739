@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4423" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2356" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2346" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "board holes" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "permhull" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Holes drilled through the thickness of a board to accommodate endband or sewing-support slips when used to attach the boards to a bookblock." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hull som er boret gjennom permen for \u00E5 gi plass til \u00E5 tre hefthyssing og kapitelb\u00E5ndender igjennom i forbindelse med ansetting (festing) av permene til bokblokken " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3709">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2540" />
+    <skos:prefLabel xml:lang="nb">vevde kapitélbånd</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">woven stuck-on endbands</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Woven stuck-on endbands consist of a length of decorative woven textile adhered to the head and tail of the spine of a bookblock. Woven endbands first become common in German Europe in the first quarter of the eighteenth century, though there is clearly an earlier history. The sources of the textile used for this purpose are at present somewhat obscure, but from their earliest recorded use (1569), lengths of what appear to be woven ribbon, perhaps made as trimmings for clothing or furniture gimp, were used for this purpose. The selvage edges of bolts of cloth have also been identified, as well as very loosely woven ribbons of the sort that can be made on small hand looms, perhaps by individual binders. Woven endbands which imitate worked endbands appear in the mid-eighteenth century.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">vevde lengder av dekorerte kapitélbånd som kan kuttes til passende lengder til å klebe på bokblokkens rygg ved hode og fot </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

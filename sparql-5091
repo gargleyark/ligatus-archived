@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3054>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1353> ;
+	skos:prefLabel	"studded spine straps"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Leather straps placed across the spine and attached to the spine edges of both boards to which copper alloy studs have been attached. A variant form can be found in which the copper alloy studs are linked one to another without a leather strap underneath. Such straps have been found on Swiss and Hungarian bindings and may be associated to the Mennonite church, both in Europe and North America."@en .

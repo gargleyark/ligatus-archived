@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1691">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1658" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1369" />
+    <skos:prefLabel xml:lang="fr">maroquin</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">turkey leather</skos:prefLabel>
+    <skos:altLabel xml:lang="en">maroquin</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The name given to the high-quality sumac-tanned goatskins imported into England probably from sub-Saharan Africa. They got their name from being imported through Smyrna (modern Izmir) in Turkey, while what appear to be identical skins were known in France as maroquin, as they were imported into France from Morocco. The skins imported into England directly from Morocco for Lord Harley’s library in the early 18th century, and known in England as morocco leather, were taken from hairsheep and are of inferior quality. The distinction between turkey leather and morocco leather was maintained within the booktrade until the last quarter of the eighteenth century, when the English term morocco began to be applied to the same sumac-tanned African goatskins that had been called turkey leather up to that point, and this is now the general modern usage. The confusion resulting from this can be reduced either by using the French word for the skins used in France (maroquin) or by qualifying the word morocco as French morocco where relevant. Where it is possible to distinguish them, the simplest answer is to refer to the higher-quality skins as tanned goatskin, but the terminological distinction between Turkey leather and Lord Harley&amp;#039;s (i.e. hairsheep) morocco leather is as complex as identifying the skins themselves can often be, especially as so many bindings described as &amp;#039;morocco bindings&amp;#039; in library and booksellers&amp;#039; catalogues from the nineteenth century onwards may or may not actually be covered in goatskin (see the entry under &amp;#039;goat-sheep (caprinae skins)&amp;#039;.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

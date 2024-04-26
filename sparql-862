@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1241">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1481" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2482" />
+    <skos:prefLabel xml:lang="en">cartonnage </skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A thick cover paper made by hand in a single sheet from pulp with very long fibres, and heavily sized with gelatine. It was often formed on sheets of textile that leave a clear impression of the woven textile on one or both surfaces. Case covers made from cartonnage were used in Italy from at least the 1480s through to the mid-nineteenth century. Sheets of cartonnage were also laminated with paste to create thicker and stiffer boards for books.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

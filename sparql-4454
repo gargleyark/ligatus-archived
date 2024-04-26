@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1617",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2354"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "ryggsteg" , "@language" : "nb" } ,
+        { "@value" : "spine creases" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "avstand mellom rygg og perm i et l\u00F8sbind som gir plass til overtrekket, slik at det skal passe rundt bokblokkens rygg " , "@language" : "nb" } ,
+        { "@value" : "The creases made in a case cover to allow it to fit around the spine of a bookblock. They are creased or scored down the centre of the cover from the inside, running from head to tail of the spine, and are placed so that the distance between them is the same as the width of the spine of the bookblock. Many case-covers only have spine creases, and do not have joint creases." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3612">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2450" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3171" />
+    <skos:prefLabel xml:lang="en">straw</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">halm</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">tørre stengler og blad av kornsorter, erter og andre åkervekster</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Lengths of dried and often coloured straw which were arranged in patterns or pictorial designs, which would appear in most cases to have been applied to primary covers of another material such as tanned skin or textile, as onlays. Such bindings have been recorded from the 17th century, and were still being made in the early 19th century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

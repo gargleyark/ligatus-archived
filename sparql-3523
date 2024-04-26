@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2321>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:narrower	<http://w3id.org/lob/concept/3881> ;
+	skos:prefLabel	"marmorering"@nb ,
+		"marbled (decoration)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"dekorm\u00F8nstre som ved hjelp av stor variasjon av farger og teknikker etterligner utseendet p\u00E5 marmor "@nb ,
+		"Decoration in which a variety of colours can be used to create patterns more or less accurately resembling the appearance of marble on sheet materials, bookblock edges, etc., by a variety of different processes (e.g. trough-marbling, run-marbling, hand-drawn marbling, printed marbling, etc.). In any description, the process should be defined as precisely as possible."@en .

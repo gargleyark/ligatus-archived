@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4620>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3407> ;
+	skos:prefLabel	"full-size endleaves"@en ,
+		"forsatsst\u00F8rrelse lik tekstblokken"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Medheftet forsatsblad som har samme st\u00F8rrelse som tekstblokken."@nb ,
+		"Leaves that are the same size as the bookblock. Where the bookblock edges are uncut, it is a matter of judgement whether to describe them as full-size or undersize, as exact sizes of leaves with uncut edges are not always easy to identify. This term should be used to describe leaves added by the binder (i.e. endleaves and/or interleaving)."@en .

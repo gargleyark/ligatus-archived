@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1714" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2474" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "z-tvunnet tr\u00E5d" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "z-twist thread" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Tr\u00E5d der bastfibrene er tvunnet slik at de danner en Z (sett fra \u00F8verst til h\u00F8yre mot nederst til venstre)." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A thread with a ply in which the angle of the final twist of the thread is that of the central stroke of a capital Z (i.e. from top right to bottom left)." , "lang" : "en" } ] }
+}

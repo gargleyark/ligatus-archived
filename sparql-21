@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1193>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2350> ,
+		<http://w3id.org/lob/concept/3235> ,
+		<http://w3id.org/lob/concept/1537> ;
+	skos:prefLabel	"adhesive recesses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Recesses cut across the spine folds of a bookblock in order to allow adhesive to reach the centre fold of each gathering. This technique was used in both adhesive structures (with or without an adhesive support) or in sewn structures where adhesive recesses were sometimes used in addition to sewn stations to reinforce a weak structure. They will generally be found between the sewing stations."@en .

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3392>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1532> ;
+	skos:prefLabel	"one-hole quire tackets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A tacket at either head or tail of a gathering which is passed through a single hole in the fold of a gathering and over the adjacent head or tail edge to form a loop."@en .

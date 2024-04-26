@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1295">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1296" />
+    <skos:prefLabel xml:lang="en">drawn-on covers</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">omslag</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">betegnelsen benyttes generelt om selve vareomslaget eller omslaget på heftede bøker, laget av kartong eller tykt papir</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Covering material that is wrapped around a sewn bookblock and adhered to the spine can be described as drawn-on. The term is also used to describe covers that are adhered to the outside of the endleaves as well as the spine, a technique also known as &amp;#039;drawn-on solid&amp;#039; (Glaister). In some cases, thin cards may be found between the endleaves and the cover to reinforce the sides of the cover, but these should be described as inboard bindings, as the boards must have been adhered to the endleaves before the cover was attached, creating an inboard binding with a drawn-on cover. Drawn-on covers do not have turn-ins at head and tail, but may in some instances have turn-ins on the fore-edges. They are either cut to the size of the bookblock (they are, in fact, frequently undersize) or are cut flush with the bookblock, in which case there can be no turn-ins.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

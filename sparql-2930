@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2931",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1317"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "inserted endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "added endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Additional endleaves that have been inserted into a binding after it was completed. This may happen quite soon after the binding was finished or many years later at the request of an owner, either to supply new leaves where the originals have been lost or damaged or to add decorated paper to existing plain endleaves. Additional endleaves are most often attached by means of adhesive (tipped) and are therefore usually unsewn. It is however possible for inserted endleaves to have been sewn, especially when books have been repaired." , "@language" : "en" } ] }
+] }

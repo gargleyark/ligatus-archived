@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3545",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4633"} ,
+        { "@id": "http://w3id.org/lob/concept/4634"} ,
+        { "@id": "http://w3id.org/lob/concept/4636"} ,
+        { "@id": "http://w3id.org/lob/concept/4630"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paste paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paste paper is made by brushing or stippling one or more viscous colours (such as coloured starch paste) onto a sheet of paper to create decorative patterns. These range from simple straight, parallel lines to elaborate manipulations of the paste on the surface of the paper. The latter was done by pushing the wet paste away from selected areas with a variety of tools, leaving it thinner and thus showing the colour of the paper underneath more strongly. " , "@language" : "en" } ] }
+] }

@@ -1,0 +1,25 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3235>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/2516> ,
+		<http://w3id.org/lob/concept/1558> ,
+		<http://w3id.org/lob/concept/1226> ,
+		<http://w3id.org/lob/concept/1211> ,
+		<http://w3id.org/lob/concept/1664> ,
+		<http://w3id.org/lob/concept/4081> ,
+		<http://w3id.org/lob/concept/3577> ,
+		<http://w3id.org/lob/concept/1205> ,
+		<http://w3id.org/lob/concept/1622> ,
+		<http://w3id.org/lob/concept/2378> ,
+		<http://w3id.org/lob/concept/1578> ,
+		<http://w3id.org/lob/concept/1193> ,
+		<http://w3id.org/lob/concept/1579> ,
+		<http://w3id.org/lob/concept/1647> ,
+		<http://w3id.org/lob/concept/3407> ,
+		<http://w3id.org/lob/concept/1704> ;
+	skos:prefLabel	"bookblock features"@en ,
+		"bokblokkens egenskaper"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Synlige egenskaper ved bokblokken som er resultat av innordning av leggene, forsatsen, hefting og tilskj\u00E6ring av legg og forsats."@nb ,
+		"The features visible on a bookblock which result from the gathering, sewing, shaping and cutting of the gatherings and endleaves."@en .

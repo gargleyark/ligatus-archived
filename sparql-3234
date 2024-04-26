@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1561",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1263"} ,
+        { "@id": "http://w3id.org/lob/concept/4829"} ,
+        { "@id": "http://w3id.org/lob/concept/4830"} ,
+        { "@id": "http://w3id.org/lob/concept/3897"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "laminating (board formation techniques)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Where separate sheet materials are adhered together to make boards. The laminating process which makes each board is described as the primary lamination whereas the laminating process which is used to make the thicker board is described as the secondary board lamination." , "@language" : "en" } ] }
+] }

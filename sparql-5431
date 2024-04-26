@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4698>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3460> ;
+	skos:narrower	<http://w3id.org/lob/concept/4531> ,
+		<http://w3id.org/lob/concept/1375> ,
+		<http://w3id.org/lob/concept/3485> ,
+		<http://w3id.org/lob/concept/2916> ,
+		<http://w3id.org/lob/concept/1507> ,
+		<http://w3id.org/lob/concept/1453> ;
+	skos:prefLabel	"skin features"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Features of skins."@en .

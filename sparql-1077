@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2850>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3344> ;
+	skos:prefLabel	"chain lines (moulds)"@en ,
+		"kjedelinjer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The thicker wires known as chain lines usually placed parallel to the short side of a rectangular laid paper mould that support the thinner wire lines which lie across them at right angles. The chain lines will leave thinner brighter lines in the paper which are clearly visible by transmitted light."@en ,
+		"de tykkere tr\u00E5dene i en rektangul\u00E6r papirform "@nb .

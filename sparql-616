@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3374",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1353"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2851"} ,
+        { "@id": "http://w3id.org/lob/concept/2852"} ,
+        { "@id": "http://w3id.org/lob/concept/2854"} ,
+        { "@id": "http://w3id.org/lob/concept/3015"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "chain components" , "@language" : "en" } ,
+        { "@value" : "bokkjettingbestanddeler" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Bokkjettinger ble anvendt i bibliotek og kirker i middelalderen og senere som tyverisikring. Plassering av kjettingfestet  viser hvordan boken ble oppbevart og sikret. Kjettingen er sjelden bevart. St\u00F8rre hull i permens kant, ofte med rustskader, vitner om at bindet tidligere har hatt kjetting. " , "@language" : "nb" } ,
+        { "@value" : "The different components which are put together to create chains, including the attachments to both the book and the bookcase." , "@language" : "en" } ] }
+] }

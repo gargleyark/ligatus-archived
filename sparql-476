@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2378",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3235"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "blad " , "@language" : "nb" } ,
+        { "@value" : "leaves (features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Single pieces of sheet material which maybe one or other leaf of a bifolium (i.e. half of a bifolium), a single leaf with a stub that forms a hook to allow it to be sewn into a bookblock or a separate piece tipped with adhesive to an adjacent leaf." , "@language" : "en" } ,
+        { "@value" : "tosidig del av et manuskript eller i en bok, halvparten av et dobbeltblad" , "@language" : "nb" } ] }
+] }

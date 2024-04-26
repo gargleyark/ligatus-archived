@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2862">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2350" />
+    <skos:prefLabel xml:lang="en">compartments</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">felt</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">områder på bokryggens utside som er avdelt av opphøyde bind eller pregete linjer </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Compartments are created by the sub-division of panels on the spines of books. This may be done by means of tooled decoration only or by the division of panels into two parts by half bands and kettle bands, in which case there will be upper and lower compartments, which may be tooled or titled in different ways.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

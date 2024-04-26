@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2396">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3167" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2398" />
+    <skos:prefLabel xml:lang="nb">ben</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">bone</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The rigid, calcareous material that is white in color and forms the skeleton of vertebrates; primarily composed of calcium hydroxyapatite with smaller amounts of calcium carbonate, calcium fluoride, magnesium phosphate, and ossein, a high molecular weight protein. Bones have a concentric structure with central lymphatic canals surrounded by a spongy lamellar region protected by a dense outer cortex. Bone has been carved and used since ancient times for many purposes, including fish-hooks, spear heads, needles, handles, and art objects. Bones were also burnt to produce bone black and boiled to produce bone glue. Bone can be distinguished from ivory by being generally whiter, more porous, and less dense. </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">betegnelse for benvev og knokler</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2299">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1225" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1692" />
+    <skos:prefLabel xml:lang="en">back-cornering</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">skredde permhjørner</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">For å lette forming av overtrekkets innslag inn mot ryggen ble litt av hjørnene på permen beskåret på skrå.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The process of cutting away the corners at both head and tail of the spine edge of a board. This was to serve either of two purposes - to lower the height of the board either, if the squares were particularly wide, to the level of the endband, or, if there was no endband, to the level of the bookblock, or to accommodate the turn-in of the covering material. The shape of the back-cornering can vary widely.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

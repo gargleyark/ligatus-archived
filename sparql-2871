@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4739>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2450> ,
+		<http://w3id.org/lob/concept/3167> ;
+	skos:narrower	<http://w3id.org/lob/concept/4506> ,
+		<http://w3id.org/lob/concept/4508> ,
+		<http://w3id.org/lob/concept/4510> ;
+	skos:prefLabel	"h\u00E5r"@nb ,
+		"hair"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Material comprising the cylindrical filaments that grow from follicles embedded in the skin of mammals. Hair is a column of overlapping, fused cells that are composed of the protein keratin; hair is composed of three parts: the innermost column is the medula, the surrounding live cells (the cortex) contain pigment, and the outermost dead transparent cells are the cuticular scales. The portion of the hair outside of the skin is called the shaft. Fine, closely spaced hair that covers most of an animal&#039;s body is called fur. Dense, soft, curled hair is called wool. Coarse, stiff hairs are called bristles, spines, or quills. Horsehair and cattle hair have been used for brushes, plaster binders, haircloth, and upholstery stuffing. Rabbit hair, often called rabbit fur, has been used to make felt hats. "@en ,
+		"h\u00E5r, tr\u00E5dformede strukturer som best\u00E5r av en spesiell form for keratin som dannes ved celledeling, og forhorning av cellene i nedre del av h\u00E5rsekken (h\u00E5rfollikkelen)"@nb .

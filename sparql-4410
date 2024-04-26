@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1545",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "vrengt skinn" , "@language" : "nb" } ,
+        { "@value" : "reversed skin" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "suede" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "skinn brukt som overtrekk p\u00E5 et bokbind, der kj\u00F8ttsiden/innsiden vender utover" , "@language" : "nb" } ,
+        { "@value" : "A skin that is placed on the book with the flesh side outwards. Where this is done with tanned or alum-tawed skins, the exterior of the book will have a soft, suede-like finish, and the use of reversed skins was common from the late Middle Ages through to the 19th century. Parchment skins could also be reversed, displaying the clean creamy white flesh side prepared by the parchment maker with a smooth polished surface. The use of reversed parchment was particularly popular in Italy in the 16th century." , "@language" : "en" } ] }
+] }

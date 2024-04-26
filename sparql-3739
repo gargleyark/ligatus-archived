@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1463>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1334> ;
+	skos:prefLabel	"open flayholes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A flayhole that was not stitched up before the skin was stretched on the parchment maker&#039;s frame or herse and has opened into a large round or oval shaped hole."@en .

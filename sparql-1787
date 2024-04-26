@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/2882" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2879" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "kantstift" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "edge studs" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "heels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Raised fittings attached to the head-, fore- and, most often, tail-edge of a board to protect the edges of the binding or give a vertical orientation to a binding with an uneven tail edge (e.g. Greek-style binding) on a sloping lectern shelf. Such studs were usually made of a copper alloy and were made in a variety of shapes, sometimes combined with shoes or corners. Also known as &#039;heels&#039; (Szirmai, p.264)." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "utskytende kantbeslag, som regel av metall, som er festet til permkantene" , "lang" : "nb" } ] }
+}

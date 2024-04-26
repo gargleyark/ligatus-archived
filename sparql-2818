@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4079",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "h\u00E5rsau" , "@language" : "nb" } ,
+        { "@value" : "hairsheep" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sheep whose skin carries a high proportion of coarse hairs as opposed to fine wool hairs. The leather produced from these skins has a finer and tougher grain than that made from wool-bearing sheep, and as a result, the processed skin resembles that of the goat and they are frequently hard if not impossible to tell apart by visual means alone." , "@language" : "en" } ,
+        { "@value" : "en type sau som har st\u00F8rre mengde stive h\u00E5r enn fine ullh\u00E5r, som gir skinnet en finere narv og er mer robust enn ullsau og ligner derfor mer p\u00E5 geit" , "@language" : "nb" } ] }
+] }

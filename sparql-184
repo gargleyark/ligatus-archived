@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4399",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1244"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "adjustable catchplates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "On seventeenth- and eighteenth-century bindings with envelope flaps and pockets on the inside of each board in which to keep notes, cards, etc, the catchplate attached to the opposite board from the envelope flap could have several holes in it (most commonly three) in which the clasp could be fastened according to the amount of material kept in the pockets." , "@language" : "en" } ] }
+] }

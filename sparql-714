@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4081">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3235" />
+    <skos:prefLabel xml:lang="en">bolts</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">uåpnet materie</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">bretter i papiret som oppstår når trykkarkene falses til legg og som må sprettes eller skjæres opp for at boken skal kunne åpnes</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The folded edge at the head, tail, or fore edge of a section of an unopened book. Depending on location, it is known as a head bolt, tail bolt, or fore-edge bolt. Bolts are generally located at the head and/or fore-edge, but cannot be located at all three edges on any one leaf. The folded edge opposite the fore-edge is not a &amp;quot;bolt&amp;quot;, but a spine-fold. Bolts are often opened quickly and with little care, resulting in ragged edges that are difficult to handle when turning leaves. A dull knife used carefully will result in a clean cut, while a knife that is too sharp is difficult to control and often cuts away from the bolt and into one or more leaves.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

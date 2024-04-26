@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3833>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1564> ;
+	skos:prefLabel	"joint stitching"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Stabbing thongs through the joints of the bookblock which then lie across the surface of the spine in between the joints. The slips of the thongs are laced through exit holes at the joint creases in the cover."@en .

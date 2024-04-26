@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1242>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1268> ;
+	skos:narrower	<http://w3id.org/lob/concept/1191> ,
+		<http://w3id.org/lob/concept/2924> ,
+		<http://w3id.org/lob/concept/1412> ,
+		<http://w3id.org/lob/concept/1460> ,
+		<http://w3id.org/lob/concept/4395> ,
+		<http://w3id.org/lob/concept/2825> ,
+		<http://w3id.org/lob/concept/1665> ;
+	skos:prefLabel	"l\u00F8sbind"@nb ,
+		"cases"@en ;
+	skos:altLabel	"wrappers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Covers which are complete in themselves before they are attached to bookblocks. They may or may not have boards and other components in addition to a cover but no part of them can have been attached to the bookblock separately before the cover was attached. In almost all recorded examples, the spine of the case is not adhered to the spine of the bookblock, but is left instead with a natural hollow back. Cases can be attached to the bookblock by adhesive only, primary or secondary tackets, longstitch bindings and bindings with external sewing supports. In one instance, a case made of cartonnage has been recorded adhered to the boards of an inboard binding. This as yet unique example should therefore be described as a primary cover on an inboard binding."@en ,
+		"omslaget/bindet  blir laget for seg f\u00F8r det festes til bokblokken"@nb .

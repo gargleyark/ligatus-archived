@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3141>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2540> ;
+	skos:prefLabel	"h\u00E5ndstukket kapit\u00E9lb\u00E5nd"@nb ,
+		"worked stuck-on endbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"h\u00E5ndlaget kapit\u00E9lb\u00E5nd som er stukket eller brodert for h\u00E5nd"@nb ,
+		"Stuck-on endbands in which the linings have been decorated (or worked) with thread through and around the part which projects beyond the height of the bookblock. The working of the thread will often take the form of a secondary endband sewing, but may be nothing more than a simple helix of thread worked through the exposed edge of the stuck-on endband lining."@en .

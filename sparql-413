@@ -1,0 +1,25 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1585>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4174> ;
+	skos:narrower	<http://w3id.org/lob/concept/1292> ,
+		<http://w3id.org/lob/concept/2527> ,
+		<http://w3id.org/lob/concept/1547> ,
+		<http://w3id.org/lob/concept/2525> ,
+		<http://w3id.org/lob/concept/3131> ,
+		<http://w3id.org/lob/concept/1652> ,
+		<http://w3id.org/lob/concept/1339> ,
+		<http://w3id.org/lob/concept/1420> ,
+		<http://w3id.org/lob/concept/3569> ,
+		<http://w3id.org/lob/concept/1695> ,
+		<http://w3id.org/lob/concept/1659> ,
+		<http://w3id.org/lob/concept/1626> ,
+		<http://w3id.org/lob/concept/1488> ,
+		<http://w3id.org/lob/concept/1602> ,
+		<http://w3id.org/lob/concept/1406> ,
+		<http://w3id.org/lob/concept/1687> ;
+	skos:prefLabel	"heftbind"@nb ,
+		"sewing supports"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"remser av hamp, lin, skinn eller pergament utgj\u00F8r en integrert del av heftestrukturen i form av smale b\u00E5nd som l\u00F8per tvers over bokryggen p\u00E5 h\u00E5ndinnbundne b\u00F8ker "@nb ,
+		"Components placed across the spine of a bookblock to or through which the individual gatherings are sewn with thread. The most commonly encountered sewing supports are narrow strips of material around or across which the thread is taken when it emerges from the gatherings, but there are also pierced sewing supports, through which the thread is taken when the bookblock is sewn. Both can be found in many different shapes and sizes."@en .

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3273">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2829" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3080" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2987" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3411" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1244" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3413" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2838" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3049" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2841" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1254" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2998" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2923" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3097" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3007" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2892" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3074" />
+    <skos:prefLabel xml:lang="en">fastening components</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">lukkemekanismens komponenter</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">de forskjellige delene en lukkemekanisme består av </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The component parts of fastenings.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

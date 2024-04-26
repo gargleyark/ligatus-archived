@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1313">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1573" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1379" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2886" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1577" />
+    <skos:prefLabel xml:lang="en">endleaf guards</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A narrow strip of sheet material, most often of parchment but sometimes of paper, folded lengthways and either sewn on its own or with other endleaf components, but not folded around a text gathering (see text guards). Endleaf guards are most often found folded around a paper endleaf fold, but may occasionally be found on the inside of a fold or outside an endleaf hook.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

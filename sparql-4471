@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1623>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3507> ;
+	skos:prefLabel	"spine-lining extensions"@en ,
+		"ryggf\u00F4ringsforlengelse"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forlengelse av ryggf\u00F4ringer og kapit\u00E9lb\u00E5nd som stikker utenfor ryggens bredd og som er festet til permene, ansetnings- eller forsatspapir eller som er frie "@nb ,
+		"The parts of a spine lining, endband lining or stuck-on endband lining which extend beyond the width of the spine and may be adhered to the boards, cover or endleaves of a book, or be left free."@en .

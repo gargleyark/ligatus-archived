@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3941">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3975" />
+    <skos:prefLabel xml:lang="nb">kobberstikk</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">engraving (printing)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The use of a rolling press and intaglio plate to produce a design and/or lettering on a piece of sheet material before it is used as the cover of a book.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Dyptrykksteknikk der en gravert metallplate settes inn med sverte og bildet overføres til arket ved hjelp av en trykkpresse. Kobberstikk brukes også på det ferdige trykk
+
+teknikk for å stikke (skjære) mønster og tekst i metall med forskjellig typer verktøy kalt stikler </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3177" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2383" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fillets" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A metal wheel, the edge of which is engraved with one or more straight lines (one-line fillet, two-line fillet, etc.). The wheel is mounted on an axle, usually in a metal fork (one-sided mounts would appear to be a relatively recent introduction) fitted into a long cylindrical wooden handle. In use, fillets were held by one hand at the lower end of the wooden handle with the other end of the handle resting against the binder\u2019s shoulder. Some fillets in the nineteenth century had a small nick cut in their circumference to allow the lines made with them to start and stop cleanly and avoid the crossing over of fillets at the corners of frames or panels (overlapping corners)." , "lang" : "en" } ] }
+}

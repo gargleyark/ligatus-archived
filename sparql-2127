@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2891" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1304" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fastened edge pins" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A more secure type of edge pin, found on some Coptic and Greek bindings, with a flat, blade-like tang with a hole drilled through it, through which a metal pin was driven from the surface of the board to prevent the edge pin from being pulled out of the board." , "lang" : "en" } ] }
+}

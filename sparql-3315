@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2956>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2366> ;
+	skos:prefLabel	"long lacing path"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The path taken by a sewing support slip which enters the spine edge of a board through a tunnel to emerge into a channel in either surface of the board which connects to a hole which takes the slip into a second channel cut into the opposite side of the board, where it is secured in yet another hole with a wedge."@en .

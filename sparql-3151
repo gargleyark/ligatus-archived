@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4896>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3988> ;
+	skos:prefLabel	"Kiebitzpapier"@de ,
+		"Kiebitzpapir"@nb ;
+	skos:altLabel	"plover marbled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Monochrome, mostly brown coloured paper with many fine, mostly black, sprinkles."@en ,
+		"brunfarget  papir dekorert med mange sm\u00E5 m\u00F8rke prikker "@nb .

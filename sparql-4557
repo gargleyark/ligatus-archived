@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3713" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1694" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "straight-cut turn-ins" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "rettsk\u00E5rne innslagskanter" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Innslagenes kanter er besk\u00E5ret i rette linjer mer eller mindre parallelle med permens/omslagets kanter." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The edge of the turn-ins of the covering material is cut at right-angles to its surface." , "lang" : "en" } ] }
+}

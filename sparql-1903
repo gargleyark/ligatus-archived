@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3956" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3967" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3558" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "embossed paper" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "preget papir" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "papir som er dekorert med preging og gitt en relieff-struktur " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Paper which has been purposely given a relief texture with plates. The pattern created by the plates can either be metal-leaf embossed, where the metal leaf remains only in the depressions created by the raised parts of the plates (brocade paper), or blind-embossed, where a paper, uncoloured, already coloured or entirely covered with metal or colours is then simply embossed with the same type of plate (e.g. blind-embossed metallic paper)." , "lang" : "en" } ] }
+}

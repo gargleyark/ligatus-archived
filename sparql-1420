@@ -1,0 +1,20 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1285",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1481"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3988"} ,
+        { "@id": "http://w3id.org/lob/concept/3990"} ,
+        { "@id": "http://w3id.org/lob/concept/3994"} ,
+        { "@id": "http://w3id.org/lob/concept/3855"} ,
+        { "@id": "http://w3id.org/lob/concept/3960"} ,
+        { "@id": "http://w3id.org/lob/concept/4320"} ,
+        { "@id": "http://w3id.org/lob/concept/3953"} ,
+        { "@id": "http://w3id.org/lob/concept/3956"} ,
+        { "@id": "http://w3id.org/lob/concept/3545"} ,
+        { "@id": "http://w3id.org/lob/concept/3986"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "dekorert papir" , "@language" : "nb" } ,
+        { "@value" : "decorated paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "i utgangspunktet et ufarget stykke papir som forskj\u00F8nnes gjennom bruk av forskjellige prosesser som farging, sprenging, preging, blokktrykking, stensilering, marmorering  " , "@language" : "nb" } ,
+        { "@value" : "Plain papers decorated by various means, which might include trough-marbling, stencilling, sprinkling, hand-colouring, block-printing, etc. Such papers were used in books as endleaves, covering materials, linings of boxes and sometimes in secondary uses such as spine linings. They were also used as wrapping paper or as a ground for printing and calligraphy." , "@language" : "en" } ] }
+] }

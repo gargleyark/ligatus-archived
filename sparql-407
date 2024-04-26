@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1423" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1268" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "limp covers" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "b\u00F8yelig bind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A full cover without boards can be described as limp. According to the cover material used, the cover will therefore be more or less flexible. Bindings with covers over thin, flexible boards or cover linings are sometimes referred to as semi-limp, a term which is often confused with limp and probably for that reason better avoided. The term &#039;limp&#039; should therefore be used in conjunction with the appropriate term for the type of cover (i.e. limp laced-case, etc.)." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "innbinding uten stive permer" , "lang" : "nb" } ] }
+}

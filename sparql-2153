@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2899" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3303" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fore-edge inlays (envelope flap components)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Rectangular pieces of sheet material cut to be the same size as or smaller than the fore-edge of a bookblock, to support the covering material between the board edge and the envelope inlay, whilst allowing the covering material to act as a hinge on each side of it. Not all envelope flaps will have flap linings." , "lang" : "en" } ] }
+}

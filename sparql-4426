@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1549",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1273"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rough-trimmed edges" , "@language" : "en" } ,
+        { "@value" : "revne kanter" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Uneven bookblock edges in which leaves were trimmed either individually or in groups, often by hand with shears, either before the book was sewn or after to remove the oversize leaves which would otherwise have projected from the edge of the bookblock. A rough-trimmed edge is therefore very different from one that is cut solid with a plough or draw knife (or, more recently, a guillotine). Edges of both sorts can be found on the same bookblock." , "@language" : "en" } ,
+        { "@value" : "Ujevne kanter p\u00E5 bokblokken, der bladene enten ble sk\u00E5ret eller revet til enkeltvis eller gruppevis ofte for h\u00E5nd, for \u00E5 redusere st\u00F8rrelsen p\u00E5 ark som er st\u00F8rre enn resten av arkene og og som ellers ville ha stukket utover bokblokkens kanter.\r\n\r\n" , "@language" : "nb" } ] }
+] }

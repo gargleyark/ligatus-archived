@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1391",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2350"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1454"} ,
+        { "@id": "http://w3id.org/lob/concept/1202"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hollow backs" , "@language" : "en" } ,
+        { "@value" : "hul rygg" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "hulrom som oppst\u00E5r mellom bokblokkens rygg og overtrekksmaterialet n\u00E5r boken \u00E5pnes, fordi overtrekksmaterialet ikke er klebet direkte p\u00E5 bokblokkens rygg eller til ryggf\u00F4ringen " , "@language" : "nb" } ,
+        { "@value" : "A feature of the spine in which the covering material is not adhered to the spine-folds of the bookblock or to the spine linings, but is able to arch away from the spine-folds as the book is opened." , "@language" : "en" } ] }
+] }

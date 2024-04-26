@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1558>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2350> ,
+		<http://w3id.org/lob/concept/3235> ,
+		<http://w3id.org/lob/concept/1537> ;
+	skos:prefLabel	"sawn-in recesses"@en ;
+	skos:altLabel	"saw-cuts"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Recesses created by a saw on the spine of the bookblock either to accomodate recessed sewing supports or as adhesive recesses to allow the adhesive on the spine to reach the inner bifolia of each gathering."@en .

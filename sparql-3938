@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1503",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pigskin" , "@language" : "en" } ,
+        { "@value" : "svineskinn" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The skin of the young pig which may be either tanned, tawed or turned into parchment." , "@language" : "en" } ,
+        { "@value" : "hud av unge svin som enten er garvet, alungarvet eller laget pergament av " , "@language" : "nb" } ] }
+] }

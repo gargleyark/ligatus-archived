@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2470",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2484"} ,
+        { "@id": "http://w3id.org/lob/concept/2450"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1239"} ,
+        { "@id": "http://w3id.org/lob/concept/1506"} ,
+        { "@id": "http://w3id.org/lob/concept/4585"} ,
+        { "@id": "http://w3id.org/lob/concept/4238"} ,
+        { "@id": "http://w3id.org/lob/concept/1448"} ,
+        { "@id": "http://w3id.org/lob/concept/1228"} ,
+        { "@id": "http://w3id.org/lob/concept/1706"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "textile" , "@language" : "en" } ,
+        { "@value" : "tekstil" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sheet material created by weaving organic fibres." , "@language" : "en" } ,
+        { "@value" : "materiale fremstilt av tekstilfiber, som kan komme fra vekst- eller dyreriket " , "@language" : "nb" } ] }
+] }

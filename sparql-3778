@@ -1,0 +1,21 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2277",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4207"} ,
+        { "@id": "http://w3id.org/lob/concept/3311"} ,
+        { "@id": "http://w3id.org/lob/concept/2279"} ,
+        { "@id": "http://w3id.org/lob/concept/4806"} ,
+        { "@id": "http://w3id.org/lob/concept/2285"} ,
+        { "@id": "http://w3id.org/lob/concept/1186"} ,
+        { "@id": "http://w3id.org/lob/concept/4073"} ,
+        { "@id": "http://w3id.org/lob/concept/4876"} ,
+        { "@id": "http://w3id.org/lob/concept/4879"} ,
+        { "@id": "http://w3id.org/lob/concept/4886"} ,
+        { "@id": "http://w3id.org/lob/concept/4199"} ,
+        { "@id": "http://w3id.org/lob/concept/4202"} ,
+        { "@id": "http://w3id.org/lob/concept/4203"} ,
+        { "@id": "http://w3id.org/lob/concept/4205"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "objects" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "This hierarchy provides values for the CIDOC-CRM E22 Man-Made Object:\r\n\r\nThis class comprises physical objects purposely created by human activity.\r\nNo assumptions are made as to the extent of modification required to justify regarding an object as man-made. For example, an inscribed piece of rock or a preserved butterfly are both regarded as instances of E22 Man-Made Object." , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

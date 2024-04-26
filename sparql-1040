@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2374",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2354"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1527"} ,
+        { "@id": "http://w3id.org/lob/concept/1542"} ,
+        { "@id": "http://w3id.org/lob/concept/3060"} ,
+        { "@id": "http://w3id.org/lob/concept/1650"} ,
+        { "@id": "http://w3id.org/lob/concept/3145"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "coiffe" , "@language" : "fr" } ,
+        { "@value" : "caps" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A feature of the covering material at the head and tail of the spine. Caps could be formed in many different ways often to protect an endband." , "@language" : "en" } ] }
+] }

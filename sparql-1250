@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4119">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4117" />
+    <skos:prefLabel xml:lang="en">closing the hole</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Securing the slips in a paper board by hammering the board flat around the sewing-support slips laced through them, which closes the hole and pinches the slips tightly to hold them in place. The process was often reinforced by working some adhesive into the slips before they were laced through the boards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

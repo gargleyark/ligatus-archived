@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1686">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1493" />
+    <skos:prefLabel xml:lang="en">trimmed-out pastedowns</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A pastedown of which the head, tail and fore-edge have been cut back from the size of the free endleaves (flyleaves), to expose more of the turn-ins on the inside of the boards. This technique is first found on a small number of Italian bindings of the late fifteenth and early sixteenth century, though its purpose on these bindings remains obscure, as the turn-ins of these bindings are seldom decorated. It is otherwise not generally found before the second quarter of the seventeenth century, when it was introduced in France to expose more of the turn-ins of the cover so that they could be decorated with gold-tooling. By the end of the following century it was in general use on more expensive bindings across Europe and has remained so until the present day.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A pastedown of which the head, tail and foredge have been cut back from the size of the free endleaves (flyleaves), to expose more of the turn-ins on the inside of the boards. This technique is first found on a small number of Italian bindings of the late fifteenth and early sixteenth century, though its purpose on these bindings remains obscure, as the turn-ins of these bindings are seldom decorated. It is otherwise not generally found before the second quarter of the seventeenth century, when it was introduced in France to expose more of the turn-ins of the cover so that they could be decorated with gold-tooling. By the end of the following century it was in general use on more expensive bindings across Europe and has remained so until the present day.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

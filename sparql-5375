@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4500>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4496> ;
+	skos:prefLabel	"silhouette stencils"@en ,
+		"silhuettstensiler"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Objects such as a tree leaves placed on the surface to be decorated and sprinkled over with pigment, leaving the silhouette of the shape visible on the decorated surface."@en ,
+		"objekter plassert p\u00E5 den overflate som skal dekoreres og som blir sprinklet over med farge  "@nb .

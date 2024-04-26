@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2398>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2396> ;
+	skos:prefLabel	"elfenben"@nb ,
+		"ivory (bone)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"hardt materiale av tenner fra elefant"@nb ,
+		"The modified form of dentine found on the tusks of mature elephants, and for similar material from any tusked or large-toothed mammal such as a walrus or narwhal."@en .

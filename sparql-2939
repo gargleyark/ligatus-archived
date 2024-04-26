@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2933>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1230> ;
+	skos:prefLabel	"integral bosses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bosses created out of a metal fitting such as a corner piece or centre piece by beating, casting etc."@en .

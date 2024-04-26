@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3771",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "garvere" , "@language" : "nb" } ,
+        { "@value" : "tanners" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "person som ut\u00F8ver garveryrket og behandler dyrehuder med garvestoffer for \u00E5 omdanne dem til l\u00E6r og skinn" , "@language" : "nb" } ,
+        { "@value" : "Those who treat hides or skins with tannins to produce leather." , "@language" : "en" } ] }
+] }

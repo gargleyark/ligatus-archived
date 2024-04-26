@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1655" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3305" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tredd l\u00F8sbindsforsterkning" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "tacket reinforcements" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "tredd l\u00F8sbind med komplettering av et materiale som forsterker treiningen, f.eks. skinn eller alungarvet skinn" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Pieces of strong material, such as thick leather, alum-tawed skin, even wood, in many different shapes and sizes, placed on the spine of a tacketed case and through which the secondary tacket material is laced. Their purpose would appear to have been mostly to reduce the risk of the tackets tearing through the cover, though they may also have served a decorative purpose. " , "lang" : "en" } ] }
+}

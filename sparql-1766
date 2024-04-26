@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2400">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2281" />
+    <skos:prefLabel xml:lang="en">gemstone</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">edelstener</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">edelstener eller halvedelstener som er kuttet og polert og anvendt  som dekor på grunn av sin farge og glans </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Precious or semiprecious stone that can be cut, polished, or otherwise dressed for use as gems; distinguished from &amp;quot;gems,&amp;quot; which are made of gemstone that has been worked or other material such as pearl.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

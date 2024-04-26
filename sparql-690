@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3922">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:prefLabel xml:lang="en">box bindings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">As small number of bindings has survived in which side walls were added to one of the boards, creating a three-sided tray in which the closed bookblock was contained, with the spine and the other board closing what becomes a sort of drop-back box. Box bindings have been recorded from the ninth century in the Islamic world and there are also late medieval Spanish examples, mostly containing Hebrew texts, and in both the Islamic and Hebrew examples, the sides were added to the left board, so that the right board would open to the beginning of the text.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

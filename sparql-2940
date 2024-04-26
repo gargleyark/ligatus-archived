@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2934">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1668" />
+    <skos:prefLabel xml:lang="en">internal tiedowns</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">That part of an endband tiedown which is located inside a gathering. In most cases, an internal tiedown will emerge from the exit point on the spine to form an external tiedown, but very occasionally endbands were worked which only had internal tiedowns.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

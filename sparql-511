@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2827" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1244" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bokspenne med stang" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "bar catchplates" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "rolled round bar (catchplates)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "pin (catch plates)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Del av lukkemekanisme som er utstyrt med en stang som den andre delen, formet som en krok eller hekte, kan hekte seg p\u00E5.\r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Catchplates which have at their outer forked ends a metal bar over which a clasp can hook." , "lang" : "en" } ] }
+}

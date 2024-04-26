@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4861>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3429> ;
+	skos:prefLabel	"rubrikator"@nb ,
+		"rubricators"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Scribes who execute rubrics, which are headings, catchwords, or marginal index words written in red (the remainder of the text being in black), or otherwise distinguished in lettering, as guides to the contents of pages. These scribes may or may not be responsible for the rest of the text. The more common underlinings, capital strokes, paragraph marks (paraphs), and simple initials, largely in red, but also found in blue and (less commonly) green or yellow, in early printed books as well as manuscripts are technically speaking not rubrics, but the person producing them is typically referred to as a rubricator. In printed books, however, the rubrics would be printed in red ink, often from one setting of type, using pierced frisket sheets to separate the words to be printed in red ink."@en ,
+		"Skriftl\u00E6rd som utf\u00F8rer rubrisering, overskrifter, titler eller marginale stikkord skrevet i r\u00F8dt (resten av teksten er i sort), eller som p\u00E5 annen m\u00E5te med skrift viser til innholdet p\u00E5 sidene. Rubrikatoren kan eller kan ikke v\u00E6re ansvarlig for resten av teksten. De mer vanlige understrekinger, kapit\u00E9ler, avsnittsmerker, og enkle initialer, hovedsakelig i r\u00F8dt, men ogs\u00E5 funnet i bl\u00E5tt og (mindre vanlig) gr\u00F8nt eller gult, i tidlige trykte b\u00F8ker samt manuskripter er teknisk sett ikke rubrisering, men personen som produserer dem, kalles vanligvis en rubrikator.\r\n\r\n\r\n"@nb .

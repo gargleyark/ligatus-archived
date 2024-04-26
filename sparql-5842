@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4393",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1412"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tacketed cases" , "@language" : "en" } ,
+        { "@value" : "sekund\u00E6rtredd l\u00F8sbind " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "treingen kan  utf\u00F8res for \u00E5 sammenf\u00F8ye et allerede heftet  innlegg med en l\u00F8sperm " , "@language" : "nb" } ,
+        { "@value" : "Case-type covers which are attached to a sewn bookblock by means of secondary tackets only." , "@language" : "en" } ] }
+] }

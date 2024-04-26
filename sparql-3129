@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3390" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3343" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rivets" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "klinknagle" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A metal pin with a head at one end and the other end beaten out with a hammer on the other side of the material(s) it has been passed through, to secure it." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kort metallpinne som er felt inn i den delen av en bokspenne som  er feste til forpermen " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1209">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2286" />
+    <skos:prefLabel xml:lang="en">bookbinder&amp;#039;s gatherings</skos:prefLabel>
+    <skos:altLabel xml:lang="en">binder&amp;#039;s gatherings</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Gatherings which contain more than one bibliographical unit and inserted material such as interleaving, extra plates, etc. used as single gatherings. Single leaves or single bifolia, which may be distinct bibliographical units, become parts of a single gathering when they are held together by tipping, overcasting or oversewing.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

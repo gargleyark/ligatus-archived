@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3056",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1353"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2848"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "permbeslag" , "@language" : "nb" } ,
+        { "@value" : "surface fittings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "metallbeslag som sitter p\u00E5 overflaten av permen og ikke er b\u00F8yd rundt permens kanter " , "@language" : "nb" } ,
+        { "@value" : "Pieces of metal furniture which sit on the surface of the board and do not fold over their edges." , "@language" : "en" } ] }
+] }

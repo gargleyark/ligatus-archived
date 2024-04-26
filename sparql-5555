@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1663>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3283> ;
+	skos:narrower	<http://w3id.org/lob/concept/4230> ,
+		<http://w3id.org/lob/concept/1257> ,
+		<http://w3id.org/lob/concept/1466> ;
+	skos:prefLabel	"tekstblokk"@nb ,
+		"textblocks"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The word textblock is used to describe all the leaves in a book on which the text is written or printed. Where there is more than one text in a single binding, as in the case of composite volumes or Sammelb\u00E4nde, all the different texts are included in a single textblock. A textblock does not include endleaves or other leaves added by a binder, such as inserted text separators or interleaving, even though these may now carry additional written material. Endleaves and all other leaves added by the binder are, however, included in a bookblock. In certain exceptional circumstances, such as dos-\u00E0-dos bindings, a single binding may contain two or more bookblocks, each of which can in theory be a composite volume. Stationery bindings will often be made with a textblock which consists of blank gatherings yet to be written in, in which the outermost leaf of the outermost gathering at each end will be used as endleaves in the form of pastedowns (i.e. integral endleaves), and in these cases the textblock and the bookblock are the same thing. If the outermost gatherings of such a book are made in a different format from the rest of the gatherings (e.g. four leaves as opposed to eight leaves, or outside hooks instead of bifolia), or made from a different, possibly coloured, paper, these can be described as endleaves, and the other leaves as the textblock, together making the bookblock. "@en ,
+		"alle skrevne eller trykte blad eller legg i en ubundet eller bundet bok som er blitt samlet i en fysisk enhet  "@nb .

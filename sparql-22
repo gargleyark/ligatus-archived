@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1195">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4165" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1223" />
+    <skos:prefLabel xml:lang="en">adhesive-case bindings</skos:prefLabel>
+    <skos:altLabel xml:lang="en">case bindings</skos:altLabel>
+    <skos:altLabel xml:lang="en">cased-in bindings</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bindings with adhesive cases. They are the results of the technique of casing-in. They are also known from the 19th century as &amp;#039;cased-in&amp;#039; or &amp;#039;case bindings&amp;#039;.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

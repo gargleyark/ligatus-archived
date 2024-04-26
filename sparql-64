@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2406",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2404"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2894"} ,
+        { "@id": "http://w3id.org/lob/concept/2408"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "alloy" , "@language" : "en" } ,
+        { "@value" : "legering" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "blanding av metaller" , "@language" : "nb" } ,
+        { "@value" : "Substance having metallic properties, consisting of two or more metallic elements or of metallic and nonmetallic elements, which are miscible with each other when molten, and do not separate into distinct layers when solid." , "@language" : "en" } ] }
+] }

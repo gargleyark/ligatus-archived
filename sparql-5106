@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3161",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3818"} ,
+        { "@id": "http://w3id.org/lob/concept/4101"} ,
+        { "@id": "http://w3id.org/lob/concept/4771"} ,
+        { "@id": "http://w3id.org/lob/concept/3087"} ,
+        { "@id": "http://w3id.org/lob/concept/2911"} ,
+        { "@id": "http://w3id.org/lob/concept/1364"} ,
+        { "@id": "http://w3id.org/lob/concept/3031"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "surface coating materials" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Materials used to provide decorative and/or protective coatings to the surface of other materials." , "@language" : "en" } ] }
+] }

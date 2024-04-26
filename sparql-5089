@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3054" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1353" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "studded spine straps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Leather straps placed across the spine and attached to the spine edges of both boards to which copper alloy studs have been attached. A variant form can be found in which the copper alloy studs are linked one to another without a leather strap underneath. Such straps have been found on Swiss and Hungarian bindings and may be associated to the Mennonite church, both in Europe and North America." , "lang" : "en" } ] }
+}

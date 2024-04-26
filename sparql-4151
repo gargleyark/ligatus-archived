@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3347>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3460> ;
+	skos:narrower	<http://w3id.org/lob/concept/4514> ,
+		<http://w3id.org/lob/concept/4128> ,
+		<http://w3id.org/lob/concept/4512> ,
+		<http://w3id.org/lob/concept/3348> ,
+		<http://w3id.org/lob/concept/3350> ,
+		<http://w3id.org/lob/concept/1284> ,
+		<http://w3id.org/lob/concept/2938> ,
+		<http://w3id.org/lob/concept/3092> ;
+	skos:prefLabel	"paper features"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Features of paper materials."@en .

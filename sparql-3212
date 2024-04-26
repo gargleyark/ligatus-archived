@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1429">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1300" />
+    <skos:prefLabel xml:lang="en">loose secondary covers</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">varetrekk</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">beskyttende trekk, opprinnelig satt løst utenpå boken, men som i ettertid kan være festet    </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A secondary cover which in its original form was not permanently attached to the primary cover and could therefore be removed. Many such covers were fixed in place by the addition of bosses, corners, etc., even though their design indicates that they were originally intended to be loose. Dust wrappers can be considered as a subgroup of loose secondary covers.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

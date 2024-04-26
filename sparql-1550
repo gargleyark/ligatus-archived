@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3523">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3275" />
+    <skos:prefLabel xml:lang="en">dovetail battens</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Narrow lengths of wood with angled sides, wider at the base, used to secure the joints between two or more parallel planks of wood in a constructed board by being slid into a dovetail groove cut across the planks.  When used in areas outside the construction of book boards, the batten may sit on the surface of the planks (in the construction of doors this is known as a ledge), but in book boards, the batten must be recessed so as to leave the board with a smooth surface, hence the use of the dovetail groove.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Narrow lengths of wood with angled sides, wider at the base, used to secure the joints between two or more parallel planks of wood in a constructed board by being slid into a dovetail channel cut across the planks.  When used in areas outside the construction of book boards, the batten may sit on the surface of the planks (in the construction of doors this is known as a ledge), but in book boards, the batten must be recessed so as to leave the board with a smooth surface, hence the use of dovetail channels.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

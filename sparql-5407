@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4661>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3990> ;
+	skos:prefLabel	"steinmarmorert papir"@nb ,
+		"stone marbled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Papir som er sprengt med dr\u00E5per av farge fordelt b\u00E5de over og ved siden av hverandre over hele overflaten, ved fortetting oppst\u00E5r det \u00E5rer mellom &quot;steinene&quot;."@nb .

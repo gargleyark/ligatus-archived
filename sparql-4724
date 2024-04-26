@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1573">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1317" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1313" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1338" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1393" />
+    <skos:prefLabel xml:lang="nb">tilføyde forsatsblad</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">separate endleaves</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Separate forsatsblad som er lagt til en allerede eksisterende tekstblokk av bokbinderen og som tilsammen utgjør en fullstendig bokblokk. Selv om forsatsen består av et begrenset antall komponenter, kan de kombineres på uendelig mange måter og lages av en rekke forskjellige typer materialer. Detaljert beskrivelse av forsatsen er nyttig fordi visse typer assosieres med spesielle innbindingsteknikker, regional proveniens og til og med individuelle bokbindere eller eiere.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Separate endleaves are those added by a bookbinder to a pre-existing textblock, either manuscript or printed, and together with the textblock make up a complete bookblock. Although made from a limited number of components, these components can be combined in a seemingly endless number of different endleaf formats. They can also be made from a large number of different materials or combinations of materials. The importance of describing endleaf formats in detail comes from the association between certain endleaf formats and different types of binding, national provenances and even individual owners and binders.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1300">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1429" />
+    <skos:prefLabel xml:lang="en">dust wrappers</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">smussomslag</skos:prefLabel>
+    <skos:altLabel xml:lang="en">book wrappers</skos:altLabel>
+    <skos:altLabel xml:lang="en">jackets</skos:altLabel>
+    <skos:altLabel xml:lang="en">dust jackets</skos:altLabel>
+    <skos:altLabel xml:lang="en">dust covers</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A wrapper originally used to protect the covering material of the book from soiling or other damage, but now also used for promotional purposes. It may be plain, printed, or illustrated, and is flush with the covers of the book at head and tail, but folded over the fore edge of both covers. It is always detachable. There is some question as to whether dust wrappers should be described as secondary covers, but they can be seen as a subgroup of loose secondary covers, though still called dust wrappers.  </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">løst omslag med innbretter rundt bokpermen</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4258",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1265"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "circuit cover extensions" , "@language" : "en" } ,
+        { "@value" : "forlenget formering" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "yapp edges" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The extensions found on drawn-on covers which extend equally beyond the head, tail and fore-edge of a bookblock without a break at the corners. The covers may or may not be turned-in around the edges. This is the type of edge to which the 19th century publisher William Yapp gave his name. Bindings with this feature were known in the 19th century as divinity circuit bindings as they were most often found on bibles, prayer books, etc." , "@language" : "en" } ,
+        { "@value" : "innslaget p\u00E5 overtrekksmaterialet forlenges og falses slik at det stikker utenfor bokblokken/permkanten i den hensikt \u00E5 beskytte bokblokkens snitt eller kanter. Innslagene er ofte sl\u00E5tt inn, men beh\u00F8ver ikke v\u00E6re det  " , "@language" : "nb" } ] }
+] }

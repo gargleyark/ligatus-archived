@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1453>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4698> ;
+	skos:prefLabel	"naturlig narv"@nb ,
+		"natural grain (skin features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The natural grain pattern resulting from the nature of the skin, the tanning processes employed, and, especially, the treatments of the skin after tanning, but without any form of artificial graining by means of engraved plates."@en ,
+		"naturlig m\u00F8nster p\u00E5 skinnets overflate "@nb .

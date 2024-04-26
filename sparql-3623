@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4488>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1353> ;
+	skos:prefLabel	"metal sides"@en ,
+		"metalldekor"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Single pieces of decorated metal, often embossed, that cover the whole of each side of a binding in one piece with a conventional inboard binding with a primary cover underneath."@en ,
+		"stykker av metall gjerne dekorert, som dekker begge sider av bindet "@nb .

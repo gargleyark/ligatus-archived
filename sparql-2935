@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2932>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ,
+		<http://w3id.org/lob/concept/3187> ;
+	skos:prefLabel	"intaglio (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Technique of creating a design that is sunken into the surface, by carving or incising."@en .

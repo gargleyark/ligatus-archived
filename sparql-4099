@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2995>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2356> ;
+	skos:prefLabel	"press-pin holes"@en ;
+	skos:altLabel	"pinholes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The holes usually created towards the centre of each side of a printed sheet by the pins attached to the frisket in early hand-operated printing presses (some 15th century printed books have more pinholes in different positions). The press-pin holes were used to obtain perfect register on both sides of the sheet and appear in different places according to the format of the sheet. In most folio volumes they appear on the spine folds and should not be confused with sewing holes."@en .

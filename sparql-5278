@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3986",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "stencilled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paper decorated by cutting a design out of a thin yet durable piece of sheet material, such as thin paper board, paper or parchment, and dabbing, pouncing, sprinkling, or rubbing a colour through the openings (cut-out stencil). Stencilling can be repeated numerous times, with the same or different colours and in conjunction with other decoration techniques like block-printing or metal-leaf embossing. Another type of stencilling only occasionally encountered on paper involved scattering small pieces of material such as grains of rice or small chips of stone over a piece of paper, usually already coloured, and sprinkling over them to create the decoration (random stencil). This technique was much more often used for the decoration of bookblock edges." , "@language" : "en" } ] }
+] }

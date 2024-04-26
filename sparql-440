@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2288",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1678"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3853"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "blind-tooled (decoration)" , "@language" : "en" } ,
+        { "@value" : "blindtrykk" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The result of blind tooling." , "@language" : "en" } ,
+        { "@value" : "resultatet av dekoreringsteknikk der stempelet anvendes uten farge eller bladmetall for \u00E5 oppn\u00E5 et avtrykk i materialet " , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/1646" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1643" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1644" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1645" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stitched bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "leddbind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Heftet bokblokk holdt samlet ved hjelp av metalltr\u00E5d i ryggen (ryggstifting) eller fra siden (sidestifting eller falsstifting). Leddbindet kan v\u00E6re utstyrt med  permer eller omslag. Stiftingen som holder bokblokken sammen kalles prim\u00E6r stifting, i motsetning til sekund\u00E6r stifting som fester permer eller omslag til bokblokken." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Bindings in which the leaves or gatherings of a book are held together to create a single bookblock by stabbing thread or thongs through the inner margin of an entire bookblock. This process may also include a cover, or a drawn-on cover may be added after the stitching is completed. The stitching which holds the bookblock together is known as primary stitching, as opposed to secondary stitching which was used to attach boards or a case to an already stitched bookblock." , "lang" : "en" } ] }
+}

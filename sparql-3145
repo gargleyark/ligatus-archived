@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4006" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1211" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "knife marks" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "knivmerker " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Synlige merker etter b\u00E5ndkniv som ble brukt til \u00E5 skj\u00E6re bokblokkens kanter, sees som diagonale linjer p\u00E5 tvers av snittene." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The marks left on the cut edge of a bookblock by a draw knife. These marks usually take the form of more or less faint diagonal lines across the edges." , "lang" : "en" } ] }
+}

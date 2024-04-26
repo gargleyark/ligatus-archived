@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1413",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3300"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "laced-and-tacketed case bindings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Bindings where the cases are attached to bookblocks by means of both slip-lacing and secondary tackets. This combination appears to be found only on Italian bindings of the late 15th and early 16th centuries, in which either the endband slips are laced and the sewing supports tacketed or the sewing support slips are laced in and the endband slips  tacketed." , "@language" : "en" } ] }
+] }

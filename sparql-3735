@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1462>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ;
+	skos:prefLabel	"onlays (decorative components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Small pieces of very thin sheet material that are adhered to the surface of a primary cover for decorated purposes. They will usually therefore be of a different colour than the primary cover but may also be made from a different material (e.g. paper on leather). Their use is most often combined with gold-tooling. They should not be confused with inlays."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4077>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3305> ;
+	skos:prefLabel	"springbacks"@en ;
+	skos:altLabel	"spring-back"@en ,
+		"elastic back"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Springbacks were originally made of iron and later of millboard or other hard binder&#039;s board, cut to the height of the boards of the book and of a width that, when curved, would fit across the spine when made of iron and onto the sides of the textblock at least one fourth of an inch on both sides when made of millboard. The purpose of the springback is to cause the book to lie flat when open so as to facilitate its being written in across the spine. The springback acts as a spring, and its pressure on the sides of the book near the spine causes the book to snap open and shut. This technique was invented by the Englishmen John and Joseph Williams in  1799 and has been used ever since in the binding of large blankbooks. "@en .

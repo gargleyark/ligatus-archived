@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3883>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	"h\u00E5ndmarmorering"@nb ,
+		"hand-drawn marbling (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of creating marbled patterns by means of applying colours by hand with a brush or other tools."@en ,
+		"dekorm\u00F8nstre som minner om m\u00F8nsteret i marmor, skapt ved hjelp av farger p\u00E5f\u00F8rt med pensler eller andre verkt\u00F8y "@nb .

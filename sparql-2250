@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3808",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2270"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "forkant" , "@language" : "nb" } ,
+        { "@value" : "fore-edge (place)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "front edge" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The edge of a codex-form book from which it is opened, opposite the spine ." , "@language" : "en" } ,
+        { "@value" : "Den kanten p\u00E5 bokblokken som st\u00E5r motsatt av ryggen og som kan \u00E5pnes.  " , "@language" : "nb" } ] }
+] }

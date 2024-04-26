@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2881" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2879" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "kantskinne" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "edge strips" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "forsterkninger av bokbindets kanter, spesielt i nedre kant " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Strips of metal folded over and nailed to the edges of boards along their entire length (or up to metal corners where these were fitted), which can be folded over one or both sides of the boards. The metal strips, often of copper alloy, could be decorated with punches or embossed." , "lang" : "en" } ] }
+}

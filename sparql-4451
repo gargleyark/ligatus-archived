@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1616>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2354> ;
+	skos:prefLabel	"spine covering (cover features)"@en ,
+		"ryggovertrekk"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"overtrekk som dekker bokens rygg  "@nb ,
+		"The part of the covering material that covers the spine from head to tail and joint to joint."@en .

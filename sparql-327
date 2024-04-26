@@ -1,0 +1,16 @@
+{
+  "http://w3id.org/lob/concept/1222" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3519" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3521" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3675" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2387" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3659" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3479" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1275" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bindets permer" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "boards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "stive eller halvstive komponenter som er montert p\u00E5 begge sider av bokblokken for \u00E5 beskytte den" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Boards are rigid or semi-rigid components made from one or more pieces of sheet material used to protect and support a bookblock. There will usually be at least two boards, one on each side of the bookblock. A piece of sheet material wrapped around the spine of a bookblock and covering each side, even though it may itself be covered by another material (see cover lining and laminated cover) does not create boards, which must always be separate. On small format books, the boards may be no more than pieces of thick paper, but they should still be described as boards. When two or more bookblocks are bound together as distinct units (multiple bookblock bindings), they will be separated by shared boards." , "lang" : "en" } ] }
+}

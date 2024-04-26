@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1488>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1585> ;
+	skos:prefLabel	"passed-behind sewing supports"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sewing supports secured by passing the threads across them on the spine, but not encircling them with thread (wound supports). Recessed supports could be sewn this way from the late 16th century and flat tape supports from at least the mid-18th century."@en .

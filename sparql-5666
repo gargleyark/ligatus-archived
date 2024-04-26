@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3061",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3300"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tacketed case bindings" , "@language" : "en" } ,
+        { "@value" : "tredd l\u00F8sbind " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sewn bookblocks with case-type covers attached to elements of the sewing stucture and/or the endbands by means of secondary tackets. This concept should not be confused with primary tackets that are taken through the cover in both single and multi-section bookblocks." , "@language" : "en" } ,
+        { "@value" : "l\u00F8sbind som festes til bokblokken ved at endene p\u00E5 heftbind og kapit\u00E9lb\u00E5nd tres gjennom hull i l\u00F8sbindet inntil ryggen p\u00E5 bokblokken  " , "@language" : "nb" } ,
+        { "@value" : "Sewn bookblocks with case-type covers attached to elements of the sewing stucture and/or the endbands by means of secondary tackets." , "@language" : "en" } ] }
+] }

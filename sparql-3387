@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4103>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3300> ;
+	skos:narrower	<http://w3id.org/lob/concept/1414> ,
+		<http://w3id.org/lob/concept/1415> ;
+	skos:prefLabel	"laced-case bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings in which a cover in the form of a case is attached to a sewn or stitched bookblock by lacing the slips of the sewing supports and/or endband cores or the secondary stitching thongs through the joints of the case. The slips are therefore visible on the outside of the cover along the joints, unless hidden by a secondary cover. Laced-case bindings were in use in Italy and France in the last quarter of the fifteenth century, but are found in every country of Europe in a myriad of different variations throughout the sixteenth century. In northern Europe they are rarely found after the middle of the seventeenth century, but their use continued for longer in the same century in Italy and until the early nineteenth century in Spain."@en ,
+		"Bindings in which a cover in the form of a case is attached to a sewn or stitched bookblock by lacing the slips of the sewing supports and/or endband cores or the secondary stitching thongs through the joints of the case. The slips are therefore visible on the outside of the cover along the joints, unless hidden by a secondary cover. Laced-case limp bindings were in use in Italy and France in the last quarter of the fifteenth century, but are found in every country of Europe in a myriad of different variations throughout the sixteenth century. In northern Europe laced-case limp bindings are rarely found after the middle of the seventeenth century, but their use continued for longer in the same century in Italy and until the early nineteenth century in Spain. Laced-case bindings with boards continued to be made throughout Europe until the nineteenth century."@en .

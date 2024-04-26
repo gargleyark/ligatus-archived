@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3283>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/2286> ,
+		<http://w3id.org/lob/concept/1378> ,
+		<http://w3id.org/lob/concept/1379> ,
+		<http://w3id.org/lob/concept/1342> ,
+		<http://w3id.org/lob/concept/1663> ,
+		<http://w3id.org/lob/concept/3604> ,
+		<http://w3id.org/lob/concept/3606> ,
+		<http://w3id.org/lob/concept/1246> ,
+		<http://w3id.org/lob/concept/1601> ,
+		<http://w3id.org/lob/concept/1317> ;
+	skos:prefLabel	"bookblock components"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The different components which when combined make a bookblock."@en .

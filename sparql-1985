@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1335>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1593> ;
+	skos:prefLabel	"flesh splits (skins)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The inner split of a sheepskin which has been split into two layers. The flesh split was most often turned into parchment."@en .

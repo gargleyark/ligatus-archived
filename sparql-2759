@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3300>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4165> ;
+	skos:narrower	<http://w3id.org/lob/concept/3061> ,
+		<http://w3id.org/lob/concept/4103> ,
+		<http://w3id.org/lob/concept/1413> ;
+	skos:prefLabel	"heftbind tredd gjennom perm"@nb ,
+		"lace-attached case bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"teknikk for \u00E5 f\u00F8ye sammen l\u00F8sbind og bokblokk ved at heftbind og evt. endene p\u00E5 kapit\u00E9lb\u00E5nd tres gjennom hull i l\u00F8sbindet "@nb ,
+		"Bindings in which a case-type cover is attached to a sewn bookblock by lacing through it either sewing-support and/or endband slips or secondary tackets. These are usually clearly visible on the outside of the case-cover, though where the attachment has broken down and the slips are broken and lost, it may only be the holes left in the cover that will give evidence of the original attachment."@en .

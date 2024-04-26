@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1337>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1273> ;
+	skos:narrower	<http://w3id.org/lob/concept/1274> ;
+	skos:prefLabel	"flush edges"@en ,
+		"kantsk\u00E5ret bokblokk med omslag/ perm"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The boards and or cover are cut to the same size as the bookblock. This may be done either before the boards or cover are attached to the bookblock, in which case their edges and those of the bookblock will often not line up exactly (especially, as is often the case, where such boards are attached to bookblocks with uncut edges), or their edges may be &#039;cut flush&#039; together with the edges of the bookblock in a single operation. In both cases, the boards will be flush with the bookblock."@en ,
+		"boken beskj\u00E6res samtidig med permene, slik at permenes kanter flukter med bokblokkens kanter, overtrekket kan ha innslag"@nb .

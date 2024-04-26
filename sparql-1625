@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4618>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3866> ;
+	skos:prefLabel	"drab papers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A term used in the early 19th century to describe the engine-coloured papers in dull greens, greys and browns which were then popular."@en .

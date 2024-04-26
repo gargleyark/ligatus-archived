@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2344>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2354> ;
+	skos:narrower	<http://w3id.org/lob/concept/1465> ,
+		<http://w3id.org/lob/concept/1674> ,
+		<http://w3id.org/lob/concept/1421> ,
+		<http://w3id.org/lob/concept/1588> ,
+		<http://w3id.org/lob/concept/1235> ;
+	skos:prefLabel	"gj\u00E6ret hj\u00F8rneinnslag"@nb ,
+		"mitres (cover features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Beskj\u00E6ring av hj\u00F8rneinnslagene i vinkel, som gj\u00F8r det enklere \u00E5 sl\u00E5 inn hj\u00F8rnematerialet b\u00E5de p\u00E5 permer og myke omslag."@nb ,
+		"The trimming at an angle of the ends of the turn-ins of both limp covers and covers over boards to allow them to be turned-in at the outer corners."@en .

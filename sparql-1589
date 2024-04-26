@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4113>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1678> ;
+	skos:prefLabel	"date fields"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The horizontal rectangular panel found below the central panel of many German bindings in which the date of ownership was often tooled. This date may not necessarily be the date of the binding but the date of acquisition by the owner whose initials are found in the initial field."@en .

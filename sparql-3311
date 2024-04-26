@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2955>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1254> ;
+	skos:prefLabel	"locking clasps"@en ;
+	skos:altLabel	"locks"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Metal fastenings in a which a lock worked with a key was incorporated into either the catchplate or the clasp. These were not uncommon on nineteenth-century stationery bindings, but may be found on earlier bindings."@en .

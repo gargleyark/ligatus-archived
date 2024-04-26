@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4423>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2356> ,
+		<http://w3id.org/lob/concept/2346> ;
+	skos:prefLabel	"board holes"@en ,
+		"permhull"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Holes drilled through the thickness of a board to accommodate endband or sewing-support slips when used to attach the boards to a bookblock."@en ,
+		"hull som er boret gjennom permen for \u00E5 gi plass til \u00E5 tre hefthyssing og kapitelb\u00E5ndender igjennom i forbindelse med ansetting (festing) av permene til bokblokken "@nb .

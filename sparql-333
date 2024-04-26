@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1223>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1195> ;
+	skos:prefLabel	"boards-and-cover adhesive case-bindings"@en ,
+		"innhengt l\u00F8sbind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Lavfalset bok som er bundet inn ved at bokblokk og perm er laget hver hver for seg og hengt inn til slutt, en innbindingsform som passer godt til store opplag og blir ofte benyttet p\u00E5 forlagsbind. En type av l\u00F8sbind med tekstilovertrekk ble utviklet p\u00E5 begynnelsen av 1800-tallet og ble etterhvert dominerende. "@nb ,
+		"Bindings with a case-type cover in which two boards and a spine inlay are held together by the primary covering material. This design of case was developed in the early 19th century and became the dominant type used on 19th century cloth-covered adhesive case bindings."@en .

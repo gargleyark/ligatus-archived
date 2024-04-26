@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1567",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1565"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "secondary tackets, loop-type, twisted outside" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Loop tackets in which the tacket is passed from the inside of the binding (either through a gathering, between two gatherings, under the sewing supports on the spine or around the sewing support slips at each joint) to the outside, where the loose ends are twisted together to secure them. This type, the most common form of loop tacket, is found on German, Low Country and Italian bindings throughout the period 1490-1560, but is perhaps more typical of Italian practice from the 1530s onwards. Parchment, alum-tawed skin and cord were all used to make this type of tacket." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1219">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2368" />
+    <skos:prefLabel xml:lang="en">board linings </skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Pieces of sheet material adhered to one or other, or both, surfaces of a board before the book is covered, and either before or after the board is attached to the bookblock. Linings on the inside of the board may have been intended to counteract the tendency of the covering material to pull the board outwards as it shrank on drying, but in other cases the purpose may have been to consolidate or neaten up the board surface. They should not be confused with the sometimes complex linings in white paper adhered to the boards and spines of inboard bindings with raised sewing supports and tight-backs covered in parchment made in the Low Countries in the seventeenth and eighteenth centuries, whose purpose was to brighten the appearance of the thin, rather translucent parchment used on these bindings and disguise the sewing supports, spine linings, etc.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

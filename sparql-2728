@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2927">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1254" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4476" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4478" />
+    <skos:prefLabel xml:lang="nb">krokspenne </skos:prefLabel>
+    <skos:prefLabel xml:lang="en">hooked clasps</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">del av bokspenne, som regel av metall, der enden er bøyd for å kunne hektes i spennens motsatte del </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Metal fittings, the outer end of which is rolled over to form a hook which is more less semi-circular in cross section, the inner end of which is attached to the fore-edge of a book board, by means either of a clasp strap or a hinge. The clasp hooks could be made from cast metal or made out of strips of metal. They can be shaped and decorated in many different ways.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

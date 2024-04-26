@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1506>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2470> ;
+	skos:prefLabel	"plain-weave textiles"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Woven textile using the most basic weaving method, in which each thread passes alternately over and under the threads at right angles to itself."@en .

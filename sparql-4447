@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1615>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1487> ;
+	skos:prefLabel	"rygg og front overtrekk"@nb ,
+		"spine and fore-edge covers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Overtrekksmateriale som bare er montert p\u00E5 bokens rygg og i forkant p\u00E5 permene."@nb ,
+		"A cover in which primary covering material is found on the spine and fore-edges of the boards only. The sides may or may not be covered separately by a cover or decorated paper. Bindings with parchment on the spine and fore-edges were a feature of Oxford bindings in the 18th century, though they will be found more generally with leather in the early 19th century."@en .

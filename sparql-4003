@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1525>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1553> ;
+	skos:prefLabel	"prussian marbling"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A form of stain decoration in which coloured stains were run across the sides of the book from spine to foredge to create irregular horizontal streaks of colour (James Coghlan)."@en ,
+		"A form of stain decoration in which coloured stains were run across the sides of the book from spine to fore-edge to create irregular horizontal streaks of colour (James Coghlan)."@en .

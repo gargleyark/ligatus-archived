@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4013" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3501" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "anpapping etter at overtrekket er montert" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "supplementary board attachment" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "klebing av forsatspapir til bokpermens innside, eventuelt i kombinasjon med heftbind og de delene av ryggf\u00F4ring og/eller kapit\u00E9lb\u00E5nd som stikker utenfor ryggen, etter at permene er dekket av overtrekksmateriale" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The features of board attachment which are created after a book is covered. These will include the extensions of spine linings, stuck-on endband linings and the cover itself, all of which will reinforce an existing primary board attachment. In some cases, such as the extensions of transverse spine linings in the centre of the spine, it may not be possible to tell whether they were adhered before or after covering and therefore whether they are part of a primary or a supplementary board attachment. A board stabiliser, which by definition must be adhered to the board before covering, is therefore part of primary board attachment." , "lang" : "en" } ] }
+}

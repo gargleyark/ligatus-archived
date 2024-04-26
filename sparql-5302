@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4077",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3305"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "springbacks" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "spring-back" , "@language" : "en" } ,
+        { "@value" : "elastic back" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Springbacks were originally made of iron and later of millboard or other hard binder&#039;s board, cut to the height of the boards of the book and of a width that, when curved, would fit across the spine when made of iron and onto the sides of the textblock at least one fourth of an inch on both sides when made of millboard. The purpose of the springback is to cause the book to lie flat when open so as to facilitate its being written in across the spine. The springback acts as a spring, and its pressure on the sides of the book near the spine causes the book to snap open and shut. This technique was invented by the Englishmen John and Joseph Williams in  1799 and has been used ever since in the binding of large blankbooks. " , "@language" : "en" } ] }
+] }

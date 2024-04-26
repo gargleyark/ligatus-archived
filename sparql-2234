@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3541",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2286"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "falsete papirlegg" , "@language" : "nb" } ,
+        { "@value" : "folded gatherings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Gatherings which consist of one or more sheets folded along their spine edges, providing a fold through which they can be sewn. Individual gatherings may also contain tipped plates, guard sheets, single leaves hooked round bifolia with stubs and inserted single leaves, but the structure of each gathering is based on the folded sheets, as supplied by the scribe or printer, which create bibliographical gatherings. Stationery bindings will usually be made up of folded gatherings of blank and sometimes ruled paper." , "@language" : "en" } ,
+        { "@value" : "legg som best\u00E5r av ett eller flere papirark som er brettet, slik at de danner en rygg som legget kan heftes gjennom" , "@language" : "nb" } ] }
+] }

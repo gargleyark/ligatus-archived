@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1715",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2969"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "Zwischgold" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "Zwischengold" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A laminated leaf, resembling gold leaf, was made by placing a thin sheet of gold over a similar sheet of silver (or tin) and hammering the two together. The gold-silver laminate was used instead of gold leaf, but it had the undesirable characteristic of tarnishing, since the thin gold layer cannot protect the silver below, with the result that the metal takes on the colour of oxidised silver (i.e. a dull grey-black colour)." , "@language" : "en" } ] }
+] }

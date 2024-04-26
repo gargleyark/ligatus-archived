@@ -1,0 +1,22 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1353>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/2990> ,
+		<http://w3id.org/lob/concept/2836> ,
+		<http://w3id.org/lob/concept/3374> ,
+		<http://w3id.org/lob/concept/2861> ,
+		<http://w3id.org/lob/concept/3054> ,
+		<http://w3id.org/lob/concept/2866> ,
+		<http://w3id.org/lob/concept/4488> ,
+		<http://w3id.org/lob/concept/1230> ,
+		<http://w3id.org/lob/concept/1552> ,
+		<http://w3id.org/lob/concept/2879> ,
+		<http://w3id.org/lob/concept/3072> ,
+		<http://w3id.org/lob/concept/3056> ,
+		<http://w3id.org/lob/concept/3217> ;
+	skos:prefLabel	"furniture (components)"@en ,
+		"beslag"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"et stykke hardt materiale, som regel av metall (jern, kobberlegering, s\u00F8lv), men ogs\u00E5 av horn, ben eller tre som festes p\u00E5 bindet i den hensikt \u00E5 beskytte mot slitasje"@nb ,
+		"Hardware, most often of metal but including wood and bone, attached to a binding, usually with a protective, but also often decorative, function. The most common types of furniture are bosses, and corner-pieces, but title frames, rubbing strips, shoes and studs are also found. The use of furniture was at its height in the fifteenth century, and reduces rapidly in the sixteenth century, becoming more and more associated with books with a public or religious function."@en .

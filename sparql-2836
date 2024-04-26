@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4531">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4698" />
+    <skos:prefLabel xml:lang="nb">hårsekker</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">hair follicles</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The cylindrical depression in the skin from which a hair grows, extending through the corium to the subcutaneous connective tissue.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">sylindriske hull i skinn der hvorfra hårene gror (hårfollikler)</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

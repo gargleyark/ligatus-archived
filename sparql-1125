@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2862>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2350> ;
+	skos:prefLabel	"compartments"@en ,
+		"felt"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"omr\u00E5der p\u00E5 bokryggens utside som er avdelt av opph\u00F8yde bind eller pregete linjer "@nb ,
+		"Compartments are created by the sub-division of panels on the spines of books. This may be done by means of tooled decoration only or by the division of panels into two parts by half bands and kettle bands, in which case there will be upper and lower compartments, which may be tooled or titled in different ways."@en .

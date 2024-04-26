@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3035>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3311> ;
+	skos:prefLabel	"slip-case chemises"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Separate protective wrappers often used in conjunction with slip-cases to protect elaborately decorated bindings from abrasion when being moved in and out of slip-cases. They often have leather covered spines, and their fore-edges were either folded over the fore-edges onto the inside of the cover of the book they were protecting or were given rigid right-angled extensions that hooked over the fore-edges of books with rigid boards. To avoid confusion with the use of the term chemise for secondary covers on some medieval bindings, it is best to make it clear that these chemises were made for use with slip cases (i.e. slip-case chemises)."@en .

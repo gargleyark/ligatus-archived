@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/4122" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3750" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3643" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3767" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "primary sewing (endband techniques)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "stukket kapit\u00E9lb\u00E5nd" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "foundational sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The process of sewing an endband down into the gatherings of the bookblock with or without a core. Primary endband sewing must by definition be entirely separate from the sewing of the bookblock. Endbands in the medieval period and well into the 16th century in some parts of Europe will be found with tiedowns in every gathering, but increasingly the number of tiedowns was reduced as a form of economy. It is possible to find endbands with only two tiedowns, but these still constitute a primary endband sewing." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kapit\u00E9lb\u00E5nd festet til ryggen ved at tr\u00E5den med jevne mellomrom stikkes ned i bokblokkens legg, slik at det utgj\u00F8r et vesentlig strukturelt element" , "lang" : "nb" } ] }
+}

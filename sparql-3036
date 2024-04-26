@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1404">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2354" />
+    <skos:prefLabel xml:lang="en">joint creases</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A creased or scored line made from the outside of a cover from head to tail, parallel to the spine crease and a short distance from it towards the fore-edges of the cover. They are found on both sides of the cover and were made to assist the easy opening of a case-cover by sharing the hingeing movement required of a cover with the joint crease. A cover opened to 180° with only spine creases will make the cover material hinge through 180° along one narrow line, subjecting the cover to a great deal of stress. By adding joint creases, the movement is shared, with each crease only hingeing through 90°, thus reducing the strain on the cover.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

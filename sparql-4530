@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3225",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rawhide" , "@language" : "en" } ,
+        { "@value" : "r\u00E5hud" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Untanned skin or hide which has had the flesh and hair removed and allowed to dry into a desired shape. It is rendered resistant to putrefaction by liming, stuffing with oils and greases, and sometimes by other preparatory processes. As the name implies, it is not tanned. It is sometimes used for lacings or trimmings, of books, but it is far too stiff and intractable to use as a covering material." , "@language" : "en" } ,
+        { "@value" : "ugarvet, skinn eller hud der kj\u00F8tt og h\u00E5r er fjernet " , "@language" : "nb" } ] }
+] }

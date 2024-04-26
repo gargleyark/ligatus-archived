@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1676" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1678" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "preget midtdekorasjon" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "tooled centres (decoration)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "middlepieces" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The term used by Humfrey Wanley to describe the large central ornaments of the boards of some bindings made for Edward Harley, Earl of Oxford, which were created by small tools." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "st\u00F8rre midtornament utf\u00F8rt med flere mindre h\u00E5ndpregeverkt\u00F8y  " , "lang" : "nb" } ] }
+}

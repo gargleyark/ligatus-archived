@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1437">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1551" />
+    <skos:prefLabel xml:lang="en">medium round spines</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">middels rund rygg </skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Spines whose shape approximates to a fourth of a circle (standard curve +4 in Szirmai, see figure 7.33 a, p. 134).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Bokrygg hvis form er rundet til ca. 1/4 av av en sirkel.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

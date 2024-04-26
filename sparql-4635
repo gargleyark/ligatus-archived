@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4670>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4682> ;
+	skos:prefLabel	"relieff-trykkplater"@nb ,
+		"relief printing plates"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"trykkplater sk\u00E5ret i relieff der m\u00F8nsteret presses inn i materialoverflaten  "@nb ,
+		"Printing plates, cut in relief, in which the design is impressed into the printing surface. Relief printing plates are either positive or negative depending on whether they are printing the design or the background to the design."@en .

@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2404>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:narrower	<http://w3id.org/lob/concept/2406> ,
+		<http://w3id.org/lob/concept/4107> ,
+		<http://w3id.org/lob/concept/2414> ,
+		<http://w3id.org/lob/concept/2416> ,
+		<http://w3id.org/lob/concept/2418> ,
+		<http://w3id.org/lob/concept/2420> ;
+	skos:prefLabel	"metal"@en ,
+		"metall"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"fast stoff av en gruppe som teller de fleste grunnstoffene, med formbarhet, glans og ledningsevne som typiske egenskaper "@nb ,
+		"Any of a large group of substances that typically show a characteristic luster, are good conductors of electricity and heat, are opaque, can be fused, and are usually malleable or ductile."@en .

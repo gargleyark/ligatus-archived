@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/2474" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3129" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1505" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1297" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1430" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1554" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1439" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2970" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1670" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1714" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "thread" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tr\u00E5d" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Single filaments of fibre, groups of such filaments twisted tightly together, or filamentous lengths formed by spinning and twisting short fibres into a continuous strand." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Tr\u00E5d til hefting er som regel laget av hampefibre som er tvunnet hardt sammen." , "lang" : "nb" } ] }
+}

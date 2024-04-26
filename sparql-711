@@ -1,0 +1,23 @@
+{
+  "http://w3id.org/lob/concept/3990" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4641" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4643" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4645" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4647" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4649" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4651" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4653" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4655" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4657" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4659" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4661" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4663" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4665" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bakkemarmorert papir" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "trough-marbled paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "water marbling" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Paper decorated by trough-marbling, which involves a transfer of colours floating on the surface of a liquid in a trough to the paper." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Dekoreringsteknikk der m\u00F8nsteret ikke dannes direkte p\u00E5 papiret, men p\u00E5 en flytende marmoreringsgrund - ved \u00E5 legge papiret p\u00E5 grunden overf\u00F8res m\u00F8nsteret til papiret." , "lang" : "nb" } ] }
+}

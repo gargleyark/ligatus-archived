@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1207>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:prefLabel	"beating"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of flattening and consolidating the leaves or gatherings of a printed book before sewing by beating them with a heavy hammer. Beating the gatherings of books only became necessary after the invension of printing to correct the distortion of the leaves caused by the process of printing in type on damp paper."@en .

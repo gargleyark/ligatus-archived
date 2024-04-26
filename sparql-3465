@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1436" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1658" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1369" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "morocco" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "marokin" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "geiteskinn fra Marokko " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Skins used in England in the 18th century taken from hairsheep and of inferior quality to turkey leather. By the end of the eighteenth century, the English term morocco began to be applied to the same sumac-tanned African goatskins as had been called turkey leather up to that point, and this is now the modern usage. The confusion resulting from this can be reduced either by using the French word for the skins used in France (maroquin) or qualifying the word morocco as French morocco. The terminological distinction between Turkey leather and Lord Harley&#039;s (i.e. hairsheep) morocco is as complex as identifying the skins can often be, especially as so many bindings described as &#039;morocco bindings&#039; in library and booksellers&#039; catalogues from the nineteenth century onwards may or may not actually be covered in goatskin." , "lang" : "en" } ] }
+}

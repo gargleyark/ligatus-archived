@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1412>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1242> ;
+	skos:narrower	<http://w3id.org/lob/concept/4392> ,
+		<http://w3id.org/lob/concept/3309> ,
+		<http://w3id.org/lob/concept/4393> ;
+	skos:prefLabel	"lace-attached cases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A case which is attached to a bookblock by means of lacing either sewing support and/or endband slips or secondary tackets through the cover."@en .

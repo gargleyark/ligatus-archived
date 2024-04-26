@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4095">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4089" />
+    <skos:prefLabel xml:lang="en">oversize</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A term used to describe books or components of books that are unusually large either in themselves or in relation to the books on or in which they are found. An oversize book is therefore one that is exceptionally large, and usually so-called because it will not fit into standard shelving. In relation to a bookblock, oversize describes endleaves, inserted interleaving, boards and drawn-on covers which are noticeably larger in height and/or width than the textblock. In relation to raised bands on the spines of bindings, oversize describes the unrealistically broad false raise bands popular in the first quarter of the nineteenth century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

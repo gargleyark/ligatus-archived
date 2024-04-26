@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4065>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:prefLabel	"sawing"@en ,
+		"saging"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of cutting wood by means of a saw, either by hand or mechanically."@en ,
+		"prosess der et stykke tre deles ved hjelp av en sag enten for h\u00E5nd eller mekanisk"@nb .

@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2422>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:narrower	<http://w3id.org/lob/concept/1366> ,
+		<http://w3id.org/lob/concept/1489> ,
+		<http://w3id.org/lob/concept/1364> ;
+	skos:prefLabel	"adhesives"@en ,
+		"klebemiddel"@nb ,
+		"adesivi"@it ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Substances, in the form of a liquid, paste, powder, or dry film; used for sticking or adhering one surface to another. Substances capable of holding materials together by a surface attachment."@en ,
+		"middel til \u00E5 klebe noe fast med "@nb ,
+		"Sostanze in forma liquida, pasta, polvere oppure film secco; utilizzati per fare aderire una supeficie all&#039;altra. Sostanze capaci di unire insieme materiali attraverso una supeficie di contatto."@it .

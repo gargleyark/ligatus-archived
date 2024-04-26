@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1517",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1648"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1520"} ,
+        { "@id": "http://w3id.org/lob/concept/1521"} ,
+        { "@id": "http://w3id.org/lob/concept/1518"} ,
+        { "@id": "http://w3id.org/lob/concept/1519"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "primary stitching" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The stitching which holds the leaves and gatherings of a bookblock together, as opposed to secondary stitching which was used to attach a cover to a primary-stitched bookblock." , "@language" : "en" } ] }
+] }

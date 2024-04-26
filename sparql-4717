@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1571" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2366" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "select lacing" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "selektiv permtreing" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "For \u00E5 spare tid tres bare noen av heftbindene gjennom permen n\u00E5r den skal festes til bokblokken. De ubenyttede heftbindene ble som regel kuttet av inntil falsen.\r\n\r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The use of only some of the sewing support slips to attach boards or a lace-case cover to a bookblock. This was done as an economy and can be found as early as the last quarter of the fifteenth century. The unlaced slips would most often be cut off at the joints." , "lang" : "en" } ] }
+}

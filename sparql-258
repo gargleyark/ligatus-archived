@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1186">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2277" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4682" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3548" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1224" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4914" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1293" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3535" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1328" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3543" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1329" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3179" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1184" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4009" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4000" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3874" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3084" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1281" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4775" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3581" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4059" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4954" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4767" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1689" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4496" />
+    <skos:prefLabel xml:lang="en">tools and equipment</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">stempel</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">pregeverktøy til å lage avtrykk med   </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The tools and equipment used in the processes of hand-bookbinding, decorating paper, woodworking, etc.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

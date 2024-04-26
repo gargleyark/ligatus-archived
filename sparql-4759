@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1588>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2344> ;
+	skos:prefLabel	"sewn mitres"@en ;
+	skos:altLabel	"sewn corners"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A corner treatment in which the two edges of a butt mitre are sewn together. This technique has been recorded on some Romanesque bindings (Clarkson &quot;English monastic&quot; 1993, p. 195; Szirmai &quot;Archaeology&quot; 1999, Fig. 8.18, p.163)."@en .

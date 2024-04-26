@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3855>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:narrower	<http://w3id.org/lob/concept/3958> ,
+		<http://w3id.org/lob/concept/4126> ;
+	skos:prefLabel	"solid-coloured paper"@en ,
+		"gjennomfarget papir"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"papir som er p\u00E5f\u00F8rt en farge slik at hele arket er gjennomtrukket av fargen"@nb ,
+		"Paper entirely covered or impregnated with one colour only. The different techniques used to create it can often be identified by looking for the visible traces left by the tools used to apply the colour (e.g. brushes), the finish of the surface (e.g. glossy or matt) or by looking at the other side of the paper (if accessible), which may reveal how the colour was applied."@en .

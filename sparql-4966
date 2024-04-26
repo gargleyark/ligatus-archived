@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2921",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3746"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "single-station sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sewing each sewing support individually across the spine with no thread-link between the supports and no separate change-over stations. This early medieval technique is seldom encountered, but shows in the centre fold of each gathering as a series of short lengths of thread one behind each sewing support. One type of single-station sewing has been described by Christopher Clarkson, who called it &#039;helical&#039; sewing (Clarkson, C., 1993. English Monastic Bookbinding in the 12th Century. In M. Maniaci &amp; P. F. Munaf\u00F2, eds. Studi e testi. Citt\u00E0 del Vaticano: Biblioteca Apostolica Vaticana, p.185)." , "@language" : "en" } ] }
+] }

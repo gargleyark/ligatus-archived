@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3000>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2954> ;
+	skos:prefLabel	"raised-lip catchplates"@en ;
+	skos:altLabel	"roll (catch plates)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pieces of flat metal, usually copper alloy, with one end rolled or bent back to make a raised lip that projects slightly beyond the edges of the boards were a common feature of Italian bindings from the middle ages through to at least the seventeenth century. The earlier ones were nailed to the surface of the board over the covering material, but later ones might be found inserted under the covering material. The earlier type was often decorated with punched, stamped and embossed decoration. Raised-lip catchplates and clasps project above the surface of the board and were designed for books kept horizontally on shelves or sloping lectern-like shelves."@en .

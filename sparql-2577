@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1386" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2480" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2830" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2976" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hardwood " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "l\u00F8vtre" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Fellesbetegnelse p\u00E5 tofr\u00F8bladede tr\u00E6r med flate, tynne blad. Til permer ble som regel trevirke av b\u00F8k og eik benyttet, selvom alm og kastanje ogs\u00E5 forekommer." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Wood produced from broad-leaved deciduous trees, varying widely in color and grain pattern; usually but not always harder than softwood. The examples that are most likely to be used as book boards on western European bindings are beech and oak, though other hardwoods can be found such as elm and chestnut." , "lang" : "en" } ] }
+}

@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3183" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3975" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4779" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "trykking" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "printing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "teknikk for \u00E5 lage identiske kopier av tekst eller bilder p\u00E5 en matrise som overf\u00F8res til et materiale  gjennom trykk " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Various means of reproducing identical copies of graphic matter in a fixed form. Processes by which an image, pictorial or textual, is transferred, usually to paper or cloth, most often by means of a plate, block, stone, or screen." , "lang" : "en" } ] }
+}

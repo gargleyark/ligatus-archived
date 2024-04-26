@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1523">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1535" />
+    <skos:prefLabel xml:lang="nb">trykkmakulatur</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">printed waste</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">kassert materiale innen den grafiske produksjonen </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Whole or part sheets of printed material which were used in the construction of a binding. Spoiled printed sheets and unsold sheets from a printer&amp;#039;s or bookseller&amp;#039;s warehouse supplied most of this category of material, and its source may sometimes give clues as to the location and even identify the binder who used it.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

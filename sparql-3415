@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4585>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2470> ;
+	skos:prefLabel	"lin"@nb ,
+		"linen"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"linbast spunnet til tr\u00E5d og garn"@nb ,
+		"General name for textile woven from the spun fibre of the flax plant or the material used to spin threads (i.e. linen thread)."@en .

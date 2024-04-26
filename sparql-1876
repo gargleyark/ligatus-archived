@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3637",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3299"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "forsatsblad, type" , "@language" : "nb" } ,
+        { "@value" : "endleaf formats" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The different arrangements of the elements of endleaves as combined to make the endleaves found on each side of the bookblock. There is a large number of standard formats which can be found on books of all ages and countries." , "@language" : "en" } ,
+        { "@value" : "utforming av forsatsen finnes i et stort antall standarder til alle tider og i alle land " , "@language" : "nb" } ] }
+] }

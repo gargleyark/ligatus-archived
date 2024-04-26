@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4604>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1244> ;
+	skos:prefLabel	"hole-type catchplates"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Catchplates with one or more holes into which hooked clasps can be inserted. Hole-type catchplates with three holes in them are frequently associated with almanac bindings containing pockets inside the boards and with envelope flaps, for which an adjustable fastening is necessary, to allow for the quantity of material inserted into the pockets."@en .

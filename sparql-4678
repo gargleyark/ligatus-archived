@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1558",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2350"} ,
+        { "@id": "http://w3id.org/lob/concept/3235"} ,
+        { "@id": "http://w3id.org/lob/concept/1537"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sawn-in recesses" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "saw-cuts" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Recesses created by a saw on the spine of the bookblock either to accomodate recessed sewing supports or as adhesive recesses to allow the adhesive on the spine to reach the inner bifolia of each gathering." , "@language" : "en" } ] }
+] }

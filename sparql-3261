@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2938" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3347" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "laid lines" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The impression left by the wire and chain lines in sheets of paper made on laid paper moulds. The appearance of handmade laid paper may be imitated by using a dandy roll to transfer a similar pattern to paper that has already been made." , "lang" : "en" } ] }
+}

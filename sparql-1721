@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1318>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1417> ;
+	skos:prefLabel	"entry lacing-holes"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Holes in a cover or board through which a slip is laced from the outside to the inside for the first time. This will be the first lacing hole in a board and the second lacing hole in a laced-case cover."@en .

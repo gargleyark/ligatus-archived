@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3001" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3367" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "reversed tab and slot" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Fastening for parchment envelope flaps in which a reversed triangular tab is cut in the fore-edge flap (so that the apex of the triangle points away from the edge of the flap) and fastens into a slot cut into the opposite side of the cover." , "lang" : "en" } ] }
+}

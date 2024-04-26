@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/1578" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3235" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2356" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2519" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2521" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "heftehull" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "sewing holes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "hull i ryggen p\u00E5 legg som viser hvor n\u00E5l og heftetr\u00E5den g\u00E5r eller har g\u00E5tt" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Holes made in the spine-folds of gatherings in order for them to be sewn." , "lang" : "en" } ] }
+}

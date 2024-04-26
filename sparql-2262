@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4029",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4011"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "skaving av hefthyssing" , "@language" : "nb" } ,
+        { "@value" : "fraying and pasting slips" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The process of untwisting a cord slip, scraping it against the blade of a knife and fraying it out prior to pasting to the inside or outside of a board." , "@language" : "en" } ,
+        { "@value" : "Skaving av den delen av heftehyssingen som stikker utover ryggen p\u00E5 bokblokken med baksiden av en kniv mot skavblikk, slik at den kan formes til en fane/vifteform f\u00F8r den klebes til permens innside eller utside. Dette gj\u00F8res for \u00E5 jevne ut hyssingen og for \u00E5 unng\u00E5 at den synes gjennom overtrekket." , "@language" : "nb" } ] }
+] }

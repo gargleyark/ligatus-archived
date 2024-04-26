@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/1551" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2352" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1550" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1389" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1572" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1604" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1437" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rounded spines" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "rundet rygg" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "ryggen rundes for \u00E5 utligne \u00F8kning i ryggens tykkelse som oppst\u00E5r p.g.a. heftetr\u00E5den " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Spines that have been rounded, usually as the result of accomodating the swelling created by the sewing thread in the spine of the bookblock." , "lang" : "en" } ] }
+}

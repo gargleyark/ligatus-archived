@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1366>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2422> ;
+	skos:prefLabel	"glue"@en ,
+		"animalsk lim"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"An impure protein obtained by hydrolysis of collagenous material such as skin, bone, and connective tissue by various methods. The word glued should not be used where the adhesive referred to is a starch-based paste. If the origin of the adhesive is unclear the word &#039;adhesive&#039; only should be used."@en ,
+		"lim kokt p\u00E5 hud og ben fra dyr "@nb .

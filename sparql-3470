@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1437",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1551"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "medium round spines" , "@language" : "en" } ,
+        { "@value" : "middels rund rygg " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Spines whose shape approximates to a fourth of a circle (standard curve +4 in Szirmai, see figure 7.33 a, p. 134)." , "@language" : "en" } ,
+        { "@value" : "Bokrygg hvis form er rundet til ca. 1/4 av av en sirkel." , "@language" : "nb" } ] }
+] }

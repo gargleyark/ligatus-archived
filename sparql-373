@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1236>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3299> ;
+	skos:prefLabel	"bypass pattern"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The order in which sewing stations are bypassed when a book is sewn. These will normally form regular repeating patterns, but may occasionally appear to be quite random. It is possible for binders on occasion to bypass a sewing station by accident, in which there can be no pattern."@en .

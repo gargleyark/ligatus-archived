@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3975" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3183" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3941" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "intaglio printing" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dyptrykk" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "trykkemetode hvor det som skal trykkes, blir gravert eller etset inn i en plate, og hvor fargen ligger i fordypningene  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Printing process in which the image is printed from ink held in the recessed areas of the plate or block, which have been engraved or etched away.\r\n\r\n" , "lang" : "en" } ] }
+}

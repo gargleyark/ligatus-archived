@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1459>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1191> ;
+	skos:prefLabel	"one-piece adhesive cases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A case attached to a bookblock by adhesive only and which consists of a single piece of sheet material only."@en .

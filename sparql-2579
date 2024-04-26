@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1386>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2480> ;
+	skos:narrower	<http://w3id.org/lob/concept/2830> ,
+		<http://w3id.org/lob/concept/2976> ;
+	skos:prefLabel	"hardwood "@en ,
+		"l\u00F8vtre"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fellesbetegnelse p\u00E5 tofr\u00F8bladede tr\u00E6r med flate, tynne blad. Til permer ble som regel trevirke av b\u00F8k og eik benyttet, selvom alm og kastanje ogs\u00E5 forekommer."@nb ,
+		"Wood produced from broad-leaved deciduous trees, varying widely in color and grain pattern; usually but not always harder than softwood. The examples that are most likely to be used as book boards on western European bindings are beech and oak, though other hardwoods can be found such as elm and chestnut."@en .

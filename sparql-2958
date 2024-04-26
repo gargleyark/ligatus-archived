@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3423",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "illuminat\u00F8r" , "@language" : "nb" } ,
+        { "@value" : "illuminators" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Artists who paint or draw pictures or other decorative forms in both manuscripts and printed books." , "@language" : "en" } ,
+        { "@value" : "kunstner som utsmykker manuskripter og trykte b\u00F8ker av pergament med malte dekorasjoner og bokmalerier, gjerne gullforgylte " , "@language" : "nb" } ] }
+] }

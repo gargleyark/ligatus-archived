@@ -1,0 +1,17 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3407",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3235"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1556"} ,
+        { "@id": "http://w3id.org/lob/concept/4620"} ,
+        { "@id": "http://w3id.org/lob/concept/1220"} ,
+        { "@id": "http://w3id.org/lob/concept/1493"} ,
+        { "@id": "http://w3id.org/lob/concept/1701"} ,
+        { "@id": "http://w3id.org/lob/concept/4043"} ,
+        { "@id": "http://w3id.org/lob/concept/1346"} ,
+        { "@id": "http://w3id.org/lob/concept/2863"} ,
+        { "@id": "http://w3id.org/lob/concept/1398"} ,
+        { "@id": "http://w3id.org/lob/concept/1432"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "endleaves (features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

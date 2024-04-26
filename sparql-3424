@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/5436">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1425" />
+    <skos:prefLabel xml:lang="en">linking stitch</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A technique in which a length of thread is wound across the spine of the book a) around the individual tiedowns or groups of tiedowns of an endband or b) the sets of thread of a longstitch binding after the sewing was completed. It could be done with the end of the thread with which an endband was sewn, either just below the core or at the point where the tiedowns emerge from the spine, often at the height of the changeover station. Linking stitches on longstitch sets can be found at one or both ends of each set, but only one end of one set can be sewn with the thread used to sew the book. The other, or often both, linking stitches will be sewn in a variety of styles with separate lengths of thread.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

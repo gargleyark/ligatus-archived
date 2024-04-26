@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3003" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2837" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "vedhengte bokmerker" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "ribbon markers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bokmerker, f. eks. silkeb\u00E5nd, som er festet til bokblokkens \u00F8vre kant" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Narrow strips, often made of silk, used as a bookmark. Ribbon bookmarks could be used singly or in multiples, the latter being common on bound liturgical works. They were most often attached to the book by being adhered to the head of the spine and brought out under the endband, if there was one. Ribbon markers can also be found attached by other means, such as pierced through the covering material, tied round the endband, etc., though these will often be later additions made by the owners of the books." , "lang" : "en" } ] }
+}

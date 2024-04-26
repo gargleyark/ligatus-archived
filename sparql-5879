@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4561>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1667> ;
+	skos:prefLabel	"tying up at raised bands (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Tying up with one or two turns of cord on each side of each raised band (depending on the thickness and toughness of the skin), and sometimes, particularly on German bindings of the late fifteenth and early sixteenth centuries, across the centre of each raised band. Kettlebands and halfbands were frequently tied up in the same way."@en .

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3521" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1222" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "double boards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Two independently covered boards adhered together, of which the inner, or primary board is usually attached to the bookblock and edged with leather, and the outer, or secondary board covered fully in tanned skin is then adhered to it. Double boards have been recorded on some Coptic bindings (Szirmai, 1999, p. 35-37), but they are also occasionally found in later centuries on elaborately decorated bindings with sunk panels created by cut-outs in the secondary boards." , "lang" : "en" } ] }
+}

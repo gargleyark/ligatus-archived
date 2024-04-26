@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1220">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3407" />
+    <skos:prefLabel xml:lang="nb">ansetningsfals</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">board stabilisers </skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A guard, endleaf stub or a whole leaf adhered to the inside of a board that was already attached to the bookblock by means of the sewing support slips before the book was covered. The purpose of this would appear to have been to stabilise the boards before covering, to make sure that they did not shift up or down the joints (a certain amount of movement is possible in most laced-on boards) during the covering process, or to stabilise the joints of books bound in boards without covers.If the same technique is used when the boards are not already attached to a bookblock, it becomes itself the primary board attachment (see board attachment: endleaf attachment and spine lining attachment).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">forsterkning som danner den innvendige forbindelsen mellom bokblokk og perm  </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

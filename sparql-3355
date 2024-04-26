@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3309>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1412> ;
+	skos:prefLabel	"laced-and-tacketed cases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Cases which are attached to the bookblock either by lacing the endband slips and tacketing the sewing supports or lacing the sewing support slips and tacketing the endbands."@en .

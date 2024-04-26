@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4579" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3458" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "marg" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "margins" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "flate som omgir en typografisk oppstilling og som avgrenses av formatet  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Areas of a page between the printed, written, or illustrative matter (text area) and the edges of the leaf. The four margins are usually called the &#039;head&#039; (or top); &#039;fore-edge&#039; (or outer, outside, side); &#039;tail&#039; (or bottom foot); and &#039;inner&#039; (or gutter)." , "lang" : "en" } ] }
+}

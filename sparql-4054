@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2980",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3458"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sider" , "@language" : "nb" } ,
+        { "@value" : "pages" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The individual left and right sides of a leaf, often known as recto or verso or described as a and b sides, and numbered separately in books that are paginated." , "@language" : "en" } ,
+        { "@value" : "Den venstre eller h\u00F8yre siden av et blad, ofte kalt recto og verso side eller a og b side, som er nummerert med hvert sitt sidetall i en bok som er paginert." , "@language" : "nb" } ] }
+] }

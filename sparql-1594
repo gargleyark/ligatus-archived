@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4320">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1285" />
+    <skos:prefLabel xml:lang="en">dabbed paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper in which colours are directly applied in discrete applications on a white or previously coloured sheet, by repeatedly dabbing or pressing a tool, or any object, dipped in colour onto it, in order to produce an irregular design. Some of these papers were decorated with what appears to have been small pieces of natural sponge (sponge-decorating) dipped in colour and dabbed over the surface of the paper. One or more colours might be used, and the process might conform to a rough pattern or be completely random.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

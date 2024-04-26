@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1235>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2344> ;
+	skos:prefLabel	"butt mitres"@en ,
+		"gj\u00E6ret hj\u00F8rneinnslag uten overlapping"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Gj\u00E6ret hj\u00F8rneinnslag der de to rett avsk\u00E5rne kantene m\u00F8tes kant i kant uten \u00E5 overlappe hverandre."@nb ,
+		"Mitred corners in which the two cut edges meet edge to edge and do not overlap."@en .

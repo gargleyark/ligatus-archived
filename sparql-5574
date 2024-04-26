@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1673",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3154"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "title labels" , "@language" : "en" } ,
+        { "@value" : "titteletikett" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "etikett med (en forkortet versjon av) tittel p\u00E5 boken  " , "@language" : "nb" } ,
+        { "@value" : "A small piece of sheet material most often either paper, parchment or tanned skin, adhered to a bound book, bearing a title which may be in manuscript, printed or tooled. Most often title labels will be found on the spine or one or other of the sides of the cover, but they can also be found as strips of paper or parchment adhered to the inside of one or other cover to be stretched across the fore-edge of a book shelved fore-edge outwards. In England in the late seventeenth and eighteenth centuries, title labels often took the form of pieces of paper adhered to the fore-edge of a leaf towards the centre of the book and folded over the edge." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4958>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:prefLabel	"garving"@nb ,
+		"tanning"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"irreversible prosesser for \u00E5 omdanne r\u00E5 huder til skinn ved hjelp av  garvestoffer   "@nb ,
+		"An irreversible process of treating hides or skins with tannins to produce leather. Distinct from alum-tawing which is reversable by washing."@en .

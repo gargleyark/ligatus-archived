@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2951" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2362" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2952" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2953" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1249" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "linked sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "herringbone sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A type of sewing in which the sewing thread, as it emerges from a gathering at a sewing station between the two elements of a raised double sewing support is taken down round the back of the support to pick up the sewing of one or more previous gatherings before returning through the same sewing station. Linked sewing was also used in unsupported structures to form a chainstitch structure." , "lang" : "en" } ] }
+}

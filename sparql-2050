@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1407">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2342" />
+    <skos:prefLabel xml:lang="nb">falske festbind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">kettlebands</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The raised bands originally created by the kettle-stitches at the head and tail of the spine of the book, but often, in fact, created over lengths of cord or leather as part of the design of the spine, as false kettlebands, where the actual kettlestitches were not in an aesthetically pleasing position. </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Falske bind plassert øverst og nederst på ryggen der hvor festbindene normalt befinner seg som en del av bokryggens design.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

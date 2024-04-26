@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3092>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3347> ;
+	skos:prefLabel	"vannmerker"@nb ,
+		"watermarks"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Designs or devices incorporated into western paper as it is made by sewing thin wires to paper moulds which create thinner lines in the paper visible through transmitted light. They are often used to give the name or mark of the manufacturer and later sometimes the date of the paper&#039;s manufacture. Watermarks were used from the 13th century onwards."@en ,
+		"figurer, bokstaver eller tall b\u00F8yet til av metalltr\u00E5der og sydd fast eller loddet til papirformen"@nb .

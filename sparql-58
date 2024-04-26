@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2293">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3167" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2484" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2337" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1368" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1503" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1545" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3225" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2290" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4079" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2428" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2430" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1197" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2930" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1658" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4900" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1590" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4099" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3820" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1238" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3582" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1485" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4522" />
+    <skos:prefLabel xml:lang="en">animal skin</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">skinn</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The skins of animals such as sheep, calves, or goats, separated from the body, with or without hair, whether green, dry, tanned, or dressed. For the skin of large animals use &amp;quot;hide&amp;quot;. For tanned skin, use &amp;quot;leather&amp;quot;. For dried and stretched skin, use &amp;quot;parchment&amp;quot;.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">hud fra dyr som får, kalv eller geit som kan behandles gjennom ulike garvings- og konserveringsprosesser, slik at det unngår forråtnelse samtidig som det bevarer sin naturlige styrke, smidighet og bøylighet </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3641>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3167> ;
+	skos:prefLabel	"gut"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Processed intestine of the sort used for making strings for musical instruments, but used in bindings for subsidiary endband cores, primary tackets, etc."@en .

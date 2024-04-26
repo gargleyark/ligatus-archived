@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1621">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2350" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1307" />
+    <skos:prefLabel xml:lang="en">spine panels</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">ryggfelt </skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The areas of the spine which lie between the sewing supports and at the head and tail of the spine. Where there are kettle- or halfbands, panels will be divided into half panels for the purpose of describing what may be found in them by way of decoration, etc. The word compartment has also been used to describe these areas of the spine.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">områder på ryggen som ligger mellom heftbindene og ryggens hode og fot</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

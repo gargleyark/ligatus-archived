@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3325",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3271"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "back beads" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "reversing twist" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The beads created by a primary sewing worked with a single thread with a back bead. To form the bead, the external tiedown is brought over the top of the endband core and the needle is then pushed under the core between that tiedown and the previous one; the needle is then brought around the back of the tiedown, returned under the core to the front of the endband, and pulled tight. This locks the thread around the tiedown and secures the endband core firmly to the back corner of the bookblock to which it has been sewn. Alternative methods of working an endband with a back bead are given in Giuffrida (1982) and Greenfield and Hille (1990) which use both ends of a single thread. It is not clear whether these types have historical precedents (Szirmai, 1999). Back beads are a typical feature of Italian bindings on printed books, and survive in that country in common use until the end of the sixteenth century and are still to be found well into the next century. They will also be found on Spanish bindings until the end of the eighteenth century. They do not appear to have been in common use on northern-European printed books after the early sixteenth century." , "@language" : "en" } ] }
+] }

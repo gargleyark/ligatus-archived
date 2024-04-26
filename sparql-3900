@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1494">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1619" />
+    <skos:prefLabel xml:lang="en">patch spine linings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A piece of sheet material cut or torn to an irregular shape which does not fill the panel to which it is adhered. Panel linings have only been recorded on British bindings of the late seventeenth and early eighteenth centuries. They seem only to have been used on thicker volumes, and thinner volumes, even within a multi-volume set, will often not have linings.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1244">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3273" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2831" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4397" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4399" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2827" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4604" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4606" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2954" />
+    <skos:prefLabel xml:lang="nb">bokspennebeslag</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">catchplates</skos:prefLabel>
+    <skos:altLabel xml:lang="en">catch plate</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Fittings, usually in metal, mounted on the surface of a board, either under or over the covering material, and fitted with a slot, hole or pin in or on to which a clasp or ring can be secured. Pins are also found on their own as edge pins and side pins, which are not part of a larger fitting.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Del av lukkemekanisme, som regel i metall, montert på siden av permen enten over eller under overtrekksmaterialet og som er utstyrt med en spalte, hull eller tapp til hvilken en krok eller ring kan hektes på.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

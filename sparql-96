@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3299",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1236"} ,
+        { "@id": "http://w3id.org/lob/concept/4075"} ,
+        { "@id": "http://w3id.org/lob/concept/4539"} ,
+        { "@id": "http://w3id.org/lob/concept/3791"} ,
+        { "@id": "http://w3id.org/lob/concept/3637"} ,
+        { "@id": "http://w3id.org/lob/concept/1388"} ,
+        { "@id": "http://w3id.org/lob/concept/4089"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "attributes" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The patterns or characteristics evident in different parts of the construction and components of a book." , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

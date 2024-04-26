@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/2422" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1366" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1489" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1364" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "adhesives" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "klebemiddel" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "adesivi" , "lang" : "it" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Substances, in the form of a liquid, paste, powder, or dry film; used for sticking or adhering one surface to another. Substances capable of holding materials together by a surface attachment." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "middel til \u00E5 klebe noe fast med " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Sostanze in forma liquida, pasta, polvere oppure film secco; utilizzati per fare aderire una supeficie all&#039;altra. Sostanze capaci di unire insieme materiali attraverso una supeficie di contatto." , "lang" : "it" } ] }
+}

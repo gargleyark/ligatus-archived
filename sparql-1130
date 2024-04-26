@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2864">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2893" />
+    <skos:prefLabel xml:lang="en">cord and button fastenings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Fastenings in which a disk-shaped piece of parchment, thick leather or other rigid or semi-rigid material (the button) is attached to the spine or side of a cover and around which a thin cord attached to a fore-edge flap can be wound to hold the flap in place.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

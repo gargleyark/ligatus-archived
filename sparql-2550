@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4891",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3988"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "gustavmarmorert papir" , "@language" : "nb" } ,
+        { "@value" : "Gustav sprinkled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "dekorert papir med sprengt m\u00F8nster kjennetegnet ved sm\u00E5, tette, m\u00F8rke flekker med m\u00F8rkere kanter p\u00E5 kraftig farget papir" , "@language" : "nb" } ,
+        { "@value" : "Paper produced by sprinkling colours and not by trough-marbling. It was very popular in the 19th century in Germany and was classified as a marbled paper. It is characterized by heavy, small, dark spots with a darker outer rim on a bright-colored background." , "@language" : "en" } ] }
+] }

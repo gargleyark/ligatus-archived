@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1227",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1278"} ,
+        { "@id": "http://w3id.org/lob/concept/1279"} ,
+        { "@id": "http://w3id.org/lob/concept/1276"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bookblocks" , "@language" : "en" } ,
+        { "@value" : "bokblokk " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "All the leaves bound together in a single volume and enclosed within a single binding. Bookblocks will normally consist of a textblock (including inserted plates, maps, tables etc.) with interleaving (where present) and separate endleaves. Even if there are no endleaves or other inserted material, the term bookblock can still be used to describe all the leaves within a single binding, as in these cases the textblock is also the bookblock. The word textblock describes all the printed or written leaves whether they are bound or not, and can be used to differentiate the written or printed leaves from the endleaves within a bookblock where this is necessary." , "@language" : "en" } ,
+        { "@value" : "heftet eller klebet bok uten bind " , "@language" : "nb" } ] }
+] }

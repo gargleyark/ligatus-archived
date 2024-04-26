@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1382">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1487" />
+    <skos:prefLabel xml:lang="nb">halvbind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">half covers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">benevnelse på bind der rygg og hjørner har et annet overtrekksmateriale enn permene</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A part cover in which the spine and the back edge of the boards are covered in one material and the outer corners of the boards are covered with pieces of either the same or a different material.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

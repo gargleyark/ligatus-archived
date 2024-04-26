@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1405" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2270" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3256" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1397" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "joints (places)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The area along the edges of the spine along which the boards and/or cover hinge. It is sometimes useful to distinguish between the outer joint, which describes the cover on the outside of the boards/cover, and the inner joint, which can be used to describe those parts of the endleaves and spine linings which cross the joint on the inside of the board/cover." , "lang" : "en" } ] }
+}

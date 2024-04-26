@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3291>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1651> ;
+	skos:prefLabel	"asymmetrical three-line tools"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A three-line tool in which two lines are placed close to each other with a third line placed at a greater distance. Asymmetrical three-line tools became popular became popular in the 16th century and continued to be used thereafter."@en .

@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2274>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/3246> ,
+		<http://w3id.org/lob/concept/3248> ,
+		<http://w3id.org/lob/concept/1464> ,
+		<http://w3id.org/lob/concept/3230> ;
+	skos:prefLabel	"joints (features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Joints define those parts of all the components of a binding which cross from the sides of a binding to its spine, and allow the binding to open and the book to be read. These components include the cover, the sewing supports slips, the endband slips, the stuck-on endband lining extensions, the spine lining extensions, and any components of the endleaves such as the strips of leather and cloth known confusingly also as joints which cross the joints of the binding to be adhered to the inside of the boards and/or cover."@en .

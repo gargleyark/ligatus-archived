@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3637>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3299> ;
+	skos:prefLabel	"forsatsblad, type"@nb ,
+		"endleaf formats"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The different arrangements of the elements of endleaves as combined to make the endleaves found on each side of the bookblock. There is a large number of standard formats which can be found on books of all ages and countries."@en ,
+		"utforming av forsatsen finnes i et stort antall standarder til alle tider og i alle land "@nb .

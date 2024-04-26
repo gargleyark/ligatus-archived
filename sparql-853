@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1238>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:narrower	<http://w3id.org/lob/concept/1287> ;
+	skos:prefLabel	"calfskin"@en ,
+		"kalveskinn"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"hud av kalv, garvet, alungarvet eller pergament"@nb ,
+		"The skin of the bovine calf which may be either tanned, tawed or turned into parchment. Skins of animals more than six months old could not be used as the covers of bindings as they would be too thick."@en .

@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1679>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1678> ;
+	skos:narrower	<http://w3id.org/lob/concept/4111> ,
+		<http://w3id.org/lob/concept/4097> ;
+	skos:prefLabel	"bordure"@nb ,
+		"tooled frames"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"preget bord eller dekorasjon i kantene p\u00E5 permene"@nb ,
+		"Decorative frames created on the sides of a binding by means of tooling with either rolls or fillets or both, or, at an earlier date, by repeated impressions of handle tools."@en .

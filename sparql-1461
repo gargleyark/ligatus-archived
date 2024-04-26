@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1296>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1295> ;
+	skos:prefLabel	"drawn-on-solid (covers)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"When a drawn-on cover is pasted to the outermost endleaves, the cover can be described as drawn-on solid."@en .

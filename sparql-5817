@@ -1,0 +1,19 @@
+{
+  "http://w3id.org/lob/concept/4184" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4195" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4197" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2902" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3024" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3064" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2918" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4448" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2883" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3043" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4341" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4193" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tittel" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "titles (features)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] }
+}

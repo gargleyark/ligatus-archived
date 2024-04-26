@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2534>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2342> ;
+	skos:prefLabel	"halfbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Raised bands found between the raised bands created by sewing supports and of a smaller size. Halfbands were originally created by single sewing supports (genuine halfbands) placed between larger double sewing supports on 15th-century German bindings, but by the 1480&#039;s the single supports began to be replaced by false bands (false halfbands), a practice found also in Italy in the mid-16th century."@en .

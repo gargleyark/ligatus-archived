@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2381",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3881"} ,
+        { "@id": "http://w3id.org/lob/concept/3085"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "printed decoration" , "@language" : "en" } ,
+        { "@value" : "trykt dekor" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Formatspesifikk dekor trykt ved hjelp av tresnitt eller metalltyper, som ikke m\u00E5 forveksles med blokktrykt dekor." , "@language" : "nb" } ,
+        { "@value" : "Format-specific decoration printed by means of wood-blocks or metal type, and not to be confused with block-printed papers cut up and used as covers on any size of book. Printed decoration often includes the titles of the books, but where titling becomes decoration, or vice versa, is sometimes a difficult question." , "@language" : "en" } ] }
+] }

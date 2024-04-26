@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3052" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2866" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "studded corners" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hj\u00F8rnebeslag med nagler" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Hj\u00F8rnebeslag i metall som er utstyrt med nagler p\u00E5 den delen som er foldet rundt permens kanter." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Metal corners which have studs attached to the part folded over the edge of the board." , "lang" : "en" } ] }
+}

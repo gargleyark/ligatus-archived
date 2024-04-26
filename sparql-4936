@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2420">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2404" />
+    <skos:prefLabel xml:lang="en">silver (metal)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">sølv</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A malleable, ductile, white metal with characteristic sheen, considered a precious metal. As a pure metal, silver is second to gold in malleability and ductility, can be polished to a highly reflective surface, and was used, typically in an alloy, to make book fastenings and furniture on more expensive bindings, as well as in jewelry, coinage, mirrors, tableware, etc.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">edelt hvit- el. gråligglinsende metall </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

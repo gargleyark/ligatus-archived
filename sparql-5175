@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3513>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3501> ;
+	skos:narrower	<http://w3id.org/lob/concept/3503> ,
+		<http://w3id.org/lob/concept/3505> ;
+	skos:prefLabel	"sewn-endleaf board attachment"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A form of board attachment in which the board is adhered to one or more elements of an endleaf unit which is itself sewn as part of the bookblock."@en .

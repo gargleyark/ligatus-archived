@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4119" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4117" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "closing the hole" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Securing the slips in a paper board by hammering the board flat around the sewing-support slips laced through them, which closes the hole and pinches the slips tightly to hold them in place. The process was often reinforced by working some adhesive into the slips before they were laced through the boards." , "lang" : "en" } ] }
+}

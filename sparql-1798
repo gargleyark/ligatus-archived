@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2886">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1317" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1338" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4484" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1393" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1313" />
+    <skos:prefLabel xml:lang="en">endleaf components</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The individual pieces of sheet material used to make up an endleaf unit. There are four standard components that will be found in almost all endleaves: the fold endleaf, the hook-type endleaf, the outside hook endleaf and the endleaf guard.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1509>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:prefLabel	"pocket-book bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Small books bound so as to be conveniently carried in a person&#039;s pocket, usually by means of foredge flaps to protect the bookblock. They vary greatly in the extent to which they were decorated but some binders from the 18th century onwards specialised in this type of work, and described themselves as &#039;pocket book binders&#039;, or even &#039;fancy pocket book binders&#039;."@en ,
+		"Small books bound so as to be conveniently carried in a person&#039;s pocket, usually by means of fore-edge flaps to protect the bookblock. They vary greatly in the extent to which they were decorated but some binders from the 18th century onwards specialised in this type of work, and described themselves as &#039;pocket book binders&#039;, or even &#039;fancy pocket book binders&#039;."@en .

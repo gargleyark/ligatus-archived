@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1519">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1517" />
+    <skos:prefLabel xml:lang="en">primary stitching with boards</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The book- or textblock is stitched with lengths of tanned or tawed skin, parchment or textile tapes, the ends of which either laced directly into boards or pasted to them before the book was covered. Because the stitching was typically of the direct type, the back edge of the board did not reach the back edge of the bookblock, as the stitching prevented it from doing so, creating a step which was clearly visible under thinner covering materials such as paper or canvas. This stitching type was in use in England in the last quarter of the seventeenth century, and remained in use throughout the eighteenth century, when it was a typical structure for school books, cheap devotional books and romances. Such books were described as being &amp;quot;bound in the common manner&amp;quot;. The use of textile tapes for stitching is a typical feature of books made in the north-eastern states of the United States, where the ends of the tapes are usually pasted to the outside of the boards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

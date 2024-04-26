@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3390",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3343"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rivets" , "@language" : "en" } ,
+        { "@value" : "klinknagle" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A metal pin with a head at one end and the other end beaten out with a hammer on the other side of the material(s) it has been passed through, to secure it." , "@language" : "en" } ,
+        { "@value" : "kort metallpinne som er felt inn i den delen av en bokspenne som  er feste til forpermen " , "@language" : "nb" } ] }
+] }

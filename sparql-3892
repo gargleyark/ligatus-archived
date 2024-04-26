@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1487">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1530" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1382" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1345" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1615" />
+    <skos:prefLabel xml:lang="en">part covers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A primary cover which does not extend over the whole surface of the binding.  It will however cover the spine and the back edges of the boards, and may also cover the corners and/or edges of the boards. The sides of the binding will either be left uncovered or be covered with another material, such as decorated paper, bookcloth, etc. When describing a binding, it is the covering material that crosses the spine onto the spine-edge of the boards that should always be mentioned first and will define the covering material in brief descriptions.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

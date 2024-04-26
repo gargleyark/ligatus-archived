@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1625" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2366" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "split lacing" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "splittet permtreing " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Heftbind-ender som deles hvis de er doble eller splittes i to hvis de er enkle f\u00F8r de tres gjennom et enkelt hull i permer eller l\u00F8sbind, og for \u00E5 feste dem tres tilbake gjennom to separate hull.\r\n\r\n\r\n" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Slips used to attach a case-cover or boards in which either the two elements of a double supports or a single slip split into two are laced into boards or out of case-covers through a single hole and return through two separate holes, one at approximately 45 degrees above and the other at 45 degrees below the first hole. Split lacing was a common feature of many medieval bindings but becomes a particularly typical feature of Spanish laced-case bindings in the 17th century, even to the extent where the appearance is created in alum-tawed skin which is not attached to any of the sewing supports." , "lang" : "en" } ] }
+}

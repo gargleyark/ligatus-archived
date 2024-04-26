@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3969">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4638" />
+    <skos:prefLabel xml:lang="en">bronze-varnish paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bronsefernisspapir</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper decorated by printing with carved wood-blocks (block-printing) on a printing press with a mixture of varnish and metallic colours (bronze-varnish), which were often made from a metal powder with a distinctive bronze colour. The varnish was used like a printing ink but bronze-varnish papers usually have no printing impression, though the varnish left by the block sometimes shows squeezed edges. These papers have often been described as brocade papers, but they, by contrast, have a pronounced embossed impression, though this may be reduced and made less visible when the papers have been pasted to a board or another sheet of paper and pressed. Bronze-varnish papers were first made in the late 17th century, probably in Augsburg at more or less the same time as brocade papers, but were in use for a relatively short period, between 1680 and the first third of the 18th century, before they were replaced completely by brocade papers. They were also made in England.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">dekorert papir der mønsteret fremkommer ved blokktrykk. Trykkfargen består av metallpulver blandet med ferniss, som regel gull-, av og til sølvfarge. Basispapiret kan være monokromt, stensilert eller blokktrykt i flere farger </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

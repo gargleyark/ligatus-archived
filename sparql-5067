@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3040>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3748> ;
+	skos:prefLabel	"span-stitch sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"An unsupported sewing technique in which the thread passes from one gathering to the next without picking up the sewing of the previous gathering. Span-stitch sewing can only be found between two stations, but two or more separate sets of span-stitch sewing may be found in one structure."@en .

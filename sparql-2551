@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4891>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3988> ;
+	skos:prefLabel	"gustavmarmorert papir"@nb ,
+		"Gustav sprinkled paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"dekorert papir med sprengt m\u00F8nster kjennetegnet ved sm\u00E5, tette, m\u00F8rke flekker med m\u00F8rkere kanter p\u00E5 kraftig farget papir"@nb ,
+		"Paper produced by sprinkling colours and not by trough-marbling. It was very popular in the 19th century in Germany and was classified as a marbled paper. It is characterized by heavy, small, dark spots with a darker outer rim on a bright-colored background."@en .

@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1485",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2903"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pergament" , "@language" : "nb" } ,
+        { "@value" : "parchment" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "vellum" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "ugarvet l\u00E6r (av kalv, gjet, lam, esel) tilberedt ved bl\u00F8tlegging i kalkbad, avh\u00E5ring, skraping og t\u00F8rking under strekk p\u00E5 ramme " , "@language" : "nb" } ,
+        { "@value" : "A translucent or opaque material most often made from calf, sheep, or goat skin which has been limed, dehaired, scraped, and dried under tension to produce a thin, strong, relatively stiff material for writing, bookbinding, or other uses. The term vellum should be used only of finer quality calf parchment, but the terms parchment and vellum  have often been and still are confused and used interchangeably. Parchment should always be used for all skins prepared this way, especially for skins of animals that cannot be identified, but can be defined by the animal where this is known (e.g. goat parchment, calf parchment, etc.)." , "@language" : "en" } ] }
+] }

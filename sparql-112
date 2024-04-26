@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3391",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3305"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "adhesive supports" , "@language" : "en" } ,
+        { "@value" : "limbind forsterkning" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "strimler av hefthyssing, skinn eller alungarvet skinn som er limt inn i innsagde spor i ryggen som forsterkninger " , "@language" : "nb" } ,
+        { "@value" : "Lengths of material (cord, tanned skin, alum-tawed skin, etc.) glued into recesses cut across the spine of a bookblock." , "@language" : "en" } ] }
+] }

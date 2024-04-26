@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3246" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2274" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "spaced joints" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "steg" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Joints on inboard bindings in which the spine edges of the boards are secured at a distance from the backing joints, allowing the covering material to be formed into joint grooves between the two." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "avstand mellom l\u00F8srygg og permkant p\u00E5 lavfalsede b\u00F8ker, som gj\u00F8r det mulig \u00E5 \u00E5pne permen " , "lang" : "nb" } ] }
+}

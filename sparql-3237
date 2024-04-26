@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1604" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1551" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "litt rund rygg" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "slight round spines" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Spines whose shape approximates to an eighth of a circle (standard curve +3 in Szirmai, see figure 7.33 a, p. 134)." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Bokrygg hvis form er rundet til ca. 1/8 av av en sirkel." , "lang" : "nb" } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3683" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1250" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "span-stitch change-over stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Changeover stations in which the thread emerging from one gathering does not pick up the sewing of the previous gathering(s), but moves directly into the next gathering with a straight span. This type of changeover station seems to have been used in east Germany and Eastern Europe." , "lang" : "en" } ] }
+}

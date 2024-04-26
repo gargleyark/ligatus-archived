@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3639>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3271> ;
+	skos:prefLabel	"front beads"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Front beads are formed by two or more threads, usually but not always of different colours, which are crossed over in a line along the front of the endband. In endbands worked with two threads, as one thread is brought over the endband core from the spine, the other thread, at the front of the core, is brought over and across the first thread and then taken under the core, pulling the first thread down to the surface of the bookblock, thus creating the bead."@en .

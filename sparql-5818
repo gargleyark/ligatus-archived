@@ -1,0 +1,20 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4184",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2272"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4195"} ,
+        { "@id": "http://w3id.org/lob/concept/4197"} ,
+        { "@id": "http://w3id.org/lob/concept/2902"} ,
+        { "@id": "http://w3id.org/lob/concept/3024"} ,
+        { "@id": "http://w3id.org/lob/concept/3064"} ,
+        { "@id": "http://w3id.org/lob/concept/2918"} ,
+        { "@id": "http://w3id.org/lob/concept/4448"} ,
+        { "@id": "http://w3id.org/lob/concept/2883"} ,
+        { "@id": "http://w3id.org/lob/concept/3043"} ,
+        { "@id": "http://w3id.org/lob/concept/4341"} ,
+        { "@id": "http://w3id.org/lob/concept/4193"} ,
+        { "@id": "http://w3id.org/lob/concept/4344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tittel" , "@language" : "nb" } ,
+        { "@value" : "titles (features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

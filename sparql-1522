@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2877">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3311" />
+    <skos:prefLabel xml:lang="en">drop-back boxes</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">skjelleske</skos:prefLabel>
+    <skos:altLabel xml:lang="en">fall-down-back boxes</skos:altLabel>
+    <skos:altLabel xml:lang="en">clamshell boxes</skos:altLabel>
+    <skos:altLabel xml:lang="en">drop-spine boxes</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Bokeske bestående av to brett med lave kanter på tre sider og som er hengslet til ryggstykket, størrelsen er slik at den underste delen passer inn i den øverste når esken er lukket. Når skjellesken er åpen, ligger den flatt på underlaget, slik at det er enkelt å komme til innholdet.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Boxes with two three-sided trays (one made to fit inside the other when closed) with a spine piece or back that is hinged onto the open edges of both trays, allowing the outer tray, or lid, to lie flat on a table when open.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

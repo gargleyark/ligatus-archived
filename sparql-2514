@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3855",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3958"} ,
+        { "@id": "http://w3id.org/lob/concept/4126"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "solid-coloured paper" , "@language" : "en" } ,
+        { "@value" : "gjennomfarget papir" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "papir som er p\u00E5f\u00F8rt en farge slik at hele arket er gjennomtrukket av fargen" , "@language" : "nb" } ,
+        { "@value" : "Paper entirely covered or impregnated with one colour only. The different techniques used to create it can often be identified by looking for the visible traces left by the tools used to apply the colour (e.g. brushes), the finish of the surface (e.g. glossy or matt) or by looking at the other side of the paper (if accessible), which may reveal how the colour was applied." , "@language" : "en" } ] }
+] }

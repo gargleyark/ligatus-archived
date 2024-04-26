@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2344">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2354" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1465" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1674" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1421" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1588" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1235" />
+    <skos:prefLabel xml:lang="nb">gjæret hjørneinnslag</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">mitres (cover features)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Beskjæring av hjørneinnslagene i vinkel, som gjør det enklere å slå inn hjørnematerialet både på permer og myke omslag.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The trimming at an angle of the ends of the turn-ins of both limp covers and covers over boards to allow them to be turned-in at the outer corners.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2366>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:narrower	<http://w3id.org/lob/concept/2978> ,
+		<http://w3id.org/lob/concept/3849> ,
+		<http://w3id.org/lob/concept/3831> ,
+		<http://w3id.org/lob/concept/1457> ,
+		<http://w3id.org/lob/concept/3071> ,
+		<http://w3id.org/lob/concept/3021> ,
+		<http://w3id.org/lob/concept/2906> ,
+		<http://w3id.org/lob/concept/1484> ,
+		<http://w3id.org/lob/concept/2956> ,
+		<http://w3id.org/lob/concept/2499> ,
+		<http://w3id.org/lob/concept/2922> ,
+		<http://w3id.org/lob/concept/1571> ,
+		<http://w3id.org/lob/concept/1199> ,
+		<http://w3id.org/lob/concept/1625> ,
+		<http://w3id.org/lob/concept/1499> ,
+		<http://w3id.org/lob/concept/3916> ,
+		<http://w3id.org/lob/concept/4015> ,
+		<http://w3id.org/lob/concept/3829> ,
+		<http://w3id.org/lob/concept/3918> ;
+	skos:prefLabel	"lacing (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of attaching boards to a textblock by passing the bands or cords on which the textblock is sewn through holes cut into the boards."@en .

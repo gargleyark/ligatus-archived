@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3007>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3343> ,
+		<http://w3id.org/lob/concept/3273> ;
+	skos:prefLabel	"rivet plates"@en ,
+		"klinknaglebeslag"@nb ;
+	skos:altLabel	"back plates"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Et metallbeslag med hull som klinknaglene festes i etter at de er hamret gjennom bokspennebeslaget og permen eller til bokspenneremmene for \u00E5 holde dem sammen. Forekommer normalt p\u00E5 innsiden av permen eller bokspenneremmene, der de ikke synes n\u00E5r boken er lukket."@nb ,
+		"A piece of metal with a hole or holes drilled in it to take the rivets after they were passed through the catchplate and the cover or clasp strap under it to hold them together. Rivet plates are therefore normally found on the inside of covers or clasp straps, where they could not be seen when the book is closed."@en .

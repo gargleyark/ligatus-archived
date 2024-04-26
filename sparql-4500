@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3003">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2837" />
+    <skos:prefLabel xml:lang="nb">vedhengte bokmerker</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">ribbon markers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">bokmerker, f. eks. silkebånd, som er festet til bokblokkens øvre kant</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Narrow strips, often made of silk, used as a bookmark. Ribbon bookmarks could be used singly or in multiples, the latter being common on bound liturgical works. They were most often attached to the book by being adhered to the head of the spine and brought out under the endband, if there was one. Ribbon markers can also be found attached by other means, such as pierced through the covering material, tied round the endband, etc., though these will often be later additions made by the owners of the books.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3796>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3793> ;
+	skos:prefLabel	"bindtittel"@nb ,
+		"binding titles"@en ;
+	skos:altLabel	"binder&#039;s titles"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"tekst p\u00E5 bindet, som regel plassert p\u00E5 rygg eller permer, som redegj\u00F8r for tekstblokkens innhold"@nb ,
+		"The title of a book as it appears on any external surface of the binding, including the edges of the bookblock. Until the 18th century, the choice of binding titles was often that of the owner of the book, and, when in manuscript, may well have been added by the owner rather than the binder. The tooled titles on many books were often added long after the binding was completed, to suit different owners and different storage methods in libraries.  As a consequence, therefore, it is not uncommon for books to have two or more titles in different places."@en .

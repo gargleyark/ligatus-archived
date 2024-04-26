@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2830">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1386" />
+    <skos:prefLabel xml:lang="en">beech</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bøk</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Pale reddish-brown, close-grain wood from any of several trees of the genus Fagus of the Fagaceae family; it is hard and heavy, and gives a smooth shiny finish. Beech wood is commonly used for flooring, cabinetry, furniture (especially bentwood chairs), tool handles, and turnery. It was frequently used for the boards of books at all periods in most European countries, but especially in Germany and Italy.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">tresort i Fagaceae familien som ofte ble benyttet til permer </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

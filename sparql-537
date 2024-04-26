@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2834>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2346> ;
+	skos:prefLabel	"board-edge recesses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Short lengths of the head and tail edges of boards with squares which are adjacent to the spine and are cut down to the height of the bookblock to allow Greek-style endbands to be sewn to the boards. This type of board preparation would appear to be restricted to Western European imitations of Greek-style bindings (hybrid Greek-style bindings), but has not yet been recorded on a genuine Greek-style binding."@en .

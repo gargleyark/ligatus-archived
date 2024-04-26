@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1184>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:prefLabel	"ploughs"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bookbinding tools consisting of two parallel wooden cheeks connected by two guide rods and one threaded rod, with a cutting blade attached to the lower edge of one of the blocks. In use, the cheek without the blade seats in a track on the surface of a cutting press and the plough is moved backwards and forwards, while the screw is turned to move the blade slowly across the edge of the bookblock that is held in the press."@en .

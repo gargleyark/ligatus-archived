@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3395">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb">applikasjon</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">onlays (techniques)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">overlays</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Refers to the decorative form created when smaller pieces of a material are attached onto the surface of a larger piece of material; especially used for pieces of leather, paper, or other material laid on the bindings or covers of books for decorative or illustrative purposes.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">resultatet av en fremgangsmåte der et materiale (skinn, papir ect.) som kontrasterer underlaget påføres dette med det formål å skape en dekorativ effekt </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

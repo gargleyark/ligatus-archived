@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2408">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2406" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2410" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2412" />
+    <skos:prefLabel xml:lang="en">copper alloy</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">kobberlegering</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">kobberforbindelse eller blanding av kobber og andre metaller </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Alloy in which copper is the principle element. Brass is one of the most commonly-encountered copper alloys and is an alloy of copper and zinc, usually with copper as the major alloying element and zinc up to 40% by weight. Bronze will usually contain copper and a small amount of tin. Both brass and bronze are therefore copper alloys, and unless the alloy is known, it is safer to call both of them copper alloys.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

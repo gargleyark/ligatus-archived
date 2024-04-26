@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3052>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2866> ;
+	skos:prefLabel	"studded corners"@en ,
+		"hj\u00F8rnebeslag med nagler"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Hj\u00F8rnebeslag i metall som er utstyrt med nagler p\u00E5 den delen som er foldet rundt permens kanter."@en ,
+		"Metal corners which have studs attached to the part folded over the edge of the board."@en .

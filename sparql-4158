@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3534",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3535"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4450"} ,
+        { "@id": "http://w3id.org/lob/concept/4453"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "polerings jern" , "@language" : "nb" } ,
+        { "@value" : "polishing irons" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Metal tools heated and used to flatten the grain of tanned skins, particularly goatskin, using the heat to go beyond the heat shrinkage temperature to fix the polished surface in place. Two types of polishing irons were used, one for the spine with a curved face, and the other, the siding iron, in the shape of a cylinder mounted at right-angles to a wooden handle which was used for polishing the sides of bindings." , "@language" : "en" } ,
+        { "@value" : "metallverkt\u00F8y som ble varmet opp for \u00E5 glitte overflaten p\u00E5 garvede skinn " , "@language" : "nb" } ] }
+] }

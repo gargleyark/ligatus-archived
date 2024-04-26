@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1272" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1301" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cut before sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The gatherings were cut before they were assembled as a bookblock, usually because the bookblock had an earlier sewing structure with cut edges and has been resewn. Where the bookblock is sewn through the fold, this will usually result in stepped edges at head and tail, as the gatherings are pulled alternately in different directions by the process of sewing. This may therefore be the result of resewing an already bound bookblock." , "lang" : "en" } ] }
+}

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1333",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2352"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "flat spines" , "@language" : "en" } ,
+        { "@value" : "flat rygg" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A spine which has not been rounded and therefore forms a right angle to the sides of the bookblock." , "@language" : "en" } ,
+        { "@value" : "Rygg som ikke er rundet og danner tiln\u00E6rmelsesvis rette vinkler mot permene." , "@language" : "nb" } ] }
+] }

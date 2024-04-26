@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3395" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "applikasjon" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "onlays (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "overlays" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Refers to the decorative form created when smaller pieces of a material are attached onto the surface of a larger piece of material; especially used for pieces of leather, paper, or other material laid on the bindings or covers of books for decorative or illustrative purposes." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "resultatet av en fremgangsm\u00E5te der et materiale (skinn, papir ect.) som kontrasterer underlaget p\u00E5f\u00F8res dette med det form\u00E5l \u00E5 skape en dekorativ effekt " , "lang" : "nb" } ] }
+}

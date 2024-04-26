@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3528" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "besk\u00E5rne kanter" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "cut-solid edges" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "plain cut edges" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The edges of an assembled bookblock which have been cut overall to produce a smooth edge. Such edges may be cut by either a draw-knife or a plough and would be suitable then for colouring, gilding, polishing, etc. Cutting the edges of a book makes the leaves easier to turn and keep clean, and until the beginning of the 19th century, were generally preferred to uncut edges." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Bokblokkens kanter beskj\u00E6res med kniv eller h\u00F8vel for \u00E5 gj\u00F8re dem glatte, dette gj\u00F8r det enklere \u00E5 bla i boken og holde kantene rene. Snitt m\u00E5 beskj\u00E6res som forberedelse til dekorering med farge, gull, polering m.m." , "lang" : "nb" } ] }
+}

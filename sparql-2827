@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4167>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:narrower	<http://w3id.org/lob/concept/5427> ,
+		<http://w3id.org/lob/concept/3137> ,
+		<http://w3id.org/lob/concept/1377> ;
+	skos:prefLabel	"sewn bindings"@en ,
+		"heftet bok"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings in which individual gatherings are sewn as opposed to being stitched or adhered."@en ,
+		"bokblokkens legg sammenf\u00F8yes ved hefting "@nb .

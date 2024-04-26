@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1524",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2370"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "projecting endbands" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Endbands which project beyond the height of the boards, because the boards are flush at head and tail with the edges of the bookblock. The height of the boards allow the endband cores to be taken onto the edges of the boards and to be sewn to them. This is a typical feature of Greek-style bindings, and these endbands are often described as Greek-style endbands, though the same structure can found on bindings from other middle-eastern countries (e.g. Armenia)." , "@language" : "en" } ] }
+] }

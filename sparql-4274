@@ -1,0 +1,17 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4682",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1186"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4148"} ,
+        { "@id": "http://w3id.org/lob/concept/4152"} ,
+        { "@id": "http://w3id.org/lob/concept/4138"} ,
+        { "@id": "http://w3id.org/lob/concept/4670"} ,
+        { "@id": "http://w3id.org/lob/concept/4504"} ,
+        { "@id": "http://w3id.org/lob/concept/4134"} ,
+        { "@id": "http://w3id.org/lob/concept/4136"} ,
+        { "@id": "http://w3id.org/lob/concept/4777"} ,
+        { "@id": "http://w3id.org/lob/concept/4456"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "printing tools" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Tools and equipment used for printing using either relief or intaglio surfaces." , "@language" : "en" } ] }
+] }

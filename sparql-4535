@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3305>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/1619> ,
+		<http://w3id.org/lob/concept/1655> ,
+		<http://w3id.org/lob/concept/1618> ,
+		<http://w3id.org/lob/concept/3041> ,
+		<http://w3id.org/lob/concept/1624> ,
+		<http://w3id.org/lob/concept/3391> ,
+		<http://w3id.org/lob/concept/1392> ,
+		<http://w3id.org/lob/concept/4077> ;
+	skos:prefLabel	"spine components"@en ,
+		"ryggkomponenter"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"alle deler som er brukt i konstruksjonen og utformingen av bokblokkens rygg "@nb ,
+		"The components used in the treatment and construction of the spines of bookblocks."@en .

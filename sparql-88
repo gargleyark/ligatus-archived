@@ -1,0 +1,16 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3167",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3641"} ,
+        { "@id": "http://w3id.org/lob/concept/2468"} ,
+        { "@id": "http://w3id.org/lob/concept/2446"} ,
+        { "@id": "http://w3id.org/lob/concept/2438"} ,
+        { "@id": "http://w3id.org/lob/concept/1373"} ,
+        { "@id": "http://w3id.org/lob/concept/2293"} ,
+        { "@id": "http://w3id.org/lob/concept/4739"} ,
+        { "@id": "http://w3id.org/lob/concept/2396"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "animal materials" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Materials of animal origin." , "@language" : "en" } ] }
+] }

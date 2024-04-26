@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1664">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3235" />
+    <skos:prefLabel xml:lang="en">threadmarks</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The marks left in the spine-folds of gatherings by the thread used to sew them. It would appear that the marks left by the thread of the first sewing of a bookblock will leave a more distinct mark than later sewings. This is especially the case when the leaves are made of parchment, which may have been more supple and receptive to marking when new. It is often possible to identify the twist as well as the thickness of the lost thread in such books. The current thread or, in heavily-used books, dirt and dêbris in the spine-fold of the central bifolium may obscure the threadmarks, and in such cases they may be more visible on the outside of the central bifolium or even in the bifolium folded around the central one.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

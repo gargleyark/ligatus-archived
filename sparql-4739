@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1577>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1313> ;
+	skos:prefLabel	"separately-sewn endleaf guards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A sewn endleaf guard found at the beginning and end of a bookblock which is not folded around the full leaves of the endleaf which are part of a separate unit. Separately-sewn endleaf guards would appear to be a particularly French phenomenon first found in the last quarter of the sixteenth century and surviving through to the beginning of the nineteenth."@en .

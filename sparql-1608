@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4591",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2295"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "drummed-on (techniques)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A technique found in the the eighteenth century, in which the secondary covers are folded over limp covers (especially limp paper covers) and adhered to the primary cover by their turn-ins only. This leaves no adhesive bond between the two covers on the outside of the binding, thus preserving its flexibility and making it less likely to distort in changes in humidity. It will often be found today that the outside of the drummed-on secondary cover has been lost, leaving only the adhered turn-ins as evidence that there ever was one. The primary covers of laced-case bindings with boards, although frequently not adhered to the outer surface of the board, are not actually drummed-on, as the turn-ins were formed first and the boards inserted afterwards. " , "@language" : "en" } ] }
+] }

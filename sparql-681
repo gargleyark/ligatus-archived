@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3798>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3793> ;
+	skos:prefLabel	"volume number"@en ,
+		"bindnummer"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"nummer p\u00E5 hvert enkelt bind som inng\u00E5r i et bokverk med samme tittel"@nb ,
+		"The number of each individual volume in any set of volumes under the same title, usually found on the spine of a book separately from the title."@en .

@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2952>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3746> ,
+		<http://w3id.org/lob/concept/2951> ;
+	skos:prefLabel	"linked supported sewing"@en ,
+		"fiskebenshefting"@nb ;
+	skos:altLabel	"herringbone sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"relatert til heftemetode p\u00E5 doble bind der to og to legg heftes sammen og heftetr\u00E5den l\u00F8per frem og tilbake vekselvis i i falsen p\u00E5 inn- og utsiden av hvert legg fra det ene legget til det andre, slik at det dannes et fiskebensm\u00F8nster "@nb ,
+		"A form of sewing on double supports in which the thread when it emerges from the gathering between the two elements of a support is taken round behind the supports below the sewing of the previous gathering. This creates a chevron pattern of thread on the supports, appearing like a series of arrows pointing in the direction of sewing. It is from this pattern that the term &#039;herringbone sewing&#039; (&#039;spina di pesce&#039; in Italian), which is sometime used to describe this type of sewing, is derived. Linked sewing was commonly used in medieval Europe, but in the sixteenth century was far more often used in France than elsewhere. It appears to have been used less and less in the seventeenth century and is rarely found by the eighteenth century."@en .

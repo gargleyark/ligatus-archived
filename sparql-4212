@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4122">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3750" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3643" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3767" />
+    <skos:prefLabel xml:lang="en">primary sewing (endband techniques)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">stukket kapitélbånd</skos:prefLabel>
+    <skos:altLabel xml:lang="en">foundational sewing</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The process of sewing an endband down into the gatherings of the bookblock with or without a core. Primary endband sewing must by definition be entirely separate from the sewing of the bookblock. Endbands in the medieval period and well into the 16th century in some parts of Europe will be found with tiedowns in every gathering, but increasingly the number of tiedowns was reduced as a form of economy. It is possible to find endbands with only two tiedowns, but these still constitute a primary endband sewing.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">kapitélbånd festet til ryggen ved at tråden med jevne mellomrom stikkes ned i bokblokkens legg, slik at det utgjør et vesentlig strukturelt element</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

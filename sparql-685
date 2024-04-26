@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3849>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3515> ,
+		<http://w3id.org/lob/concept/2366> ;
+	skos:prefLabel	"board lacing"@en ,
+		"permtreing"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"prosessen med \u00E5 tre hefthyssing og kapitelb\u00E5ndender igjennom permene i forbindelse med ansetting (festing) av permene til bokblokken "@nb ,
+		"The process of lacing sewing-support and/or endband slips through boards."@en .

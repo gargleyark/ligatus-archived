@@ -1,0 +1,16 @@
+{
+  "http://w3id.org/lob/concept/1379" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1322" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3697" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1428" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1313" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3616" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1605" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3282" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "guards" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "fals" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Narrow strips of paper or parchment folded lengthways either to reinforce the folds of gatherings or endleaves (sewing guards) or to attach plates or tables to a textblock (extension guards)." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "smal falset strimmel av papir, lerret eller pergament som brukes til forsterkning i ryggen p\u00E5 legg, forlenger innermargen av enkeltsider, som innklebing av l\u00F8st blad eller plansje f\u00F8r siden heftes sammen med bokens \u00F8vrige ark " , "lang" : "nb" } ] }
+}

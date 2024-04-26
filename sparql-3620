@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4488">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:prefLabel xml:lang="en">metal sides</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">metalldekor</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Single pieces of decorated metal, often embossed, that cover the whole of each side of a binding in one piece with a conventional inboard binding with a primary cover underneath.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">stykker av metall gjerne dekorert, som dekker begge sider av bindet </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

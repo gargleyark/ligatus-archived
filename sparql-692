@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3922",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2279"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "box bindings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "As small number of bindings has survived in which side walls were added to one of the boards, creating a three-sided tray in which the closed bookblock was contained, with the spine and the other board closing what becomes a sort of drop-back box. Box bindings have been recorded from the ninth century in the Islamic world and there are also late medieval Spanish examples, mostly containing Hebrew texts, and in both the Islamic and Hebrew examples, the sides were added to the left board, so that the right board would open to the beginning of the text." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1489" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2422" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1639" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "klister" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "paste" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A soft, tenacious, pliable adhesive usually with a starch base. The word pasted should not be used where the adhesive referred to is a protein-based glue. If the origin of the adhesive is unclear the broader term  &#039;adhesive&#039; should be used." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "stivelsesbasert klebemiddel " , "lang" : "nb" } ] }
+}

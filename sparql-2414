@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1448",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2470"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "mull" , "@language" : "en" } ,
+        { "@value" : "gas " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "l\u00F8svevet tynn bomullstekstil, prinsipielt brukt til ryggf\u00F4ring av forlagsbind" , "@language" : "nb" } ,
+        { "@value" : "Coarse, loosely woven cotton fabric used principally to line the spines of edition bindings." , "@language" : "en" } ] }
+] }

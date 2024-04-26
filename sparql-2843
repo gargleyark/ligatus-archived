@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4533>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:prefLabel	"sewing thread"@en ,
+		"heftetr\u00E5d"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The thread usually of linen but also of other fibres used to sew or stitch books."@en ,
+		" tr\u00E5d som brukes for sammenhefting av bokblokkens legg "@nb .

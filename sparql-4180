@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3717">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1694" />
+    <skos:prefLabel xml:lang="en">pared turn-ins</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">skjerfede innslag</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The edge of the turn-ins of the covering material is pared from one or other surface, often to a feathered edge.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">tykkelsen på innslagenes kanter reduseres med en skarp énegget kniv    </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

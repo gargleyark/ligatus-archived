@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3859>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3958> ;
+	skos:prefLabel	"solid-brushed papers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper coloured with a single colour directly applied to its surface with a brush with the intention of creating a solid colour. In many papers, brush strokes may be visible in the colour layer used to make these papers. Various types of colour, including paste colours, were used to make these papers, but when paste-colours were used and also manipulated into patterns on the surface of the paper, they should be described as paste papers."@en .

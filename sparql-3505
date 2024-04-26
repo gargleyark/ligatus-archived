@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1450" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1290" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "multiple bookblock bindings" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "rygg-mot-rygg bind" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bind med to eller flere bokblokker som deler felles midtperm og som er festet i den h\u00F8yre falsen p\u00E5 hver bokblokk" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Binding structures which contain more than one bookblock, usually with a shared board between each adjacent bookblock. In the most commonly encountered of a multiple bookblock binding is the dos-\u00E0-dos binding." , "lang" : "en" } ] }
+}

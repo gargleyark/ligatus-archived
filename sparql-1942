@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4876">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2277" />
+    <skos:prefLabel xml:lang="en">edition bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">forlagsbind</skos:prefLabel>
+    <skos:altLabel xml:lang="en">publishers&amp;#039; bindings</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">bokbind på bok som selges ferdig innbundet fra et forlag </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Wholesale quantity bindings (actually almost always adhesive-case bindings) to the order and at the expense of the publisher or distributor, as opposed to individual bindings executed for the retail bookseller or the purchaser. Edition bindings became very common in the 19th century, but earlier examples can be found.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

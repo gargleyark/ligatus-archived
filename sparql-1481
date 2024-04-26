@@ -1,0 +1,16 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1329>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:narrower	<http://w3id.org/lob/concept/1480> ,
+		<http://w3id.org/lob/concept/2383> ,
+		<http://w3id.org/lob/concept/4470> ,
+		<http://w3id.org/lob/concept/1214> ,
+		<http://w3id.org/lob/concept/4472> ,
+		<http://w3id.org/lob/concept/1651> ,
+		<http://w3id.org/lob/concept/2915> ;
+	skos:prefLabel	"dekorstempler"@nb ,
+		"finishing tools"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The tools most often of copper alloy, sometimes of iron or steel with engraved or cast designs that were used to impress those designs into the covering materials of books. Finishing tools could be used in the hand (handle tools) or in presses (blocks, panel stamps)."@en ,
+		"graverte eller st\u00F8pte trykkformer for stempling i gull-eller blindtrykk p\u00E5 bokbind "@nb .

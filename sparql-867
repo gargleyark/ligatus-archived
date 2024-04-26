@@ -1,0 +1,17 @@
+{
+  "http://w3id.org/lob/concept/1242" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1268" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1191" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2924" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1412" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1460" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4395" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2825" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1665" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "l\u00F8sbind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "cases" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "wrappers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Covers which are complete in themselves before they are attached to bookblocks. They may or may not have boards and other components in addition to a cover but no part of them can have been attached to the bookblock separately before the cover was attached. In almost all recorded examples, the spine of the case is not adhered to the spine of the bookblock, but is left instead with a natural hollow back. Cases can be attached to the bookblock by adhesive only, primary or secondary tackets, longstitch bindings and bindings with external sewing supports. In one instance, a case made of cartonnage has been recorded adhered to the boards of an inboard binding. This as yet unique example should therefore be described as a primary cover on an inboard binding." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "omslaget/bindet  blir laget for seg f\u00F8r det festes til bokblokken" , "lang" : "nb" } ] }
+}

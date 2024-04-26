@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3953>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:narrower	<http://w3id.org/lob/concept/4160> ,
+		<http://w3id.org/lob/concept/4162> ;
+	skos:prefLabel	"metallic paper"@en ;
+	skos:altLabel	"metal paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Papers which are entirely covered with metal in one form or another and sometimes showing the marks of tools used for the application of a ground layer. These papers could then be burnished. Sheets of this type of paper will always present an unbroken coating of burnished metal without any applied colours. Metallic papers could be blind-embossed with the same plates that were used to make brocade papers which has led some historians to describe them as brocade papers, but it might be simpler if this term is reserved for those papers which are partially covered by metal in limited areas according to the pattern."@en .

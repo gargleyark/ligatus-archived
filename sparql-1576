@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4083",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4602"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "disk-clasp fastenings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Fastenings which consist either of a catchplate with a circular disk on it placed on the surface of the board (disk catchplate) and clasp straps attached to the opposite board with circular clasps that have circular recesses in them (disk clasps) that fit over the raised disk on the disk catchplate, or the reverse, in which the catchplate has the recess and the clasp has the disk." , "@language" : "en" } ] }
+] }

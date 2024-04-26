@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1440>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3460> ;
+	skos:prefLabel	"medullary rays "@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The sheets of tissue in the stem of a tree trunk that extend radially from the pith to the cortex, along which the timber will split naturally into thin wedges suitable for turning into planks. The medullary rays will appear on the surface of dressed planks of wood cut or split on the quarter, creating the characteristic &#039;figuring&#039; of oak."@en .

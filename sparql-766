@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4639">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3958" />
+    <skos:prefLabel xml:lang="en">coated paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bestrøket papir</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">påføring av et skikt bestående av bindemiddel, fyllstoffer og evt. pigmenter til papir, med det formål å gi papiroverflaten en glatt overflate og eventuelt en fargenyanse</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Paper coloured by adding one or more smooth applications or coatings of a mixture of a binder and pigment to one or both of its sides. These papers have a smooth, enamel-like surface, in which the colour does not penetrate the paper, and may present either a matt or glossy surface, the latter finish being obtained by burnishing or calendering. Some coated papers were embossed with a fine pattern such as moiré. Such papers do not appear to have been used before the 1820s.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

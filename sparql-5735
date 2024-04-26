@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3084>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:prefLabel	"tying-up cords"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Thin tightly-twisted cords used to hold a covering skin to the spine of a book, especially on each side of raised bands, as the paste used to adhere it to the spine of the bookblock dried. It is often possible to see a clear impression of the twist of the cord in the covering material."@en .

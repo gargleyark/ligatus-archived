@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4628>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4162> ;
+	skos:prefLabel	"gold-alloy paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Metallic paper with a surface entirely covered with beaten gold alloy leaf, which is any gold-coloured metal leaf that shows signs of oxidisation or discolouration (and is therefore not pure gold) or where the colour has entirely or partially changed (and is now usually green due to the presence of copper)."@en .

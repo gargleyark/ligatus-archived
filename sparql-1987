@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1336" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2270" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "kj\u00F8ttside" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "fleshside" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Overflaten av den siden av et skinn som har vendt inn mot kroppen." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Describes the surface of the inside of an animal skin from which the inner subcutaneous flesh and fat have been removed." , "lang" : "en" } ] }
+}

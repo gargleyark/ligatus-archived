@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3496",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1606"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hammered slips" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The slips are secured in a lacing hole, which has been created by pushing an awl through the board without loss of the board material, by hammering the board flat and so closing the hole around the slip. This process was used for almost all laced-on boards made of paper. It was often done by hammering the lacing holes with a backing hammer on a metal plate known as a knocking down iron." , "@language" : "en" } ] }
+] }

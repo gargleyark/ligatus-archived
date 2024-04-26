@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2368",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3238"} ,
+        { "@id": "http://w3id.org/lob/concept/1266"} ,
+        { "@id": "http://w3id.org/lob/concept/1619"} ,
+        { "@id": "http://w3id.org/lob/concept/4856"} ,
+        { "@id": "http://w3id.org/lob/concept/4442"} ,
+        { "@id": "http://w3id.org/lob/concept/1219"} ,
+        { "@id": "http://w3id.org/lob/concept/2909"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "linings (components)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Pieces of sheet material attached to something else by means of adhesive with the purposes of decorating, reinforcing, stiffening or softening (by means of the moisture in the adhesive) the other material or of making translucent materials opaque." , "@language" : "en" } ] }
+] }

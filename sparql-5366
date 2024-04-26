@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4476",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2927"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "single hooked clasps" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Clasps which are shaped out of a single thickness of sheet metal bent over at one end to form the hook. Cast hooked clasps will also have a single hook. When they are attached to the clasp strap they will usually have a metal plate (the back or rivet plate) on the other side to prevent the rivets used to attach them from pulling through the strap." , "@language" : "en" } ] }
+] }

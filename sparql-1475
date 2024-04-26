@@ -1,0 +1,13 @@
+{
+  "http://w3id.org/lob/concept/1300" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1429" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "dust wrappers" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "smussomslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "book wrappers" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "jackets" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dust jackets" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dust covers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A wrapper originally used to protect the covering material of the book from soiling or other damage, but now also used for promotional purposes. It may be plain, printed, or illustrated, and is flush with the covers of the book at head and tail, but folded over the fore edge of both covers. It is always detachable. There is some question as to whether dust wrappers should be described as secondary covers, but they can be seen as a subgroup of loose secondary covers, though still called dust wrappers.  " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "l\u00F8st omslag med innbretter rundt bokpermen" , "lang" : "nb" } ] }
+}

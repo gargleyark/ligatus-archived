@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2963>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3361> ;
+	skos:prefLabel	"loop and stylus fastenings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fastenings in which folded loops made from strips of metal, textile, ribbon, parchment or tanned skin are fastened to the fore-edges of both boards, and which line up when the books are closed and can be secured with a stylus, often a thin pencil to be used for writing notes."@en .

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1479",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1619"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "panel spine linings" , "@language" : "en" } ,
+        { "@value" : "ryggfeltf\u00F4ring" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A square or rectangular lining which more or less exactly covers the spine between the joints and two adjacent sewing supports. In the panels at head and tail, the panel linings extend to the end of the spine, though in some sixteenth-century bindings, the panel linings at head and tail were divided into two to expose the change-over station, perhaps with the intention of disguising the bump created by the kettlestitches." , "@language" : "en" } ,
+        { "@value" : "firkantete eller rektangul\u00E6re f\u00F4ringer som p\u00E5 ryggen som dekker omr\u00E5det mellom to heftestasjoner og fra \u00F8vre og nedre heftestasjon til hode og fot " , "@language" : "nb" } ] }
+] }

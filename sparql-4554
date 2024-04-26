@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3673",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1309"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rolled cores" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A sheet material rolled into a cylindrical core. Tanned and alum-tawed skin, parchment and paper were all used rolled, and the rolled paper cores sometimes have a length of cord, leather or other material adhered to the starting edge to make the process easier. Fifteenth-century Italian endband cores of alum-tawed skin rolled round thin cord have been recorded." , "@language" : "en" } ] }
+] }

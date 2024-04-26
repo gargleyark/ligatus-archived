@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1484>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2366> ;
+	skos:prefLabel	"parallel lacing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Two-hole lacing in which the two holes are arranged parallel to the joints of the bookblock. This type of lacing can be found in both boards and laced cases and the slips can be pointed either upwards or downwards, and will often be found pointed in one direction on one side and in the other on the other side"@en .

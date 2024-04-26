@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1501" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2356" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "pierced holes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A hole created by pushing the sharpened end of a tool such as an awl or chisel through the board material, forcing the material apart without removing any of it. This technique could only be used on boards made from softer material than wood (paper, leather, parchment, etc), though thin sca&#039;boards could sometime have holes pushed through them, a process which usually resulted in the wood splitting along the grain on each side of the hole. Once a slip was laced through a pushed-through hole in a paper board, the hole would be closed around the slip by hammering it flat, thus locking the slip into the board." , "lang" : "en" } ] }
+}

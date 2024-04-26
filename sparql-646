@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3535">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1186" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3534" />
+    <skos:prefLabel xml:lang="en">burnishing tools</skos:prefLabel>
+    <skos:altLabel xml:lang="en">burnishers</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Tools used to burnish or polish the cut edges of bookblocks. It usually consists of a polished tip, which may be anything from polished stone to a horse&amp;#039;s tooth, set in a wooden handle.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

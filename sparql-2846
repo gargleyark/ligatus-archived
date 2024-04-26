@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4539",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3299"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sewing direction" , "@language" : "en" } ,
+        { "@value" : "hefteretning" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "retningen en bokblokk blir heftet - enten fra venstre mot h\u00F8yre eller fra h\u00F8yre mot venstre " , "@language" : "nb" } ,
+        { "@value" : "The direction in which a bookblock is sewn, i.e. from either left to right or right to left." , "@language" : "en" } ] }
+] }

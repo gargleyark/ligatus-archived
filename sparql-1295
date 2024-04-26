@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4589" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "covering" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "overtrekkp\u00E5setting" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "prosess der man former et materiale rundt et bokbind " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The process of wrapping and or moulding a piece of sheet material around a bound book." , "lang" : "en" } ] }
+}

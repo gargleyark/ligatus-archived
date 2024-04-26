@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2994" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3154" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "presentation labels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Labels usually of leather titled in gold, recording the presentation of the volume to an individual or an institution, and most often found on the inside or outside of one or other board. These labels are included here as they have almost certainly been tooled by a bookbinder, though not necessarily the binder who bound the book, as opposed to inscriptions, presentation letters, etc., inserted into the bound book." , "lang" : "en" } ] }
+}

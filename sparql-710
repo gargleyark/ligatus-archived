@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3990">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4641" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4643" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4645" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4647" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4649" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4651" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4653" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4655" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4657" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4659" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4661" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4663" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4665" />
+    <skos:prefLabel xml:lang="nb">bakkemarmorert papir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">trough-marbled paper</skos:prefLabel>
+    <skos:altLabel xml:lang="en">water marbling</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paper decorated by trough-marbling, which involves a transfer of colours floating on the surface of a liquid in a trough to the paper.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Dekoreringsteknikk der mønsteret ikke dannes direkte på papiret, men på en flytende marmoreringsgrund - ved å legge papiret på grunden overføres mønsteret til papiret.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

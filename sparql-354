@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1230">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2846" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2933" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3373" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2865" />
+    <skos:prefLabel xml:lang="en">bosses</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bukler</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">del av beslag som danner en forhøyning</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Protective fittings, usually of metal but also, occasionally, of wood or bone fixed to the exterior surface of a board to protect the covering material. Bosses were made to many different designs and while some were very plain, consisting of no more than a dome-shaped piece of metal, they were often decorated, sometimes quite extravagantly, with punches, engraving, piercing, embossing, gilding, etc. In some cases, their use was as much, if not more, decorative than practical, and they could be used to confer status on a binding, especially after the sixteenth century. They were usually fitted towards the four corners of the board, but a fifth boss will often be found in the centre of the board. In many bindings, only a central boss was fitted. They could be nailed to the boards around their edges, or have a single iron nail or spike soldered into the centre of the boss. The function of the boss was often taken over by the inclusion of a projecting boss within a corner piece. Bosses are rarely found on the earliest European bindings (Szirmai, p.132), but are regularly found on romanesque bindings and thereafter.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

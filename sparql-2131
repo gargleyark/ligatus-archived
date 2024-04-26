@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2892" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "l\u00E5sering" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "fastening rings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "metallbeslag  som er festet i forkanten av begge permene med ringer festet i endene til \u00E5 tre et skriveredskap (stylo) igjennom for \u00E5 lukke bindet " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Metal fittings attached to the fore-edges of both boards of a binding with rings at their ends which allow a stylus to be passed through them from head to tail, thus holding the book shut." , "lang" : "en" } ] }
+}

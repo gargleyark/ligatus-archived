@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1385",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2383"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "small hand tools" , "@language" : "en" } ,
+        { "@value" : "h\u00E5ndstempel" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "dekoreringsstempler som brukes manuelt  " , "@language" : "nb" } ,
+        { "@value" : "Small decorative tools fitted into wooden handles that can be used in the hand without the assistance of a press." , "@language" : "en" } ] }
+] }

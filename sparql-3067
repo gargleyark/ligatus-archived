@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1408>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3748> ;
+	skos:prefLabel	"kjedesting"@nb ,
+		"kettlestitches"@en ;
+	skos:altLabel	"catch-up stitch"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sting som formes ved festbindene n\u00E5r heftetr\u00E5den legget er heftet med, forankres under heftetr\u00E5den fra forrige legg og deretter er klar til \u00E5 hefte neste legg."@nb ,
+		"A stitch formed at the change-over station when the thread with which a gathering has just been sewn is taken down below the sewing of the previously sewn gathering or gatherings before taking it up into the next gathering to be sewn. Also known as a &#039;catch-up stitch&#039;."@en .

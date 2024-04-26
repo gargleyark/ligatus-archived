@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4097" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1679" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "kantdekor" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "border frames" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The tooled frames on the sides of many otherwise plain bindings and most bindings with more elaborate tooling which are placed very close to the edges of the cover. They can be distinguished from the concentric frames that may be found further away from the perimeter of the sides by the name border frame. " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dekor p\u00E5 permen/enes kanter  " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3344",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1186"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2850"} ,
+        { "@id": "http://w3id.org/lob/concept/3094"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paper moulds" , "@language" : "en" } ,
+        { "@value" : "papirform" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "paper mold" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "form til \u00E5 danne papirark " , "@language" : "nb" } ,
+        { "@value" : "The rectangular wooden frame which holds a screen of parallel (laid mould) or woven (wove mould) brass wires which is dipped into the paper pulp in the vat to pick up the pulp for a single sheet of paper and through which water drains away in the formation of a sheet of handmade paper." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2879",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1353"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2882"} ,
+        { "@id": "http://w3id.org/lob/concept/2881"} ,
+        { "@id": "http://w3id.org/lob/concept/3018"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "kantbeslag" , "@language" : "nb" } ,
+        { "@value" : "edge fittings" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Pieces of metal furniture which are folded over the edge of a board and may sometimes also be folded over onto the inside of the board." , "@language" : "en" } ,
+        { "@value" : "metallbeslag som er foldet rundt og festet langs permens ytterste kant for \u00E5 beskytte den   " , "@language" : "nb" } ] }
+] }

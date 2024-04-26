@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4478" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2927" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "folded hooked clasps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Clasps which are made from a length of sheet metal folded in half with the folded end formed into the hook. The double thickness allows the clasp strap to be sandwiched between the two halves of the clasp and riveted, without the need for a rivet plate." , "lang" : "en" } ] }
+}

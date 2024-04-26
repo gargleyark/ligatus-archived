@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1214" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1329" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4109" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1260" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1247" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "blocks (finishing tools)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Engraved or cast metal blocks used to decorated the sides of bindings. Typically, these will consist of corners and centrepieces and other designs too large to be tooled by hand rather than in some form of press." , "lang" : "en" } ] }
+}

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3827>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1445> ;
+	skos:prefLabel	"silver tooling (techniques)"@en ,
+		"s\u00F8lvtrykking"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"preging der man bruker blads\u00F8lv eller annet hvitt metall for \u00E5 f\u00E5 et avtrykk i s\u00F8lv "@nb ,
+		"A form of metal-foil tooling in which heated metal tools cast or cut with a decorative motif are pressed onto silver leaf over a thermoplastic adhesive such as egg glaire which leaves the motif in silver impressed into the surface usually of the covering material of a book. A binding so decorated may be described as silver-tooled. Unlike gold, silver oxidizes rapidly in humid conditions with the result that most historic silver tooling now has a dull grey or black colour."@en .

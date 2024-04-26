@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3681>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3475> ;
+	skos:prefLabel	"slip bevels"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Steep bevels created on the external surface of the spine-edges of wooden boards which start just above the top support and finish just below the bottom support, leaving the head and tail of the spine-edges of the boards square. This technique is often found on German bindings of the late 15th and early 16th century."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2881>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2879> ;
+	skos:prefLabel	"kantskinne"@nb ,
+		"edge strips"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forsterkninger av bokbindets kanter, spesielt i nedre kant "@nb ,
+		"Strips of metal folded over and nailed to the edges of boards along their entire length (or up to metal corners where these were fitted), which can be folded over one or both sides of the boards. The metal strips, often of copper alloy, could be decorated with punches or embossed."@en .

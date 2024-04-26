@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3984>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	"stencilling"@en ;
+	skos:altLabel	"stenciling"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Method of creating multiple copies of a design by cutting it out of a thin yet durable piece of sheet material, such as thin cardboard, paper or parchment, and dabbing, pouncing, sprinkling, or rubbing a pigment through the openings (cut-out stencil). Stencilling and colouration can be repeated numerous times, with different colours and in addition to other decoration techniques like block-printing or metal-leaf embossing. Alternatively, small pieces of material such as grains of rice could be scattered over a piece of paper, usually already coloured, and sprinkling over them to create the decoration (scattered stencil)."@en .

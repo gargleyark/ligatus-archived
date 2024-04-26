@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3814>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2270> ;
+	skos:prefLabel	"utside"@nb ,
+		"outer (place)"@en ;
+	skos:altLabel	"external"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"beskriver en komponent som vender utover i forhold til midten  "@nb ,
+		"The place closer to the outside of the binding."@en .

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3311">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2277" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4490" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2840" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2877" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3035" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4465" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4466" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4468" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3038" />
+    <skos:prefLabel xml:lang="nb">bindsupplement</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">enclosures</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Protective containers made to fit individual books or sets of books.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">spesialtilpasset stivt hylster laget for oppbevaring av en enkelt bok eller et sett av bøker </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

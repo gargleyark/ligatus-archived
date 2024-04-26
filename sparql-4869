@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1641" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2340" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sjablongmalt dekor" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "stencilled decoration" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A type of decoration created by cutting the design out of a thin yet durable sheet, such as parchment, cardboard or paper, and dabbing, pouncing, spraying, or rubbing a liquid colour through the openings. Stencilling and colouration can be repeated numerous times, with different colours and in addition to other decorative techniques." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dekoreringsteknikk der matriser med utsk\u00E5ret m\u00F8nster legges p\u00E5 papir, tekstil eller boksnitt og m\u00F8nsteret overf\u00F8res ved \u00E5 spraye eller male farge over med pensel " , "lang" : "nb" } ] }
+}

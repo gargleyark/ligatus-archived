@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3002",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3740"} ,
+        { "@id": "http://w3id.org/lob/concept/3173"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "ribbon" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A narrow woven textile, usually decorative and often woven in silk or satin, often with a cord finish along both edges instead of selvage, forming a narrow strip or band, used on bookbindings for ties, the secondary sewing of endbands and the decorative lacing on expensive account books." , "@language" : "en" } ] }
+] }

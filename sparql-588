@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3275",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1218"} ,
+        { "@id": "http://w3id.org/lob/concept/4227"} ,
+        { "@id": "http://w3id.org/lob/concept/3523"} ,
+        { "@id": "http://w3id.org/lob/concept/3669"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "permkomponenter" , "@language" : "nb" } ,
+        { "@value" : "board components" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "de forskjellige bestanddelene som brukes for \u00E5 fremstille permer " , "@language" : "nb" } ,
+        { "@value" : "The component parts used in the construction and manufacture of boards." , "@language" : "en" } ] }
+] }

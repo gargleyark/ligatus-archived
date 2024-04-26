@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4099" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2293" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hud" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "hide" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "skinn fra store dyr i r\u00E5 eller ugarvet tilstand " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The skin of an animal, raw or dressed: more particularly applied to the skins of the larger beasts and such as may be tanned into leather." , "lang" : "en" } ] }
+}

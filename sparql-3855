@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/5431>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1425> ;
+	skos:prefLabel	"over head and tail (longstitch)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A technique of longstitch sewing in which the longstitch sets at the head and tail of the spine, instead of being located within the height of the spine, take the thread over the head and tail edges of the primary cover and down into the gatherings from the head and tail edges of the bookblock. This technique appears to be particularly associated on printed texts with German longstitch bindings. The sets may either be sewn independently (independent set longstitch) or continuous, and may include linking stitches at either or both ends of each set."@en .

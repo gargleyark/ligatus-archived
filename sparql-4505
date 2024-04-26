@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3004" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2270" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "right" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "back" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "front" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "upper" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "lower" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The place on the right of the centre of a book opened as if to be read. All the components or features of a binding on this side of the book can therefore be described as right (e.g. right board, right endleaves, etc.). This removes any confusion about what is the back board on books written in arabic or latin, for instance." , "lang" : "en" } ] }
+}

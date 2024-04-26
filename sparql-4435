@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1551>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2352> ;
+	skos:narrower	<http://w3id.org/lob/concept/1550> ,
+		<http://w3id.org/lob/concept/1389> ,
+		<http://w3id.org/lob/concept/1572> ,
+		<http://w3id.org/lob/concept/1604> ,
+		<http://w3id.org/lob/concept/1437> ;
+	skos:prefLabel	"rounded spines"@en ,
+		"rundet rygg"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"ryggen rundes for \u00E5 utligne \u00F8kning i ryggens tykkelse som oppst\u00E5r p.g.a. heftetr\u00E5den "@nb ,
+		"Spines that have been rounded, usually as the result of accomodating the swelling created by the sewing thread in the spine of the bookblock."@en .

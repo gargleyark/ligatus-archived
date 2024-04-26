@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3018>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2879> ;
+	skos:narrower	<http://w3id.org/lob/concept/3053> ;
+	skos:prefLabel	"kantsko"@nb ,
+		"shoes (book furniture)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"mindre rektangul\u00E6re metallplater festet p\u00E5 permkantens ytterste hj\u00F8rner i nedre kant eller slik at det dekker kantene p\u00E5 permens hj\u00F8rne "@nb ,
+		"Narrow, flat, metal strips, usually of copper alloy, nailed to the edges of boards to protect the covering material from wear during handling. Often found only on the tail edges of boards, they are also found bent round the outer corners of the boards (corner shoes) to protect the vulnerable tips of the corners. Shoes may also be fitted with studs (e.g. \u2018shoe with stud\u2019 or \u2018corner shoe with stud\u2019)."@en .

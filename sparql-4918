@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1699",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2383"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "type-holders" , "@language" : "en" } ,
+        { "@value" : "skriftkasse" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A tool designed to hold a line of type for titling books. The type could either be foundry type, as used by printers or at a later date engraved in copper alloy. Foundry type was used from at least the mid-eighteenth century. Type-holders should not be confused with lettering pallets in which whole words were engraved on a pallet." , "@language" : "en" } ,
+        { "@value" : "H\u00E5ndforgyllerverkt\u00F8y til \u00E5 sette l\u00F8se typer i for trykking av boktitler." , "@language" : "nb" } ] }
+] }

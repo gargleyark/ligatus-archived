@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4712",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1226"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bunnsnitt" , "@language" : "nb" } ,
+        { "@value" : "tail-edges (bookblock edges)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "bottom edges" , "@language" : "en" } ,
+        { "@value" : "lower edges" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bokblokkens nedre snitt" , "@language" : "nb" } ,
+        { "@value" : "The edge of the bookblock at the bottom of a book when placed upright on a shelf (i.e. the edge parallel to and below the bottom of the text on the pages in books with text)." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4083>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4602> ;
+	skos:prefLabel	"disk-clasp fastenings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fastenings which consist either of a catchplate with a circular disk on it placed on the surface of the board (disk catchplate) and clasp straps attached to the opposite board with circular clasps that have circular recesses in them (disk clasps) that fit over the raised disk on the disk catchplate, or the reverse, in which the catchplate has the recess and the clasp has the disk."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2525>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1585> ;
+	skos:prefLabel	"raised sewing supports"@en ,
+		"opph\u00F8yde hefthyssinger"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sewing supports that are placed on the surface of the spine of a bookblock and to which the gatherings are sewn."@en ,
+		"hefthyssinger som ligger p\u00E5 overflaten av bokblokkens rygg og som leggene heftes til "@nb .

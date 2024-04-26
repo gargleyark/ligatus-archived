@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3018" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2879" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3053" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "kantsko" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "shoes (book furniture)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "mindre rektangul\u00E6re metallplater festet p\u00E5 permkantens ytterste hj\u00F8rner i nedre kant eller slik at det dekker kantene p\u00E5 permens hj\u00F8rne " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Narrow, flat, metal strips, usually of copper alloy, nailed to the edges of boards to protect the covering material from wear during handling. Often found only on the tail edges of boards, they are also found bent round the outer corners of the boards (corner shoes) to protect the vulnerable tips of the corners. Shoes may also be fitted with studs (e.g. \u2018shoe with stud\u2019 or \u2018corner shoe with stud\u2019)." , "lang" : "en" } ] }
+}

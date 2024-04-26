@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/4923" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3156" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "cut nails" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Narrow tapering nails cut from flat metal sheets. The wider ends will usually have a clearly rectangular cross section, by which they can be recognised. They were widely used on cheaper bindings to attach metal furniture, clasp straps, etc. to boards in the 16th and 17th centuries. Where they penetrate thinner paper boards, they were usually clinched, or bent over on the inside of the board to prevent their pulling out." , "lang" : "en" } ] }
+}

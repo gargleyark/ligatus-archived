@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4420>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3287> ;
+	skos:prefLabel	"bridles"@en ;
+	skos:altLabel	"hinging loops"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The threads laced through holes drilled in the boards to which the outermost gatherings can then be sewn. This is a typical feature of Greek-style bindings and seldom if ever found elsewhere."@en .

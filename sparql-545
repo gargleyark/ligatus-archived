@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2836>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1353> ;
+	skos:prefLabel	"book chains"@en ,
+		"bokkjetting"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Lenke av metall som er festet til en av bokens permer og til en lesepult eller hylle der boken ble lest eller oppbevart.\r\n\r\n\r\n"@nb ,
+		"Length of chain used to secure books to shelving. Such chains were usually attached to one or other board at head-, tail- or fore-edge, depending on how the book was shelved."@en .

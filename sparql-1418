@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1285">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1481" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3988" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3990" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3994" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3855" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3960" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4320" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3953" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3956" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3545" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3986" />
+    <skos:prefLabel xml:lang="nb">dekorert papir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">decorated paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">i utgangspunktet et ufarget stykke papir som forskjønnes gjennom bruk av forskjellige prosesser som farging, sprenging, preging, blokktrykking, stensilering, marmorering  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Plain papers decorated by various means, which might include trough-marbling, stencilling, sprinkling, hand-colouring, block-printing, etc. Such papers were used in books as endleaves, covering materials, linings of boxes and sometimes in secondary uses such as spine linings. They were also used as wrapping paper or as a ground for printing and calligraphy.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

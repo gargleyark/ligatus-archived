@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2299" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1225" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1692" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "back-cornering" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "skredde permhj\u00F8rner" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "For \u00E5 lette forming av overtrekkets innslag inn mot ryggen ble litt av hj\u00F8rnene p\u00E5 permen besk\u00E5ret p\u00E5 skr\u00E5." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The process of cutting away the corners at both head and tail of the spine edge of a board. This was to serve either of two purposes - to lower the height of the board either, if the squares were particularly wide, to the level of the endband, or, if there was no endband, to the level of the bookblock, or to accommodate the turn-in of the covering material. The shape of the back-cornering can vary widely." , "lang" : "en" } ] }
+}

@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3994" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3996" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3998" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rennemarmorert papir" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "run-marbled paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Paper on which coloured or uncoloured liquids have been directly and purposely allowed to run across its surface, creating an effect not unlike running water. The effect can be achieved either by a simple colourant or by chemical means, or by a combination of both." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Dekoreringsteknikk der man lar farget eller ufarget flytende v\u00E6ske renne nedover overflaten p\u00E5 papiret, slik at det skapes et m\u00F8nster. Effekten kan oppn\u00E5s mekanisk eller kjemisk ved at man spruter p\u00E5 et l\u00F8sningsmiddel eller en kombinasjon av begge." , "lang" : "nb" } ] }
+}

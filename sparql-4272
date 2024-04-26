@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4682">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1186" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4148" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4152" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4138" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4670" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4504" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4134" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4136" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4777" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4456" />
+    <skos:prefLabel xml:lang="en">printing tools</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Tools and equipment used for printing using either relief or intaglio surfaces.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

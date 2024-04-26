@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1498>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1271> ;
+	skos:prefLabel	"peripheral cushions (board features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The border of the board is reduced in thickness around its edges by means of a gentle curve, which leaves the central part of the board flat. This was less expensive to execute than a full cushion, but also allowed the use of panel stamps to decorate the flat area in the centre."@en .

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3446" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3433" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "marginalia" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "marginalia (information object)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "inskripsjoner skrevet i margene p\u00E5 tekstbladene " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Notes written in the margins of a text." , "lang" : "en" } ] }
+}

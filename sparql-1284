@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4543",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2270"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "corners (place)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The meeting-place of converging sides or edges of a book, forming an angular extremity or projection. On books, they can be defined differently according to where they are found. The sides of a binding therefore will have upper and lower corners on either the inner (spine) or outer (fore-edge) edges whereas the spines or fore-edges of a book will have upper and lower corners at either the left or right sides." , "@language" : "en" } ] }
+] }

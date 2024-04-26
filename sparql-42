@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1202">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1391" />
+    <skos:prefLabel xml:lang="en">artificial hollow backs</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The covering material is prevented from adhering to the spine-folds or spine-linings of the bookblock during the covering process by means of the insertion of an infill or hollow. This has the effect of allowing thicker books or books printed on thicker paper or with narrow inner margins to open more easily without crushing the covering material on the spine and thus damaging lettering and gold-tooling. It is associated with books sewn on recessed supports with smooth spines, which, because of the comparative thinness of recessed supports, have more flexible spines which are therefore more likely to have this damaging effect on gold-tooled spines. The construction of an artificial hollow back was described by Dudin (1773) and it is probably a consequence of the re-introduction of recessed sewing supports for high-quality books with extensively tooled spines in France and England in the 1760s.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

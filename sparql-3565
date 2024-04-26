@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2973" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3029" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "mixed-colour paired ties" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "mangefargede lisser i par" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A pair of ties each of which is of different colour and which will create a multi-colour bow on the edge of the book." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "lukkemekanisme som best\u00E5r av tvunnete tr\u00E5der av sammensatte farger festet til hver sin perm og som knytes slik at permene holdes sammen rundt bokblokken " , "lang" : "nb" } ] }
+}

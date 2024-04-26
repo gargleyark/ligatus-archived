@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4506" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4739" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "ull" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "wool hair" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "lag av bl\u00F8te, ofte krusete h\u00E5r hos visse pattedyr" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The fine, soft, curly hairs found in the skin of the sheep, in contrast to the coarse guard hairs which are found in hairsheep and leave deeper and more prominent follicles in the skin and often resemble the follicle pattern of goatskin." , "lang" : "en" } ] }
+}

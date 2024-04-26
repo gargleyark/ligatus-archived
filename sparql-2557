@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1294" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hand-drawn staining (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The application of a stain to the cover of a book by means of a brush or another tool in a free-hand manner as opposed to dropped, run or dabbed staining. It was often done in lines of varying widths in colour (usually black), stained (often in the form of wavy or zig-zag lines), but occasionally in shapes that defies simple description." , "lang" : "en" } ] }
+}

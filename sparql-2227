@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3494>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1606> ;
+	skos:prefLabel	"frayed-out slips"@en ,
+		"fanet hefthyssing"@nb ;
+	skos:altLabel	"moustaches"@fr ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The slips of cord sewing supports or endband cores could be untwisted, frayed out and scraped against the edge of a knife so that they could be adhered to the internal or external surfaces of boards without leaving a prominent bump under either the covering material or the endleaves. The fraying and adhering of sewing support slips was a specifically German practice from at least the second quarter of the sixteenth century, at first to the external surfaces of the boards, and from the mid-seventeenth century to the internal surfaces. The use of endband slips for this purpose was especially typical of more expensive French bindings, on which it took over from laced endband slips in the second quarter of the sixteenth century and remained in use until the beginning of the seventeenth. The frayed slips were apparently known in France as &#039;moustaches&#039;. Occasional fifteenth-century examples have been recorded."@en ,
+		"den delen av heftehyssingen som stikker utover ryggen p\u00E5 bokblokken, skaves med baksiden av en kniv til en fane/vifteform slik at den jevnes ut f\u00F8r den klebes til permen "@nb .

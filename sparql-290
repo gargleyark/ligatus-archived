@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1210">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3154" />
+    <skos:prefLabel xml:lang="en">binders&amp;#039; tickets</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bokbinderetikett</skos:prefLabel>
+    <skos:altLabel xml:lang="en">name pallets</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Liten gravert, trykket eller av og til håndskrevet etikett med bokbinderens navn og eventuelt adresse som regel limt på innsiden av for- eller bakpermen. Alternativt kunne bokbinderen trykke navnet sitt blindt, i gull eller med blekk ofte på innslaget på innsiden av bakpermen.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Small engraved, printed or occasionally manuscript labels, usually pasted inside the left or right cover, or on the adjoining endleaves, giving the name (and usually the address) of the bookbinder.  Tickets were used from the early 18th century until about 1825, but were not often seen in England until about 1780. The use of the ticket gave way to the practice by binders of lettering their names in gilt, blind, or ink.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

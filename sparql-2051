@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1407" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2342" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "falske festbind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "kettlebands" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The raised bands originally created by the kettle-stitches at the head and tail of the spine of the book, but often, in fact, created over lengths of cord or leather as part of the design of the spine, as false kettlebands, where the actual kettlestitches were not in an aesthetically pleasing position. " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Falske bind plassert \u00F8verst og nederst p\u00E5 ryggen der hvor festbindene normalt befinner seg som en del av bokryggens design." , "lang" : "nb" } ] }
+}

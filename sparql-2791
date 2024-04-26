@@ -1,0 +1,16 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3746>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2362> ;
+	skos:narrower	<http://w3id.org/lob/concept/1291> ,
+		<http://w3id.org/lob/concept/2921> ,
+		<http://w3id.org/lob/concept/2952> ,
+		<http://w3id.org/lob/concept/1425> ,
+		<http://w3id.org/lob/concept/3149> ,
+		<http://w3id.org/lob/concept/3227> ;
+	skos:prefLabel	"heftet p\u00E5 bind"@nb ,
+		"supported sewing (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bokblokkens legg heftes i midten til tverrg\u00E5ende heftbind."@nb ,
+		"Sewing gatherings  through the fold to either transverse or pierced sewing supports, as opposed to unsupported sewing that does not have any type of sewing support."@en ,
+		"Sewing gatherings through the fold to either transverse or pierced sewing supports, as opposed to unsupported sewing that does not have any type of sewing support."@en .

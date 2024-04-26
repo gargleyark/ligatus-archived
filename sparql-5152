@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3452">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3431" />
+    <skos:prefLabel xml:lang="nb">superekslibris</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">supralibros (information objects)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">super ex-libris</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Indications of ownership, often heraldic,  on the covers or external surfaces of a book. This information may be given by being blocked on the left (or right) sides of a book or may be engraved on furniture or fastenings attached to a binding. In some cases a centre might be made in the form of a cast coat of arms. They may be elaborately decorated and form part of the decorative scheme of a binding in addition to giving information about ownership.
+
+</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">eiermerke, ofte med heraldisk motiv plassert på permene eller på utsiden av en bok </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

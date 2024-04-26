@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4500" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4496" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "silhouette stencils" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "silhuettstensiler" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Objects such as a tree leaves placed on the surface to be decorated and sprinkled over with pigment, leaving the silhouette of the shape visible on the decorated surface." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "objekter plassert p\u00E5 den overflate som skal dekoreres og som blir sprinklet over med farge  " , "lang" : "nb" } ] }
+}

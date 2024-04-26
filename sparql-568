@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3062",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2376"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bindtredd struktur " , "@language" : "nb" } ,
+        { "@value" : "tacketed structures" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Structures in which the gatherings are secured by primary tackets which may or may not go through a cover." , "@language" : "en" } ,
+        { "@value" : "heftetenikk der bladene i en bokblokk tres sammen" , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1209>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2286> ;
+	skos:prefLabel	"bookbinder&#039;s gatherings"@en ;
+	skos:altLabel	"binder&#039;s gatherings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Gatherings which contain more than one bibliographical unit and inserted material such as interleaving, extra plates, etc. used as single gatherings. Single leaves or single bifolia, which may be distinct bibliographical units, become parts of a single gathering when they are held together by tipping, overcasting or oversewing."@en .

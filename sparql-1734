@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1322">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1379" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1256" />
+    <skos:prefLabel xml:lang="en">extension guards</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Strips of sheet material (most often paper) tipped to the spine edges of individual leaves or bifolia which can then be folded, either individually or in groups (see bookbinder&amp;#039;s gatherings), and sewn through. Guards were frequently used to hold the folds of folded plates or maps at distance from the spine of the bookblock, to allow them to be opened flat and not &amp;#039;lost&amp;#039; in the gutter. Leaves attached to a bookblock in this manner are referred to as guarded.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

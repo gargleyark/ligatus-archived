@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3793>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3431> ;
+	skos:narrower	<http://w3id.org/lob/concept/3796> ,
+		<http://w3id.org/lob/concept/3798> ,
+		<http://w3id.org/lob/concept/3801> ;
+	skos:prefLabel	"bibliographical information"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The data deriving from the systematic description of books, their authorship, printing, publication, editions, etc., which are used to identify the content and make-up of individual volumes."@en .

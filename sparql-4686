@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1562",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1268"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sekund\u00E6rt overtrekk" , "@language" : "nb" } ,
+        { "@value" : "secondary covers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "overtrekk som ligger utenp\u00E5 et prim\u00E6rt overtrekk, for \u00E5 beskytte eller forskj\u00F8nne bindets prim\u00E6re overtrekk  " , "@language" : "nb" } ,
+        { "@value" : "An additional cover placed over a primary cover and attached to the book by whatever means. The attachment might be made by means of adhesive, pockets sewn or folded into the fore-edges of the secondary cover into which the fore-edges of the primary cover could be inserted, lacing the turn-ins of the secondary cover together on the inside of the boards or cover, simply folding the secondary cover in at head, tail and fore-edge, etc. The medieval chemise should be defined as a type of secondary cover. Many plain laced or adhesive cases of cartonnage were originally given secondary covers of decorated paper, but all other types of binding could be given secondary covers, either by professional bookbinders or by their owners at any time after they were made.  Secondary covers added at a later date are often identified by the fact that their turn-ins will be adhered over the pastedowns of the original bindings and their turn-ins at head and tail will be cut at the joints. Dust wrappers should also be considered as secondary covers, albeit somewhat ephemeral ones. A secondary cover always requires the existence of a primary cover. Secondary covers may also be found on boxes." , "@language" : "en" } ] }
+] }

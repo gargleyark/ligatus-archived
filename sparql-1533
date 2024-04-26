@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2884>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	"drivning"@nb ,
+		"metal embossing"@en ;
+	skos:altLabel	"repouss\u00E9"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Dekorasjonsteknikk innen metallarbeid, der metallet formes ved hamring med punsel fra baksiden slik at m\u00F8nsteret fremst\u00E5r i relieff."@nb ,
+		"In metalwork, a technique for decorating a surface by hammering the reverse of the object, sometimes into a mold of wood that has been carved in intaglio, to create designs in relief."@en .

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1671">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2350" />
+    <skos:prefLabel xml:lang="nb">fast rygg</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">tight backs</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A feature of the spine in which the covering material is adhered either directly to the spine-folds of the bookblock or to the spine-linings. If the spine is flexible, the covering material will therefore move with the spine-folds into a concave shape as the book is opened (throw up).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">en strukturell egenskap ved bokryggen når ryggmaterialet er limt direkte på bokblokkens rygg eller ryggfôring </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2976" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1386" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "eik" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "oak" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "tre i slekten Quercus " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The grey-brown wood of trees belonging to the genus Quercus, of the Fagaceae family. It is a durable wood that has a distinctive coarse grain, used in cabinetry, flooring, paneling, panel painting and sculptures. When cut on the quarter, it will show the distinctive figuring created by the medullary rays as they break the surface of the planed plank. It was frequently used for the boards of books at all periods in most northern European countries, but especially in the Low Countries, Britain and France." , "lang" : "en" } ] }
+}

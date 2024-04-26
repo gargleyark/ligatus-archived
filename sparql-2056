@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1432",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3407"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "f\u00F4ret forsatsblad" , "@language" : "nb" } ,
+        { "@value" : "made endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : " forsatsblad som klebes til et annet fritt forsatsblad  " , "@language" : "nb" } ,
+        { "@value" : "Free endleaves which consist of two adjacent free endleaves that have been adhered together (most often with paste). This was usually done to the first two free endleaves (i.e. those closest to the pastedown. The resulting leaf was stiffer and stronger than the other free endleaves, and often used a decorated paper on the side which faced the pastedown, though pairs of undecorated leaves could also be &#039;made&#039;." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1389",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1551"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sterkt rundet rygg " , "@language" : "nb" } ,
+        { "@value" : "heavy round spines" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A spine whose shape is nearly semi-circular (Szirmai standard curve +5, see figure 7.33 a, p. 134). Heavily rounded spines are a common feature of German bindings of the second half of the 16th and the early 17th centuries. " , "@language" : "en" } ,
+        { "@value" : "Bokrygg hvis form er rundet til omtrent en halvsirkel." , "@language" : "nb" } ] }
+] }

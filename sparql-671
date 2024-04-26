@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3793" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3431" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3796" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3798" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3801" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bibliographical information" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The data deriving from the systematic description of books, their authorship, printing, publication, editions, etc., which are used to identify the content and make-up of individual volumes." , "lang" : "en" } ] }
+}

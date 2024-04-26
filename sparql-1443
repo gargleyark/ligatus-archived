@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1291" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3746" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "double sewing support sewn as one (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The two elements of the supports are encircled by the sewing thread which does not therefore pass between them. This was an economy introduced by the mid 17th century that retained the strength of the board attachment, but greatly reduced the time taken to sew the bookblock." , "lang" : "en" } ] }
+}

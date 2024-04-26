@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3953">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4160" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4162" />
+    <skos:prefLabel xml:lang="en">metallic paper</skos:prefLabel>
+    <skos:altLabel xml:lang="en">metal paper</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Papers which are entirely covered with metal in one form or another and sometimes showing the marks of tools used for the application of a ground layer. These papers could then be burnished. Sheets of this type of paper will always present an unbroken coating of burnished metal without any applied colours. Metallic papers could be blind-embossed with the same plates that were used to make brocade papers which has led some historians to describe them as brocade papers, but it might be simpler if this term is reserved for those papers which are partially covered by metal in limited areas according to the pattern.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3503>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3513> ;
+	skos:prefLabel	"cut stub attachment"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Where the stubs of the endleaves and/or endleaf guards are used to attach the boards extend to the full height of the bookblock, they were often cut across towards their head and tail ends to allow the central portion of the stub to be used for the board attachment, and leave a space for the cover to be turned-in at head and tail, after which the tabs left at head and tail would be pasted or glued on top to the turn-ins. The knife-cuts made across the stubs are usually clearly visible through a plain pastedown, or by means of a rubbing if under marbled paper. This type of board attachment is very common on Italian inboard bindings of the eighteenth and nineteenth centuries."@en .

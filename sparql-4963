@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2538>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2370> ;
+	skos:prefLabel	"sewn endbands"@en ;
+	skos:altLabel	"worked headbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Endbands secured to the bookblock by tiedowns of sewing thread taken down into the gatherings, which may or may not include a core, but are always worked separately from the main sewing of the bookblock. The sewing may be executed with a tiedown in each gathering across the spine or with only two tiedowns, one at each end, or anything in between. All should be described as sewn endbands."@en .

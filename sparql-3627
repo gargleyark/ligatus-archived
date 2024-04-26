@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4579>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3458> ;
+	skos:prefLabel	"marg"@nb ,
+		"margins"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"flate som omgir en typografisk oppstilling og som avgrenses av formatet  "@nb ,
+		"Areas of a page between the printed, written, or illustrative matter (text area) and the edges of the leaf. The four margins are usually called the &#039;head&#039; (or top); &#039;fore-edge&#039; (or outer, outside, side); &#039;tail&#039; (or bottom foot); and &#039;inner&#039; (or gutter)."@en .

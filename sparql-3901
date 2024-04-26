@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1494" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1619" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "patch spine linings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A piece of sheet material cut or torn to an irregular shape which does not fill the panel to which it is adhered. Panel linings have only been recorded on British bindings of the late seventeenth and early eighteenth centuries. They seem only to have been used on thicker volumes, and thinner volumes, even within a multi-volume set, will often not have linings." , "lang" : "en" } ] }
+}

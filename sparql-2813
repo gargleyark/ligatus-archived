@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4011" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3515" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4029" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "surface-adhering (slips)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heftbindender klebet til permen" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Adhering the slips of transverse sewing supports to either the internal or external surface of the boards, to attach them to sewn bookblocks." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Teknikk for \u00E5 f\u00F8ye sammen permer og bokblokk, der endene av heftbindene klebes enten til permenes innside eller utside for \u00E5 feste dem til bokblokken." , "lang" : "nb" } ] }
+}

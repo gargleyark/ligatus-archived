@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3056">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2848" />
+    <skos:prefLabel xml:lang="nb">permbeslag</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">surface fittings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">metallbeslag som sitter på overflaten av permen og ikke er bøyd rundt permens kanter </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Pieces of metal furniture which sit on the surface of the board and do not fold over their edges.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

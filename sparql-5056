@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3038">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3311" />
+    <skos:prefLabel xml:lang="en">Solander boxes</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">Solanderboks</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Wooden boxes shaped externally like a bound book with a rounded spine (and sometime false bands), covered in full or partial leather covers (the latter often with marbled paper on the sides), which hinges on both sides of the spine to allow the spine to lie flat on a table when the box is opened to give easy access to its contents. Their modern equivalents are for this reason known as ‘drop-spine’ or drop-back boxes. They were originally designed by Dr Daniel Solander in the late eighteenth century for the British Museum collections of mounted botanical specimens and were soon used outside the museum for housing unbound pamphlet collections, music in parts, etc, as well as books.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Boks laget av tre formet som en bok på utsiden med rundet rygg ofte kledd helt, eller delvis i skinn og dekorert papir, bunn og lokk er hengslet sammen på hver side av ryggen, slik at man får full tilgang til innholdet når boksen ligger åpen. Opprinnelig laget for British Museum av Dr. Daniel Solander på slutten av 1700-tallet for oppbevaring av botanisk materiale, og ble raskt tatt i bruk andre steder til oppbevaring av uinnbundne samlinger og bøker.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

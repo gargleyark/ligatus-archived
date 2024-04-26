@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3483>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3329> ;
+	skos:prefLabel	"crowning subsidiary cores"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Subsidiary cores which sit on top of the main cores. Crowning cores were a common feature of Italian bindings of the renaissance, hence their sometimes being known as &#039;renaissance endbands&#039;. At that date the crowning cores were attached by means of the secondary sewing, but from the early seventeenth century, from which date they become a common feature of more expensive bindings across Europe, they were incorporated into the primary sewing."@en .

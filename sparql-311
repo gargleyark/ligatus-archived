@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1217" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2346" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "permkanter" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "board edges" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The flat surface across the thickness of a board created when a board is cut. To avoid confusion, the word &#039;edge&#039; should not be used to describe the area around the perimeter of the internal or external surface of a board, which should be described as the border." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "de flate langsg\u00E5ende yttersidene p\u00E5 en tilsk\u00E5ret perm" , "lang" : "nb" } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1689" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tubs" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Stands on which a cutting or laying press is placed for cutting the edges of bookblocks. Tubs were originally made of wooden staves held together by hoops and acted as a bin into which discarded pieces of paper, textile, etc. could be thrown and in which it would appear pulp boards could also be made." , "lang" : "en" } ] }
+}

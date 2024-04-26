@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1651">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1329" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3289" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3291" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1269" />
+    <skos:prefLabel xml:lang="en">straight-line tools</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A variety of tools could be used to create straight lines, including fillets, straight-line pallets and creasers and it may not be possible to tell which of them may have been used on any individual binding. It is therefore safer to define the tool according to the number of lines it was able to make (i.e. one-line tool, two-line tool, three-line tool, etc.) without defining the particular type of tool used. </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

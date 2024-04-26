@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4184">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4195" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4197" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2902" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3024" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3064" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2918" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4448" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2883" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3043" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4341" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4193" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4344" />
+    <skos:prefLabel xml:lang="nb">tittel</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">titles (features)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+  </rdf:Description>
+</rdf:RDF>

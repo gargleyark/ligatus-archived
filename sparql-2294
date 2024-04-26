@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4620",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3407"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "full-size endleaves" , "@language" : "en" } ,
+        { "@value" : "forsatsst\u00F8rrelse lik tekstblokken" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Medheftet forsatsblad som har samme st\u00F8rrelse som tekstblokken." , "@language" : "nb" } ,
+        { "@value" : "Leaves that are the same size as the bookblock. Where the bookblock edges are uncut, it is a matter of judgement whether to describe them as full-size or undersize, as exact sizes of leaves with uncut edges are not always easy to identify. This term should be used to describe leaves added by the binder (i.e. endleaves and/or interleaving)." , "@language" : "en" } ] }
+] }

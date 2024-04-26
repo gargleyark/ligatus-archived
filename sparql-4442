@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1553",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3876"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1681"} ,
+        { "@id": "http://w3id.org/lob/concept/1525"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "run marbling" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The process of decorating a covering material such as paper or animal skins in which a liquid has been dropped onto and allowed to run over its surface to leave irregular, flowing traces. The effect can be achieved with coloured stains, or by chemical means, or by a combination of both. The covering material could be so decorated either before or after it was put onto the book, but skin materials were most often decorated on the book (leaving the spine, board edges and turn-ins undecorated), whilst papers were more often decorated in the sheet, before they were put onto the book." , "@language" : "en" } ,
+        { "@value" : "Process of decorating a covering material such as paper or animal skins in which a coloured or an uncoloured liquid has been directly and purposely dribbled on their surface to leave distinguishable traces. The effect can be purely mechanical, but can also be achieved by chemical means or by a combination of both." , "@language" : "en" } ] }
+] }

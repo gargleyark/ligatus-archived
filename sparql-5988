@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4230">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1663" />
+    <skos:prefLabel xml:lang="nb">uåpnet bokblokk</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">unopened textblocks</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">bokblokk bestående av falsede kvartark eller mindre, der falsene i hode, fot eller foran ikke er blitt sprettet opp </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Textblocks composed of sheets folded in quarto format or smaller in which the bolts on the head, tail or fore-edges have not been opened.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

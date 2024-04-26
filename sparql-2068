@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1493",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3407"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3081"} ,
+        { "@id": "http://w3id.org/lob/concept/1686"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "pastedowns (features)" , "@language" : "en" } ,
+        { "@value" : "forsatsspeil" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "board sheets" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "del av forsatsen som klebes til innsiden av permene eller omslaget " , "@language" : "nb" } ,
+        { "@value" : "Endleaves that are adhered to the inside of a cover or to the boards after a book is covered, even though this may be no more than the outer element of a guard or an outside-hook endleaf. The fact that an endleaf is used as a pastedown does not alter its identification within an endleaf format. It is simply an additional function added to that element or elements. Pastedowns must by definition be made towards the end of the binding process, after covering, but if an endleaf element was adhered to the inside of the boards before the book was covered, these should be described either under primary board attachment or as board stabilisers and not as pastedowns. Pastedowns are also known as board sheets (C. Clarkson)." , "@language" : "en" } ] }
+] }

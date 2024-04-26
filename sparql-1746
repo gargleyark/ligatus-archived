@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1364">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2422" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3161" />
+    <skos:prefLabel xml:lang="nb">eggehvite</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">glaire</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A heat activated adhesive composed of beaten egg white and vinegar used cold for the gilding of edges and set by heat with the use of heated finishing tools. Also used to secure metal leaf to covering materials through pressure from heated finishing tools.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">fargeløs bestanddel i egg med en viss klebeevne, brukt som bindemiddel til å feste bladgull</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

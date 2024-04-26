@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1636",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2340"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2324"} ,
+        { "@id": "http://w3id.org/lob/concept/2306"} ,
+        { "@id": "http://w3id.org/lob/concept/1447"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "stained decoration" , "@language" : "en" } ,
+        { "@value" : "flekket dekor" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Stains or various types and colours were used to decorate bindings covered in both animal skins and paper in a bewildering variety of ways, for most of which no complete and satisfactory terminology exists. The term &#039;stain decoration&#039; will cover all of these." , "@language" : "en" } ,
+        { "@value" : "mer eller mindre regelmessige flekker p\u00E5f\u00F8rt p\u00E5 utsiden av et materiale for \u00E5 skape en dekorativ effekt" , "@language" : "nb" } ] }
+] }

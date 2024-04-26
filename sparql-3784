@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2494">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:prefLabel xml:lang="nb">overtrekk med innslag</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">turned-in covers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A cover in which the covering material is wrapped around an inboard binding and turned-in at head, tail and fore-edge. This is the type of cover that will be found on the great majority of books bound in boards (inboard bindings).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">overtrekksmateriale slått inn rundt permenes kanter og ved ryggens hode og fot etter at permene er montert på bokblokken </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

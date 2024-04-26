@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3006" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3338" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "ring cores (bookmarks)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A ring, normally made of cord wound round and covered with thread but occasionally made of metal which is attached onto or through an endband and acting as the primary element of compound markers. The secondary marker normally consists of one or more strings or ribbons knotted on this ring. These rings can be open or closed and when made of thread or cord they can be consistently found in two forms, straight and kinked." , "lang" : "en" } ] }
+}

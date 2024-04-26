@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3984",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "stencilling" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "stenciling" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Method of creating multiple copies of a design by cutting it out of a thin yet durable piece of sheet material, such as thin cardboard, paper or parchment, and dabbing, pouncing, sprinkling, or rubbing a pigment through the openings (cut-out stencil). Stencilling and colouration can be repeated numerous times, with different colours and in addition to other decoration techniques like block-printing or metal-leaf embossing. Alternatively, small pieces of material such as grains of rice could be scattered over a piece of paper, usually already coloured, and sprinkling over them to create the decoration (scattered stencil)." , "@language" : "en" } ] }
+] }

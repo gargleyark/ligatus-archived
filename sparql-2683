@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2442>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2438> ;
+	skos:prefLabel	"horn"@en ,
+		"horn"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"stoffet som dyrehorn best\u00E5r av, gjenstander av horn"@nb ,
+		"Outgrowth of modified skin or compacted hair, often occuring in pairs, projecting from the frontal bones on either side of the skull, consisting of a nondeciduous cuticle composed of keratin. Distinguished from &quot;antler,&quot; which is modified bone."@en .

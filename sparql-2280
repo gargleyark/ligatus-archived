@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4478">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2927" />
+    <skos:prefLabel xml:lang="en">folded hooked clasps</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Clasps which are made from a length of sheet metal folded in half with the folded end formed into the hook. The double thickness allows the clasp strap to be sandwiched between the two halves of the clasp and riveted, without the need for a rivet plate.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

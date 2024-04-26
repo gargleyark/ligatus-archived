@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2484>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:narrower	<http://w3id.org/lob/concept/1481> ,
+		<http://w3id.org/lob/concept/1483> ,
+		<http://w3id.org/lob/concept/4616> ,
+		<http://w3id.org/lob/concept/2969> ,
+		<http://w3id.org/lob/concept/2470> ,
+		<http://w3id.org/lob/concept/2293> ,
+		<http://w3id.org/lob/concept/2482> ;
+	skos:prefLabel	"sheet (materials)"@en ,
+		"ark"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Material that is presented in broad, thin sheets or layers, which may be either rigid or flexible."@en .

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4015",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2366"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "flettverksdekor" , "@language" : "nb" } ,
+        { "@value" : "decorative lacing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "sammenhengende flette- eller nettingm\u00F8nster brukt som dekor p\u00E5 bokbind, s\u00E6rlig protokoller " , "@language" : "nb" } ,
+        { "@value" : "The process of lacing thongs or tapes through holes in the covers of books to create decorative patterns. Decorative lacing is typically found on the leather bands on tacketed stationery bindings and turn-in lacing on limp covers." , "@language" : "en" } ] }
+] }

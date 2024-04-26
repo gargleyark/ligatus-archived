@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3579>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1658> ,
+		<http://w3id.org/lob/concept/1593> ;
+	skos:prefLabel	"roan"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A variety, or varieties, of leather produced from a superior grade of unsplit sheepskin. Roan is softer than basil, and is coloured and finished in imitation of morocco. The typical roan has a close, tough, long, boarded grain, a compact structure, and is usually dyed a red color. Originally, roans were leathers tanned exclusively with sumac (as were the moroccos); however, in later years they were often tanned with other vegetable tannins. They were used extensively for covering books from about 1790 until well into the 19th century, but have been seldom used since that time."@en .

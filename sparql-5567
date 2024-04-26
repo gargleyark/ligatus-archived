@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1668>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3271> ;
+	skos:narrower	<http://w3id.org/lob/concept/2890> ,
+		<http://w3id.org/lob/concept/2934> ,
+		<http://w3id.org/lob/concept/3320> ;
+	skos:prefLabel	"tiedowns"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The lengths of thread taken down into the gatherings at head or tail of the spine which provide the structure of the endband, and, where there is a core, secure the core to the bookblock. In most cases, the thread is taken down into the gatherings on a needle from the head or tail edge to create an internal tiedown in the spine-folds of the gatherings, emerging at the spine to return to the edge as an external tiedown, usually to wind round an endband core. It is the presence of tiedowns across a spine which is one of the defining characteristics of a primary endband sewing. The number of tiedowns in relation to the number of gatherings dictates the structural quality of an endband, a 1:1 relationship offering the highest quality, and anything less than that a progressive diminution of quality, until only two tiedowns are used, the smallest number that can be used for a viable worked endband."@en .

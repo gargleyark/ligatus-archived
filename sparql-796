@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4865",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1205"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "flat joints" , "@language" : "en" } ,
+        { "@value" : "bokblokk uten bankede falser" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bokblokker uten bankede falser " , "@language" : "nb" } ,
+        { "@value" : "Joints without any induced shape, and usually associated with flat spines without any swelling created by the sewing thread. Where there is some slight swelling, this was often, especially in the late fifteenth century, accommodated within a slightly rounded spine whilst retaining flat joints, with the boards hingeing on the inner sides of their spine edges." , "@language" : "en" } ] }
+] }

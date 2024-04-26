@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3183>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:narrower	<http://w3id.org/lob/concept/3975> ,
+		<http://w3id.org/lob/concept/4779> ;
+	skos:prefLabel	"trykking"@nb ,
+		"printing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"teknikk for \u00E5 lage identiske kopier av tekst eller bilder p\u00E5 en matrise som overf\u00F8res til et materiale  gjennom trykk "@nb ,
+		"Various means of reproducing identical copies of graphic matter in a fixed form. Processes by which an image, pictorial or textual, is transferred, usually to paper or cloth, most often by means of a plate, block, stone, or screen."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3962>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3558> ;
+	skos:prefLabel	"drap d\u00B4or dekorert papir"@nb ,
+		"drap d&#039;or"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A specific type of brocade paper that is first coloured through stencils, then metal-leaf embossed and finally coloured by hand afterwards in specific areas of the design (hand-colouring), in order to enhance parts of the decoration (e.g. petals or flower leaves)."@en ,
+		"sjablong- eller blokktrykt dekorert papir med gull- eller s\u00F8lvfarget relieffpreg og h\u00E5ndkolorerte detaljer  "@nb .

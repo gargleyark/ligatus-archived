@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4636">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3545" />
+    <skos:prefLabel xml:lang="en">displace-patterned paste paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">klisterpapir med fordrivning</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Papiret dekkes med klister iblandet farge, som pensles eller stoples på og mens klisteret fortsatt er vått, blir forskjellig verktøy benyttet for å skape mønster. Ofte anvendte man ganske enkelt fingrene, eller en sammenkrøllet fille, svamp eller pensel, kam, gjerne kombinert med stempler eller graverte ruller. Det kan være ensfarget eller flerfarget. Karakteristisk for klisterpapir med fordrivning er en tydelig gjenkjennbar tekstur som oppstår under bearbeidelsen av det våte klisteret, da overskuddsklister skyves ut i kantene av mønsteret, mens papiret i mellom delvis frilegges.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Paste paper in which design elements have been added by partially displacing the wet paste colour using a variety of different techniques. As a result, the paper is left more or less exposed where the pressure was applied and the paste colour can often be seen to have been pushed to the edges of the exposed areas, leaving a thicker application around the edges of the coloured areas.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4638" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3960" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3981" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3969" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1213" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "relief-printed paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Papers printed from wood-blocks, metal plates or type ornaments in which the non-printing areas are removed, leaving the design raised so that ink could be applied to its raised surface and then transferred to sheets of paper." , "lang" : "en" } ] }
+}

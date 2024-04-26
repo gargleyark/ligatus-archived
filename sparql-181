@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4109>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1214> ;
+	skos:prefLabel	"armorial blocks"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Blocks bearing coats of arms, crests or other armorial achievements found most often on the sides of a binding. Some coats of arms on the sides of bindings were created by single handle tools, not blocks and care should be taken to identify the use of a block. Coats of arms found on the spines of books will be smaller than those on the sides and will have been created by the use of a handle tool rather than a block, as blocks can only be used on flat surfaces."@en .

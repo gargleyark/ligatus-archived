@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4160",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3953"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "metallpapir" , "@language" : "nb" } ,
+        { "@value" : "metal powder paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "papir som er dekket av et lag metall, som oftest en legering " , "@language" : "nb" } ,
+        { "@value" : "Metallic papers produced either by scattering a metallic powder (most commonly brass or tin alloys) over paper that has been previously coated with an adhesive or by coating it with a metallic paint such as shell gold." , "@language" : "en" } ] }
+] }

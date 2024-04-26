@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3006>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3338> ;
+	skos:prefLabel	"ring cores (bookmarks)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A ring, normally made of cord wound round and covered with thread but occasionally made of metal which is attached onto or through an endband and acting as the primary element of compound markers. The secondary marker normally consists of one or more strings or ribbons knotted on this ring. These rings can be open or closed and when made of thread or cord they can be consistently found in two forms, straight and kinked."@en .

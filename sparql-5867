@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4555>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4573> ;
+	skos:prefLabel	"tying-up darts (features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The triangular dart-shaped impressions created on the spine edge of the boards by the two lengths of tying-up cord, one on each side, used to tie-up a covering skin over a raised band."@en .

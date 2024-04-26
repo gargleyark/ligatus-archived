@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2898">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3197" />
+    <skos:prefLabel xml:lang="nb">foliering</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">foliation</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">plassering av etterfølgende numre på hvert blad i en bok, som regel på høyre side. Hvert blad har to sider, en recto og verso side. Kan også referere til nummerering av hele boken </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The placing of consecutive numbers one on each folio of a book; may also refer to the overall configuration of the numbering in the book. Each folio therefore has two pages, sometimes distinguished as recto and verso, or a and b sides, but these will change according to the direction of writing. Defining as left or right sides of a leaf will avoid this problem.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

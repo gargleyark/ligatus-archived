@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1350",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1502"} ,
+        { "@id": "http://w3id.org/lob/concept/1348"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "full-cover pierced sewing supports" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Pierced supports in the form of full covers. Whole covers form an integral part of many longstitch, chainstitch and external support bindings, and may be made of parchment, cartonnage, and tanned or alum-tawed skin, and may also be used in combination with whole-spine pierced supports and multiple pierced supports." , "@language" : "en" } ] }
+] }

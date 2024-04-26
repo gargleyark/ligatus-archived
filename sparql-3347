@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3137>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4167> ;
+	skos:prefLabel	"longstitch bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings in which a case is attached to the bookblock by means of sewing the gatherings through the cover using pairs of holes between which the thread is visible on the spine of the cover, creating one or more longstitch sets."@en .

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3519>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1222> ;
+	skos:prefLabel	"folded boards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Boards made from papyrus and folded along their spine edges and sewn through have been found in early Coptic bookbinding, but are much more commonly found on bound almanacs of the eighteenth and early nineteenth centuries, where pieces of thin card were folded along their spine edges and sewn through the fold at the beginning and end of the bookblock, creating sewn boards. Expanding gussets of paper, textile or tanned or alum-tawed skin were then inserted at the head and tail to create pockets for keeping notes in. Such pockets of sewn folded card with expanding gussets could also be used in conjunction with thicker boards, to which they were adhered, in a variety of structures. "@en .

@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2953",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3748"} ,
+        { "@id": "http://w3id.org/lob/concept/2951"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "linked unsupported sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A form of sewing without supports in which the thread as it emerges from each sewing station is taken behind the sewing thread of the previous gathering before returning either to the same gathering (for intermediate sewing stations), or into the next gathering for kettlestitches." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4636" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3545" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "displace-patterned paste paper" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "klisterpapir med fordrivning" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Papiret dekkes med klister iblandet farge, som pensles eller stoples p\u00E5 og mens klisteret fortsatt er v\u00E5tt, blir forskjellig verkt\u00F8y benyttet for \u00E5 skape m\u00F8nster. Ofte anvendte man ganske enkelt fingrene, eller en sammenkr\u00F8llet fille, svamp eller pensel, kam, gjerne kombinert med stempler eller graverte ruller. Det kan v\u00E6re ensfarget eller flerfarget. Karakteristisk for klisterpapir med fordrivning er en tydelig gjenkjennbar tekstur som oppst\u00E5r under bearbeidelsen av det v\u00E5te klisteret, da overskuddsklister skyves ut i kantene av m\u00F8nsteret, mens papiret i mellom delvis frilegges." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Paste paper in which design elements have been added by partially displacing the wet paste colour using a variety of different techniques. As a result, the paper is left more or less exposed where the pressure was applied and the paste colour can often be seen to have been pushed to the edges of the exposed areas, leaving a thicker application around the edges of the coloured areas." , "lang" : "en" } ] }
+}

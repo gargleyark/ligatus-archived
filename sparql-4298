@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4934",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "papirpulp" , "@language" : "nb" } ,
+        { "@value" : "paper pulp" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The mechanically and/ or chemically prepared mixtures obtained from vegetable fibers and used in the manufacture of paper and board." , "@language" : "en" } ,
+        { "@value" : "mekanisk eller kjemisk tilberedt masse av vegetabilske fibre for fremstilling av papir " , "@language" : "nb" } ] }
+] }

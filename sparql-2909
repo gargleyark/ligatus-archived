@@ -1,0 +1,18 @@
+{
+  "http://w3id.org/lob/concept/1694" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2354" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1473" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3717" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3719" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3721" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3723" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1684" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1451" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3713" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3715" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "turn-ins" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "innslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The parts of a cover that are turned in around one or more of its edges. Turn-ins will be found both over boards, cover linings and on limp covers. They can vary enormously in width, and may even overlap each other from head and tail on the inside of a limp cover. They will also vary enormously in the ways in which they are trimmed - from straight and parallel to the edge of the cover to edges which are irregular and uneven. Over boards, they may be pared before or after they have been turned-in in, and they can be left plain or they can be decorated with stains and tooling. Turning-in creates neat, straight edges on a cover, and, in limp bindings with relatively thin covers, will reinforce the edges of the cover. They are for this reason often found on the fore-edges of limp bindings that do not have turn-ins at head and tail or on the leading edge of fore-edge envelope flaps." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "den delen av overtrekksmaterialet som blir sl\u00E5tt inn p\u00E5 innsiden av permen og som ikke synes p\u00E5 utsiden av permen" , "lang" : "nb" } ] }
+}

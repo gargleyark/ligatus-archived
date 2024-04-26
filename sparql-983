@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/1273" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1226" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4515" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1549" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3528" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1609" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1337" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "snitt" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "cut edges" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "kantene p\u00E5 bokblokken er besk\u00E5ret" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The edges of the bookblock have been cut." , "lang" : "en" } ] }
+}

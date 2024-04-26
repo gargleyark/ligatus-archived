@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1311>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1657> ;
+	skos:prefLabel	"endband secondary tackets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Secondary tackets used to attach a case to a sewn endband. They appear to have been used on printed books only in Italy, but they have a more widespread, earlier use on archival bindings."@en .

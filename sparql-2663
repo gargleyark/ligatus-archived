@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2360>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:narrower	<http://w3id.org/lob/concept/1212> ,
+		<http://w3id.org/lob/concept/1387> ,
+		<http://w3id.org/lob/concept/1299> ,
+		<http://w3id.org/lob/concept/1445> ,
+		<http://w3id.org/lob/concept/1283> ;
+	skos:prefLabel	"tooling (techniques)"@en ,
+		"stempeltrykking"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"h\u00F8ytrykksteknikk der graverte eller st\u00F8pte stempler presses (for h\u00E5nd eller i en presse) p\u00E5 et bokbinds overtrekksmateriale for \u00E5 lage dekor "@nb ,
+		"Intentionally leaving the marks of a tool on a surface, especially on leather or stone; produced during the finishing or dressing process."@en .

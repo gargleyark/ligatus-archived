@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3149">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3746" />
+    <skos:prefLabel xml:lang="nb">tett hefting</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">pack sewing</skos:prefLabel>
+    <skos:altLabel xml:lang="en">arch sewing</skos:altLabel>
+    <skos:altLabel xml:lang="en">packed sewing</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">heftemetode der heftetråden føres flere ganger rundt heftbindene for å fylle ut gapet som kan oppstå mellom hvert legg </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Pack-sewing consists of adding one or more extra turns of thread around the sewing supports (or endband cores) when sewing a gathering, to fill in the gaps that can be left on the supports between the gatherings. The more tightly packed the supports are, the less flexible they become, and the process can be used to control the flexibility of the supports and thus the extent to which the spine will arch upwards as the bookblock is opened. It takes extra time when sewing a bookblock and thus adds to the cost of binding. Pack-sewing was commonly used throughout the medieval period, but was increasingly abandoned after the introduction of printing as a cost-cutting expedient and is seldom if ever found after the sixteenth century. The technique was first recorded by Peter Franck in 1941, under the name &amp;#039;arch sewing&amp;#039;.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

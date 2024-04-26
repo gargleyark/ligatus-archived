@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2404">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2281" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2406" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4107" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2414" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2416" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2418" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2420" />
+    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">metall</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">fast stoff av en gruppe som teller de fleste grunnstoffene, med formbarhet, glans og ledningsevne som typiske egenskaper </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Any of a large group of substances that typically show a characteristic luster, are good conductors of electricity and heat, are opaque, can be fused, and are usually malleable or ductile.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

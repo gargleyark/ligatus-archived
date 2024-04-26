@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1565">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1657" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1566" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1567" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1568" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1569" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1570" />
+    <skos:prefLabel xml:lang="en">secondary tackets</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Tackets in the form of lengths of parchment, alum-tawed or tanned skin or thin cord that are used to attach cases of parchment or cartonnage to a sewn bookblock. This was most often done by lacing the tackets through or round the sewing supports and through the cover or, in unsupported sewing structures, around the sewing thread, at one or more of the sewing stations. Very occasionally, secondary tackets can be laced through gatherings alone without involving any part of the sewing structure. Secondary tackets, executed in a wide variety of different ways, were a  common feature of medieval stationery bindings, and used from the late fifteenth century up to the third quarter of the sixteenth century by the printed book trade as an inexpensive but effective means of giving either temporary or permanent protection to printed bookblocks. They were commonly used in Italy, Germany and the Low Countries, and a small number of English examples has been identified. In Italy, they may be reinforced by the use of endband tackets.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

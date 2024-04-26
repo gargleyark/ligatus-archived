@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/1580" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1703" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3567" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2508" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sewing structures" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heftestruktur" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The structures by which the leaves or gatherings of a book are sewn together to create a single bookblock. Sewing structures may be either supported or unsupported, but the thread will always be taken either through the fold of a folded gathering or between two leaves of an overcast gathering." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "en bokblokk kan heftes p\u00E5 heftbind eller uten heftbind, men heftetr\u00E5den vil alltid l\u00F8pe i midten av et legg eller kastet over ryggen p\u00E5 legget hvis det best\u00E5r av (l\u00F8se) ark " , "lang" : "nb" } ] }
+}

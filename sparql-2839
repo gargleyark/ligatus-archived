@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4531>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4698> ;
+	skos:prefLabel	"h\u00E5rsekker"@nb ,
+		"hair follicles"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The cylindrical depression in the skin from which a hair grows, extending through the corium to the subcutaneous connective tissue."@en ,
+		"sylindriske hull i skinn der hvorfra h\u00E5rene gror (h\u00E5rfollikler)"@nb .

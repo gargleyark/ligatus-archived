@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4029">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4011" />
+    <skos:prefLabel xml:lang="nb">skaving av hefthyssing</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">fraying and pasting slips</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The process of untwisting a cord slip, scraping it against the blade of a knife and fraying it out prior to pasting to the inside or outside of a board.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Skaving av den delen av heftehyssingen som stikker utover ryggen på bokblokken med baksiden av en kniv mot skavblikk, slik at den kan formes til en fane/vifteform før den klebes til permens innside eller utside. Dette gjøres for å jevne ut hyssingen og for å unngå at den synes gjennom overtrekket.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

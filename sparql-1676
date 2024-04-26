@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1304",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2987"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3027"} ,
+        { "@id": "http://w3id.org/lob/concept/2977"} ,
+        { "@id": "http://w3id.org/lob/concept/2891"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tapp for hektering" , "@language" : "nb" } ,
+        { "@value" : "edge pins" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A fastening in which a leather strap or straps attached to one board with a metal ring at the outer end fastened onto a metal pin inserted into the edge or edges of the other board." , "@language" : "en" } ,
+        { "@value" : "del av l\u00E5semekanisme, utformet som en kort pinne som sitter p\u00E5 beslaget p\u00E5 permens overside, og som hekteringen festet i bokremmen, kan hakes p\u00E5 " , "@language" : "nb" } ,
+        { "@value" : "A fastening in which a leather strap or straps attached to one board with a metal ring at the outer end is fastened onto a metal pin inserted into the edge or edges of the other board." , "@language" : "en" } ] }
+] }

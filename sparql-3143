@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3765>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1658> ;
+	skos:prefLabel	"kordovan"@nb ,
+		"Kordovan"@de ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The name given in Germany to a thick, black, tanned goatskin, which was highly prized in the seventeenth and eighteenth centuries, particularly for bindings on liturgica and bibles, so much so that it appears that the skin was rarely tooled in gold."@en ,
+		"fint l\u00E6r av geitskinn "@nb .

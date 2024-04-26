@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/1535" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1433" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1523" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "gjenbrukt materiale" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "re-used (materials)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "recycled" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "gjenbruk av tidligere brukte materialer " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The term used to describe materials that have already been used either for another purpose or for the same purpose on another book, such as parchment from medieval manuscripts or printed paper leaves used for covers, endleaves and spine linings,or  discarded covers or boards transferred from one bookblock to another." , "lang" : "en" } ] }
+}

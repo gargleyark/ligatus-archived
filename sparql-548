@@ -1,0 +1,22 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2837",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/5423"} ,
+        { "@id": "http://w3id.org/lob/concept/3003"} ,
+        { "@id": "http://w3id.org/lob/concept/2965"} ,
+        { "@id": "http://w3id.org/lob/concept/5425"} ,
+        { "@id": "http://w3id.org/lob/concept/4913"} ,
+        { "@id": "http://w3id.org/lob/concept/2937"} ,
+        { "@id": "http://w3id.org/lob/concept/4917"} ,
+        { "@id": "http://w3id.org/lob/concept/3013"} ,
+        { "@id": "http://w3id.org/lob/concept/2833"} ,
+        { "@id": "http://w3id.org/lob/concept/2945"} ,
+        { "@id": "http://w3id.org/lob/concept/2983"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bookmarks" , "@language" : "en" } ,
+        { "@value" : "bokmerker" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "bookmarkers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Any device which is used in order to mark temporarily or permanently particular leaves or passages of a book so that they can be easily retrieved by the user at a later time. They can be put into one of three major categories: movable, that is a marker which has one part permanently connected to a book and a movable part capable of being placed by a reader anywhere within a book; fixed, that is a marker which is permanently connected to a particular leaf and cannot be moved; and free, that is a loose piece of material which can be used as a marker without any permanent connection to a book. Books can often have multiple bookmarks of more than one type." , "@language" : "en" } ,
+        { "@value" : "tekstilb\u00E5nd eller snor som festes til boken, permanent eller midlertidig, for \u00E5 markere sider, blad eller s\u00E6rlige tekstdeler i bokblokken slik at de lett kan gjenfinnes av leseren  " , "@language" : "nb" } ] }
+] }

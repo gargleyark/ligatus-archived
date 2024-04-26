@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3225>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:prefLabel	"rawhide"@en ,
+		"r\u00E5hud"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Untanned skin or hide which has had the flesh and hair removed and allowed to dry into a desired shape. It is rendered resistant to putrefaction by liming, stuffing with oils and greases, and sometimes by other preparatory processes. As the name implies, it is not tanned. It is sometimes used for lacings or trimmings, of books, but it is far too stiff and intractable to use as a covering material."@en ,
+		"ugarvet, skinn eller hud der kj\u00F8tt og h\u00E5r er fjernet "@nb .

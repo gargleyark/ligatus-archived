@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2400" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2281" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "gemstone" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "edelstener" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "edelstener eller halvedelstener som er kuttet og polert og anvendt  som dekor p\u00E5 grunn av sin farge og glans " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Precious or semiprecious stone that can be cut, polished, or otherwise dressed for use as gems; distinguished from &quot;gems,&quot; which are made of gemstone that has been worked or other material such as pearl." , "lang" : "en" } ] }
+}

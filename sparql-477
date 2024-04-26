@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2378>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3235> ;
+	skos:prefLabel	"blad "@nb ,
+		"leaves (features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Single pieces of sheet material which maybe one or other leaf of a bifolium (i.e. half of a bifolium), a single leaf with a stub that forms a hook to allow it to be sewn into a bookblock or a separate piece tipped with adhesive to an adjacent leaf."@en ,
+		"tosidig del av et manuskript eller i en bok, halvparten av et dobbeltblad"@nb .

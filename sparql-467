@@ -1,0 +1,23 @@
+{
+  "http://w3id.org/lob/concept/2350" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1193" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1666" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1391" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1621" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2516" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4189" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1704" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1671" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2862" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2342" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1558" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3078" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1595" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3577" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bokbindets rygg" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "spine features" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "All the features relating to the formation, function,  decoration and titling of the spine of a book and the spine covering." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "egenskaper som har \u00E5 gj\u00F8re med utforming, funksjon og dekorasjon av bokens rygg og ryggens overtrekk" , "lang" : "nb" } ] }
+}

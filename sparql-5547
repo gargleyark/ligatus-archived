@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1657>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3343> ;
+	skos:narrower	<http://w3id.org/lob/concept/1583> ,
+		<http://w3id.org/lob/concept/3635> ,
+		<http://w3id.org/lob/concept/1311> ,
+		<http://w3id.org/lob/concept/1565> ,
+		<http://w3id.org/lob/concept/1693> ,
+		<http://w3id.org/lob/concept/1532> ,
+		<http://w3id.org/lob/concept/1522> ;
+	skos:prefLabel	"tackets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A short length of flexible material used to attach one component to another by lacing it through one to four matching holes made through both components. The materials commonly used include alum-tawed skin, tanned skin, parchment and cord, and tackets can be found in a variety of uses, e.g. primary tackets, secondary tackets, quire tackets and turn-in tackets. The simplest form uses a loop of the tacketing material laced through two holes, the loose ends being twisted and or knotted together, the inside or outside of a cover, but more complex patterns of lacing, involving three or more holes, can be found. A common type of tacket on Italian bindings made use of four holes, through which the tacketing material was laced to create either an upright or saltire cross on the outside of the cover. The more elaborate lacing which used five or more holes and much longer laces should not be described as tacketing, for which only short lengths of material were used. This should be described as lacing or patterned lacing."@en ,
+		"A short length of flexible material used to attach one component to another by lacing it through one to four matching holes made through both components. The materials commonly used include alum-tawed skin, tanned skin, parchment and cord, and tackets can be found in a variety of uses, e.g. primary tackets, secondary tackets, quire tackets and turn-in tackets. The simplest form uses a loop of the tacketing material laced through two holes, the loose ends being twisted and/or knotted together, on the inside or outside of a cover, but more complex patterns of lacing, involving three or more holes, can be found. A common type of tacket on Italian bindings made use of four holes, through which the tacketing material was laced to create either an upright or saltire cross on the outside of the cover. The more elaborate lacing which used five or more holes and much longer laces, often used to secure the extensions of overbands to the sides of covers, should not be described as tacketing, for which only short lengths of material were usually used. This should be described as lacing or patterned lacing."@en .

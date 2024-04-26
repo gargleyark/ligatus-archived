@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/5433">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1425" />
+    <skos:prefLabel xml:lang="en">secondary longstitch weaving</skos:prefLabel>
+    <skos:altLabel xml:lang="en">interwoven long stitches</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A longstitch technique which includes the winding of thread over, around and between groups of longstitch threads within individual sets on the outside of the spine, as a separate operation carried out on a book that is already sewn. This has a protective and tensioning effect for the longstitch threads but it could be used to decorative effect.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

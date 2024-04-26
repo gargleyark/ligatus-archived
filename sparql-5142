@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3431",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3793"} ,
+        { "@id": "http://w3id.org/lob/concept/4765"} ,
+        { "@id": "http://w3id.org/lob/concept/4759"} ,
+        { "@id": "http://w3id.org/lob/concept/4761"} ,
+        { "@id": "http://w3id.org/lob/concept/4763"} ,
+        { "@id": "http://w3id.org/lob/concept/4749"} ,
+        { "@id": "http://w3id.org/lob/concept/3444"} ,
+        { "@id": "http://w3id.org/lob/concept/3452"} ,
+        { "@id": "http://w3id.org/lob/concept/3433"} ,
+        { "@id": "http://w3id.org/lob/concept/3437"} ,
+        { "@id": "http://w3id.org/lob/concept/3441"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "symbolic objects" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "This hierarchy provides values for CIDOC-CRM E90 Symbolic Object:\r\n\r\nThis class comprises identifiable symbols and any aggregation of symbols, such as characters, identifiers, traffic signs, emblems, texts, data sets, images, musical scores, multimedia objects, computer program code or mathematical formulae that have an objectively recognizable structure and that are documented as single units.\r\n\r\nIt includes sets of signs of any nature, which may serve to designate something, or to communicate some propositional content. \r\n\r\nAn instance of E90 Symbolic Object does not depend on a specific physical carrier, which can include human memory, and it can exist on one or more carriers simultaneously. An instance of E90 Symbolic Object may or may not have a specific meaning, for example an arbitrary character string.\r\n\r\nIn some cases, the content of an instance of E90 Symbolic Object may completely be represented by a serialized digital content model, such as a sequence of ASCII-encoded characters, an XML or HTML document, or a TIFF image.  The property P3 has note allows for the description of this content model. In order to disambiguate which symbolic level is the carrier of the meaning, the property P3.1 has type can be used to specify the encoding (e.g. &quot;bit&quot;, &quot;Latin character&quot;, RGB pixel)." , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3049" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "strap plates" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "remplate" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "anchor plates" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Pieces usually of metal and most often flat placed over the inner end of a clasp strap and through which the rivets used to secure it to the boards are passed. Strap plates are usually rectangular in shape, but other shapes can also be found." , "lang" : "en" } ,
+      { "type" : "literal", "value" : " del av lukkemekanisme, liten som regel rektangul\u00E6r metallplate som fester remmen til permen med stifter " , "lang" : "nb" } ] }
+}

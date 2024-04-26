@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4165">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2279" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3300" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1195" />
+    <skos:prefLabel xml:lang="en">case bindings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">innhengt bind</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Bindings in which the cover with or without boards is attached to the assembled bookblock as a single component, or case. This can be done by means of lacing or adhering.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">teknikk for sammenføyning av bind med eller uten permer og bokblokken, der bindet lages for seg før det festes til bokblokken, enten ved liming eller ved at heftbindene tres gjennom hull i løsbindet</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

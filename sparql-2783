@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3645>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2536> ;
+	skos:prefLabel	"helical secondary endband sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A secondary sewing executed by winding thread, or threads, usually coloured around the primary-sewn endband in a helix from one side to the other."@en .

@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1417" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2356" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1318" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1319" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3175" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3671" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lacing-holes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Holes made in a board or cover so that a sewing support or endband slip or tie can be laced through it." , "lang" : "en" } ] }
+}

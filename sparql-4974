@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3012",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3511"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sewn boards" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Boards made from thin card folded along the spine which were sewn to the sewing supports in the same way as gatherings. Sewn boards were used in the binding of almanacs in the eighteenth and nineteenth centuries to create pockets on the inner surface of the boards. The sewing thread can usually be seen in the spine folds inside the pockets, though great care must be taken not to damage the expanding gussets at the head and tail of the boards that allow the pocket to open a little to hold inserted notes, cards, etc." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2836",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1353"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "book chains" , "@language" : "en" } ,
+        { "@value" : "bokkjetting" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Lenke av metall som er festet til en av bokens permer og til en lesepult eller hylle der boken ble lest eller oppbevart.\r\n\r\n\r\n" , "@language" : "nb" } ,
+        { "@value" : "Length of chain used to secure books to shelving. Such chains were usually attached to one or other board at head-, tail- or fore-edge, depending on how the book was shelved." , "@language" : "en" } ] }
+] }

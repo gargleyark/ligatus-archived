@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1329">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1186" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1480" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2383" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4470" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1214" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4472" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1651" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2915" />
+    <skos:prefLabel xml:lang="nb">dekorstempler</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">finishing tools</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The tools most often of copper alloy, sometimes of iron or steel with engraved or cast designs that were used to impress those designs into the covering materials of books. Finishing tools could be used in the hand (handle tools) or in presses (blocks, panel stamps).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">graverte eller støpte trykkformer for stempling i gull-eller blindtrykk på bokbind </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

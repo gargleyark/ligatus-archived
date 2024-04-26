@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4661",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3990"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "steinmarmorert papir" , "@language" : "nb" } ,
+        { "@value" : "stone marbled paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Papir som er sprengt med dr\u00E5per av farge fordelt b\u00E5de over og ved siden av hverandre over hele overflaten, ved fortetting oppst\u00E5r det \u00E5rer mellom &quot;steinene&quot;." , "@language" : "nb" } ] }
+] }

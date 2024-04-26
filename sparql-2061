@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1472>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1265> ;
+	skos:narrower	<http://w3id.org/lob/concept/1352> ;
+	skos:prefLabel	"overlapping cover extensions"@en ,
+		"fliker"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forlengelse av overtrekksmateriale i form av snipper som m\u00F8tes over permene, men som ikke dekker bokblokkens kanter helt  "@nb ,
+		"Cover extensions which overlap each other across the edges of a bookblock, but neither of which extends across the full width of the edge (see full-width cover extensions)"@en .

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4045" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stifting" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "nailing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The use of nails to attach a component to another." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bruk av stift for \u00E5 f\u00F8ye et element sammen med et annet " , "lang" : "nb" } ] }
+}

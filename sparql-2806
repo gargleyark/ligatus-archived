@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3883",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "h\u00E5ndmarmorering" , "@language" : "nb" } ,
+        { "@value" : "hand-drawn marbling (techniques)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The process of creating marbled patterns by means of applying colours by hand with a brush or other tools." , "@language" : "en" } ,
+        { "@value" : "dekorm\u00F8nstre som minner om m\u00F8nsteret i marmor, skapt ved hjelp av farger p\u00E5f\u00F8rt med pensler eller andre verkt\u00F8y " , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1208">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2286" />
+    <skos:prefLabel xml:lang="en">bibliographical gatherings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Gatherings which consist of one or more bifolia printed or written sheets inserted one inside another and which constitute a single physical unit within the bibliographical make-up of a textblock. In printed books, such gatherings may be formed from single or multiple sheets of paper, as issued by the printer. The gatherings in blank books bound to be used for manuscript content will be made up from leaves without text and would not be bibliographical gatherings when the book was first bound.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4189",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2350"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2972"} ,
+        { "@id": "http://w3id.org/lob/concept/3063"} ,
+        { "@id": "http://w3id.org/lob/concept/3042"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "spine titles" , "@language" : "en" } ,
+        { "@value" : "ryggtitler" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Titles that are written, printed or tooled on the spine of the bookblock." , "@language" : "en" } ,
+        { "@value" : "titler som er skrevet, trykket eller preget p\u00E5 bokens rygg " , "@language" : "nb" } ] }
+] }

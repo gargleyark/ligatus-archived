@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2939",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2464"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "laid paper" , "@language" : "en" } ,
+        { "@value" : "riflet papir" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Handmade papers created by dipping a rectangular mould with a wire screen consisting of thick wires usually parallel to the shorter sides of the screen which support finer, closely-spaced wires which are parallel to the longer side, into a vat of liquid paper pulp. When the water has drained from the pulp, the sheet of paper is couched onto a felt, before being pressed and then dried. The dry paper will retain thinner areas it was formed over the wire and chain lines, creating the characteristic laid pattern in the paper. There is often a watermark incorporated into the screen made from bent wires sewn to the wires of the mould. The appearance of handmade laid paper may be imitated by using a dandy roll to transfer a similar pattern to machine-made papers. Laid paper is to be distinguished from &#039;wove paper&#039;, which is made on a woven screen." , "@language" : "en" } ,
+        { "@value" : "opprinnelig h\u00E5ndlaget papir med riflet struktur der bunn- og kjedelinjer fra papirformen vises " , "@language" : "nb" } ] }
+] }

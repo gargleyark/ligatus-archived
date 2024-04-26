@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1260" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1214" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hj\u00F8rnestempler" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "corner blocks" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Tool used to create large ornamented corners in rectangular frames with a single impression." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "forgyllerverkt\u00F8y spesialtilpasset til preging av ornamenter i hj\u00F8rner " , "lang" : "nb" } ] }
+}

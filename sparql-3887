@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1485>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:narrower	<http://w3id.org/lob/concept/2903> ;
+	skos:prefLabel	"pergament"@nb ,
+		"parchment"@en ;
+	skos:altLabel	"vellum"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"ugarvet l\u00E6r (av kalv, gjet, lam, esel) tilberedt ved bl\u00F8tlegging i kalkbad, avh\u00E5ring, skraping og t\u00F8rking under strekk p\u00E5 ramme "@nb ,
+		"A translucent or opaque material most often made from calf, sheep, or goat skin which has been limed, dehaired, scraped, and dried under tension to produce a thin, strong, relatively stiff material for writing, bookbinding, or other uses. The term vellum should be used only of finer quality calf parchment, but the terms parchment and vellum  have often been and still are confused and used interchangeably. Parchment should always be used for all skins prepared this way, especially for skins of animals that cannot be identified, but can be defined by the animal where this is known (e.g. goat parchment, calf parchment, etc.)."@en .

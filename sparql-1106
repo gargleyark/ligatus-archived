@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2858">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3411" />
+    <skos:prefLabel xml:lang="en">clasp straps</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Flat bands or strips of material of uniform breadth, usually of tanned or alum-tawed skin or parchment, but also less frequently of textile, or combinations of any of these three, used to attach clasps to bookboards or as fastenings with buckles.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

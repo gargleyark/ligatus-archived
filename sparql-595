@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/3287" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2285" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3711" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1707" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4420" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3679" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3647" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "board attachment components" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The individual components used to complete the attachment of boards to bookblocks." , "lang" : "en" } ] }
+}

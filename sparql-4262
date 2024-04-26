@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4472",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1329"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "plakett" , "@language" : "nb" } ,
+        { "@value" : "plaquettes" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A usually circular or oval design engraved in intaglio, often in imitation of classical cameos. The relief impression made by a plaquette may be in another material (e.g. gesso) inlaid into the covering material (and into the thickness of the board if the design is deep enough), or it may be impressed directly into the covering material, with or without the use of a metal leaf. They may also be painted." , "@language" : "en" } ,
+        { "@value" : "Et sirkul\u00E6rt eller ovalt stykke metall med gravert dekor festet p\u00E5 permenes utsider. Plakettene har en dekorativ funksjon og varierende form. De er laget av alt fra forgylt s\u00F8lv til jern, ofte gravert, drevet eller bearbeidet p\u00E5 annen m\u00E5te. De kan ogs\u00E5 forekomme som malt, emaljerte eller beslagne med edelstener." , "@language" : "nb" } ] }
+] }

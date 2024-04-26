@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3901",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "adhering (forwarding)" , "@language" : "en" } ,
+        { "@value" : "ansm\u00F8ring" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The use of adhesive, either paste or glue, to attach one component to another." , "@language" : "en" } ,
+        { "@value" : "The use of adhesive, either paste or glue, to hold the leaves or gatherings of a bookblock together." , "@language" : "en" } ,
+        { "@value" : "manuell eller maskinell p\u00E5f\u00F8ring av lim eller klister p\u00E5 en flate " , "@language" : "nb" } ] }
+] }

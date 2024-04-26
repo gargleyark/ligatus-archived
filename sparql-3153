@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1411" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4034" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "l-shaped corners" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "L-shaped corners" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The material used on the sides of the binding is cut to create an L-shape on the exposed part of the covering material on the outer corners of the boards." , "lang" : "en" } ] }
+}

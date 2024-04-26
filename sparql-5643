@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2474>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3129> ;
+	skos:narrower	<http://w3id.org/lob/concept/1505> ,
+		<http://w3id.org/lob/concept/1297> ,
+		<http://w3id.org/lob/concept/1430> ,
+		<http://w3id.org/lob/concept/1554> ,
+		<http://w3id.org/lob/concept/1439> ,
+		<http://w3id.org/lob/concept/2970> ,
+		<http://w3id.org/lob/concept/1670> ,
+		<http://w3id.org/lob/concept/1714> ;
+	skos:prefLabel	"thread"@en ,
+		"tr\u00E5d"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Single filaments of fibre, groups of such filaments twisted tightly together, or filamentous lengths formed by spinning and twisting short fibres into a continuous strand."@en ,
+		"Tr\u00E5d til hefting er som regel laget av hampefibre som er tvunnet hardt sammen."@nb .

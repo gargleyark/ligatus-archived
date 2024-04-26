@@ -1,0 +1,15 @@
+{
+  "http://w3id.org/lob/concept/1593" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1368" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3579" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2903" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2828" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1335" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1376" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "f\u00E5reskinn" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "sheepskin" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "sheep" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "skinn av f\u00E5r som er tilberedt enten ved garving, alungarving eller til pergament " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The skin of the sheep which may be either tanned, tawed or turned into parchment. Sheepskins could be split into two layers and the thin grain split could be tanned and used as a covering for cheap books." , "lang" : "en" } ] }
+}

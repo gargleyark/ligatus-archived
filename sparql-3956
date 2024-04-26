@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1511">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1226" />
+    <skos:prefLabel xml:lang="en">polished edges</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">polerte snitt</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">beskårne snitt polert med glitteverktøy og/eller voks </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Cut edges, whether decorated or not, were almost always polished with a burnisher. In some cases wax may have been used, while de Bray recommends wiping a burnisher made from a horse&amp;#039;s tooth in your beard in order to get a good shine.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

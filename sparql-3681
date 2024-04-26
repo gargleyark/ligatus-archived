@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1453" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4698" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "naturlig narv" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "natural grain (skin features)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The natural grain pattern resulting from the nature of the skin, the tanning processes employed, and, especially, the treatments of the skin after tanning, but without any form of artificial graining by means of engraved plates." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "naturlig m\u00F8nster p\u00E5 skinnets overflate " , "lang" : "nb" } ] }
+}

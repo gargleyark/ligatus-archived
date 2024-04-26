@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3679" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3287" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "skin wedges" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Tapering lengths of alum-tawed or tanned skin pulled through holes in wooden boards alongside sewing support slips until they were jammed tight in the holes to prevent the slips pulling away from the boards. By using skin wedges instead of wooden pegs for this purpose, it was possible to avoid the risk of splitting the boards by driving the pegs in too far. Skin wedges have been recorded on English bindings throughout the sixteenth century." , "lang" : "en" } ] }
+}

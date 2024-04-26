@@ -1,0 +1,30 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2293>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3167> ,
+		<http://w3id.org/lob/concept/2484> ;
+	skos:narrower	<http://w3id.org/lob/concept/2337> ,
+		<http://w3id.org/lob/concept/1368> ,
+		<http://w3id.org/lob/concept/1503> ,
+		<http://w3id.org/lob/concept/1545> ,
+		<http://w3id.org/lob/concept/3225> ,
+		<http://w3id.org/lob/concept/2290> ,
+		<http://w3id.org/lob/concept/4079> ,
+		<http://w3id.org/lob/concept/2428> ,
+		<http://w3id.org/lob/concept/2430> ,
+		<http://w3id.org/lob/concept/1197> ,
+		<http://w3id.org/lob/concept/2930> ,
+		<http://w3id.org/lob/concept/1658> ,
+		<http://w3id.org/lob/concept/4900> ,
+		<http://w3id.org/lob/concept/1590> ,
+		<http://w3id.org/lob/concept/4099> ,
+		<http://w3id.org/lob/concept/3820> ,
+		<http://w3id.org/lob/concept/1238> ,
+		<http://w3id.org/lob/concept/3582> ,
+		<http://w3id.org/lob/concept/1485> ,
+		<http://w3id.org/lob/concept/4522> ;
+	skos:prefLabel	"animal skin"@en ,
+		"skinn"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The skins of animals such as sheep, calves, or goats, separated from the body, with or without hair, whether green, dry, tanned, or dressed. For the skin of large animals use &quot;hide&quot;. For tanned skin, use &quot;leather&quot;. For dried and stretched skin, use &quot;parchment&quot;."@en ,
+		"hud fra dyr som f\u00E5r, kalv eller geit som kan behandles gjennom ulike garvings- og konserveringsprosesser, slik at det unng\u00E5r forr\u00E5tnelse samtidig som det bevarer sin naturlige styrke, smidighet og b\u00F8ylighet "@nb .

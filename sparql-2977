@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3723" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1694" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "irregular turn-ins" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ubesk\u00E5rne innslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The edges of the turn-ins are not trimmed and retained the irregular edges of the animal skin." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Innslagene er ikke besk\u00E5ret og har beholdt skinnets ujevne kanter." , "lang" : "nb" } ] }
+}

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1248",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1678"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "centrepieces (decoration)" , "@language" : "en" } ,
+        { "@value" : "midtornament " , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "dekorativt element fra \u00E9n enkelt blokk plassert sentralt p\u00E5 permen" , "@language" : "nb" } ,
+        { "@value" : "Decorations in the centre of a board created by a single block. Large central ornaments created by combinations of small hand tools should be called tooled centres to avoid confusion." , "@language" : "en" } ] }
+] }

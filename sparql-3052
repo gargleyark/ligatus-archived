@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3853">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2288" />
+    <skos:prefLabel xml:lang="en">joint fillets</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Single blind-tooled line running up along the outside of the joints of inboard bindings. These lines do not form part of whatever decorative scheme was used on the binding, and may have been used to encourage the leather to crease in a neat line along the joint. They can be found on many continental European (and very commonly German) bindings.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

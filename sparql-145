@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3744>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2362> ;
+	skos:narrower	<http://w3id.org/lob/concept/1449> ,
+		<http://w3id.org/lob/concept/1237> ;
+	skos:prefLabel	"abbreviated sewing (techniques)"@en ,
+		"hurtighefting"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A general term that describes sewing techniques which are accelerated by leaving out elements of the process of sewing (e.g. multi-section sewing and by-pass sewing)."@en ,
+		"generell term for hefteteknikk som utelater elementer i prosessen for \u00E5 spare tid eller for \u00E5 unng\u00E5 \u00F8kning av tykkelsen p\u00E5 bokblokkryggen p\u00E5 grunn av heftetr\u00E5d"@nb .

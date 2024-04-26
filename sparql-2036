@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1352",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1472"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "klaffebind" , "@language" : "nb" } ,
+        { "@value" : "full-width cover extensions" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "forlengning av bindets permovertrekk brettet over bindets kant og motst\u00E5ende permside  " , "@language" : "nb" } ,
+        { "@value" : "Cover extensions each of which is of the same width as the bookblock edge, and which therefore overlap each other across the entire width of the bookblock edge.\r\n" , "@language" : "en" } ] }
+] }

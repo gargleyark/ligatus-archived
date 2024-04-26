@@ -1,0 +1,23 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2893>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/4219> ,
+		<http://w3id.org/lob/concept/4221> ,
+		<http://w3id.org/lob/concept/3005> ,
+		<http://w3id.org/lob/concept/4602> ,
+		<http://w3id.org/lob/concept/2926> ,
+		<http://w3id.org/lob/concept/2845> ,
+		<http://w3id.org/lob/concept/2874> ,
+		<http://w3id.org/lob/concept/2864> ,
+		<http://w3id.org/lob/concept/3047> ,
+		<http://w3id.org/lob/concept/1669> ,
+		<http://w3id.org/lob/concept/3158> ,
+		<http://w3id.org/lob/concept/3159> ,
+		<http://w3id.org/lob/concept/3361> ;
+	skos:prefLabel	"fastenings"@en ,
+		"lukkemekanisme"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"festeanordning som har til hensikt \u00E5 holde bindets permer lukket rundt bokblokken n\u00E5r boken ikke er i bruk "@nb ,
+		"Fastenings are used to hold a book shut when it is not in use. They can take a variety of forms and be made from many different materials, but their essential function is secure one board or cover to the other across the fore-edge of the bookblock and often the head and tail edges as well. Fastenings were in use from the earliest times, but after the introduction of printing and, more particularly, the near universal use of paper-leaved textblocks, their use gradually became more and more decorative and status-related (ie. for liturgical or ceremonial use), unless they are found on books which were intended to be carried about, in which case they retain a primarily functional purpose. Fastenings may also be found on enclosures."@en ,
+		"Fastenings are used to hold a book shut when it is not in use. They can take a variety of forms and be made from many different materials, but their essential function is secure one board or cover to the other across the foredge of the bookblock and often the head and tail edges as well. Fastenings were in use from the earliest times, but after the introduction of printing and, more particularly, the near universal use of paper-leaved textblocks, their use gradually became more and more decorative and status-related (ie. for liturgical or ceremonial use), unless they are found on books which were intended to be carried about, in which case they retain a primarily functional purpose. Fastenings may also be found on enclosures."@en .

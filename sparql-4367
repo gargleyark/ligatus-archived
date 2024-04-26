@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3238>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2368> ;
+	skos:prefLabel	"quarter linings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A piece of sheet material which covers the spine and the spine edges of the boards under a full, half or quarter cover. A quarter lining may be cut to the height of or shorter than the boards, or be turned-in at head and tail. On an inboard binding, a quarter lining might perhaps be thought of as a primary cover, but as they are never found without some sort of cover over them, and are often found without turn-ins and even cut short of the full height of the boards, it is more logical to think of them as a lining to the cover, hence the term &#039;quarter lining&#039;. Quarter linings of paper were frequently used on British paper-covered inboard publishers&#039; or edition bindings of the last quarter of the eighteenth century and beginning of the nineteenth. A similar component was also used as a spine piece on some of the British versions of German three-piece cases of the second and third decades of the nineteenth century and may also be found on the earliest bindings covered in bookcloth in the 1820s."@en .

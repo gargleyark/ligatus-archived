@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4708">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3752" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1600" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1526" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1410" />
+    <skos:prefLabel xml:lang="en">anchoring techniques</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Techniques used to secure a thread at the beginning or end of a sewn or stitched structure.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

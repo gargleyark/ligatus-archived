@@ -1,0 +1,16 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2295",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4031"} ,
+        { "@id": "http://w3id.org/lob/concept/4035"} ,
+        { "@id": "http://w3id.org/lob/concept/4587"} ,
+        { "@id": "http://w3id.org/lob/concept/1667"} ,
+        { "@id": "http://w3id.org/lob/concept/4591"} ,
+        { "@id": "http://w3id.org/lob/concept/4593"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "overtrekkingsteknikk" , "@language" : "nb" } ,
+        { "@value" : "covering techniques" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "All the processes involved in turning a piece of sheet material into a cover for a book." , "@language" : "en" } ,
+        { "@value" : "teknikk brukt til \u00E5 trekke et bokbind med materiale " , "@language" : "nb" } ] }
+] }

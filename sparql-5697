@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3072" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1353" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "title frames" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "tittelbeslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "fenestrae" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "rammer av metall som er festet til permens utside og som inneholder bindets tittel  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Rectangular frames of metal, usually copper alloy, nailed to the exterior surface of either the left or right board over a title or shelfmark written on parchment or paper and sometimes a protective sheet of transparent horn. Also known as a fenestra (Szirmai, p. 263)." , "lang" : "en" } ] }
+}

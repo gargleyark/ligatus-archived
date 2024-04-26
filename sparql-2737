@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/2997" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4465" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "horizontal pull-off boxes" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "pull-off cases" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Rectangular or book-shaped boxes divided into two parts, one of which has a rigid lining which projects beyond its cut edge and over which the other half fits. They can be cut either vertically, to make a horizontal pull-off box, or horizontally, to make a vertical pull-off box, and were often covered in leather with gold tooled \u2018spines\u2019 with false bands. They appear to have been used for expensively-bound liturgica from the late seventeenth or early eighteenth century." , "lang" : "en" } ] }
+}

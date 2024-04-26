@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2866">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3052" />
+    <skos:prefLabel xml:lang="nb">hjørnebeslag</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">corners (furniture)</skos:prefLabel>
+    <skos:altLabel xml:lang="en">corner pieces</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Protective and often decorative fittings usually made of metal attached to the corners of a board either on the surface only (surface fitting) or, more commonly folded around one or both edges at the corners (edge fitting). Most often made of copper alloy, they will also be found made of iron as well as silver and silver-gilt, and will often be of the same design as the centre pieces. They can be decorated with punches, engraving, embossing, piercing, etc., and were made in a wide variety of shapes. Corners were used from the later middle-ages onwards, but increasingly, from the end of the sixteenth century, their function becomes more decorative and status-related. Some corners incorporate bosses which may be either hammered out of the corner itself (integral bosses) or as separate added components (separate bosses).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">beslag festet i bindpermens hjørne for å beskytte bindets permkant og overtrekk, som regel laget av kobberlegeringer, jern, sølv og forgyllet sølv </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

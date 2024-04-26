@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2962>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3361> ;
+	skos:prefLabel	"loop and knot fastenings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fastenings in which a loop attached to the fore-edge of one side of a cover fits over a knot, usually in the form of a Turk&#039;s head knot, attached to the opposite fore-edge."@en .

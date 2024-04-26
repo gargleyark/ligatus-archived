@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3606" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "interleaving (textblock components)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Leaves of text-weight blank paper, hard-sized for writing on, bound into textblocks to supply a blank leaf in between each text leaf for the purpose of writing notes on. They could be supplied in a number of different ways, either as tipped single leaves or bifolia folded into each gathering, with a bifolium of blank paper around the outside of alternate gatherings to supply a single blank leaf between each gathering. In the centre of the gatherings, some binders would provide a full bifolium, giving two blank leaves between the facing text pages or a single leaf with a folded stub, both of which would therefore be sewn with the gathering, or a tipped single leaf. Interleaved textblocks are commonly found in books used in educational environments, and the university booksellers appears to have sold textbooks, both new and secondhand, with interleaving." , "lang" : "en" } ] }
+}

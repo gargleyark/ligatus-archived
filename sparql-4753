@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1587" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sewn-bookblock bindings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Sewn bookblocks which have never had either boards or covers and were sold in this state with the intention that their first owners would have them completed in whatever way they chose. It would appear that sewn bookblocks in northern Europe are more likely to have uncut edges than those made in Italy where such bookblocks are more likely to have sewn endbands, and would therefore need cut edges. " , "lang" : "en" } ,
+      { "type" : "literal", "value" : "heftet bokblokkbind\r\n\r\nheftete bokblokker som aldri har hatt hverken permer eller omslag og som ble solgt slik i den hensikt at det var opp til eieren \u00E5 fullf\u00F8re innbindingen p\u00E5 det vis hen selv \u00F8nsket\r\n\r\n" , "lang" : "nb" } ] }
+}

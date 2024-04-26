@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1222">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3519" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3521" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3675" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2387" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3659" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3479" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1275" />
+    <skos:prefLabel xml:lang="nb">bindets permer</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">boards</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">stive eller halvstive komponenter som er montert på begge sider av bokblokken for å beskytte den</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Boards are rigid or semi-rigid components made from one or more pieces of sheet material used to protect and support a bookblock. There will usually be at least two boards, one on each side of the bookblock. A piece of sheet material wrapped around the spine of a bookblock and covering each side, even though it may itself be covered by another material (see cover lining and laminated cover) does not create boards, which must always be separate. On small format books, the boards may be no more than pieces of thick paper, but they should still be described as boards. When two or more bookblocks are bound together as distinct units (multiple bookblock bindings), they will be separated by shared boards.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

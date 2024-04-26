@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1659",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1585"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "flat sewing supports" , "@language" : "en" } ,
+        { "@value" : "flate heftb\u00E5nd" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sewing supports made of flat strips of material, such as parchment or textile, which will in most cases not create raised bands on the spine of a book. On very rare occasions, flat parchment supports may be split to create flat double supports." , "@language" : "en" } ,
+        { "@value" : "flate b\u00E5nd av pergament eller vevd tekstil brukt som heftb\u00E5nd" , "@language" : "nb" } ] }
+] }

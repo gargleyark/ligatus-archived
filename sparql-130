@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3501">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3515" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3509" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3511" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4013" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3513" />
+    <skos:prefLabel xml:lang="nb">ansetning av permer</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">board attachment</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">forskjellige måter permene blir festet til bokblokken før permene er blitt dekket av overtrekksmaterialet  </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The means by which boards are attached to bookblocks before the covering material is added, which includes the use of spine lining extensions, endleaves and the covering material itself, all of which will contribute to the attachment of the boards to the bookblock. The boards found in lace-attached and adhesive cases do not have direct attachment to the bookblock.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

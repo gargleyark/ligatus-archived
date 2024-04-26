@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2466>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1481> ;
+	skos:prefLabel	"maskinlaget papir "@nb ,
+		"machine-made paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper made in a continuous length in a papermaking machine as opposed to individual sheets made by hand on a paper mould. Machine-made papers have a pronounced grain which runs parallel to the length of the paper."@en ,
+		"papir produsert p\u00E5 en l\u00F8pende vire av en maskin i motsetning til for h\u00E5nd "@nb .

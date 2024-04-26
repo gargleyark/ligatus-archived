@@ -1,0 +1,20 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1317>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3283> ;
+	skos:narrower	<http://w3id.org/lob/concept/2887> ,
+		<http://w3id.org/lob/concept/1575> ,
+		<http://w3id.org/lob/concept/4600> ,
+		<http://w3id.org/lob/concept/4232> ,
+		<http://w3id.org/lob/concept/4234> ,
+		<http://w3id.org/lob/concept/3573> ,
+		<http://w3id.org/lob/concept/1672> ,
+		<http://w3id.org/lob/concept/2931> ,
+		<http://w3id.org/lob/concept/1573> ,
+		<http://w3id.org/lob/concept/2886> ;
+	skos:prefLabel	"endleaves"@en ,
+		"forsatsblad"@nb ;
+	skos:altLabel	"endpapers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forsatsblad er de blad av papir eller annet materiale som er plassert i begynnelsen og slutten av en bokblokk og hvis funksjon er \u00E5 beskytte tekstbladene "@nb ,
+		"Endleaves are all the groups of leaves of a variety of sheet materials found at each side of a bookblock and are intended to give protection to the text leaves. They come in two basic types: those added by the binder before the book is sewn (separate endleaves) and blank leaves at the front and/or the back of the textblock (integral endleaves) which are used as endleaves, and may or may not also be pasted to the boards as pastedowns, even though they form part of text gatherings. Separate endleaves and integral endleaves can be combined at either the left or right ends of the textblock, and the endleaves at left and right can be made up differently. This is often the case in printed books where the printed text supplies blank leaves at either end of the textblock, allowing the binder to leave out the same number of added leaves, but have the same number of endleaves at each end of the bookblock. In some student books and other working copies of books, gatherings of blank paper were added to the end of the textblock for writing on, and it is sometimes hard to make a distinction between these and endleaves, especially when the final leaf of the final gathering is used as a pastedown, and a careful description will be necessary. When describing a book, endleaves are normally found on either side of the textblock.  Endleaves may serve either as pastedowns or free endleaves, depending on whether or not they are pasted to the inside of a board or cover. For reasons of economy, binders would often chose paper that, when folded into endleaves, was somewhat smaller than the dimensions of the textblock (undersize endleaves). In other cases, they might use paper of the same size as the textblock (same-size endleaves) or, much less frequently, larger (oversize endleaves)."@en .

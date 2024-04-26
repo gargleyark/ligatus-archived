@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1337" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1274" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "flush edges" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kantsk\u00E5ret bokblokk med omslag/ perm" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The boards and or cover are cut to the same size as the bookblock. This may be done either before the boards or cover are attached to the bookblock, in which case their edges and those of the bookblock will often not line up exactly (especially, as is often the case, where such boards are attached to bookblocks with uncut edges), or their edges may be &#039;cut flush&#039; together with the edges of the bookblock in a single operation. In both cases, the boards will be flush with the bookblock." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "boken beskj\u00E6res samtidig med permene, slik at permenes kanter flukter med bokblokkens kanter, overtrekket kan ha innslag" , "lang" : "nb" } ] }
+}

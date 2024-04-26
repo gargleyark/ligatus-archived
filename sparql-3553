@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/2970" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2474" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3614" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3626" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tresse" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "metal thread" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "silkeb\u00E5nd  med innvevde metalltr\u00E5der, ofte gull eller s\u00F8lvfargede " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A twisted thread of plant fibre or silk wound around with a helix of metal strip, usually silver or silver gilt." , "lang" : "en" } ] }
+}

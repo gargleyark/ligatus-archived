@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4958",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2283"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "garving" , "@language" : "nb" } ,
+        { "@value" : "tanning" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "irreversible prosesser for \u00E5 omdanne r\u00E5 huder til skinn ved hjelp av  garvestoffer   " , "@language" : "nb" } ,
+        { "@value" : "An irreversible process of treating hides or skins with tannins to produce leather. Distinct from alum-tawing which is reversable by washing." , "@language" : "en" } ] }
+] }

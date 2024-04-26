@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1472" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1265" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1352" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "overlapping cover extensions" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "fliker" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "forlengelse av overtrekksmateriale i form av snipper som m\u00F8tes over permene, men som ikke dekker bokblokkens kanter helt  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Cover extensions which overlap each other across the edges of a bookblock, but neither of which extends across the full width of the edge (see full-width cover extensions)" , "lang" : "en" } ] }
+}

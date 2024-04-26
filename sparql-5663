@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3060>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2374> ;
+	skos:prefLabel	"tabbed caps"@en ;
+	skos:altLabel	"tabs"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The projection of the primary cover of the spine covering extending beyond the endbands at the head and tail of the bookblock. The projections were created by cutting the turn-ins of the covering material at the joints, turning it in over the edges of the boards but not across the spine. These projections may have been intended to cover and protect endbands, as well as having a decorative function, but are also a feature of some bindings with Kapitalb\u00FCnde, which made turning-in the covering material at the head and tail of the spine difficult, if not impossible. They are also a feature of some Islamic bindings. Tab endbands are not themselves tabbed caps, but the covers of bindings which have such endbands are often cut as tabbed caps which fit the profile of the tab endbands, and may be sewn to them around their edges. Most tabbed caps, however, are not attached to any other component."@en .

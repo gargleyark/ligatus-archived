@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1684",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1694"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "besk\u00E5rne innslag" , "@language" : "nb" } ,
+        { "@value" : "trimmed out turn-ins" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The operation of tidying up the uneven edges of turn-ins on the inside of the boards or cover of a book. On many 16th-century bindings, the stains from the untrimmed turn-ins can be found on the endleaves and/or boards thus revealing exactly how much may have been cut away. The trimming can be done either with a straight or an oblique cut." , "@language" : "en" } ,
+        { "@value" : "For \u00E5 f\u00E5 innslagene til \u00E5 se mer ryddige ut, ble de besk\u00E5ret, ofte slik at innslaget i forkant var litt bredere enn innslagene i hode og fot." , "@language" : "nb" } ] }
+] }

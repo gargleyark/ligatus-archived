@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3533" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3277" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "intarsiabind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "inlays (decorative components)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Small shaped pieces of material, usually of coloured tanned skin of the same thickness as the primary covering material and placed in identically-shaped cut-out areas in the primary cover, in a technique similar to marquetry. Inlays were more difficult to carry out than onlays and presumably therefore more expensive, but were very neat and elegant when well executed. With age, inlays of tanned skin can shrink back from the primary covering material, leaving gaps around their edges and revealing how they were made. This cannot happen with onlays, though they often lift from the surface of the primary cover in damp storage." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "skinnstykker i forskjellige former og farger som felles ned i bindmaterialet og danner figurer eller m\u00F8nstre for \u00E5 dekorere spesielt fine bokbind " , "lang" : "nb" } ] }
+}

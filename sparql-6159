@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1715>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2969> ;
+	skos:prefLabel	"Zwischgold"@en ;
+	skos:altLabel	"Zwischengold"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A laminated leaf, resembling gold leaf, was made by placing a thin sheet of gold over a similar sheet of silver (or tin) and hammering the two together. The gold-silver laminate was used instead of gold leaf, but it had the undesirable characteristic of tarnishing, since the thin gold layer cannot protect the silver below, with the result that the metal takes on the colour of oxidised silver (i.e. a dull grey-black colour)."@en .

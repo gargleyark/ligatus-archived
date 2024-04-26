@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3534>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3535> ;
+	skos:narrower	<http://w3id.org/lob/concept/4450> ,
+		<http://w3id.org/lob/concept/4453> ;
+	skos:prefLabel	"polerings jern"@nb ,
+		"polishing irons"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Metal tools heated and used to flatten the grain of tanned skins, particularly goatskin, using the heat to go beyond the heat shrinkage temperature to fix the polished surface in place. Two types of polishing irons were used, one for the spine with a curved face, and the other, the siding iron, in the shape of a cylinder mounted at right-angles to a wooden handle which was used for polishing the sides of bindings."@en ,
+		"metallverkt\u00F8y som ble varmet opp for \u00E5 glitte overflaten p\u00E5 garvede skinn "@nb .

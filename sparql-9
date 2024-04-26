@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1190>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:narrower	<http://w3id.org/lob/concept/2549> ;
+	skos:prefLabel	"adhesive structure bindings"@en ,
+		"limbind"@nb ;
+	skos:altLabel	"perfect bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings in which the gatherings are held together by adhesive only, without any form of sewing or stitching. They may, however, be reinforced by glueing strips of material into recesses cut across the spine. The earliest examples of European adhesive bindings recorded on printed books are English, with one example dating from the 1620s and a small group from the period 1670-1690. German examples have been identified from the second half of the eighteenth-century and very occasionally in England at the end of the eighteenth century. The small number of survivals from these early periods is a reflection either of the ephemeral nature of some of the texts bound in this manner, or the inherent instability of such structures before the introduction of flexible adhesives. The so-called &#039;Perfect binding&#039; patented in 1836 and probably first used in 1839 (Middleton, p.30), in which caoutchouc was used as the adhesive, proved no more durable."@en ,
+		"bind der ryggen blir frest (h\u00F8vlet) ned, rufset opp og etterp\u00E5 limt med kald- eller varmlim "@nb .

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3627" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2346" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "dovetail channels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Channels, or recesses, cut across two or more planks with angled sides, wider at the bottom, into which a dovetail batten can be slid. Tapering dovetail channels cut at right angles into the external surfaces of the spine edges of wooden boards were also used in conjunction with horizontal wooden plugs for attaching wooden boards in Bavaria from the late fifteenth to the early sixteenth centuries." , "lang" : "en" } ] }
+}

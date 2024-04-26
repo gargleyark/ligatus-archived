@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2926">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2893" />
+    <skos:prefLabel xml:lang="en">hinged spine-locking bars</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Fastenings in which the catchplates and hinge-plates, in the form of metal bars, extend from the fore-edge to the spine-edge of both boards and are linked across the spine by two short metal bars hinged both at the joints and in the centre of the spine and by hinged clasps on the fore-edge.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

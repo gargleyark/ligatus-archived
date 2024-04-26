@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://www.cidoc-crm.org/cidoc-crm/> .
+<http://w3id.org/lob/concept/5423>	rdf:type	ns1:E55_Type .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/5423>	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://w3id.org/lob/concept/5423>	rdfs:label	"leaf markers"@en ;
+	skos:broader	<http://w3id.org/lob/concept/2837> ;
+	skos:narrower	<http://w3id.org/lob/concept/2945> ;
+	skos:prefLabel	"leaf markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Markers attached to an external edge of a leaf."@en .

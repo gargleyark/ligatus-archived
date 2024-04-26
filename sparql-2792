@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3748">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2362" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1408" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3040" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3402" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2953" />
+    <skos:prefLabel xml:lang="en">unsupported sewing (techniques)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">heftet uten bind</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Sewing gatherings together without the use of sewing supports, but relying on the thread only which passes from one gathering to the next.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">bokblokkens legg sammenføyes uten heftbind kun ved heftetråd  </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

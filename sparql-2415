@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1448>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2470> ;
+	skos:prefLabel	"mull"@en ,
+		"gas "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"l\u00F8svevet tynn bomullstekstil, prinsipielt brukt til ryggf\u00F4ring av forlagsbind"@nb ,
+		"Coarse, loosely woven cotton fabric used principally to line the spines of edition bindings."@en .

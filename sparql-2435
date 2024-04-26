@@ -1,0 +1,20 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1658>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2293> ;
+	skos:narrower	<http://w3id.org/lob/concept/3039> ,
+		<http://w3id.org/lob/concept/3765> ,
+		<http://w3id.org/lob/concept/2912> ,
+		<http://w3id.org/lob/concept/1436> ,
+		<http://w3id.org/lob/concept/3586> ,
+		<http://w3id.org/lob/concept/2910> ,
+		<http://w3id.org/lob/concept/3579> ,
+		<http://w3id.org/lob/concept/1456> ,
+		<http://w3id.org/lob/concept/2828> ,
+		<http://w3id.org/lob/concept/1691> ;
+	skos:prefLabel	"tanned skin"@en ,
+		"garvet skinn"@nb ;
+	skos:altLabel	"leather"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"dyrehuder som er behandlet med garvestoffer for \u00E5 bli holdbart og kunne anvendes til  l\u00E6r og skinn "@nb ,
+		"An animal skin that has been treated with tanning agents to turn it into leather and which, before the 19th century, will be derived only from vegetable sources such as the bark of oak trees, sumac, etc. Because the term leather has been used historically of both alum-tawed and tanned skins, it is safer, wherever there might be confusion, to used the term tanned skin rather than leather, though properly-speaking, they both have the same meaning."@en .

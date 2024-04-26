@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3173",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3069"} ,
+        { "@id": "http://w3id.org/lob/concept/3002"} ,
+        { "@id": "http://w3id.org/lob/concept/3068"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "strip materials" , "@language" : "en" } ,
+        { "@value" : "b\u00E5nd" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Long, narrow pieces of rigid or flexible material, of generally uniform width, either manufactured or cut from sheet materials." , "@language" : "en" } ,
+        { "@value" : "Lange, smale t\u00F8ystrimler eller av annet fleksibelt materiale som brukes til \u00E5 holde noe oppe eller sammen med, eller som pynt\r\n" , "@language" : "nb" } ] }
+] }

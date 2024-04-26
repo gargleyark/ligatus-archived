@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4009",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1186"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sewing frames" , "@language" : "en" } ,
+        { "@value" : "heftelade" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "sewing presses" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "en innretning eller ramme som forenkler hefteprosessen for h\u00E5nd " , "@language" : "nb" } ,
+        { "@value" : "A frame or press on which books are sewn by hand. It consists of a flat baseboard, two uprights threaded on both ends, a crossbar and two supporting wooden nuts. The sewing supports are stretched from the slotted baseboard, where they are secured by keys, to the crossbar, where they are attached to loops (laycords), or, in German models, to hooks. The sewing frame was certainly in use in Northern Europe by the 12th century, and probably as early as the 11th, because in all likelihood the need for some type of frame became apparent as soon as sewing on sewing supports was introduced." , "@language" : "en" } ] }
+] }

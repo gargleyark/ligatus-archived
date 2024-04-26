@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3179" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1186" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "graining plates" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Engraved plates of metal or occasionally wood used from the late eighteenth century to transfer impressed patterns onto a tanned skin. They were used to create dicing and other geometrical patterns, as well imitating straight-grain tanned skins." , "lang" : "en" } ] }
+}

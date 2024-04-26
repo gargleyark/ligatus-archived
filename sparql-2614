@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1433",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1535"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "manuscript waste" , "@language" : "en" } ,
+        { "@value" : "h\u00E5ndskriftsmakulatur" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Manuscript leaves removed from a bound library book, as distinct from recycled document, either bound or unbound." , "@language" : "en" } ,
+        { "@value" : "gamle manuskripter brukt som f\u00F4ring eller forsterkninger i bokbind " , "@language" : "nb" } ] }
+] }

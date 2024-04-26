@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1617">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2354" />
+    <skos:prefLabel xml:lang="nb">ryggsteg</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">spine creases</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">avstand mellom rygg og perm i et løsbind som gir plass til overtrekket, slik at det skal passe rundt bokblokkens rygg </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The creases made in a case cover to allow it to fit around the spine of a bookblock. They are creased or scored down the centre of the cover from the inside, running from head to tail of the spine, and are placed so that the distance between them is the same as the width of the spine of the bookblock. Many case-covers only have spine creases, and do not have joint creases.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

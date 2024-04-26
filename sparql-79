@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2825" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1242" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "added cases" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Cases made of any material which are fastened to the boards of a book bound in boards, which may itself be either covered or uncovered. Examples include metal hinged cases added to books bound in boards, or one-piece cases of thin millboard added to a book bound in paper boards." , "lang" : "en" } ] }
+}

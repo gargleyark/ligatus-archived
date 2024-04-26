@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1449">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3744" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1698" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4023" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4025" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4027" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4017" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4019" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4021" />
+    <skos:prefLabel xml:lang="en">multi-section sewing</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">In multi-section sewing, a single length of thread extending between the change-over stations at the head and tail of the gatherings is used to attach two or more gatherings to the sewing supports. According to the number of gatherings attached with each single thread, these are known as two-on sewing, three-on sewing, etc.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3740",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4622"} ,
+        { "@id": "http://w3id.org/lob/concept/3002"} ,
+        { "@id": "http://w3id.org/lob/concept/4598"} ,
+        { "@id": "http://w3id.org/lob/concept/2969"} ,
+        { "@id": "http://w3id.org/lob/concept/1541"} ,
+        { "@id": "http://w3id.org/lob/concept/3404"} ,
+        { "@id": "http://w3id.org/lob/concept/1637"} ,
+        { "@id": "http://w3id.org/lob/concept/3163"} ,
+        { "@id": "http://w3id.org/lob/concept/3165"} ,
+        { "@id": "http://w3id.org/lob/concept/3575"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "dekormateriale" , "@language" : "nb" } ,
+        { "@value" : "decorative materials" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] }
+] }

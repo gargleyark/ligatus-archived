@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2410>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2408> ;
+	skos:prefLabel	"brass"@en ,
+		"messing"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Alloy of copper and zinc, usually with copper as the major alloying element and zinc up to 40% by weight."@en ,
+		"metall legering av kobber og sink der kobber er hovedingrediensen og sinkinnholdet ikke overstiger 40% av vekten"@nb .

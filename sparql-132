@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3501",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1344"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3515"} ,
+        { "@id": "http://w3id.org/lob/concept/3509"} ,
+        { "@id": "http://w3id.org/lob/concept/3511"} ,
+        { "@id": "http://w3id.org/lob/concept/4013"} ,
+        { "@id": "http://w3id.org/lob/concept/3513"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "ansetning av permer" , "@language" : "nb" } ,
+        { "@value" : "board attachment" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "forskjellige m\u00E5ter permene blir festet til bokblokken f\u00F8r permene er blitt dekket av overtrekksmaterialet  " , "@language" : "nb" } ,
+        { "@value" : "The means by which boards are attached to bookblocks before the covering material is added, which includes the use of spine lining extensions, endleaves and the covering material itself, all of which will contribute to the attachment of the boards to the bookblock. The boards found in lace-attached and adhesive cases do not have direct attachment to the bookblock." , "@language" : "en" } ] }
+] }

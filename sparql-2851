@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4600>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1317> ;
+	skos:prefLabel	"sewn endleaves"@en ,
+		"medheftet forsats"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Forsats som er heftet gjennom falsen som del av en bokblokk."@nb ,
+		"Endleaves that have been sewn through the fold as part of a bookblock."@en .

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1539>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:prefLabel	"rektangul\u00E6r rammedekor"@nb ,
+		"rectangular frames (decoration)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A commonly used decorative element which may be tooled, drawn or painted, which reflects the rectangular shape of the side of a bound book."@en ,
+		"dekorativt element som kan v\u00E6re preget, tegnet eller malt og som reflekterer bokens rektangul\u00E6re form  "@nb .

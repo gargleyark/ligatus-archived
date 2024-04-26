@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1532>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1657> ;
+	skos:narrower	<http://w3id.org/lob/concept/3392> ,
+		<http://w3id.org/lob/concept/1696> ;
+	skos:prefLabel	"quire tackets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Tackets, typically found at the head and tail of individual gatherings, that were used to hold the individual bifolia within a gathering together without a cover. These were often used during the medieval period to secure the bifolia as the manuscript was being written but were also occasionally used on incunabula for reasons as yet unclear. "@en .

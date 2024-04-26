@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4630">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3545" />
+    <skos:prefLabel xml:lang="nb">penslet klisterpapir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">brushed paste paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Dekoreringsteknikk der stivelsesklister tilsatt farge ble penslet i én retning over papiret og er gjenkjennbart på de mer eller mindre parallelle strøkene som dannes av penselen, kan være ensfarget eller flerfarget. Penslet klisterpapir er den tidligste form for dekorert papir vi kjenner i Europa. Eksempler på spillkort der baksiden var dekorert med denne teknikken stammer fra ca. 1430. </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Paper coloured with one or several colours directly applied to its surface with a brush, leaving clear strokes to create a decorative pattern in the colour layer. The paste colours were brushed in straight lines, either horizontally, vertically or diagonally over the entire surface, leaving more or less parallel strokes of the brush.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4634",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3545"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "\u00E5dret klisterpapir" , "@language" : "nb" } ,
+        { "@value" : "veined paste paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paper decorated by directly applying one or more paste colours in a decorative pattern resembling aligned or diffuse veins. The effect could be achieved by various means, such as stippling with a brush, dabbing or folding the sheet, pressing it and pulling it apart, so that some of the colour would be transferred from the coloured half to the other (mirrored pattern). In most cases, it is almost impossible to identify the precise technique that was used to produce veined paste papers, and several different techniques could be used in combination. Unless a clear mirrored-pattern is visible (e.g. the two halves that have been pressed together and pulled apart are still attached to each other), it is recommended that these papers are described simply as veined paste papers." , "@language" : "en" } ,
+        { "@value" : "Dekoreringsteknikk der en eller flere klisterfarger p\u00E5f\u00F8res papiret i et m\u00F8nster som kan ligne treets \u00E5rringer, m\u00F8nsteret skapes ved hjelp av mange forskjellige metoder enten ved hjelp av pensler, eller ved at arket etter innfargning foldes og presses slik at et speilvendt m\u00F8nster oppst\u00E5r." , "@language" : "nb" } ] }
+] }

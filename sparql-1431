@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1288" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "dicing (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A lattice pattern created on the surface of a sheet material by means either of two sets of parallel lines impressed at an angle to each other or by two impressions of a plate engraved with straight lines or a single plate with the lattice pattern engraved onto it." , "lang" : "en" } ] }
+}

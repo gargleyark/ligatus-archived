@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1640" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3475" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "steep bevel" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bratt kant" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "sterkt hellende kant" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A bevel cut at an angle noticeably more than 45 degrees to the surface of the board." , "lang" : "en" } ] }
+}

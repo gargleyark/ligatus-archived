@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3441">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3431" />
+    <skos:prefLabel xml:lang="nb">kolofon</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">colophons</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The inscriptions which the copyist or printer placed on the last page of a manuscript or book with the facts about its production, author, date, title, etc.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">liten tekst med tekniske opplysninger om et manuskript, en bok, en avis, et tidsskrift eller et magasins utgivelse: copyright, trykkested og -år, papir og skrift, bokbinder, opplag, utgave eller bidragsytere </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

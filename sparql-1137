@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2865>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1230> ;
+	skos:prefLabel	"corner bosses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bosses found in the corners of a board. They will usually therefore be four of these, but in some bindings, only two, either on the fore-edge or the spine-edge of the board, were used."@en .

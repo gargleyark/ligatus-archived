@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3042">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4189" />
+    <skos:prefLabel xml:lang="en">head of the spine (titles)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Any form of title written, tooled or printed found on the spine of a binding. Up until the 18th century, it would appear that most titles were the responsibility of the owner of the book rather than the bookseller or binder. Labels printed for the bookseller or publisher make their appearance in England in the 1730&amp;#039;s but do not become widespread until the last quarter of the century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4903>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4900> ;
+	skos:prefLabel	"tree marbled skin"@en ;
+	skos:altLabel	"tree calf"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A tanned calf skin which has been decorated with tree marbling. The term has historically been applied to skins which are not calf (i.e. sheep) and care should be taken to confirm the type of skin used."@en .

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4941" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3458" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4943" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4945" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "ruling (features)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The use of lines impressed into or ruled onto leaves with ink, graphite or other media either to guide a scribe before a manuscript is written or to decorate printed text, usually in red, in a backward reference to ruled manuscripts." , "lang" : "en" } ] }
+}

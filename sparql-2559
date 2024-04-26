@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1294>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2358> ;
+	skos:prefLabel	"hand-drawn staining (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The application of a stain to the cover of a book by means of a brush or another tool in a free-hand manner as opposed to dropped, run or dabbed staining. It was often done in lines of varying widths in colour (usually black), stained (often in the form of wavy or zig-zag lines), but occasionally in shapes that defies simple description."@en .

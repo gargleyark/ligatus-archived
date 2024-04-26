@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1471" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1648" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "luntehefting" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "overcasting" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The process of stitching groups of leaves together to allow them to be sewn to sewing supports utilising the sewing techniques also used for folded gatherings. Overcasting is most often found on books consisting entirely of or with large numbers of single leaves. The most often used technique is a form of hellical stitching in which groups of leaves are whipped together along their spine edges." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "H\u00E5ndhefting fra siden av ark som ikke er falset. Passende antall ark heftes sammen til legg med kastesting, leggene heftes deretter gjennom eller rundt hefteb\u00E5nd og forankres i hverandre ved heftestasjonene." , "lang" : "nb" } ] }
+}

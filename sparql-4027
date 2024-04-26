@@ -1,0 +1,22 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1678>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2340> ;
+	skos:narrower	<http://w3id.org/lob/concept/1676> ,
+		<http://w3id.org/lob/concept/1677> ,
+		<http://w3id.org/lob/concept/1679> ,
+		<http://w3id.org/lob/concept/1262> ,
+		<http://w3id.org/lob/concept/4113> ,
+		<http://w3id.org/lob/concept/4115> ,
+		<http://w3id.org/lob/concept/1675> ,
+		<http://w3id.org/lob/concept/2308> ,
+		<http://w3id.org/lob/concept/2319> ,
+		<http://w3id.org/lob/concept/1248> ,
+		<http://w3id.org/lob/concept/1371> ,
+		<http://w3id.org/lob/concept/3393> ,
+		<http://w3id.org/lob/concept/2288> ;
+	skos:prefLabel	"pregetrykt dekor"@nb ,
+		"tooled decoration"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"dekor utf\u00F8rt ved preging med m\u00F8nstrede pregeverkt\u00F8y enten blindt eller med metallfolier "@nb ,
+		"Decoration created by impressions made by finishing tools. This may be done either blind or with metal foils."@en .

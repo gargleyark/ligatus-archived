@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1202",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1391"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "artificial hollow backs" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The covering material is prevented from adhering to the spine-folds or spine-linings of the bookblock during the covering process by means of the insertion of an infill or hollow. This has the effect of allowing thicker books or books printed on thicker paper or with narrow inner margins to open more easily without crushing the covering material on the spine and thus damaging lettering and gold-tooling. It is associated with books sewn on recessed supports with smooth spines, which, because of the comparative thinness of recessed supports, have more flexible spines which are therefore more likely to have this damaging effect on gold-tooled spines. The construction of an artificial hollow back was described by Dudin (1773) and it is probably a consequence of the re-introduction of recessed sewing supports for high-quality books with extensively tooled spines in France and England in the 1760s." , "@language" : "en" } ] }
+] }

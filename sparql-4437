@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1552" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1353" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rubbing strips" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "skids" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A strip of a hard material, most often copper alloy with a semi-circular cross-section, nailed to the boards of a book to protect the covering material from abrasion. Rubbing strips were used in the late medieval period and are typically associated with wooden boards. A single rubbing strip was also used to secure the edges of the overbacks often found on books put out for public use in the sixteenth and seventeenth centuries in northern Europe. Also known as &#039;skids&#039; (Szirmai, p.264)." , "lang" : "en" } ] }
+}

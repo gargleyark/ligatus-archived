@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3141">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2540" />
+    <skos:prefLabel xml:lang="nb">håndstukket kapitélbånd</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">worked stuck-on endbands</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">håndlaget kapitélbånd som er stukket eller brodert for hånd</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Stuck-on endbands in which the linings have been decorated (or worked) with thread through and around the part which projects beyond the height of the bookblock. The working of the thread will often take the form of a secondary endband sewing, but may be nothing more than a simple helix of thread worked through the exposed edge of the stuck-on endband lining.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

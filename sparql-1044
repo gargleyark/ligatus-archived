@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2408",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2406"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2410"} ,
+        { "@id": "http://w3id.org/lob/concept/2412"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "copper alloy" , "@language" : "en" } ,
+        { "@value" : "kobberlegering" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "kobberforbindelse eller blanding av kobber og andre metaller " , "@language" : "nb" } ,
+        { "@value" : "Alloy in which copper is the principle element. Brass is one of the most commonly-encountered copper alloys and is an alloy of copper and zinc, usually with copper as the major alloying element and zinc up to 40% by weight. Bronze will usually contain copper and a small amount of tin. Both brass and bronze are therefore copper alloys, and unless the alloy is known, it is safer to call both of them copper alloys." , "@language" : "en" } ] }
+] }

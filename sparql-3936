@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1503">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2293" />
+    <skos:prefLabel xml:lang="en">pigskin</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">svineskinn</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The skin of the young pig which may be either tanned, tawed or turned into parchment.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">hud av unge svin som enten er garvet, alungarvet eller laget pergament av </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

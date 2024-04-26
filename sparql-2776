@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3643">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4122" />
+    <skos:prefLabel xml:lang="en">helical endband sewing</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A form of primary sewing of an endband in which the thread having been taken down the centre of one gathering is brought up on the spine to go over an endband core and down into the next gathering without linking with the previous tiedown or making any form of bead. It is the type of primary sewing that is typically found on Islamic endbands.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

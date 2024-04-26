@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3803",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2270"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "head" , "@language" : "en" } ,
+        { "@value" : "hode" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "toppen p\u00E5 en innbundet bok n\u00E5r den st\u00E5r vertikalt i en hylle " , "@language" : "nb" } ,
+        { "@value" : "The top of a bound book as placed vertically on a shelf." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1199" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2366" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "angled lacing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Two-hole lacing in which the two holes are arranged at an angle to the joints of the bookblock. This type of lacing can be found in both boards and laced cases, and the slips can be angled either upwards or downwards, and will often be found angled in one direction on one side and in the other on the other side." , "lang" : "en" } ] }
+}

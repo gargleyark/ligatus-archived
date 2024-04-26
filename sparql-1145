@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2868>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2945> ;
+	skos:prefLabel	"cut and folded leaf markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Leaf markers made by making a vertical cut on the fore-edge to separate a strip of the leaf which is then folded back at right angle to the fore-edge, laced through a slot cut in the leaf so that it projects from the fore-edge. Leaf markers of this sort are most likely to be found on bookblocks with parchment leaves."@en .

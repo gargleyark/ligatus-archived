@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/4551" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2279" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "album" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "albums" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "bok med blanke ark til \u00E5 samle l\u00F8st materiale som avisutklipp, bilder, billetter og brev  " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Bok med blanke ark til \u00E5 samle l\u00F8st materiale som avisutklipp, bilder, billetter, , brev o.l. " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A book of blank leaves designed to contain inserted materials such as written records, letters, engraved plates, tickets, etc." , "lang" : "en" } ] }
+}

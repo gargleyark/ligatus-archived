@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2891">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1304" />
+    <skos:prefLabel xml:lang="en">fastened edge pins</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A more secure type of edge pin, found on some Coptic and Greek bindings, with a flat, blade-like tang with a hole drilled through it, through which a metal pin was driven from the surface of the board to prevent the edge pin from being pulled out of the board.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1507>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4698> ;
+	skos:prefLabel	"artificial grains"@en ,
+		"kunstig narv"@nb ;
+	skos:altLabel	"plated grains"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The surface of a leather covering skin which has been given an artificial grain by means of pressing it into an engraved plate. The process was intended to give a more expensive-looking finish to cheaper leathers (see goat-sheep (caprinae skins), roan and basil). The production of skins with artificial grains would appear to have been a development of the late eighteenth-century, possibly in response to the introduction of expensive straight-grain leathers. Skins with an impressed straight grain are therefore not uncommon, but other grains can be found, e.g morocco grain and pebble grain. These grains are also found on bookcloths and paper. Skins with artificial impressed leather grains can be found at many levels of work below the highest, but are found most often towards the bottom end, using varieties of inexpensive coloured tanned sheepskin to make more attractive-looking school books, children&#039;s books, pocket books, diaries, etc. The decorated bindings often found on liturgica, always books produced in large numbers and often sold bound, will also make frequent use of skins with artificial grains."@en ,
+		"Skinnets overflate gis et kunstig preg ved \u00E5 presse det mot en gravert plate, dette ble som regel gjort for \u00E5 gi billig skinn et mer eksklusivt utseende. Skoleb\u00F8ker, barneb\u00F8ker, dagb\u00F8ker i tillegg til innbundne b\u00F8ker som kom i store opplag  ble ofte trukket i skinn med kunstig narv."@nb .

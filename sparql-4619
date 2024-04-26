@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4494>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4777> ;
+	skos:prefLabel	"rolling presses"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Presses used in intaglio printing in which the plate, paper, and cushioning blankets pass between cylinders that exert pressure, forcing the paper into the grooves in the plate which hold the ink."@en .

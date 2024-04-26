@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1679" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1678" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4111" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4097" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bordure" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "tooled frames" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "preget bord eller dekorasjon i kantene p\u00E5 permene" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Decorative frames created on the sides of a binding by means of tooling with either rolls or fillets or both, or, at an earlier date, by repeated impressions of handle tools." , "lang" : "en" } ] }
+}

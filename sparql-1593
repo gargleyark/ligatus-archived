@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4128>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3347> ;
+	skos:narrower	<http://w3id.org/lob/concept/4688> ,
+		<http://w3id.org/lob/concept/4692> ;
+	skos:prefLabel	"decorated paper features"@en ;
+	skos:inScheme	<http://w3id.org/lob/> .

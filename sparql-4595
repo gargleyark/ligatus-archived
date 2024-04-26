@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4089>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3299> ;
+	skos:narrower	<http://w3id.org/lob/concept/4091> ,
+		<http://w3id.org/lob/concept/4093> ,
+		<http://w3id.org/lob/concept/4095> ;
+	skos:prefLabel	"relative size"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The size of one component relative to another."@en .

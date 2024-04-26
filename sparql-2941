@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2934" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1668" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "internal tiedowns" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "That part of an endband tiedown which is located inside a gathering. In most cases, an internal tiedown will emerge from the exit point on the spine to form an external tiedown, but very occasionally endbands were worked which only had internal tiedowns." , "lang" : "en" } ] }
+}

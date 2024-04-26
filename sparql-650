@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3543">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1186" />
+    <skos:prefLabel xml:lang="en">beating hammers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A heavy, short-handled hammer, with a convex face, used in beating the leaves and sections of a book so as to flatten and compress them. Such hammers generally weigh 10 to 14 pounds (4.5 to 6.3 kg), and sometimes even up to 16 pounds (7.2 kg). The introduction of the rolling machine (1827) made the beating hammer virtually obsolete.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

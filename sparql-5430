@@ -1,0 +1,14 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4698",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3460"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4531"} ,
+        { "@id": "http://w3id.org/lob/concept/1375"} ,
+        { "@id": "http://w3id.org/lob/concept/3485"} ,
+        { "@id": "http://w3id.org/lob/concept/2916"} ,
+        { "@id": "http://w3id.org/lob/concept/1507"} ,
+        { "@id": "http://w3id.org/lob/concept/1453"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "skin features" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Features of skins." , "@language" : "en" } ] }
+] }

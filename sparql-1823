@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2979" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3154" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "eieretiketter" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "ownership labels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "eierens merke p\u00E5 etiketter ofte av skinn med gulltrykk plassert p\u00E5 utsiden eller innsiden p\u00E5 en av permene " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Labels usually of leather titled in gold, recording the ownership of a volume, and most often found on the inside or outside of one or other board. These labels are included here as theywould almost certainly have been tooled by a bookbinder, though not necessarily the binder who bound the book, as opposed to bookplates, or other inserted printed material such as visiting cards, etc." , "lang" : "en" } ] }
+}

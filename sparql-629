@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3419>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3417> ;
+	skos:prefLabel	"bokbinder"@nb ,
+		"bookbinders"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"People who bind books, which entails using various procedures, performed by hand or machine, to secure leaves or gatherings, usually within covers."@en ,
+		"en person som anvender seg av ulike metoder og teknikker enten for h\u00E5nd eller ved hjelp av maskiner for \u00E5 innordne blad og legg til en innbinding, som regel med et overtrekk "@nb .

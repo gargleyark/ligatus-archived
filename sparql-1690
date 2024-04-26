@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1310">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1606" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3703" />
+    <skos:prefLabel xml:lang="en">endband slips</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">kapitélflik </skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">deler av kapitélbåndkjernen eller heftbind som stikker utover bokblokkryggens tykkelse </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The parts of a sewing support, endband core or stitched thong which extend beyond the thickness of a bookblock and may be used to attach boards or covers to the bookblock.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

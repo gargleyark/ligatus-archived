@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1334">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2356" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1496" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1463" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1642" />
+    <skos:prefLabel xml:lang="en">flayholes</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Small holes made in an animal skin as the carcase is flayed which opens into a round or oval hole in the course of preparing the skin. They are most commonly found in parchment, because it shrinks on the parchment makers&amp;#039; frame or herse under tension as it dries, a process that can greatly enlarge the flayholes. In order to prevent this from happening the parchmentmakers often stitched the holes before the skins dried, resulting in stitched flayholes, as opposed to open flayholes. Flayholes will also be found in alum-tawed and tanned skins.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Small holes made in an animal skin as the carcase is flayed which opens into a round or oval hole in the course of preparing the skin. They are most commonly found in parchment, because it shrinks on the parchment makers&amp;#039; frame or herse under tension as it dries, a process that can greatly enlarge the flayholes. In order to prevent this from happening the parchment makers often stitched the holes before the skins dried, resulting in stitched flayholes, as opposed to open flayholes. Flayholes will also be found in alum-tawed and tanned skins.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

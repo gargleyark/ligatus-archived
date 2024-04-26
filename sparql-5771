@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3705>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1309> ;
+	skos:prefLabel	"tvunnede skinnstrimler"@nb ,
+		"twisted cores"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"bearbeiding av skinnstrimler ved at de tvinnes for \u00E5 f\u00E5 en rund form"@nb ,
+		"Cores made from animal skin were often twisted to produce a round cross section. The end of the slips, where these are visible laced into boards or case-type covers, often show the twist very clearly. Cord cores will, by definition, be twisted."@en .

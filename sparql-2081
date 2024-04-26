@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1591>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3475> ;
+	skos:prefLabel	"shallow bevel "@en ,
+		"flatvinklet permkant"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A bevel cut at an angle noticeably less than 45 degrees to the surface of the board. Bevels that are considerably wider than they are deep, creating flat planes at a shallow angle to the board surface around its perimeter are commonly found on northern European bindings and can be described as shallow peripheral bevels."@en ,
+		"N\u00E5r den avfasete vinkelen p\u00E5 permkanten er under 45\u25E6 Flatvinklede kanter forekommer ofte p\u00E5 permene til nordeuropeiske bind."@nb .

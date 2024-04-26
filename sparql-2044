@@ -1,0 +1,17 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1379",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3283"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1322"} ,
+        { "@id": "http://w3id.org/lob/concept/3697"} ,
+        { "@id": "http://w3id.org/lob/concept/1428"} ,
+        { "@id": "http://w3id.org/lob/concept/1313"} ,
+        { "@id": "http://w3id.org/lob/concept/3616"} ,
+        { "@id": "http://w3id.org/lob/concept/1605"} ,
+        { "@id": "http://w3id.org/lob/concept/3282"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "guards" , "@language" : "en" } ,
+        { "@value" : "fals" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Narrow strips of paper or parchment folded lengthways either to reinforce the folds of gatherings or endleaves (sewing guards) or to attach plates or tables to a textblock (extension guards)." , "@language" : "en" } ,
+        { "@value" : "smal falset strimmel av papir, lerret eller pergament som brukes til forsterkning i ryggen p\u00E5 legg, forlenger innermargen av enkeltsider, som innklebing av l\u00F8st blad eller plansje f\u00F8r siden heftes sammen med bokens \u00F8vrige ark " , "@language" : "nb" } ] }
+] }

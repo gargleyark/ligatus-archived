@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/1348" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1268" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1350" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "helbind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "full covers" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The covering material extends around the spine from fore-edge to fore-edge. A full cover can, but does not always, have turn-ins." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "bind med ett og samme overtrekksmateriale p\u00E5 rygg og permer  " , "lang" : "nb" } ] }
+}

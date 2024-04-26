@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4630" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3545" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "penslet klisterpapir" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "brushed paste paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Dekoreringsteknikk der stivelsesklister tilsatt farge ble penslet i \u00E9n retning over papiret og er gjenkjennbart p\u00E5 de mer eller mindre parallelle str\u00F8kene som dannes av penselen, kan v\u00E6re ensfarget eller flerfarget. Penslet klisterpapir er den tidligste form for dekorert papir vi kjenner i Europa. Eksempler p\u00E5 spillkort der baksiden var dekorert med denne teknikken stammer fra ca. 1430. " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Paper coloured with one or several colours directly applied to its surface with a brush, leaving clear strokes to create a decorative pattern in the colour layer. The paste colours were brushed in straight lines, either horizontally, vertically or diagonally over the entire surface, leaving more or less parallel strokes of the brush." , "lang" : "en" } ] }
+}

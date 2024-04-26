@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3511>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3501> ;
+	skos:narrower	<http://w3id.org/lob/concept/1232> ,
+		<http://w3id.org/lob/concept/3012> ;
+	skos:prefLabel	"sewn board attachment"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Attaching boards to the bookblock by sewing thread only, either directly or indirectly. This form of attachment may be found on both supported and unsupported structures."@en .

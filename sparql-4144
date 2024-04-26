@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3344">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1186" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2850" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3094" />
+    <skos:prefLabel xml:lang="en">paper moulds</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">papirform</skos:prefLabel>
+    <skos:altLabel xml:lang="en">paper mold</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">form til å danne papirark </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The rectangular wooden frame which holds a screen of parallel (laid mould) or woven (wove mould) brass wires which is dipped into the paper pulp in the vat to pick up the pulp for a single sheet of paper and through which water drains away in the formation of a sheet of handmade paper.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

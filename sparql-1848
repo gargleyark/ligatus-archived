@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3425",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3417"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "owners" , "@language" : "en" } ,
+        { "@value" : "eiere" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "personer som har lovlig eierskap til noe" , "@language" : "nb" } ,
+        { "@value" : "People who have legal title to something. For those who own specifically businesses or commercial establishments, use &quot;proprietors.&quot;" , "@language" : "en" } ] }
+] }

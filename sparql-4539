@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3411>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3273> ;
+	skos:narrower	<http://w3id.org/lob/concept/2957> ,
+		<http://w3id.org/lob/concept/3020> ,
+		<http://w3id.org/lob/concept/1400> ,
+		<http://w3id.org/lob/concept/2858> ;
+	skos:prefLabel	"remmer"@nb ,
+		"straps (fastening components)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"remser eller b\u00E5nd av relativt sterkt materiale (skinn, pergament) som utgj\u00F8r en del av en lukkemekanisme enten alene eller som del av en spenne "@nb ,
+		"Straps used as part of a fastening, usually combined with a metal component."@en .

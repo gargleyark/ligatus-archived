@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2893">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4219" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4221" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3005" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4602" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2926" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2845" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2874" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2864" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3047" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1669" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3158" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3159" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3361" />
+    <skos:prefLabel xml:lang="en">fastenings</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">lukkemekanisme</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">festeanordning som har til hensikt å holde bindets permer lukket rundt bokblokken når boken ikke er i bruk </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Fastenings are used to hold a book shut when it is not in use. They can take a variety of forms and be made from many different materials, but their essential function is secure one board or cover to the other across the fore-edge of the bookblock and often the head and tail edges as well. Fastenings were in use from the earliest times, but after the introduction of printing and, more particularly, the near universal use of paper-leaved textblocks, their use gradually became more and more decorative and status-related (ie. for liturgical or ceremonial use), unless they are found on books which were intended to be carried about, in which case they retain a primarily functional purpose. Fastenings may also be found on enclosures.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Fastenings are used to hold a book shut when it is not in use. They can take a variety of forms and be made from many different materials, but their essential function is secure one board or cover to the other across the foredge of the bookblock and often the head and tail edges as well. Fastenings were in use from the earliest times, but after the introduction of printing and, more particularly, the near universal use of paper-leaved textblocks, their use gradually became more and more decorative and status-related (ie. for liturgical or ceremonial use), unless they are found on books which were intended to be carried about, in which case they retain a primarily functional purpose. Fastenings may also be found on enclosures.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

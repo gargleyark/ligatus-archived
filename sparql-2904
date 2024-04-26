@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1618">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3277" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3305" />
+    <skos:prefLabel xml:lang="nb">løsrygginnlegg</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">spine inlays</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Strips of thick and relatively stiff paper or thin card, used to stiffen the spine areas of adhesive boards-and-cover case-bindings. They are cut to the height of the boards and leave gaps of 2-3 mm between the sides of the inlays and the spine edges of the boards. The boards and spine inlays are held together by the covering material to make a case.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">pappremse plassert langs bokblokkens rygg festet til overtrekksmaterialet </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

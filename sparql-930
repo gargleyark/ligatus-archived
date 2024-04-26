@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1259">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1619" />
+    <skos:prefLabel xml:lang="nb">hel ryggfôring</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">continuous spine linings</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Spine linings cut to the width of the spine and which extend from (or close to) the head to the tail of the spine. Such linings were often used on smooth spines created by unsupported sewing or recessed-support sewing, but are occasionally found over raised supports, in which case the lining will be moulded over the supports.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Ryggfôring som dekker ryggens bredde og går nesten helt ut over kapitélene i hode og fot.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1544>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1292> ;
+	skos:prefLabel	"reverse-twist supports"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Double supports in which the twist in each element is different, even though they are made from a single length of twisted material. All recorded examples have been made of cord and they would appear to have been made by the binders who would take the necessary number of thick threads, hang them over a hook with an equal length on each side of the hook, and twist the group on the right side clockwise to give an S-twist, and the group on the left anticlockwise to give a Z-twist (this comes naturally when it is carried out). The technique has only been recorded on Germanic bindings, probably from the south of the German-speaking area, in the fifteenth and early sixteenth centuries."@en .

@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1564>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1648> ;
+	skos:narrower	<http://w3id.org/lob/concept/3833> ,
+		<http://w3id.org/lob/concept/1584> ,
+		<http://w3id.org/lob/concept/1312> ;
+	skos:prefLabel	"secondary stitching"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Stitching which was used to attach boards or covers to bookblocks that were already held together by primary stitching. Very occasionally, secondary stitching was used to attach covers to bookblocks that had been sewn."@en .

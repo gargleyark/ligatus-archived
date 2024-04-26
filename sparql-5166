@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3500",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1606"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "sewn slips" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Slips attached to paper boards by threads sewn through both. This technique was used as early as the mid-fifteenth century in Italy, where it remained in use until the first quarter of the sixteenth century. Sewn slips have also been recorded in a Cambridge binding by the Unicorn binder of the 1490s with laminated boards of tanned calfskin and alum-tawed hairsheep." , "@language" : "en" } ] }
+] }

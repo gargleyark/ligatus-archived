@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3767" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4122" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "whipped-cord primary sewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The sewing used to tack an endband core to the head or tail of a spine of a bookblock. Whipped sewing was not used as a structural sewing but simply as a means of holding the usually decorated core in place, and results in external tiedowns which appear at an angle on the spine. This is because the thread as it emerges from the spine-fold of one gathering is taken across the spine to the point on the core where the next internal tiedown is to be made." , "lang" : "en" } ] }
+}

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3679>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3287> ;
+	skos:prefLabel	"skin wedges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Tapering lengths of alum-tawed or tanned skin pulled through holes in wooden boards alongside sewing support slips until they were jammed tight in the holes to prevent the slips pulling away from the boards. By using skin wedges instead of wooden pegs for this purpose, it was possible to avoid the risk of splitting the boards by driving the pegs in too far. Skin wedges have been recorded on English bindings throughout the sixteenth century."@en .

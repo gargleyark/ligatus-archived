@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1306",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "embroidery (techniques)" , "@language" : "en" } ,
+        { "@value" : "brodert bind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The technique of decorating a textile cover in which a needle and thread or fine wire are used to stitch decorative designs into cloth, leather, paper, or other material. It may also refer to the process used to create machine-made imitations of hand-made embroidery." , "@language" : "en" } ,
+        { "@value" : "p\u00E5 b\u00F8ker er brodering f\u00F8rst og fremst utf\u00F8rt p\u00E5 kapit\u00E9lb\u00E5ndene eller p\u00E5 permene (b\u00E5de utvendig og innvendig) som dekor" , "@language" : "nb" } ] }
+] }

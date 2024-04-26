@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4930>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:prefLabel	"kapit\u00E9lb\u00E5ndutforming"@nb ,
+		"endbanding"@en ;
+	skos:altLabel	"headbanding"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"m\u00E5ten kapit\u00E9lb\u00E5ndet er tilvirket p\u00E5 "@nb ,
+		"The process of making an endband."@en .

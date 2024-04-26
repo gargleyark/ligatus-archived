@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2850" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "chain lines (moulds)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kjedelinjer" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The thicker wires known as chain lines usually placed parallel to the short side of a rectangular laid paper mould that support the thinner wire lines which lie across them at right angles. The chain lines will leave thinner brighter lines in the paper which are clearly visible by transmitted light." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "de tykkere tr\u00E5dene i en rektangul\u00E6r papirform " , "lang" : "nb" } ] }
+}

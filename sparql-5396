@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4657">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3990" />
+    <skos:prefLabel xml:lang="nb">skjellmarmorert papir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">shell marbled paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Marmorgrunden sprinkles fullstendig av små fargedråper, fargeflekkene er merkbart lysere i kantene enn i midten og gjennom fortetting ådres mellomrommet mellom fargeflekkene. </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3996",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3994"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tree-root marbled paper" , "@language" : "en" } ,
+        { "@value" : "trerotdekorert papir" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "En type rennemarmor der papir farget inn med en farge, som regel brun som deretter blir sprengt med sort eller m\u00F8rkere brun farge v\u00E5tt i v\u00E5tt, slik at fargene l\u00F8per i hverandre og danner et knutete \u00E5rem\u00F8nster \u00E0 la rottre. Denne formen for dekor ble ogs\u00E5 brukt p\u00E5 skinn." , "@language" : "nb" } ,
+        { "@value" : "A type of run-marbled paper in which a solid-coloured paper (usually brown and more rarely green, red or orange) is covered with brown or black droplets, which partially flow into each other, forming free-flowing, irregular shapes that are reminiscent of tree-root veneers." , "@language" : "en" } ] }
+] }

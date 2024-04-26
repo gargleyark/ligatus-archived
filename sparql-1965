@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1326>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2342> ;
+	skos:narrower	<http://w3id.org/lob/concept/4704> ,
+		<http://w3id.org/lob/concept/4706> ;
+	skos:prefLabel	"false bands"@en ,
+		"falske bind "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"materiale, vanligvis en remse av papp eller skinn, som anbringes p\u00E5 bindryggen for \u00E5 etterlikne formen p\u00E5 et ekte bind"@nb ,
+		"False raised bands are  purely decorative (or deceptive) and have no structural function. False bands have been recorded on a German binding of the mid-fifteenth century (Szirmai 1999, p.187), and were popular in the form of false halfbands and false kettlebands in Germany from the last quarter of the fifteenth to the end of the sixteenth century, and in Italy from ca 1535 to ca 1565. The use of false bands to make books sewn on fewer supports look as if they were sewn on more is an occasional feature of French and English bindings from the mid-sixteenth century to the early eighteenth century, and they were also used in combination with recessed sewing supports to make such books look as if they were sewn on the more expensive and stronger raised sewing supports. They were also used on books with adhesive structures in Britain in the years ca 1670 - ca 1690. They came back into fashionable, decorative use in the last quarter of the eighteenth century, and become a standard feature of hand-bound books from then on."@en .

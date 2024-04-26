@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1408",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3748"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "kjedesting" , "@language" : "nb" } ,
+        { "@value" : "kettlestitches" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "catch-up stitch" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Sting som formes ved festbindene n\u00E5r heftetr\u00E5den legget er heftet med, forankres under heftetr\u00E5den fra forrige legg og deretter er klar til \u00E5 hefte neste legg." , "@language" : "nb" } ,
+        { "@value" : "A stitch formed at the change-over station when the thread with which a gathering has just been sewn is taken down below the sewing of the previously sewn gathering or gatherings before taking it up into the next gathering to be sewn. Also known as a &#039;catch-up stitch&#039;." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3796">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3793" />
+    <skos:prefLabel xml:lang="nb">bindtittel</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">binding titles</skos:prefLabel>
+    <skos:altLabel xml:lang="en">binder&amp;#039;s titles</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">tekst på bindet, som regel plassert på rygg eller permer, som redegjør for tekstblokkens innhold</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The title of a book as it appears on any external surface of the binding, including the edges of the bookblock. Until the 18th century, the choice of binding titles was often that of the owner of the book, and, when in manuscript, may well have been added by the owner rather than the binder. The tooled titles on many books were often added long after the binding was completed, to suit different owners and different storage methods in libraries.  As a consequence, therefore, it is not uncommon for books to have two or more titles in different places.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

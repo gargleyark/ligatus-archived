@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1257>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1663> ;
+	skos:prefLabel	"composite textblocks"@en ,
+		"Sammelb\u00E4nde"@de ,
+		"samlebind"@nb ;
+	skos:altLabel	"sammelbands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"bok som inneholder flere forskjellige tekster som er bundet sammen i et bind "@nb ,
+		"Single textblocks containing two or more manuscript parts or printed editions, as opposed to multiple textblock bindings which contain two or more discrete textblocks, each of which may, of course, be a composite textblock."@en .

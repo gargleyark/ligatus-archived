@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3068>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3173> ;
+	skos:prefLabel	"heftb\u00E5nd"@nb ,
+		"tape"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"flate b\u00E5nd av tekstil eller pergament til \u00E5 hefte b\u00F8ker p\u00E5"@nb ,
+		"As used on bookbindings, narrow, flexible strips of textile or thin animal skin such as parchment, used most often as sewing supports. They should be distinguished from the more decorative &#039;ribbons&#039;, which were used as bookmarks, ties, secondary sewing on endbands, etc."@en .

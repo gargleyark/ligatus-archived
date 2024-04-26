@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3458>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/4577> ,
+		<http://w3id.org/lob/concept/4579> ,
+		<http://w3id.org/lob/concept/4583> ,
+		<http://w3id.org/lob/concept/2980> ,
+		<http://w3id.org/lob/concept/4941> ;
+	skos:prefLabel	"leaves features"@en ;
+	skos:inScheme	<http://w3id.org/lob/> .

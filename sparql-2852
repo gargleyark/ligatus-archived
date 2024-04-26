@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4604">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1244" />
+    <skos:prefLabel xml:lang="en">hole-type catchplates</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Catchplates with one or more holes into which hooked clasps can be inserted. Hole-type catchplates with three holes in them are frequently associated with almanac bindings containing pockets inside the boards and with envelope flaps, for which an adjustable fastening is necessary, to allow for the quantity of material inserted into the pockets.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

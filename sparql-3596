@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3973">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb">preget metallpapir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">metal-leaf embossing</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Teknikk for fremstilling av dekorert papir  der papiret trykkes med metallfolie og tilføres mønster i relieff fra en oppvarmet metallplate i en kobbertrykkspresse. Metallfolien bestod som oftest av legeringer av uedle metaller som etterlignet gull og sølv. Motivet i metall-laget fremstår enten i forgrunnen (positivt platesnitt) eller i bakgrunnen (negativt platesnitt).</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Creating a metallic embossed pattern or letters on a paper by pressing a heated engraved metal plate, usually made of brass and with either a positive or negative design, into the paper in a press. The paper is first covered with metal leaf, usually alloys of a base metal, and then placed on a felt or a soft support to be embossed in a copperplate printing press with the heated engraved plates which create a slight embossing in the paper and a metallic decorative pattern.  With a positive plate, the metal leaf only remains in the depressions created by the plate, which therefore leaves a positive metal pattern (when the motif such as a flower is in metal); with a negative plate, the metal leaf becomes the background to a design which is revealed in the colour of the paper.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

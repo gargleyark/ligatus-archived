@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1449",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3744"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1698"} ,
+        { "@id": "http://w3id.org/lob/concept/4023"} ,
+        { "@id": "http://w3id.org/lob/concept/4025"} ,
+        { "@id": "http://w3id.org/lob/concept/4027"} ,
+        { "@id": "http://w3id.org/lob/concept/4017"} ,
+        { "@id": "http://w3id.org/lob/concept/4019"} ,
+        { "@id": "http://w3id.org/lob/concept/4021"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "multi-section sewing" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "In multi-section sewing, a single length of thread extending between the change-over stations at the head and tail of the gatherings is used to attach two or more gatherings to the sewing supports. According to the number of gatherings attached with each single thread, these are known as two-on sewing, three-on sewing, etc." , "@language" : "en" } ] }
+] }

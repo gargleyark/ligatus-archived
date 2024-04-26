@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3808>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2270> ;
+	skos:prefLabel	"forkant"@nb ,
+		"fore-edge (place)"@en ;
+	skos:altLabel	"front edge"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The edge of a codex-form book from which it is opened, opposite the spine ."@en ,
+		"Den kanten p\u00E5 bokblokken som st\u00E5r motsatt av ryggen og som kan \u00E5pnes.  "@nb .

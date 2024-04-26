@@ -1,0 +1,12 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2464",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1481"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2939"} ,
+        { "@id": "http://w3id.org/lob/concept/3095"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "h\u00E5ndlaget papir" , "@language" : "nb" } ,
+        { "@value" : "handmade paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Papers made in individual sheets while dipping a paper mould into a vat of liquid paper pulp." , "@language" : "en" } ,
+        { "@value" : "betegnelse p\u00E5 h\u00E5ndlaget papir " , "@language" : "nb" } ] }
+] }

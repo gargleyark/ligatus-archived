@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2978",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2366"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "one-hole and turn-in lacing (ties)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A technique of tie-lacing in which the inner end of the tie is placed between the turn-in and the outside of the cover and is either brought through a hole or slot in a wide turn-in or over the edge of a narrow turn-in before being laced through the turn-in, its own inner end and the outside of the cover to form the tie. Ties that are now missing but which were originally brought around the edge of the turn-in can often be recognised by the crushing of the edge as the tie was pulled tight. Occasionally, French binders, who made regular use of this type of tie, would indent a wide turn-in to create narrower sections to allow the ties to be pulled around the edges of the turn-ins." , "@language" : "en" } ] }
+] }

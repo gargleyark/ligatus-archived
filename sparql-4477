@@ -1,0 +1,13 @@
+{
+  "http://w3id.org/lob/concept/2352" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1455" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4340" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1333" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4460" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1610" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1551" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "spines (bookblocks)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The edge of the bookblock opposite the fore-edge where the spine-folds of the gatherings, sewing supports, external endband tiedowns and spine linings will be found." , "lang" : "en" } ] }
+}

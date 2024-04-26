@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1470">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:prefLabel xml:lang="en">overbacks</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">sekundært ryggovertrekk</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A secondary quarter covering on the spine of a bound volume which overlaps onto the back edges of the sides. This was done for three reasons, firstly as a reinforcement of the spines of books intended for heavy use in which the edges of the overback was usually fastened to the boards by nails through strips of copper alloy, secondly as a means of improving or changing of books on the shelves of library, and thirdly as a simple form of repair to reattach detached boards. </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">sekundert overtrekk som dekker bokryggens primære overtrekk</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

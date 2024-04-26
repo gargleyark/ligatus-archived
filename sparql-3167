@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1414>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4103> ;
+	skos:prefLabel	"laced-case bindings with boards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A laced-case binding in which boards have been inserted into the sides of the cover after the cover has been attached to the bookblock."@en .

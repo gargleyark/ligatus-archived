@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1483",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2450"} ,
+        { "@id": "http://w3id.org/lob/concept/2484"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "papyrus" , "@language" : "en" } ,
+        { "@value" : "papyrus" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A writing material prepared from thin strips of the pith of the papyrus plant laid together, soaked, pressed, and dried." , "@language" : "en" } ,
+        { "@value" : "skrivemateriale laget av strimler av stammen til papyrusplanten som er lagt delvis over hverandre, fuktet, presset og t\u00F8rket " , "@language" : "nb" } ] }
+] }

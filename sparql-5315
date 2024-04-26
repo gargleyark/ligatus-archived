@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4124>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4117> ;
+	skos:prefLabel	"slip sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The process of sewing sewing-support and endband-core slips into channels cut in the inner or outer surface of laminated boards made from paper or animal skins."@en .

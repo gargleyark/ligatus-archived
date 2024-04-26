@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4160>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3953> ;
+	skos:prefLabel	"metallpapir"@nb ,
+		"metal powder paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"papir som er dekket av et lag metall, som oftest en legering "@nb ,
+		"Metallic papers produced either by scattering a metallic powder (most commonly brass or tin alloys) over paper that has been previously coated with an adhesive or by coating it with a metallic paint such as shell gold."@en .

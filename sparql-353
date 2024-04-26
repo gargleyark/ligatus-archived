@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1229>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2270> ;
+	skos:narrower	<http://w3id.org/lob/concept/1216> ;
+	skos:prefLabel	"kanter"@nb ,
+		"borders"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"en flates ytterste sider"@nb ,
+		"The area around the perimeter of a surface. Most often used of decoration around the perimeter of the surface of a board."@en .

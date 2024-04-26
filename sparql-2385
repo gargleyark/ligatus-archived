@@ -1,0 +1,12 @@
+{
+  "http://w3id.org/lob/concept/1369" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1368" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1691" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1436" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4535" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "geiteskinn" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "goatskin" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "skinn av geit som er tilberedt enten ved garving, alungarving eller til pergament " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The skin of the goat which may be either tanned, tawed or turned into parchment." , "lang" : "en" } ] }
+}

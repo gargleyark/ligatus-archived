@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3295>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2536> ;
+	skos:prefLabel	"whipped-cord secondary sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Lengths of coloured twisted cords whipped with thread to the exposed edge of the stuck-on endband lining. Typically found on some Germanic stuck-on endbands of the late fifteenth and early sixteenth centuries, this technique will not be found on sewn endbands."@en .

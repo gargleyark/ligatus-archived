@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1238",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1287"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "calfskin" , "@language" : "en" } ,
+        { "@value" : "kalveskinn" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "hud av kalv, garvet, alungarvet eller pergament" , "@language" : "nb" } ,
+        { "@value" : "The skin of the bovine calf which may be either tanned, tawed or turned into parchment. Skins of animals more than six months old could not be used as the covers of bindings as they would be too thick." , "@language" : "en" } ] }
+] }

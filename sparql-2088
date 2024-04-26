@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1598",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2358"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "fors\u00F8lvete snitt" , "@language" : "nb" } ,
+        { "@value" : "silvering" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A term used to describe a book whose edge or edges have been covered with silver leaf instead of gold." , "@language" : "en" } ,
+        { "@value" : "boksnitt som er belagt med s\u00F8lv i stedet for gull" , "@language" : "nb" } ] }
+] }

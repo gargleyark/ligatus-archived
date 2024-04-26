@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1554">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2474" />
+    <skos:prefLabel xml:lang="en">s-twist thread</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">s-tvunnet tråd</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Tråd der bastfibrene er tvunnet slik at de danner en S (sett fra øverst til venstre mot nederst til høyre).</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A ply in which the angle of the final twist of the thread is that of the central stroke of a capital S (i.e. from top left to bottom right).</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

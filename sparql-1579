@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4087" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1226" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "decorated edges" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "dekorerte snitt" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Mange forskjellige typer dekor ble p\u00E5f\u00F8rt bokblokkens snitt enten f\u00F8r eller etter at kapit\u00E9lb\u00E5nd ble festet, permene ansatt eller omslaget montert." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Decoration applied to the cut edges of a bookblock. Many different decorative techniques were used for this purpose, and the decoration could be done both before and after endbands were sewn, boards attached and covers added." , "lang" : "en" } ] }
+}

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1480>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1329> ;
+	skos:prefLabel	"panel stamps"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A relatively large block of metal or wood, usually the former, and usually engraved intaglio, which was used to impress a design on the cover of a book. They could be used either cold on dampened leather or heated (when made of metal) on dry leather and were usually blocked in blind and used in pairs, one on each side of the binding, though on larger books multiple impressions of blocks can be found. Cast copies of blocks have been identified, which means that the identification of individual blocks can only be made through damage or the positions of nail holes."@en .

@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3173>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:narrower	<http://w3id.org/lob/concept/3069> ,
+		<http://w3id.org/lob/concept/3002> ,
+		<http://w3id.org/lob/concept/3068> ;
+	skos:prefLabel	"strip materials"@en ,
+		"b\u00E5nd"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Long, narrow pieces of rigid or flexible material, of generally uniform width, either manufactured or cut from sheet materials."@en ,
+		"Lange, smale t\u00F8ystrimler eller av annet fleksibelt materiale som brukes til \u00E5 holde noe oppe eller sammen med, eller som pynt\r\n"@nb .

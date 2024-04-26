@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1550>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1551> ;
+	skos:prefLabel	"round spines"@en ,
+		"rund rygg"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Spines whose shape approximates to a third of a circle (between standard curves +4 and +5 in Szirmai, see figure 7.33 a, p. 134)."@en ,
+		"bokrygg hvis form er ca. 1/3 av av en sirkel"@nb .

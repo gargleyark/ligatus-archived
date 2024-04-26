@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2827>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1244> ;
+	skos:prefLabel	"bokspenne med stang"@nb ,
+		"bar catchplates"@en ;
+	skos:altLabel	"rolled round bar (catchplates)"@en ,
+		"pin (catch plates)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Del av lukkemekanisme som er utstyrt med en stang som den andre delen, formet som en krok eller hekte, kan hekte seg p\u00E5.\r\n"@nb ,
+		"Catchplates which have at their outer forked ends a metal bar over which a clasp can hook."@en .

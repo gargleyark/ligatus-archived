@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3847",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1606"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tucked under slips" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The ends of sewing supports slips which, when laced through three holes in a pattern that became typical of French binding from the second half of the 16th century through to the 19th century, are, after they emerge on the inner surface of the boards through the re-entry lacing holes, tucked under themselves between the entry and exit lacing holes. This technique appears to have been introduced to prevent the slips of thin recessed cords pulling out of the boards when laced laced through two holes only." , "@language" : "en" } ] }
+] }

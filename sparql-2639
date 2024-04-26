@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1581>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4174> ;
+	skos:prefLabel	"heftbindelementer"@nb ,
+		"sewing support elements"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Double or triple supports will consists of multiple elements across the spine of a bookblock, creating in double supports upper and lower elements, and in triple supports, upper, central and lower elements. Many double supports were created out of single lengths of animal skin cut across the central portion to create the double or triple supports, and will therefore still have separate elements across the spine, even though the slips may not be separated."@en ,
+		"doble eller tredoble heftbind som g\u00E5r p\u00E5 tvers av bokblokkens rygg "@nb .

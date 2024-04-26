@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3181">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1481" />
+    <skos:prefLabel xml:lang="en">cover paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">grovt papir til omslag</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">papirkvalitet med relativt sett  høyere vekt enn trykke- og skrivepapir </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Thick, strong papers specially designed as a material to be used for covers. They were made as laid and later wove papers which were much thicker than typical manuscript and printing papers, but thinner than cartonnage.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

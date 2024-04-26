@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1239>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2470> ;
+	skos:prefLabel	"calico"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Cotton textile, heavier than muslin, plain, dyed, or with patterns printed in one or more colors. In the 18th and 19th centuries, the term referred to printed, colored or plain cloth from India."@en .

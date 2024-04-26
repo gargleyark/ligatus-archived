@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4468",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3311"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3010"} ,
+        { "@id": "http://w3id.org/lob/concept/3022"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "satchels" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "polaire" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Square or rectangular bags, often of a stiff leather or hide, with flaps which enclose the open edges and usually with long straps by which they could be carried over the shoulder or hung from pegs set in the wall of a library, a well-attested middle-eastern practice. The open edge of a rectangular satchel could be on either a short or a long edge. The orientation of the satchel should therefore be described (short-edge opening or long-edge opening)." , "@language" : "en" } ] }
+] }

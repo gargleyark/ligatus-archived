@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/2949" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1478" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lettering pallets" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "type-holders" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Pallets with lettering engraved on them for use in titling the spines of books. Lettering pallets were mostly used for words that would be used over and over again such as &#039;TOME&#039; or the words from a title or the name of an author of multi-volume sets being bound in a single workshop. The term lettering pallet is sometimes used for a type-holder which should apply only to the tool designed to hold separate pieces of type." , "lang" : "en" } ] }
+}

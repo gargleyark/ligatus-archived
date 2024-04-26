@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1474" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2362" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "oversewing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The process of sewing groups of leaves to sewing supports in a process similar to stitching, but incoporating the sewing supports at the same time. A complete textblock may therefore have multiple oversewn groups of leaves. Oversewing is most often found on books consisting entirely of or with large numbers of single leaves." , "lang" : "en" } ] }
+}

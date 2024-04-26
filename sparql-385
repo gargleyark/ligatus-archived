@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1284>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3347> ;
+	skos:prefLabel	"b\u00F8ttekanter"@nb ,
+		"deckle edges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Uneven edges of a sheet of hand-made paper caused by the deckle or frame which confines the pulp on the mould, and under which some of the pulp will leak unevenly."@en ,
+		"ujevn avslutning p\u00E5 et h\u00E5ndlaget ark papir, som skyldes at rammen i papirformen fordeler pulpen ujevnt "@nb .

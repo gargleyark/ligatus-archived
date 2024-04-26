@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1280">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="en">cut-leather work</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">skinnutskjæringsdekor</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Dekoreringsteknikk , der bilder og ornamenter fremstilles på fuktet lær, ved utskjæring med kniv. Overflaten bearbeides med et spisst redskap og hammer for å lage mønster av mange tett sammenstilte prikker eller punkter. Fuktet skinn kunne også bearbeides fra baksiden for å skape relieff, før skinnet ble montert på boken. </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A method of decorating a bookbinding in which the design is cut into dampened leather instead of being tooled or blocked. The design is first outlined with a pointed tool and then dampened. It is then brought into relief by depressing the background, usually by stamping a succession of dots into the leather very close together by means of a pointed tool. Certain parts of the design are sometimes embossed from the flesh side of the leather, and in such cases the decorating must be done before covering. This technique of embellishment, which may well have been the highest manifestation of the medieval bookbinder&amp;#039;s art, was widely practiced only during the 15th century and only in certain areas, principally southeastern Germany and in Spain.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

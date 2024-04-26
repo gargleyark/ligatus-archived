@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1261",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3277"} ,
+        { "@id": "http://w3id.org/lob/concept/1693"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "corner tackets" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Small tackets of alum-tawed or tanned skin, parchment or thin cord used to hold down the turn-ins of a limp cover at the corners. They could be laced as simple loops through two holes, the ends twisted and/or knotted together usually on the inside of the cover, or through three or more holes to create patterned lacing." , "@language" : "en" } ] }
+] }

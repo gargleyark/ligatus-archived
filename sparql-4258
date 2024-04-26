@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4470",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1329"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "plaques" , "@language" : "en" } ,
+        { "@value" : "platestempel" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Large metal blocks used to decorate the whole of one side of a binding with a single decorative design or an elaborate border (these were frequently used in Paris in the eighteenth century), with or without metal leaf. As plaques were often used on both sides of a binding, it is usually possible to see whether they are identical and that the tooled decoration on each side was therefore created with impressions of the same plaque and not built up with multiple impressions of a number of handle tools (which almost always show small discontinuities and overlaps between tool impressions that will not be found on plaques). Plaques could create lavishly decorated bindings of the same size very quickly, and were, for this reason, sometimes used to decorate the covers of bindings made in large numbers, such as those found on some almanacs. The impressions made with plaques could be further decorated with painted colours. They were in use across Europe from the sixteenth to the nineteenth century, and are mostly used with metal leaf. " , "@language" : "en" } ,
+        { "@value" : "platestempel til \u00E5 prege st\u00F8rre omr\u00E5der p\u00E5 bokpermene i en bokpresse " , "@language" : "nb" } ] }
+] }

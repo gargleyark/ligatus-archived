@@ -1,0 +1,42 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2358>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2283> ;
+	skos:narrower	<http://w3id.org/lob/concept/1434> ,
+		<http://w3id.org/lob/concept/1280> ,
+		<http://w3id.org/lob/concept/4236> ,
+		<http://w3id.org/lob/concept/3857> ,
+		<http://w3id.org/lob/concept/1282> ,
+		<http://w3id.org/lob/concept/3862> ,
+		<http://w3id.org/lob/concept/4055> ,
+		<http://w3id.org/lob/concept/2884> ,
+		<http://w3id.org/lob/concept/2932> ,
+		<http://w3id.org/lob/concept/4667> ,
+		<http://w3id.org/lob/concept/2860> ,
+		<http://w3id.org/lob/concept/1628> ,
+		<http://w3id.org/lob/concept/2855> ,
+		<http://w3id.org/lob/concept/3661> ,
+		<http://w3id.org/lob/concept/4002> ,
+		<http://w3id.org/lob/concept/1490> ,
+		<http://w3id.org/lob/concept/1688> ,
+		<http://w3id.org/lob/concept/1476> ,
+		<http://w3id.org/lob/concept/3984> ,
+		<http://w3id.org/lob/concept/1305> ,
+		<http://w3id.org/lob/concept/1306> ,
+		<http://w3id.org/lob/concept/2888> ,
+		<http://w3id.org/lob/concept/3971> ,
+		<http://w3id.org/lob/concept/1294> ,
+		<http://w3id.org/lob/concept/3973> ,
+		<http://w3id.org/lob/concept/1598> ,
+		<http://w3id.org/lob/concept/2360> ,
+		<http://w3id.org/lob/concept/1355> ,
+		<http://w3id.org/lob/concept/1288> ,
+		<http://w3id.org/lob/concept/3876> ,
+		<http://w3id.org/lob/concept/3883> ,
+		<http://w3id.org/lob/concept/1363> ,
+		<http://w3id.org/lob/concept/3395> ;
+	skos:prefLabel	"decorating techniques"@en ,
+		"binddekoreringsteknikker"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"All the decorative techniques that may be applied to the external surfaces of a book (covers and bookblock edges) and the insides of the boards or cover, as well decorated papers, furniture and fastenings and enclosures."@en ,
+		"alle dekorative teknikker som er p\u00E5f\u00F8rt en bok, p\u00E5 yttersidene av bind og snitt og p\u00E5 innsiden av permene eller omslaget, dekorert papir, beslg og l\u00E5semekanismer "@nb .

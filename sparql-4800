@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1606">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3490" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3494" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3496" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3498" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3500" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1416" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3695" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1310" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3847" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1586" />
+    <skos:prefLabel xml:lang="en">slips</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The parts of a sewing support, endband core or stitched core which extend beyond the thickness of a bookblock and may be used to attach boards or covers to the bookblock.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

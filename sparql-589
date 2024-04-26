@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3275>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/1218> ,
+		<http://w3id.org/lob/concept/4227> ,
+		<http://w3id.org/lob/concept/3523> ,
+		<http://w3id.org/lob/concept/3669> ;
+	skos:prefLabel	"permkomponenter"@nb ,
+		"board components"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"de forskjellige bestanddelene som brukes for \u00E5 fremstille permer "@nb ,
+		"The component parts used in the construction and manufacture of boards."@en .

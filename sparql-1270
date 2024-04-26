@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4258">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1265" />
+    <skos:prefLabel xml:lang="en">circuit cover extensions</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">forlenget formering</skos:prefLabel>
+    <skos:altLabel xml:lang="en">yapp edges</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The extensions found on drawn-on covers which extend equally beyond the head, tail and fore-edge of a bookblock without a break at the corners. The covers may or may not be turned-in around the edges. This is the type of edge to which the 19th century publisher William Yapp gave his name. Bindings with this feature were known in the 19th century as divinity circuit bindings as they were most often found on bibles, prayer books, etc.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">innslaget på overtrekksmaterialet forlenges og falses slik at det stikker utenfor bokblokken/permkanten i den hensikt å beskytte bokblokkens snitt eller kanter. Innslagene er ofte slått inn, men behøver ikke være det  </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

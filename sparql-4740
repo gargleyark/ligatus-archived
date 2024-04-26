@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1582">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4174" />
+    <skos:prefLabel xml:lang="en">sewing support stiffeners</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A length of stiff or rigid material laid across one or more of the elements of a sewing support and sewn with it to reduce or remove the flexibility of the spine. The stiffeners will always be cut at the joints, as they cannot be used for board or cover attachment. Support stiffeners of copper alloy were recorded by Szirmai (Archaeology, pp 310-311) on printed books of the first half of the sixteenth century from Westphalia, but the use of stiffeners, including those made of wood, appears to have been a more general medieval archival practice.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

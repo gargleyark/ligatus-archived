@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4659">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3990" />
+    <skos:prefLabel xml:lang="en">Spanish-type marbled paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">spansk marmorert papir</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Et vilkårlig basismønster på hele overflaten endres og det skapes et bølgeaktig mønster ved bevegelse i papiret idét det legges på marmorgrunden, bølgene løper rett og er så godt som parallelle.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

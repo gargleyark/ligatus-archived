@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4225",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1255"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "comb-guards with folded stub" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A comb lining in which the lining is folded into a stub between the outermost and the next gathering at the joint, thus allowing the outermost gatherings to be sewn through the lining. It thus serves equally the functions both of a spine lining and an external sewing guard, but is classified here as a spine lining because of its similarity to a tabbed comb guard." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1626">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1585" />
+    <skos:prefLabel xml:lang="en">split-strap sewing supports</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Strap-type sewing supports in alum-tawed, tanned skin or parchment, which have been split usually into two elements across the spine to create double supports or, very rarely, into three elements to create triple supports (the only recorded example, made from alum-tawed skin, was found on a late 15th-century German binding). In some cases the splits will only extend to the width of the spine, in others, the slips at either left or right will be split beyond the width of the spine. This feature will normally indicate the direction of the sewing as the split slips will be found at the end of the sewing process rather than at the beginning.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

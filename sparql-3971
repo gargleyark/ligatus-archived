@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1517>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1648> ;
+	skos:narrower	<http://w3id.org/lob/concept/1520> ,
+		<http://w3id.org/lob/concept/1521> ,
+		<http://w3id.org/lob/concept/1518> ,
+		<http://w3id.org/lob/concept/1519> ;
+	skos:prefLabel	"primary stitching"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The stitching which holds the leaves and gatherings of a bookblock together, as opposed to secondary stitching which was used to attach a cover to a primary-stitched bookblock."@en .

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1605>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1379> ;
+	skos:prefLabel	"slip guards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Narrow strips of sheet material, usually paper, adhered to a board over the sewing-support slips to hold them in place. Although slip guards are occasionally found over slips laced into boards, their primary function appears to have been to reinforce and protect the attachment of slips pasted to the boards before a book was covered. They can be found on either the interior or exterior surfaces, and may be a single thickness or folded."@en .

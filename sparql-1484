@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1667",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2295"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4561"} ,
+        { "@id": "http://w3id.org/lob/concept/4563"} ,
+        { "@id": "http://w3id.org/lob/concept/4553"} ,
+        { "@id": "http://w3id.org/lob/concept/4557"} ,
+        { "@id": "http://w3id.org/lob/concept/4559"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "stramming over opph\u00F8yninger" , "@language" : "nb" } ,
+        { "@value" : "tying-up (techniques)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Ved p\u00E5setting av skinn p\u00E5 rygger med opph\u00F8yninger m\u00E5 skinnet holdes nede for \u00E5 feste godt. Det gj\u00F8res ved at boken settes i en klosspresse utstyrt med en rekke av spiker p\u00E5 hver side og en tynn, fast snor vikles stramt over opph\u00F8yningene og rundt spikerene, slik at snoren etterlater seg et tydelig avtrykk i skinnet. En tilsvarende snor strammes rundt danderingene opp og nede for \u00E5 opprettholde fasongen mens skinnet t\u00F8rker." , "@language" : "nb" } ,
+        { "@value" : "The process by which a covering skin on the spine of a book is held tightly to the bookblock, especially on each side of the raised bands and at the caps, by a length of cord wrapped tightly across the spine. The cord typically used for this process was tightly twisted and often leaves a clear impression of itself in the covering skin." , "@language" : "en" } ] }
+] }

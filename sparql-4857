@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1637" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3740" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stains (materials)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Dilute coloured liquids capable of penetrating a material such as textile, paper or animal skins but not capable of forming a protective surface. Typically, the transparency and fluidity of a stain will allow the base texture of the object to remain visible." , "lang" : "en" } ] }
+}

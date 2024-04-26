@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3069">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3173" />
+    <skos:prefLabel xml:lang="en">thongs</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Narrow strips of tanned, oil-tanned or alum-tawed skin used for a variety of purposes in bookbindings, such as sewing supports, endband cores, ties, etc. Although the terms &amp;#039;thongs&amp;#039; and &amp;#039;tapes&amp;#039; are very similar in meaning, thongs are typically thicker than tapes made from animal skins. Therefore a length of thin animal skin used for the secondary braiding of an endband should be described as a tape rather than a thong.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

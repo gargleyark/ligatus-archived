@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1333>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2352> ;
+	skos:prefLabel	"flat spines"@en ,
+		"flat rygg"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A spine which has not been rounded and therefore forms a right angle to the sides of the bookblock."@en ,
+		"Rygg som ikke er rundet og danner tiln\u00E6rmelsesvis rette vinkler mot permene."@nb .

@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1512",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1268"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "preliminary covers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A covering usually of white paper pasted around a book bound in boards, with turn-ins, before it was covered by a primary cover of thin parchment. This technique was used in the Netherlands in the 18th century, and the purpose of the preliminary cover was to brighten the colour of the slightly translucent parchment and to hide details of the spine, such as spine linings. They can often be identified by the turn-ins which often project beyond the width of the turn-ins of the parchment primary cover. " , "@language" : "en" } ] }
+] }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3637">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3299" />
+    <skos:prefLabel xml:lang="nb">forsatsblad, type</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">endleaf formats</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The different arrangements of the elements of endleaves as combined to make the endleaves found on each side of the bookblock. There is a large number of standard formats which can be found on books of all ages and countries.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">utforming av forsatsen finnes i et stort antall standarder til alle tider og i alle land </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

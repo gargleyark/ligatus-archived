@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1710",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3460"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "kartong og papp med vevd m\u00F8nster i overflaten " , "@language" : "nb" } ,
+        { "@value" : "woven screen impressions" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "kartong og papp laget av pulp (fibermasse), med et synlig m\u00F8nster/avtrykk i overflaten dannet av den l\u00F8st vevde duken p\u00E5 formen kartongen er formet p\u00E5" , "@language" : "nb" } ,
+        { "@value" : "The impressions of woven-screens found in both paper boards and cartonnage. These can be found primarily in both British pulp boards and Italian cartonnage, both of which appear to have been formed on woven textile screens which can leave very clear impressions of the textile in the surface of the boards. The British pulp boards often used very coarsely woven screens, and the impressions are rarely straight and regular in pattern, but often with waving lines, suggestive of the use of textile screens. Some couched laminate or millboards will also be found with woven screen impressions, but the screens used for these boards were much finer in quality. Overlaps and sewn joins between different pieces of textile are also found impressed on some boards, and different types of weave can also be identified. The Italian cartonnage can be found with the impressions of different types of woven textiles, possibly indicating that it was made in different paper mills." , "@language" : "en" } ] }
+] }

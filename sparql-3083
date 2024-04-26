@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1672>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1317> ;
+	skos:prefLabel	"tipped endleaves"@en ,
+		"klebet forsats"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Endleaves which may consist of a single leaf or a single fold which are attached to the first or last leaf of a textblock by means of adhesive only along their spine edges. Tipped endleaves can be found in Italy from the late 15th century through the 16th century."@en ,
+		"Forsats best\u00E5ende av et enkeltark eller et falset enkeltark som er festet til f\u00F8rste og siste blad i tekstblokken med en tynn stripe lim langs ryggens kanter."@nb .

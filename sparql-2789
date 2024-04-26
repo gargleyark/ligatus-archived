@@ -1,0 +1,16 @@
+{
+  "http://w3id.org/lob/concept/3746" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2362" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1291" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2921" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2952" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1425" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3149" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3227" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "heftet p\u00E5 bind" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "supported sewing (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Bokblokkens legg heftes i midten til tverrg\u00E5ende heftbind." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Sewing gatherings  through the fold to either transverse or pierced sewing supports, as opposed to unsupported sewing that does not have any type of sewing support." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Sewing gatherings through the fold to either transverse or pierced sewing supports, as opposed to unsupported sewing that does not have any type of sewing support." , "lang" : "en" } ] }
+}

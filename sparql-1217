@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3868>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4773> ;
+	skos:prefLabel	"coloured fibres (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A pulp-colouring process in which the paper is coloured all the way through its thickness, which is produced from using beaten coloured textile fibres as paper pulp. The most common source of coloured textile was blue, as blue rags were readily available, but could not be used to make white paper. Many blue papers from at least the late seventeenth century onwards were made this way, and can be identified under high magnification by the predominant presence of blue fibres in the paper, often of several different shades of blue, and mixed with white fibres in different quantities to create paler or darker blue papers."@en .

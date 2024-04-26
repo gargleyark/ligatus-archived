@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1533",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2342"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "opph\u00F8yde bind" , "@language" : "nb" } ,
+        { "@value" : "raised bands" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "forh\u00F8yninger p\u00E5 ryggen der hefthyssingen ligger " , "@language" : "nb" } ,
+        { "@value" : "The ridges formed across the spine of a bound book by a raised sewing support or a false raised band under the covering material. The term itself does not distinguish which type of support lies under it, and both types can be found on the same spine. Care must therefore be taken to identify which type is present if a full description of a binding is to be made." , "@language" : "en" } ] }
+] }

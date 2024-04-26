@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3975>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3183> ;
+	skos:narrower	<http://w3id.org/lob/concept/3941> ;
+	skos:prefLabel	"intaglio printing"@en ,
+		"dyptrykk"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"trykkemetode hvor det som skal trykkes, blir gravert eller etset inn i en plate, og hvor fargen ligger i fordypningene  "@nb ,
+		"Printing process in which the image is printed from ink held in the recessed areas of the plate or block, which have been engraved or etched away.\r\n\r\n"@en .

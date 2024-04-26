@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1637>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3740> ;
+	skos:prefLabel	"stains (materials)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Dilute coloured liquids capable of penetrating a material such as textile, paper or animal skins but not capable of forming a protective surface. Typically, the transparency and fluidity of a stain will allow the base texture of the object to remain visible."@en .

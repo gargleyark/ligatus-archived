@@ -1,0 +1,16 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1197",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "alungarvet skinn " , "@language" : "nb" } ,
+        { "@value" : "alum-tawed skin" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "white leather" , "@language" : "en" } ,
+        { "@value" : "white tawed" , "@language" : "en" } ,
+        { "@value" : "hungarian leather" , "@language" : "en" } ,
+        { "@value" : "whittawed" , "@language" : "en" } ,
+        { "@value" : "tawed" , "@language" : "en" } ,
+        { "@value" : "cuir de Hongrie" , "@language" : "fr" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A skin prepared in an aqueous solution of a double salt of aluminium and potassium sulphates. The process, which is of great antiquity, produces a white skin which is dried (crusted) and then staked, or worked over a blunt metal knife, to produce a soft, supple skin, qualities which could be enhanced by the addition of flour and egg-yolk to the tawing solution. If wetted again, as many blind-tooled German bindings of the late fifteenth to the mid-eighteenth century were before tooling, the skin becomes once more hard and horny, as though it had reverted to the raw, untanned state. Also known as tawed skin (Reed, pp.62-65)." , "@language" : "en" } ,
+        { "@value" : "mineralsk garveprosess der aluminiumsulfat (alun) og natriumsulfat (koksalt) er anvendt for \u00E5 f\u00E5 et hvitt og smidig skinn" , "@language" : "nb" } ] }
+] }

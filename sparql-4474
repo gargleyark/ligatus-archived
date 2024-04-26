@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1633",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2346"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rettsk\u00E5rne permkanter" , "@language" : "nb" } ,
+        { "@value" : "square edges (board edges)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Rettsk\u00E5rne permkanter er typiske for pappermer, den innvendige ryggkanten kan v\u00E6re skredd for \u00E5 tilpasses bokblokkens falser. Avfasing av pappen p\u00E5 permenes ytterkanter er et 1900-talls fenomen." , "@language" : "nb" } ,
+        { "@value" : "Board edges cut at right-angles to the inner and outer surfaces can be described as square, and this is typical of all paper boards (external bevelled edges of paper boards are largely a nineteenth-century phenomenon). Spine edges may have internal bevels to match the shape of the joints of the bookblock." , "@language" : "en" } ] }
+] }

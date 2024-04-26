@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2288>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1678> ;
+	skos:narrower	<http://w3id.org/lob/concept/3853> ;
+	skos:prefLabel	"blind-tooled (decoration)"@en ,
+		"blindtrykk"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The result of blind tooling."@en ,
+		"resultatet av dekoreringsteknikk der stempelet anvendes uten farge eller bladmetall for \u00E5 oppn\u00E5 et avtrykk i materialet "@nb .

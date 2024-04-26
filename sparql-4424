@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1549">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1273" />
+    <skos:prefLabel xml:lang="en">rough-trimmed edges</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">revne kanter</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Uneven bookblock edges in which leaves were trimmed either individually or in groups, often by hand with shears, either before the book was sewn or after to remove the oversize leaves which would otherwise have projected from the edge of the bookblock. A rough-trimmed edge is therefore very different from one that is cut solid with a plough or draw knife (or, more recently, a guillotine). Edges of both sorts can be found on the same bookblock.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Ujevne kanter på bokblokken, der bladene enten ble skåret eller revet til enkeltvis eller gruppevis ofte for hånd, for å redusere størrelsen på ark som er større enn resten av arkene og og som ellers ville ha stukket utover bokblokkens kanter.
+
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

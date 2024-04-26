@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1302",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3277"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "klaffer" , "@language" : "nb" } ,
+        { "@value" : "edge flaps (components)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Beskyttende flap som dekker et av bokblokkens snitt, alltid montert enkeltvis til permenes forskjellige kanter. " , "@language" : "en" } ,
+        { "@value" : "A protective flap which covers one edge only of the bookblock. Edge flaps are attached to one side of the cover only, and one only is therefore to be found covering each edge. They were often attached to the inside of the cover or board (this is typical of many Armenian bindings). Some bindings which are entirely covered in metal have edge flaps which are hinged to the edges of the metal cover. Edge flaps are most often more or less rigid, but limp edge flaps are known, and may be used also as a form of fastening by means of holes cut in the edge of the flap which fit over edge pins on the opposite board to the one to which the flap is attached." , "@language" : "en" } ] }
+] }

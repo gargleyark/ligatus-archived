@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1450",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2279"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1290"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "multiple bookblock bindings" , "@language" : "en" } ,
+        { "@value" : "rygg-mot-rygg bind" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "bind med to eller flere bokblokker som deler felles midtperm og som er festet i den h\u00F8yre falsen p\u00E5 hver bokblokk" , "@language" : "nb" } ,
+        { "@value" : "Binding structures which contain more than one bookblock, usually with a shared board between each adjacent bookblock. In the most commonly encountered of a multiple bookblock binding is the dos-\u00E0-dos binding." , "@language" : "en" } ] }
+] }

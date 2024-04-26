@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3435",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3154"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bookplates" , "@language" : "en" } ,
+        { "@value" : "ex libris" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "ex libris (information objects)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Labels, usually printed or engraved, frequently with a distinctive design, identifying the owner of a book, and usually pasted or tipped to the inside of the upper cover." , "@language" : "en" } ,
+        { "@value" : "Trykt eller tegnet bokeiermerke som klebes p\u00E5 permens innside med eierens navn og ofte en billedlig fremstilling som viser til eierens yrke, interesser, v\u00E5pen eller portrett. " , "@language" : "nb" } ] }
+] }

@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3742>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:narrower	<http://w3id.org/lob/concept/3163> ,
+		<http://w3id.org/lob/concept/3165> ,
+		<http://w3id.org/lob/concept/3404> ;
+	skos:prefLabel	"writing materials"@en ,
+		"skrivemedium"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> .

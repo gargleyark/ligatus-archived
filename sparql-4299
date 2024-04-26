@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4934>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:prefLabel	"papirpulp"@nb ,
+		"paper pulp"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The mechanically and/ or chemically prepared mixtures obtained from vegetable fibers and used in the manufacture of paper and board."@en ,
+		"mekanisk eller kjemisk tilberedt masse av vegetabilske fibre for fremstilling av papir "@nb .

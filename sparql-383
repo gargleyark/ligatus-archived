@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1284" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3347" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "b\u00F8ttekanter" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "deckle edges" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Uneven edges of a sheet of hand-made paper caused by the deckle or frame which confines the pulp on the mould, and under which some of the pulp will leak unevenly." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ujevn avslutning p\u00E5 et h\u00E5ndlaget ark papir, som skyldes at rammen i papirformen fordeler pulpen ujevnt " , "lang" : "nb" } ] }
+}

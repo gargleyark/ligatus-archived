@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1533>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2342> ;
+	skos:prefLabel	"opph\u00F8yde bind"@nb ,
+		"raised bands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forh\u00F8yninger p\u00E5 ryggen der hefthyssingen ligger "@nb ,
+		"The ridges formed across the spine of a bound book by a raised sewing support or a false raised band under the covering material. The term itself does not distinguish which type of support lies under it, and both types can be found on the same spine. Care must therefore be taken to identify which type is present if a full description of a binding is to be made."@en .

@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1300>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1429> ;
+	skos:prefLabel	"dust wrappers"@en ,
+		"smussomslag"@nb ;
+	skos:altLabel	"book wrappers"@en ,
+		"jackets"@en ,
+		"dust jackets"@en ,
+		"dust covers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A wrapper originally used to protect the covering material of the book from soiling or other damage, but now also used for promotional purposes. It may be plain, printed, or illustrated, and is flush with the covers of the book at head and tail, but folded over the fore edge of both covers. It is always detachable. There is some question as to whether dust wrappers should be described as secondary covers, but they can be seen as a subgroup of loose secondary covers, though still called dust wrappers.  "@en ,
+		"l\u00F8st omslag med innbretter rundt bokpermen"@nb .

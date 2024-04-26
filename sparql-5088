@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3054">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:prefLabel xml:lang="en">studded spine straps</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Leather straps placed across the spine and attached to the spine edges of both boards to which copper alloy studs have been attached. A variant form can be found in which the copper alloy studs are linked one to another without a leather strap underneath. Such straps have been found on Swiss and Hungarian bindings and may be associated to the Mennonite church, both in Europe and North America.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

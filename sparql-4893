@@ -1,0 +1,14 @@
+{
+  "http://w3id.org/lob/concept/1648" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1517" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1471" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1289" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1564" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "sidehefting" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "stitching (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "stabbing (techniques)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "hefteteknikk som utf\u00F8res langsetter og fra utsiden av ryggen p\u00E5 bokblokken " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The process of holding bookblocks together by stabbing a material such as thread, textile tape, parchment or tanned or tawed skin thongs through the inner margin of an entire bookblock (see also stitching in blocks). Stitching is such a simple technique that it was used both formally and informally from a very early date, but was recognised as a cheap and inferior alternative to sewing, and attempts were made in England in 1586 to control its use in order to protect the work of the bookbinders." , "lang" : "en" } ] }
+}

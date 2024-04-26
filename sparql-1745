@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1358>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2342> ;
+	skos:prefLabel	"ekte bind "@nb ,
+		"genuine bands"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bands created by structural features across the spine of the book such as raised sewing supports (i.e. not recessed) and kettlestitches, which may be emphasized with extra turns of thread in order to create more distinct bands."@en ,
+		"heftbind som ligger utenp\u00E5 bokblokkens rygg og som utgj\u00F8r tverrg\u00E5ende opph\u00F8yninger p\u00E5 bindryggen "@nb .

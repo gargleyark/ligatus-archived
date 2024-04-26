@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3092">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3347" />
+    <skos:prefLabel xml:lang="nb">vannmerker</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">watermarks</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Designs or devices incorporated into western paper as it is made by sewing thin wires to paper moulds which create thinner lines in the paper visible through transmitted light. They are often used to give the name or mark of the manufacturer and later sometimes the date of the paper&amp;#039;s manufacture. Watermarks were used from the 13th century onwards.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">figurer, bokstaver eller tall bøyet til av metalltråder og sydd fast eller loddet til papirformen</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

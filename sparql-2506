@@ -1,0 +1,9 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3820",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2293"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "rayskin" , "@language" : "en" } ,
+        { "@value" : "galuchat" , "@language" : "fr" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Skins from any of the various broad flattened cartilaginous fishes known as rays which constitute the order Rajiformes (or Batiformes), having large winglike pectoral fins that (with the body) form a quadrangular or discoid shape. The skin from the back of the fish is covered with papillae which in use are ground flat and the skin stained from the fleshside leaving with disks within a coloured matrix. It is very rarely found on bindings." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1423">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1268" />
+    <skos:prefLabel xml:lang="en">limp covers</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bøyelig bind</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A full cover without boards can be described as limp. According to the cover material used, the cover will therefore be more or less flexible. Bindings with covers over thin, flexible boards or cover linings are sometimes referred to as semi-limp, a term which is often confused with limp and probably for that reason better avoided. The term &amp;#039;limp&amp;#039; should therefore be used in conjunction with the appropriate term for the type of cover (i.e. limp laced-case, etc.).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">innbinding uten stive permer</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

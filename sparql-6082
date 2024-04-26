@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3573",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1317"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "wrapper-type endleaves" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A piece of sheet material wrapped around the spine of a textblock to provide conjugate endleaves at each end of the bookblock. To supply a pastedown and free endleaf at each end, two wrapper endleaves would be used. These endleaves are commonly found on longstitch, external support and stitched structures, where they are sewn through or stitched with the text gatherings. They can also be found occasionally as an added endleaf in bindings with covers secured by secondary tackets and very exceptionally in inboard bindings and case bindings." , "@language" : "en" } ] }
+] }

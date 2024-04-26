@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4041">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3899" />
+    <skos:prefLabel xml:lang="en">assembling endleaves</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">sammensetning av forsatsblad</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The process of making up the endleaves at each end of a textblock. Each set of endleaves will consist of one or more endleaf units, and each endleaf unit wil consist of one or more endleaf components, and each endleaf component will almost always have two endleaf elements, one on each side of a spine-fold.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Prosess for tillagning av forsats på hver side av tekstblokken, der hvert sett av forsatser består av en eller flere komponenter,  som igjen kan bestå av minst to elementer, et element på hver side av ryggfalsen.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1449>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3744> ;
+	skos:narrower	<http://w3id.org/lob/concept/1698> ,
+		<http://w3id.org/lob/concept/4023> ,
+		<http://w3id.org/lob/concept/4025> ,
+		<http://w3id.org/lob/concept/4027> ,
+		<http://w3id.org/lob/concept/4017> ,
+		<http://w3id.org/lob/concept/4019> ,
+		<http://w3id.org/lob/concept/4021> ;
+	skos:prefLabel	"multi-section sewing"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"In multi-section sewing, a single length of thread extending between the change-over stations at the head and tail of the gatherings is used to attach two or more gatherings to the sewing supports. According to the number of gatherings attached with each single thread, these are known as two-on sewing, three-on sewing, etc."@en .

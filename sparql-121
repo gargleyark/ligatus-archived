@@ -1,0 +1,23 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3417>	rdf:type	skos:Concept ;
+	skos:narrower	<http://w3id.org/lob/concept/3419> ,
+		<http://w3id.org/lob/concept/3421> ,
+		<http://w3id.org/lob/concept/3423> ,
+		<http://w3id.org/lob/concept/3425> ,
+		<http://w3id.org/lob/concept/3769> ,
+		<http://w3id.org/lob/concept/3427> ,
+		<http://w3id.org/lob/concept/3429> ,
+		<http://w3id.org/lob/concept/3771> ,
+		<http://w3id.org/lob/concept/3773> ,
+		<http://w3id.org/lob/concept/3775> ,
+		<http://w3id.org/lob/concept/3777> ,
+		<http://w3id.org/lob/concept/3781> ,
+		<http://w3id.org/lob/concept/4757> ;
+	skos:prefLabel	"actors"@en ,
+		"akt\u00F8rer"@nb ;
+	skos:scopeNote	"personer som enten individuelt eller sammen i grupper har kunnskaper til \u00E5 utf\u00F8re m\u00E5lbevisste handlinger som de kan holdes ansvarlige for "@nb ,
+		"Personer som enten individuelt eller sammen i grupper som har evnen til \u00E5 utf\u00F8re bevisste handlinger som de kan holdes anvarlige for. I denne sammenhengen kan det f.eks. v\u00E6re bokbindere, bokselgere, papirmakere, pergamentmakere etc. \r\n"@nb ,
+		"The purpose of this hierarchy is to provide values for the role types of the CIDOC-CRM entity E39 Actor:\r\n\r\nThis class comprises people, either individually or in groups, who have the potential to perform intentional actions for which they can be held responsible.\r\nThe CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body."@en ,
+		"The purpose of this hierarchy is to provide values for the CIDOC-CRM entity E39 Actor:\r\n\r\nThis class comprises people, either individually or in groups, who have the potential to perform intentional actions for which they can be held responsible.\r\nThe CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body."@en ;
+	skos:topConceptOf	<http://w3id.org/lob/> .

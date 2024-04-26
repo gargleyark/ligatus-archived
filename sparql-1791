@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/2883" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4184" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3066" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2901" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2920" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "edge titles" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Titles that are written or tooled on the edges of the bookblock and can be found on head-, tail- or fore-edge." , "lang" : "en" } ] }
+}

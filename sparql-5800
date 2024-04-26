@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3996">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3994" />
+    <skos:prefLabel xml:lang="en">tree-root marbled paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">trerotdekorert papir</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">En type rennemarmor der papir farget inn med en farge, som regel brun som deretter blir sprengt med sort eller mørkere brun farge vått i vått, slik at fargene løper i hverandre og danner et knutete åremønster à la rottre. Denne formen for dekor ble også brukt på skinn.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A type of run-marbled paper in which a solid-coloured paper (usually brown and more rarely green, red or orange) is covered with brown or black droplets, which partially flow into each other, forming free-flowing, irregular shapes that are reminiscent of tree-root veneers.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

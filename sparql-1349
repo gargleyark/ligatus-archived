@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4917>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2837> ;
+	skos:prefLabel	"compound markers"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bookmarks consisiting of more that one component, typically with individual markers attached indirectly to an endband via an intermediate component."@en .

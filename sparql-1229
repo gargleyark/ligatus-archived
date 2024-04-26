@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4031>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2295> ;
+	skos:prefLabel	"cap formation"@en ,
+		"dandering "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The shaping of the covering material at the head and tail of the spine."@en ,
+		"forming av skinnovertrekket ved bokryggens hode og fot "@nb .

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2977>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1304> ;
+	skos:prefLabel	"off-centre edge pins"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Edge pins located at the head an tail edges closer to the fore-edge of the board than the spine edge. This is a common feature of many Greek-style bindings."@en .

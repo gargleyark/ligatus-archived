@@ -1,0 +1,19 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1285>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1481> ;
+	skos:narrower	<http://w3id.org/lob/concept/3988> ,
+		<http://w3id.org/lob/concept/3990> ,
+		<http://w3id.org/lob/concept/3994> ,
+		<http://w3id.org/lob/concept/3855> ,
+		<http://w3id.org/lob/concept/3960> ,
+		<http://w3id.org/lob/concept/4320> ,
+		<http://w3id.org/lob/concept/3953> ,
+		<http://w3id.org/lob/concept/3956> ,
+		<http://w3id.org/lob/concept/3545> ,
+		<http://w3id.org/lob/concept/3986> ;
+	skos:prefLabel	"dekorert papir"@nb ,
+		"decorated paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"i utgangspunktet et ufarget stykke papir som forskj\u00F8nnes gjennom bruk av forskjellige prosesser som farging, sprenging, preging, blokktrykking, stensilering, marmorering  "@nb ,
+		"Plain papers decorated by various means, which might include trough-marbling, stencilling, sprinkling, hand-colouring, block-printing, etc. Such papers were used in books as endleaves, covering materials, linings of boxes and sometimes in secondary uses such as spine linings. They were also used as wrapping paper or as a ground for printing and calligraphy."@en .

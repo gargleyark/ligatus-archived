@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3545">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4633" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4634" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4636" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4630" />
+    <skos:prefLabel xml:lang="en">paste paper</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Paste paper is made by brushing or stippling one or more viscous colours (such as coloured starch paste) onto a sheet of paper to create decorative patterns. These range from simple straight, parallel lines to elaborate manipulations of the paste on the surface of the paper. The latter was done by pushing the wet paste away from selected areas with a variety of tools, leaving it thinner and thus showing the colour of the paper underneath more strongly. </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

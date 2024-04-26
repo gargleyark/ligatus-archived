@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1365" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "glittet skinn" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "glairing" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Glaire could be used both for securing metal foils in edge gilding or tooling or to protect the surface of the more vulnerable leathers. In the latter case, the surface of a leather cover would have been brushed with glaire as a preliminary to polishing with a heated polishing iron to produce a glazed surfaced. Glaired covers are easily recognised if the brush strokes are still visible, but many more bindings covered particularly in calfskin were treated this way. The process was frequently used on seventeenth- and eighteenth-century calf-covered bindings, where the surface of the skin needed to be sealed and polished to make it more resistant to handling damage." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "overflatebehandling av skinnovertrekk ved at eggehvite pensles p\u00E5 for \u00E5 gj\u00F8re skinnet mer holdbart mot h\u00E5ndtering " , "lang" : "nb" } ] }
+}

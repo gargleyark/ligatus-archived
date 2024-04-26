@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1492>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2482> ;
+	skos:prefLabel	"laminert papp"@nb ,
+		"paste-laminate board (material)"@en ;
+	skos:altLabel	"pasteboards"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Board material made by pasting together pieces of sheet material most often but not always paper and, frequently, re-used paper. Boards made from laminations of parchment, tanned skin and alum-tawed skin are known from the middle ages, but the introduction into Italy from the Islamic world, where the practice had already been in use for two or three centuries, in the fifteenth century of boards made from pasted laminations of paper transformed the appearance and weight of western European bookbindings, and their use spread across Europe, reaching England by the early sixteenth century. Although correctly known as pasteboard, that term has been used so often to mean millboard, and vice versa, as to have lost its precise and accurate meaning. The term paste laminate board is here offered as an alternative until such time as the word pasteboard can be restored to its original meaning."@en ,
+		"fremstilling av papp til bokpermer ved \u00E5 lime sammen ark av papir"@nb ,
+		"Board material made by pasting together pieces of sheet material most often but not always paper and, frequently, re-used paper. Boards made from laminations of parchment, tanned skin and alum-tawed skin are known from the middle ages, but the introduction into Italy from the Islamic world, where the practice had already been in use for two or three centuries, in the fifteenth century of boards made from pasted laminations of paper transformed the appearance and weight of western European bookbindings, and their use spread across Europe, reaching England in the early sixteenth century."@en .

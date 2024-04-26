@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1395>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:narrower	<http://w3id.org/lob/concept/1377> ;
+	skos:prefLabel	"inboard bindings"@en ,
+		"bygd bind"@nb ;
+	skos:altLabel	"bound in boards (bindings)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Bindings in which the boards are attached to the bookblock by whatever means before the book was covered. Such books are also described as &#039;bound in boards&#039;."@en ,
+		"bindstruktur der permene ansettes mot ryggens bankede falser. Permen klebes enten til ansetningsfalsen og/eller ved at heftbindene festes til permen f\u00F8r overtrekksmaterialet trekkes over ryggen og hele eller deler av permen"@nb .

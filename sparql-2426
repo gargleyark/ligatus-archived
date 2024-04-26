@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1609",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1273"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "glattsk\u00E5rne kanter" , "@language" : "nb" } ,
+        { "@value" : "smooth-cut edges" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "kanter som er rensk\u00E5ret " , "@language" : "nb" } ,
+        { "@value" : "The final cut on the edge of a bookblock to create a solid cut edge after a preliminary rough cut." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4041",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3899"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "assembling endleaves" , "@language" : "en" } ,
+        { "@value" : "sammensetning av forsatsblad" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The process of making up the endleaves at each end of a textblock. Each set of endleaves will consist of one or more endleaf units, and each endleaf unit wil consist of one or more endleaf components, and each endleaf component will almost always have two endleaf elements, one on each side of a spine-fold." , "@language" : "en" } ,
+        { "@value" : "Prosess for tillagning av forsats p\u00E5 hver side av tekstblokken, der hvert sett av forsatser best\u00E5r av en eller flere komponenter,  som igjen kan best\u00E5 av minst to elementer, et element p\u00E5 hver side av ryggfalsen." , "@language" : "nb" } ] }
+] }

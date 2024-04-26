@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2400>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2281> ;
+	skos:prefLabel	"gemstone"@en ,
+		"edelstener"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"edelstener eller halvedelstener som er kuttet og polert og anvendt  som dekor p\u00E5 grunn av sin farge og glans "@nb ,
+		"Precious or semiprecious stone that can be cut, polished, or otherwise dressed for use as gems; distinguished from &quot;gems,&quot; which are made of gemstone that has been worked or other material such as pearl."@en .

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3074",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3273"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "knute" , "@language" : "nb" } ,
+        { "@value" : "toggles" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Lengths of alum-tawed or tanned skin rolled into a cylindrical shape and locked in place by passing the other end through a hole pierced through the rolled part, and by means of which it is attached to the board or a cover of a binding. The toggle would be passed through a loop attached to the other side of the binding. Toggles made of wood or bones or other materials have not been recorded on books." , "@language" : "en" } ,
+        { "@value" : "Sammenfletning, slyngning p\u00E5 tr\u00E5d, tau, b\u00E5nd ell. lign. oppst\u00E5tt ved at tr\u00E5den er dratt gjennom en l\u00F8kke som den  selv danner og trukket til. Del av lukkemekanisme der en knute av skinn er festet til den ene permen og som kan l\u00E5se boken med en hempe som er festet til den andre permen." , "@language" : "nb" } ] }
+] }

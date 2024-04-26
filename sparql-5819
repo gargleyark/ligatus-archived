@@ -1,0 +1,19 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4184>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/4195> ,
+		<http://w3id.org/lob/concept/4197> ,
+		<http://w3id.org/lob/concept/2902> ,
+		<http://w3id.org/lob/concept/3024> ,
+		<http://w3id.org/lob/concept/3064> ,
+		<http://w3id.org/lob/concept/2918> ,
+		<http://w3id.org/lob/concept/4448> ,
+		<http://w3id.org/lob/concept/2883> ,
+		<http://w3id.org/lob/concept/3043> ,
+		<http://w3id.org/lob/concept/4341> ,
+		<http://w3id.org/lob/concept/4193> ,
+		<http://w3id.org/lob/concept/4344> ;
+	skos:prefLabel	"tittel"@nb ,
+		"titles (features)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> .

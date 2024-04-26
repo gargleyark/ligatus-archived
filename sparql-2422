@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1535",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2281"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1433"} ,
+        { "@id": "http://w3id.org/lob/concept/1523"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "gjenbrukt materiale" , "@language" : "nb" } ,
+        { "@value" : "re-used (materials)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "recycled" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "gjenbruk av tidligere brukte materialer " , "@language" : "nb" } ,
+        { "@value" : "The term used to describe materials that have already been used either for another purpose or for the same purpose on another book, such as parchment from medieval manuscripts or printed paper leaves used for covers, endleaves and spine linings,or  discarded covers or boards transferred from one bookblock to another." , "@language" : "en" } ] }
+] }

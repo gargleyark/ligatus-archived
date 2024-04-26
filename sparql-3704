@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4535">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1369" />
+    <skos:prefLabel xml:lang="nb">niger</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Niger</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">A soft vegetable tanned goatskin that has a natural grain pattern resulting from the nature of the skin, the tanning processes employed, and, especially, boarding in the wet condition. Niger, which is now difficult to obtain, is tanned and finished from native skins in Nigeria and surrounding districts. The most common colours, which are seldom uniform, include crimson, orange to brick-red, green, as well as undyed crusts. The slight variations in grain surface and colour which give Niger its characteristic appearance, are seldom successfully imitated in other skins, such as that of the sheep, which is being increasingly offered as genuine Niger.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">vegetabilsk garvet geiteskinn fra Nigeria og omkringliggende områder </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4006>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1211> ;
+	skos:prefLabel	"knife marks"@en ,
+		"knivmerker "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Synlige merker etter b\u00E5ndkniv som ble brukt til \u00E5 skj\u00E6re bokblokkens kanter, sees som diagonale linjer p\u00E5 tvers av snittene."@nb ,
+		"The marks left on the cut edge of a bookblock by a draw knife. These marks usually take the form of more or less faint diagonal lines across the edges."@en .

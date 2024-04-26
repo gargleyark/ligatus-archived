@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3849",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3515"} ,
+        { "@id": "http://w3id.org/lob/concept/2366"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "board lacing" , "@language" : "en" } ,
+        { "@value" : "permtreing" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "prosessen med \u00E5 tre hefthyssing og kapitelb\u00E5ndender igjennom permene i forbindelse med ansetting (festing) av permene til bokblokken " , "@language" : "nb" } ,
+        { "@value" : "The process of lacing sewing-support and/or endband slips through boards." , "@language" : "en" } ] }
+] }

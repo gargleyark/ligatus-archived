@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2398",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2396"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "elfenben" , "@language" : "nb" } ,
+        { "@value" : "ivory (bone)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "hardt materiale av tenner fra elefant" , "@language" : "nb" } ,
+        { "@value" : "The modified form of dentine found on the tusks of mature elephants, and for similar material from any tusked or large-toothed mammal such as a walrus or narwhal." , "@language" : "en" } ] }
+] }

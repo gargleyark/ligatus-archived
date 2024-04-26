@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1392",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3305"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hylse" , "@language" : "nb" } ,
+        { "@value" : "hollow tube" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A strip of strong paper cut to the height of the boards and folded parallel to the spine in such a way as to create a hollow space between the layers, the inner of which was adhered to the spine of the bookblock and to the outer of which the covering material was adhered, thus creating the hollow back. In its simplest form the strip of paper was cut to twice the width of the spine and was folded once only, creating a fold on one side of the spine only, the other side being left open. The more typical hollow was made from a piece of paper three times the width of the spine and folded twice, with one layer of paper on one side and two layers, adhered to each other, on the other." , "@language" : "en" } ,
+        { "@value" : "jernkardus eller annet litt stivt papir brettes og limes til en hylse som festes mellom bokblokkens rygg og ryggovertrekket " , "@language" : "nb" } ] }
+] }

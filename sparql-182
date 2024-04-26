@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4399">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1244" />
+    <skos:prefLabel xml:lang="en">adjustable catchplates</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">On seventeenth- and eighteenth-century bindings with envelope flaps and pockets on the inside of each board in which to keep notes, cards, etc, the catchplate attached to the opposite board from the envelope flap could have several holes in it (most commonly three) in which the clasp could be fastened according to the amount of material kept in the pockets.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

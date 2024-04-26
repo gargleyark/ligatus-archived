@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1224>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1186> ;
+	skos:prefLabel	"folders (tools and equipment)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A thin length of wood, bone (bone folder), ivory, or other material, approximately 12 to 20 centimetres long, and about 2 to 4 centimetres wide, and approximately 3 mm thick. They were made in a variety of shapes to suit different purposes, and were used in folding sheets by hand and cutting bolts, and also in numerous other binding operations."@en .

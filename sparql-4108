@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3029">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1669" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2973" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2974" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3030" />
+    <skos:prefLabel xml:lang="en">paired ties</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Single ties attached opposite each other to both sides of a cover and which are therefore tied together in pairs across the edges of the bookblock. Two ties will therefore make one pair and it is essential to specify when referring to ties whether you are describing individual ties or pairs of ties (e.g. does the description &amp;#039;four ties&amp;#039; mean four pairs of ties or four single ties making two paired ties?).</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1503" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2293" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "pigskin" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "svineskinn" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The skin of the young pig which may be either tanned, tawed or turned into parchment." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "hud av unge svin som enten er garvet, alungarvet eller laget pergament av " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3165>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3740> ,
+		<http://w3id.org/lob/concept/3742> ;
+	skos:narrower	<http://w3id.org/lob/concept/2971> ;
+	skos:prefLabel	"paint (coating)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Any dispersion of pigment in a liquid binder. Paint is applied with a brush, roller, sprayer, or by dipping and dries to form a decorative or protective film."@en .

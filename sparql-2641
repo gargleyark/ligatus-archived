@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1586" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1606" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "heftbindender" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "sewing-support slips" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The part of a sewing support which extends beyond the width of the spine at either side and could be used to attach the boards or cover to a bookblock." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "teknikk for \u00E5 f\u00F8ye sammen permer og bokblokk, der den delen av heftbindet som stikker utenfor bokblokkens rygg brukes til \u00E5 feste permene til bokblokken " , "lang" : "nb" } ] }
+}

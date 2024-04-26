@@ -1,0 +1,16 @@
+{
+  "http://w3id.org/lob/concept/1301" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1272" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4517" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3889" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4519" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4541" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4610" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "edge cutting" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "snittskj\u00E6ring" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "trimming (edge cutting)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The cutting of the edges of a bookblock to produce more or less smooth edges for convenience in handling, protection and decoration." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "beskj\u00E6ring av bokblokkens snitt for \u00E5 gj\u00F8re dem glatte og forberede dem for dekorering " , "lang" : "nb" } ] }
+}

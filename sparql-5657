@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3059" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2370" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tab endbands" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Endbands sewn through thick spine tabs, usually of alum-tawed skin, on the spine of the book which extend beyond the height of the spine of the bookblock to form the spine tab from which the take their name. They are characteristic of many romanesque bindings across Europe. Spine tabs usually extend from below the change over station to above the height of the endband core(s) and the extension above the core(s) was trimmed to a variety of profiles, often more or less semi-circular." , "lang" : "en" } ] }
+}

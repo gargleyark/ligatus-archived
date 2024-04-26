@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1305" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2358" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "embossing" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "preging" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A process by which a design is created in a piece of sheet material by engraved plates, either with one on each side or by a single plate impressed into a piece of sheet material over a soft support. Embossed covers were decorated before they were put onto the binding, and may have either format-specific designs intended to fit books of particular sizes or across the entire surface of a length of paper, bookcloth, etc., which can be used on books of any size." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "trykking der trykkbildet st\u00E5r i relieff, f.eks. gull- eller blindtrykk  (2. Gaufrert papir. Papiroverflaten kan preges med forskjellig struktur, f.eks. lerretsstruktur eller hamret struktur. " , "lang" : "nb" } ] }
+}

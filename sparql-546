@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2837">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/5423" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3003" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2965" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/5425" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4913" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2937" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4917" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3013" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2833" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2945" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2983" />
+    <skos:prefLabel xml:lang="en">bookmarks</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">bokmerker</skos:prefLabel>
+    <skos:altLabel xml:lang="en">bookmarkers</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Any device which is used in order to mark temporarily or permanently particular leaves or passages of a book so that they can be easily retrieved by the user at a later time. They can be put into one of three major categories: movable, that is a marker which has one part permanently connected to a book and a movable part capable of being placed by a reader anywhere within a book; fixed, that is a marker which is permanently connected to a particular leaf and cannot be moved; and free, that is a loose piece of material which can be used as a marker without any permanent connection to a book. Books can often have multiple bookmarks of more than one type.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">tekstilbånd eller snor som festes til boken, permanent eller midlertidig, for å markere sider, blad eller særlige tekstdeler i bokblokken slik at de lett kan gjenfinnes av leseren  </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

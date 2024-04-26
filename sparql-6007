@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2462>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1481> ;
+	skos:prefLabel	"vestlig papir"@nb ,
+		"western paper"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"h\u00E5ndlaget papir fremstilt etter vestlig tradisjon"@nb ,
+		"Handmade papers made in the western style on a paper mould consisting of fine wires, arranged in parallel to create a laid paper or woven into a screen to create a wove paper. In the former the laid lines will be clearly visible on both sides in transmitted light and on the mould-side (i.e. the side of the paper that lay against the mould when the paper was formed) in raking light; they may or may not be so easily visible on the felt side, depending on the thickness and density of the paper. In wove papers, the impression will be more clearly visible on the mould- or wire-side of the paper."@en .

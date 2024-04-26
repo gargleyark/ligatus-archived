@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1578",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3235"} ,
+        { "@id": "http://w3id.org/lob/concept/2356"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2519"} ,
+        { "@id": "http://w3id.org/lob/concept/2521"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "heftehull" , "@language" : "nb" } ,
+        { "@value" : "sewing holes" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "hull i ryggen p\u00E5 legg som viser hvor n\u00E5l og heftetr\u00E5den g\u00E5r eller har g\u00E5tt" , "@language" : "nb" } ,
+        { "@value" : "Holes made in the spine-folds of gatherings in order for them to be sewn." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3575>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3740> ;
+	skos:prefLabel	"emaljert dekor"@nb ,
+		"enamel (fused coating)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"et halvtransparent eller opakt porselensaktig belegg av glasspulver og fargestoff som er smeltet ved h\u00F8y temperatur til metall, glass eller keramikk og som f\u00E5r en skinnende overflate etter herding "@nb ,
+		"A semi-transparent or opaque vitreous, porcelain-like coating applied by fusion to metal, glass, or ceramic, having a glossy appearance after hardening. Enamel is typically made from powdered fusible glasses and opaque colourants mixed with oil or water, then applied to the object and fired at a high temperature."@en .

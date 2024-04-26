@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3282>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1379> ;
+	skos:narrower	<http://w3id.org/lob/concept/4919> ,
+		<http://w3id.org/lob/concept/4921> ;
+	skos:prefLabel	"sewing guards"@en ;
+	skos:altLabel	"quire guards"@en ,
+		"quire liners"@en ,
+		"sewing stays"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Narrow strips of sheet material, most often thin parchment and often obtained as waste from the leaves of medieval manuscripts, folded along their length, and either inserted into the centres of gatherings and sewn through to reinforce the spine folds of the gatherings or placed outside to reinforce the outside of the gatherings on the spine. Also known as sewing stays (Clarkson). Sewing guards were used on some early Coptic bindings with leaves of papyrus, but were introduced into western Europe at the same time as paper-leaved gatherings, as it was thought that paper alone would not be strong enough to prevent the sewing thread tearing through the gatherings of bound books with paper leaves. It was a time-consuming part of the binding process and was gradually abandoned in the last quarter of the fifteenth century as the quantities of printed books to be bound increased and it was realised that the reinforcements were not actually necessary. This process is evidenced in the reduction in the number of sewing guards found in a bookblock, from one in each gathering, as found typically up to the 1480s, to one or two at each end of the bookblock, even to just one at the beginning of the bookblock, by the end of the century. They appear to be rarely found in the sixteenth century. Sewing guards may run the full length of the spine fold in one piece as continuous sewing guards, or as separate sewing guards, which will usually reinforce pairs of sewing stations."@en .

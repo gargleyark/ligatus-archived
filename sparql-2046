@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1400">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3411" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4330" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4438" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3050" />
+    <skos:prefLabel xml:lang="nb">flettede lisser</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">interlaced straps </skos:prefLabel>
+    <skos:altLabel xml:lang="en">braided straps</skos:altLabel>
+    <skos:altLabel xml:lang="en">slit-braid straps</skos:altLabel>
+    <skos:altLabel xml:lang="en">plaited straps</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">flettete lisser av skinn eller tekstil som er tredd gjennom hull i permene og som knytes for å holde boken lukket</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Clasp straps formed by a length of leather which is laced through a metal ring-type clasp, leaving an equal length on either side of the clasp. The two halves of the strap are then laced through each other through pre-punched holes, creating a strap with a marked chevron-pattern. Such straps are most often found divided into three separately interlaced elements (triple interlaced straps), but double and single straps will also be found. Such straps are typical of Greek-style bindings and have often been described as plaited, though the technique used is actually not a form of plaiting.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

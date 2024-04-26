@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1580">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1703" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3567" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2508" />
+    <skos:prefLabel xml:lang="en">sewing structures</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">heftestruktur</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The structures by which the leaves or gatherings of a book are sewn together to create a single bookblock. Sewing structures may be either supported or unsupported, but the thread will always be taken either through the fold of a folded gathering or between two leaves of an overcast gathering.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">en bokblokk kan heftes på heftbind eller uten heftbind, men heftetråden vil alltid løpe i midten av et legg eller kastet over ryggen på legget hvis det består av (løse) ark </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

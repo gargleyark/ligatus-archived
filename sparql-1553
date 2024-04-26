@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3523>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3275> ;
+	skos:prefLabel	"dovetail battens"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Narrow lengths of wood with angled sides, wider at the base, used to secure the joints between two or more parallel planks of wood in a constructed board by being slid into a dovetail groove cut across the planks.  When used in areas outside the construction of book boards, the batten may sit on the surface of the planks (in the construction of doors this is known as a ledge), but in book boards, the batten must be recessed so as to leave the board with a smooth surface, hence the use of the dovetail groove."@en ,
+		"Narrow lengths of wood with angled sides, wider at the base, used to secure the joints between two or more parallel planks of wood in a constructed board by being slid into a dovetail channel cut across the planks.  When used in areas outside the construction of book boards, the batten may sit on the surface of the planks (in the construction of doors this is known as a ledge), but in book boards, the batten must be recessed so as to leave the board with a smooth surface, hence the use of dovetail channels."@en .

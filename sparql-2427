@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1609>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1273> ;
+	skos:prefLabel	"glattsk\u00E5rne kanter"@nb ,
+		"smooth-cut edges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"kanter som er rensk\u00E5ret "@nb ,
+		"The final cut on the edge of a bookblock to create a solid cut edge after a preliminary rough cut."@en .

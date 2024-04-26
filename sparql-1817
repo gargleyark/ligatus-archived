@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2890>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1668> ;
+	skos:prefLabel	"external tiedowns"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"That part of an endband tiedown which is located on the outside of the spine of a bookblock, being the continuation of an internal tiedown as it emerges from an exit point on the spine and returns to the end of the spine."@en .

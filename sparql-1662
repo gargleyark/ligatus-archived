@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1301">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1344" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1272" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4517" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3889" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4519" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4541" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4610" />
+    <skos:prefLabel xml:lang="en">edge cutting</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">snittskjæring</skos:prefLabel>
+    <skos:altLabel xml:lang="en">trimming (edge cutting)</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The cutting of the edges of a bookblock to produce more or less smooth edges for convenience in handling, protection and decoration.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">beskjæring av bokblokkens snitt for å gjøre dem glatte og forberede dem for dekorering </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

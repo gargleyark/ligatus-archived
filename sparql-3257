@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/2418" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2404" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lead" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Pure metallic element having symbol Pb and atomic number 82; soft, dense ductile metal of a dull gray color, shiny when freshly cut, occuring naturally most often as a sulfide in the mineral galena. Other lead minerals include anglesite (lead sulfate) and cerussite (lead carbonate). Native metallic lead was found and used from about 3600-2600 BCE when the technique for obtaining lead from roasting the sulfide ore (galena) was discovered. Lead was used to make small cast items such as coins and statuettes, plumbing pipes, spires, statues, cisterns, gargoyles, pigments (lead white, litharge, orange mineral, etc.), as a component in pottery glazes, for roofing, flashing, stained glass windows, as a soft solder, and as radiation shielding." , "lang" : "en" } ] }
+}

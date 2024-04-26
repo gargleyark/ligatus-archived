@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1244>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3273> ;
+	skos:narrower	<http://w3id.org/lob/concept/2831> ,
+		<http://w3id.org/lob/concept/4397> ,
+		<http://w3id.org/lob/concept/4399> ,
+		<http://w3id.org/lob/concept/2827> ,
+		<http://w3id.org/lob/concept/4604> ,
+		<http://w3id.org/lob/concept/4606> ,
+		<http://w3id.org/lob/concept/2954> ;
+	skos:prefLabel	"bokspennebeslag"@nb ,
+		"catchplates"@en ;
+	skos:altLabel	"catch plate"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Fittings, usually in metal, mounted on the surface of a board, either under or over the covering material, and fitted with a slot, hole or pin in or on to which a clasp or ring can be secured. Pins are also found on their own as edge pins and side pins, which are not part of a larger fitting."@en ,
+		"Del av lukkemekanisme, som regel i metall, montert p\u00E5 siden av permen enten over eller under overtrekksmaterialet og som er utstyrt med en spalte, hull eller tapp til hvilken en krok eller ring kan hektes p\u00E5."@nb .

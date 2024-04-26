@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2376>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2285> ;
+	skos:narrower	<http://w3id.org/lob/concept/3306> ,
+		<http://w3id.org/lob/concept/3062> ,
+		<http://w3id.org/lob/concept/3014> ;
+	skos:prefLabel	"structures"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The result of the techniques used to hold the leaves of a book together in a way that allows it to be read. "@en .

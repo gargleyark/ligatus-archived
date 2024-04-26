@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3034">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4466" />
+    <skos:prefLabel xml:lang="en">side-loading slip cases</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">kassett</skos:prefLabel>
+    <skos:altLabel xml:lang="en">slip cases</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Rectangular enclosures that are open on one edge for the insertion of a book. The open edge may either be at the top (top-loading slip cases) or on one side (side-loading slip cases). The early examples often have flexible leather sides (collapsible side-loading slip-cases), but entirely rigid, leather-covered top loading examples (rigid top-loading slip-cases) had been used for fancy pocket books and almanacs from at least the mid-eighteenth century and, covered in printed and decorated paper, were widely used for such books in the early nineteenth century.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">Rektangulær, separat mer eller mindre stiv beskyttelse som er åpen i en kant til å stikke boken inn i.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

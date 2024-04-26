@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2947">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2270" />
+    <skos:prefLabel xml:lang="nb">venstre</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">left</skos:prefLabel>
+    <skos:altLabel xml:lang="en">lower</skos:altLabel>
+    <skos:altLabel xml:lang="en">front</skos:altLabel>
+    <skos:altLabel xml:lang="en">back</skos:altLabel>
+    <skos:altLabel xml:lang="en">upper</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The place on the left of the centre of a book opened as if to be read. All the components or features of a binding on this side of the book can therefore be described as left (e.g. left board, left endleaves, etc.). This removes any confusion about what is the front board on books written in arabic or latin, for instance.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">noe som er plassert til venstre for midten</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

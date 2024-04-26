@@ -1,0 +1,23 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1353",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2990"} ,
+        { "@id": "http://w3id.org/lob/concept/2836"} ,
+        { "@id": "http://w3id.org/lob/concept/3374"} ,
+        { "@id": "http://w3id.org/lob/concept/2861"} ,
+        { "@id": "http://w3id.org/lob/concept/3054"} ,
+        { "@id": "http://w3id.org/lob/concept/2866"} ,
+        { "@id": "http://w3id.org/lob/concept/4488"} ,
+        { "@id": "http://w3id.org/lob/concept/1230"} ,
+        { "@id": "http://w3id.org/lob/concept/1552"} ,
+        { "@id": "http://w3id.org/lob/concept/2879"} ,
+        { "@id": "http://w3id.org/lob/concept/3072"} ,
+        { "@id": "http://w3id.org/lob/concept/3056"} ,
+        { "@id": "http://w3id.org/lob/concept/3217"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "furniture (components)" , "@language" : "en" } ,
+        { "@value" : "beslag" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "et stykke hardt materiale, som regel av metall (jern, kobberlegering, s\u00F8lv), men ogs\u00E5 av horn, ben eller tre som festes p\u00E5 bindet i den hensikt \u00E5 beskytte mot slitasje" , "@language" : "nb" } ,
+        { "@value" : "Hardware, most often of metal but including wood and bone, attached to a binding, usually with a protective, but also often decorative, function. The most common types of furniture are bosses, and corner-pieces, but title frames, rubbing strips, shoes and studs are also found. The use of furniture was at its height in the fifteenth century, and reduces rapidly in the sixteenth century, becoming more and more associated with books with a public or religious function." , "@language" : "en" } ] }
+] }

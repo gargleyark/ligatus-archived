@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3076>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3367> ;
+	skos:prefLabel	"tunge og stropp"@nb ,
+		"tongue and strap"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Envelope flap fastenings in which the tongue of the envelope flap is inserted under a strap on the opposite cover."@en ,
+		"lukkemekanisme for konvolutter der konvoluttens \u00F8vre del tres under en stropp som er festet til konvoluttens nedre del "@nb .

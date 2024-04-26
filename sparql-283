@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1208" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2286" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bibliographical gatherings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Gatherings which consist of one or more bifolia printed or written sheets inserted one inside another and which constitute a single physical unit within the bibliographical make-up of a textblock. In printed books, such gatherings may be formed from single or multiple sheets of paper, as issued by the printer. The gatherings in blank books bound to be used for manuscript content will be made up from leaves without text and would not be bibliographical gatherings when the book was first bound." , "lang" : "en" } ] }
+}

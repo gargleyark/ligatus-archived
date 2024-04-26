@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2994",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3154"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "presentation labels" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Labels usually of leather titled in gold, recording the presentation of the volume to an individual or an institution, and most often found on the inside or outside of one or other board. These labels are included here as they have almost certainly been tooled by a bookbinder, though not necessarily the binder who bound the book, as opposed to inscriptions, presentation letters, etc., inserted into the bound book." , "@language" : "en" } ] }
+] }

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3998" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3994" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "tree-marbled paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A type of run-marbling in which the stains are allowed to run down from the sides of a piece of paper held in the shape of a shallow gutter, and at an angle so that the stains run off at the centre of the lower end, creating a pattern that somewhat resembles a tree." , "lang" : "en" } ] }
+}

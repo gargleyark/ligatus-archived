@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1286>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1628> ;
+	skos:prefLabel	"dense sprinkling (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Sprinkling in which well over half of the surface to be sprinkled is covered with pigment, and may even in some cases look like a solid colour. At least 75% of the surface should be covered with pigment."@en .

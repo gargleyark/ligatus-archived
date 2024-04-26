@@ -1,0 +1,21 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3154",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1210"} ,
+        { "@id": "http://w3id.org/lob/concept/2979"} ,
+        { "@id": "http://w3id.org/lob/concept/2880"} ,
+        { "@id": "http://w3id.org/lob/concept/3091"} ,
+        { "@id": "http://w3id.org/lob/concept/1673"} ,
+        { "@id": "http://w3id.org/lob/concept/2950"} ,
+        { "@id": "http://w3id.org/lob/concept/2994"} ,
+        { "@id": "http://w3id.org/lob/concept/4444"} ,
+        { "@id": "http://w3id.org/lob/concept/4446"} ,
+        { "@id": "http://w3id.org/lob/concept/3435"} ,
+        { "@id": "http://w3id.org/lob/concept/2870"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "etikett" , "@language" : "nb" } ,
+        { "@value" : "labels" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Pieces of sheet material, most often coloured tanned skin, paper or parchment, adhered or otherwise attached to the outside of a binding, bearing information about the contents of the book (typically the author&#039;s name and the title), a press or shelfmark, a price, etc. The information may be given in manuscript, tooled or printed. " , "@language" : "en" } ,
+        { "@value" : "seddel, liten plate ell. lign. med p\u00E5skrift til \u00E5 feste p\u00E5 en ting for \u00E5 angi dens navn\n\n" , "@language" : "nb" } ] }
+] }

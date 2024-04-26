@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2410",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2408"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "brass" , "@language" : "en" } ,
+        { "@value" : "messing" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Alloy of copper and zinc, usually with copper as the major alloying element and zinc up to 40% by weight." , "@language" : "en" } ,
+        { "@value" : "metall legering av kobber og sink der kobber er hovedingrediensen og sinkinnholdet ikke overstiger 40% av vekten" , "@language" : "nb" } ] }
+] }

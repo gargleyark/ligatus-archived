@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2949">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1478" />
+    <skos:prefLabel xml:lang="en">lettering pallets</skos:prefLabel>
+    <skos:altLabel xml:lang="en">type-holders</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Pallets with lettering engraved on them for use in titling the spines of books. Lettering pallets were mostly used for words that would be used over and over again such as &amp;#039;TOME&amp;#039; or the words from a title or the name of an author of multi-volume sets being bound in a single workshop. The term lettering pallet is sometimes used for a type-holder which should apply only to the tool designed to hold separate pieces of type.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

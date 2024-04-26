@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1366" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2422" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "glue" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "animalsk lim" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "An impure protein obtained by hydrolysis of collagenous material such as skin, bone, and connective tissue by various methods. The word glued should not be used where the adhesive referred to is a starch-based paste. If the origin of the adhesive is unclear the word &#039;adhesive&#039; only should be used." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "lim kokt p\u00E5 hud og ben fra dyr " , "lang" : "nb" } ] }
+}

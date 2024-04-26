@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4095",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/4089"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "oversize" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A term used to describe books or components of books that are unusually large either in themselves or in relation to the books on or in which they are found. An oversize book is therefore one that is exceptionally large, and usually so-called because it will not fit into standard shelving. In relation to a bookblock, oversize describes endleaves, inserted interleaving, boards and drawn-on covers which are noticeably larger in height and/or width than the textblock. In relation to raised bands on the spines of bindings, oversize describes the unrealistically broad false raise bands popular in the first quarter of the nineteenth century." , "@language" : "en" } ] }
+] }

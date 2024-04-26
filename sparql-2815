@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4011>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3515> ;
+	skos:narrower	<http://w3id.org/lob/concept/4029> ;
+	skos:prefLabel	"surface-adhering (slips)"@en ,
+		"heftbindender klebet til permen"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Adhering the slips of transverse sewing supports to either the internal or external surface of the boards, to attach them to sewn bookblocks."@en ,
+		"Teknikk for \u00E5 f\u00F8ye sammen permer og bokblokk, der endene av heftbindene klebes enten til permenes innside eller utside for \u00E5 feste dem til bokblokken."@nb .

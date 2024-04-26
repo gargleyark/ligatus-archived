@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1610>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2352> ;
+	skos:prefLabel	"smooth spines"@en ,
+		"glatt rygg"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"bokrygg uten forh\u00F8yninger "@nb ,
+		"A spine without raised bands."@en .

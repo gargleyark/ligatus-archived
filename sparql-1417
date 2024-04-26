@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1283>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2360> ;
+	skos:prefLabel	"damp blind-tooling (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The heated tool is impressed into damp leather, creating an impression which is significantly darker than the surrounding leather. In calf leather, if the leather is damp enough, and the tool hot enough, the impression can be made almost black. If the tool is too hot, the impression will be scorched, damaging the leather under it."@en .

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1447" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1636" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "mottled (decoration)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A form of stain decoration created by large drops or irregular areas of coloured stains with soft edges that tend to blend into each other on the surface of the covering material, to give a mottled effect. The term &#039;mottled&#039; has been used to describe stains created by an acidic solution, such as ferrous sulphate (John Carter, ABC for Book Collectors, 2006, p. 153), but it is seldom possible to tell what type of stain has been used, unless damp storage conditions have activated the acid in the stain and damaged the surface of the leather. Carter&#039;s use of the word mottled presumably conforms to its usual meaning, as given above." , "lang" : "en" } ] }
+}

@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4095>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/4089> ;
+	skos:prefLabel	"oversize"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A term used to describe books or components of books that are unusually large either in themselves or in relation to the books on or in which they are found. An oversize book is therefore one that is exceptionally large, and usually so-called because it will not fit into standard shelving. In relation to a bookblock, oversize describes endleaves, inserted interleaving, boards and drawn-on covers which are noticeably larger in height and/or width than the textblock. In relation to raised bands on the spines of bindings, oversize describes the unrealistically broad false raise bands popular in the first quarter of the nineteenth century."@en .

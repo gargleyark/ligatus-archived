@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4553">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1667" />
+    <skos:prefLabel xml:lang="en">tying-up darts (techniques)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Where the cords cross over each other on the spine edge of each board at the ends of the raised bands, which is done to pull the covering skin tightly into the raised bands, they often leave triangular dart-shaped impressions which can then be tooled over to regularise them and which become a decorative feature of the tooling design on the sides.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

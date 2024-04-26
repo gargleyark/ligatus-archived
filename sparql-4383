@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1536>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3209> ;
+	skos:prefLabel	"restaurert rygg"@nb ,
+		"rebacking (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A very common repair to bindings, often where the boards have become detached, in which the original spine covering is lifted to be replaced by a new covering material which extends under the original covering along the back edges of the boards. On the spine, it is either left exposed or with the original spine adhered to it. In some early repairs, leather was pasted on top of the original spine covering and the leather on the back edge of the boards, and these can be described as overback."@en ,
+		"vanlig reparasjon p\u00E5 bind n\u00E5r permene har l\u00F8snet, nytt materiale monteres under original rygg"@nb .

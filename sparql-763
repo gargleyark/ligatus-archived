@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4633" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3545" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "penseldekorert papir" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "brush-patterned paste paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Paper in which the paste layer has been worked on the surface entirely with one or more brushes in order to produce patterns that are more elaborate than the simple parallel strokes produced by the initial brush-application of the paste." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Penslet klisterpapir, der det fargede klistersjiktet blir bearbeidet med en eller flere pensler og m\u00F8nsteret som dannes blir mer utarbeidet." , "lang" : "nb" } ] }
+}

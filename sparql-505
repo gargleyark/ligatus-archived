@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2536>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3750> ;
+	skos:narrower	<http://w3id.org/lob/concept/3645> ,
+		<http://w3id.org/lob/concept/3295> ,
+		<http://w3id.org/lob/concept/2547> ;
+	skos:prefLabel	"brodert kapit\u00E9lb\u00E5nd"@nb ,
+		"secondary sewing (endband techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The sewing, often purely decorative, which wraps around a sewn endband core but which is not tied down into the bookblock. Secondary endband sewing therefore has little or no structural function, but in some medieval and the early sixteenth-century bindings, it could also be used to secure the covering material on the spine of the book to the sewn endbands, and thus ensure that it did not arch away from the spine of the bookblock when the book was opened, an especially important function in non-adhesive bindings. Secondary sewing could be very elaborate, worked in silk (perceived as a less durable material and seldom used for primary sewing until the seventeenth century), and include crowning cores, gold and silver threads and elaborate plaiting in coloured tanned or alum-tawed skin. The working in thread of worked stuck-on endbands should also be described as secondary sewing, for although there is no primary sewing, the endband is attached to the bookblock by adhesive, and the working in thread, which does not penetrate the text gatherings, is exactly the same as the secondary sewing on a worked endband. Some of the single sewing supports, or Kapitalb\u00FCnde, found at the head and tail of the spines of some late fifteenth and early sixteenth-century German bindings were also  given a decorative secondary sewing, which has sometimes led to their being described, wrongly, as endbands. In some Greek-style bindings, the decoration of the primary endband was carried out in two stages - a secondary sewing which consists often of a helix of thread wound around the primary endband, which then serves as the foundation for a decorative tertiary sewing."@en ,
+		"Syteknikk, oftest rent dekorativ som dekker kapit\u00E9lb\u00E5ndkjernen, men som ikke er stukket ned i leggene p\u00E5 bokblokken og derfor har liten eller ingen strukturell funksjon.\r\n"@nb .

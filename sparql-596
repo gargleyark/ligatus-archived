@@ -1,0 +1,13 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3287",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/3711"} ,
+        { "@id": "http://w3id.org/lob/concept/1707"} ,
+        { "@id": "http://w3id.org/lob/concept/4420"} ,
+        { "@id": "http://w3id.org/lob/concept/3679"} ,
+        { "@id": "http://w3id.org/lob/concept/3647"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "board attachment components" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "The individual components used to complete the attachment of boards to bookblocks." , "@language" : "en" } ] }
+] }

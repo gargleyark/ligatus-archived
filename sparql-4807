@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1607>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2356> ;
+	skos:prefLabel	"slots"@en ,
+		"slisser"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A parallel-sided hole in which one dimension is noticeably longer than the other"@en ,
+		"smal \u00E5pning i overtrekket p\u00E5 den ene permen som utgj\u00F8r en del av en lukkeanordning, der en klaff kan stikkes inn "@nb .

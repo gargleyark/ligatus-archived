@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1545">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2293" />
+    <skos:prefLabel xml:lang="nb">vrengt skinn</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">reversed skin</skos:prefLabel>
+    <skos:altLabel xml:lang="en">suede</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">skinn brukt som overtrekk på et bokbind, der kjøttsiden/innsiden vender utover</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">A skin that is placed on the book with the flesh side outwards. Where this is done with tanned or alum-tawed skins, the exterior of the book will have a soft, suede-like finish, and the use of reversed skins was common from the late Middle Ages through to the 19th century. Parchment skins could also be reversed, displaying the clean creamy white flesh side prepared by the parchment maker with a smooth polished surface. The use of reversed parchment was particularly popular in Italy in the 16th century.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

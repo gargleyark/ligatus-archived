@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3007" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3343" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3273" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "rivet plates" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "klinknaglebeslag" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "back plates" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Et metallbeslag med hull som klinknaglene festes i etter at de er hamret gjennom bokspennebeslaget og permen eller til bokspenneremmene for \u00E5 holde dem sammen. Forekommer normalt p\u00E5 innsiden av permen eller bokspenneremmene, der de ikke synes n\u00E5r boken er lukket." , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A piece of metal with a hole or holes drilled in it to take the rivets after they were passed through the catchplate and the cover or clasp strap under it to hold them together. Rivet plates are therefore normally found on the inside of covers or clasp straps, where they could not be seen when the book is closed." , "lang" : "en" } ] }
+}

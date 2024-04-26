@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3475">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2346" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1649" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3655" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1253" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1321" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1245" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4416" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1640" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3602" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1347" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4415" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3681" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1591" />
+    <skos:prefLabel xml:lang="nb">avfaset kant</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">bevels</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Flat angled planes cut into the edges of boards (or across the head and tail of the spines of bookblocks). The angle, width and depth of bevels vary enormously, but are necessary for a full description. The angle of the bevel can be more simply described as shallow or steep, in which &amp;#039;steep&amp;#039; indicates an angle of more than approximately 45 degrees from the surface of the board and &amp;#039;shallow&amp;#039; an angle of noticeably less than 45 degrees. The depth of the bevel defines the amount of the edge removed to make the bevel, from a &amp;#039;full bevel&amp;#039;, that covers the entire edge, to percentages of the edge removed. For shallow bevels, it is also useful to indicate the width of the bevel, either using terms such as broad and narrow or by measurements, though clumsily made shallow bevels may well vary in width from one end to the other. Most importantly, it is necessary to record from which side of the board the bevel has been removed, e.i. internal bevel and external bevel.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">kanter som er skåret på skrå  </skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

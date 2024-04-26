@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/3187" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2283" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2932" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3083" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2844" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2876" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "forming techniques" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Techniques used to shape materials for both decorative and practical purposes." , "lang" : "en" } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3046" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1250" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "stitched change-over stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Change-over stations formed by stabbing the thread through the inner margin of the gatherings sewn as a group in multi-section sewing. Stitched change-over stations have been recorded on British books printed in single folios and sewn seven-on on six supports or eight-on on seven supports, in which each gathering would otherwise be secured by only two to three centimetres of thread." , "lang" : "en" } ] }
+}

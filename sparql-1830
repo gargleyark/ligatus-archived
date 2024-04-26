@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3154">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1210" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2979" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2880" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3091" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1673" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2950" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2994" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4444" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4446" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3435" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2870" />
+    <skos:prefLabel xml:lang="nb">etikett</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">labels</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Pieces of sheet material, most often coloured tanned skin, paper or parchment, adhered or otherwise attached to the outside of a binding, bearing information about the contents of the book (typically the author&amp;#039;s name and the title), a press or shelfmark, a price, etc. The information may be given in manuscript, tooled or printed. </skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">seddel, liten plate ell. lign. med påskrift til å feste på en ting for å angi dens navn
+
+</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

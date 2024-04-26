@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3827" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1445" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "silver tooling (techniques)" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "s\u00F8lvtrykking" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "preging der man bruker blads\u00F8lv eller annet hvitt metall for \u00E5 f\u00E5 et avtrykk i s\u00F8lv " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A form of metal-foil tooling in which heated metal tools cast or cut with a decorative motif are pressed onto silver leaf over a thermoplastic adhesive such as egg glaire which leaves the motif in silver impressed into the surface usually of the covering material of a book. A binding so decorated may be described as silver-tooled. Unlike gold, silver oxidizes rapidly in humid conditions with the result that most historic silver tooling now has a dull grey or black colour." , "lang" : "en" } ] }
+}

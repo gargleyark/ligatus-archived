@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1481">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2450" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2484" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1285" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1241" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2462" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2464" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2466" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2460" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1419" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/4614" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3845" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3181" />
+    <skos:prefLabel xml:lang="pa-guru">ਕਾਗਦ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">papir</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Refers generally to all types of thin matted or felted sheets or webs of fiber formed on a fine screen from a pulpy water suspension and dried.</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">generell beskrivelse av alle slags materialer som er formet til tynne matter, filter eller fiber som er formet på en fin duk av en vandig løsning og deretter tørket </skos:scopeNote>
+    <skos:scopeNote xml:lang="pa-guru">ਬਨਸਪਤੀ ਦੇ ਰੇਸ਼ੇ ਯਾ ਤੰਦ ਨੂੰ ਕੁੱਟ ਕੇ, ਪਾਣੀ ਵਿਚ ਰਲਾ ਕੇ ਅਤੇ ਛਾਪਰੀ/ਛਾਨਣੀ ਦੇ ਨਾਲ ਕਢ ਕੇ ਬਣੀ ਵਸਤੂ।</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

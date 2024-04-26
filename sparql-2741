@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3042" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4189" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "head of the spine (titles)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Any form of title written, tooled or printed found on the spine of a binding. Up until the 18th century, it would appear that most titles were the responsibility of the owner of the book rather than the bookseller or binder. Labels printed for the bookseller or publisher make their appearance in England in the 1730&#039;s but do not become widespread until the last quarter of the century." , "lang" : "en" } ] }
+}

@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1570",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1565"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "secondary tackets, transverse twisted" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Secondary tackets which are secured by twisting together the two parchment laces which emerge from each side of the spine of a tacketed cover to form a rope-like shape across the spine. A wide variety of different lacing patterns under and around the sewing supports of a bookblock can be used to create transverse twisted tackets. Transverse twisted tackets are almost exclusively associated with tacketed bindings made in Germany and the Low Countries in the first half of the sixteenth-century. Three Italian examples of transverse twisted tackets in which the tackets are looped under the sewing support slips (a common Italian tacketing practice) have been recorded." , "@language" : "en" } ] }
+] }

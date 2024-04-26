@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1432>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3407> ;
+	skos:prefLabel	"f\u00F4ret forsatsblad"@nb ,
+		"made endleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	" forsatsblad som klebes til et annet fritt forsatsblad  "@nb ,
+		"Free endleaves which consist of two adjacent free endleaves that have been adhered together (most often with paste). This was usually done to the first two free endleaves (i.e. those closest to the pastedown. The resulting leaf was stiffer and stronger than the other free endleaves, and often used a decorated paper on the side which faced the pastedown, though pairs of undecorated leaves could also be &#039;made&#039;."@en .

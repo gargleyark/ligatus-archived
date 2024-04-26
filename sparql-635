@@ -1,0 +1,10 @@
+{
+  "http://w3id.org/lob/concept/3435" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3154" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bookplates" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "ex libris" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "ex libris (information objects)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Labels, usually printed or engraved, frequently with a distinctive design, identifying the owner of a book, and usually pasted or tipped to the inside of the upper cover." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Trykt eller tegnet bokeiermerke som klebes p\u00E5 permens innside med eierens navn og ofte en billedlig fremstilling som viser til eierens yrke, interesser, v\u00E5pen eller portrett. " , "lang" : "nb" } ] }
+}

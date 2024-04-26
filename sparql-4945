@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2444" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2438" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "skillpaddeskall" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "tortoise shell" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Material made from the thinly sliced horny plates covering the shells of some turtles and tortoises. It was used as covering material for books in Holland in the 17th and 18th centuries as well as for inlays, jewelry, hair combs, and other ornaments, but its use is banned today." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "det gjennomskinnelige delen av skallet p\u00E5 en skilpaddeart  " , "lang" : "nb" } ] }
+}

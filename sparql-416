@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1634",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1205"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "banket fals 90\u00B0" , "@language" : "nb" } ,
+        { "@value" : "square joints" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "de ytterste leggene p\u00E5 hver side bankes av bokblokken blir banket til 90\u00B0 vinkel, slik at permene kan legges godt an mot vinkelen" , "@language" : "nb" } ,
+        { "@value" : "A joint which is angled at 90\u00B0. " , "@language" : "en" } ] }
+] }

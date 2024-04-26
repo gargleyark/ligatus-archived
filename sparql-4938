@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2420",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2404"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "silver (metal)" , "@language" : "en" } ,
+        { "@value" : "s\u00F8lv" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A malleable, ductile, white metal with characteristic sheen, considered a precious metal. As a pure metal, silver is second to gold in malleability and ductility, can be polished to a highly reflective surface, and was used, typically in an alloy, to make book fastenings and furniture on more expensive bindings, as well as in jewelry, coinage, mirrors, tableware, etc." , "@language" : "en" } ,
+        { "@value" : "edelt hvit- el. gr\u00E5ligglinsende metall " , "@language" : "nb" } ] }
+] }

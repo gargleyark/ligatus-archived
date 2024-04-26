@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3956>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:narrower	<http://w3id.org/lob/concept/3967> ,
+		<http://w3id.org/lob/concept/3558> ;
+	skos:prefLabel	"embossed paper"@en ,
+		"preget papir"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"papir som er dekorert med preging og gitt en relieff-struktur "@nb ,
+		"Paper which has been purposely given a relief texture with plates. The pattern created by the plates can either be metal-leaf embossed, where the metal leaf remains only in the depressions created by the raised parts of the plates (brocade paper), or blind-embossed, where a paper, uncoloured, already coloured or entirely covered with metal or colours is then simply embossed with the same type of plate (e.g. blind-embossed metallic paper)."@en .

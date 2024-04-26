@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1191>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1242> ;
+	skos:narrower	<http://w3id.org/lob/concept/1459> ;
+	skos:prefLabel	"adhesive cases"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Adhesive cases are attached to completed bookblocks by means of adhesive alone. The cover constitutes a separate complete unit made up of one or more components, depending on whether it is made from one piece of cover material, or from several components (i.e. boards, covering material, spine piece, etc.). Books bound in this way are conventionally known as case bindings. Their order of construction differentiates them from bindings in which the boards are first attached to the bookblock by adhesive to the endleaf guards, endleaf stubs or full leaves before they are covered with a covering material. Even though they may appear superficially to be the same, in that adhesive alone is used to attach the boards and cover to the bookblock, the latter is an inboard structure. The first recorded adhesive cases are German and date from the second quarter of the sixteenth century, and this history of case binding seems to be exclusively German until the mid-eigtheenth century."@en .

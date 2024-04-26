@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1208>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2286> ;
+	skos:prefLabel	"bibliographical gatherings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Gatherings which consist of one or more bifolia printed or written sheets inserted one inside another and which constitute a single physical unit within the bibliographical make-up of a textblock. In printed books, such gatherings may be formed from single or multiple sheets of paper, as issued by the printer. The gatherings in blank books bound to be used for manuscript content will be made up from leaves without text and would not be bibliographical gatherings when the book was first bound."@en .

@@ -1,0 +1,11 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2446>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3167> ;
+	skos:prefLabel	"perlemor, dekor"@nb ,
+		"nacre"@fr ,
+		"mother of pearl"@en ;
+	skos:altLabel	"nacre"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"den indre, glinsende side av perlemuslingens skall  "@nb ,
+		"Hard, pearly, iridescent internal layer of various kinds of mollusk shell, extensively used for making small articles and inlays."@en .

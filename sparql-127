@@ -1,0 +1,21 @@
+{
+  "http://w3id.org/lob/concept/3475" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2346" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1649" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3655" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1253" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1321" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1245" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4416" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1640" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3602" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1347" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4415" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3681" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1591" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "avfaset kant" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "bevels" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Flat angled planes cut into the edges of boards (or across the head and tail of the spines of bookblocks). The angle, width and depth of bevels vary enormously, but are necessary for a full description. The angle of the bevel can be more simply described as shallow or steep, in which &#039;steep&#039; indicates an angle of more than approximately 45 degrees from the surface of the board and &#039;shallow&#039; an angle of noticeably less than 45 degrees. The depth of the bevel defines the amount of the edge removed to make the bevel, from a &#039;full bevel&#039;, that covers the entire edge, to percentages of the edge removed. For shallow bevels, it is also useful to indicate the width of the bevel, either using terms such as broad and narrow or by measurements, though clumsily made shallow bevels may well vary in width from one end to the other. Most importantly, it is necessary to record from which side of the board the bevel has been removed, e.i. internal bevel and external bevel." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "kanter som er sk\u00E5ret p\u00E5 skr\u00E5  " , "lang" : "nb" } ] }
+}

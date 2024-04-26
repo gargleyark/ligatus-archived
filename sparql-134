@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3509">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3501" />
+    <skos:prefLabel xml:lang="en">primary board attachment</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">anpapping før overtrekket er montert</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">klebing av forsatspapir til bokpermens innside, eventuelt i kombinasjon med heftbind og de delene av ryggfôring og/eller kapitélbånd som stikker utenfor ryggen, før permene er dekket av overtrekksmateriale</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Primary board attachment describes the means by which the boards of a book are attached directly to a textblock or bookblock before the book is covered. The methods used include sewn, slip, endleaf and spine lining attachments, and they may be used singly or in combination with each other. It does not describe the use of boards within laced-case or cased constructions. In many books, the joints of the spine linings or elements of the endleaves will be adhered to the inside of the boards after covering, by which process they will reinforce board attachment, but do not constitute the primary board attachment. They will only do so if adhered to the boards before the book is covered. In addition, the covering material itself will also reinforce board attachment, but rarely, if ever, constitutes the primary board attachment. Sewing support slips, endband core slips and stitched support slips constitute the most often-used method of attaching boards in most western European countries, and there is a considerable variety in how they were used. These variations can often indicate a provenance for a binding, and even in some cases identify an individual workshop or binder. The same is true of the other methods of primary board attachment, which include the sewn board attachment typical of Greek-style bindings, spine-lining attachment and endleaf attachment. Combinations of any or all of these methods of primary board attachment will also be found.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2990">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1353" />
+    <skos:prefLabel xml:lang="en">plates (furniture)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Sheets of metal other than corner pieces, combined corners or bosses which may cover a large area of or, indeed, whole boards and where they reach the head-, tail- or fore-edges of the boards will be folded over the edges of the boards as well. Where they fit within the limits of the boards, they may be of any shape (square, rectangular, circular, oval, etc., or other, irregular shapes). Such plates will usually have a decorative purpose, and were often used to confer status to liturgical works. In this context they are usually included in the category of treasure bindings. Frequently made of silver or silver gilt, they could be elaborately decorated with engraving, punching, embossing, enamel, repoussé, etc. Smaller metal plates in the form of votive offerings are also sometimes found nailed to the boards of books, particularly on Armenian bindings.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

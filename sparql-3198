@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1424",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1265"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "linked cover extensions" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "tab yapp corner" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Linked cover extensions can only be found when there are cover extensions at the head- and tail-edges of a cover as well as the foredges, that is to say when extensions meet at a corner. Instead of leaving the extensions separate, some binders chose to extend one extension at a corner so that it could be enclosed within the other. Linked extensions have been found on small group of French laced-case limp parchment bindings of the mid-sixteenth century, with a single, no doubt French-inspired, British example. Eighteenth-century German examples on laced-case parchment bindings with boards have also been recorded." , "@language" : "en" } ,
+        { "@value" : "Linked cover extensions can only be found when there are cover extensions at the head- and tail-edges of a cover as well as the fore-edges, that is to say when extensions meet at a corner. Instead of leaving the extensions separate, some binders chose to extend one extension at a corner so that it could be enclosed within the other. Linked extensions have been found on small group of French laced-case limp parchment bindings of the mid-sixteenth century, with a single, no doubt French-inspired, British example. Eighteenth-century German examples on laced-case parchment bindings with boards have also been recorded." , "@language" : "en" } ] }
+] }

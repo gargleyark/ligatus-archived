@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/4665" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3990" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "\u00E5dret papir" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "veined marbled paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Fargene sprutes p\u00E5 marmor\u00E9rgrunden og manipuleres enten manuelt eller kjemisk, slik at dr\u00E5pene forblir fargel\u00F8se s\u00E5 papiret skinner i gjennom, mens fargene presses sammen til \u00E5rringer som omgir dr\u00E5pene." , "lang" : "nb" } ] }
+}

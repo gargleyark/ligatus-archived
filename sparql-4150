@@ -1,0 +1,16 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3347",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3460"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/4514"} ,
+        { "@id": "http://w3id.org/lob/concept/4128"} ,
+        { "@id": "http://w3id.org/lob/concept/4512"} ,
+        { "@id": "http://w3id.org/lob/concept/3348"} ,
+        { "@id": "http://w3id.org/lob/concept/3350"} ,
+        { "@id": "http://w3id.org/lob/concept/1284"} ,
+        { "@id": "http://w3id.org/lob/concept/2938"} ,
+        { "@id": "http://w3id.org/lob/concept/3092"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "paper features" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Features of paper materials." , "@language" : "en" } ] }
+] }

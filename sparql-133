@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3501>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:narrower	<http://w3id.org/lob/concept/3515> ,
+		<http://w3id.org/lob/concept/3509> ,
+		<http://w3id.org/lob/concept/3511> ,
+		<http://w3id.org/lob/concept/4013> ,
+		<http://w3id.org/lob/concept/3513> ;
+	skos:prefLabel	"ansetning av permer"@nb ,
+		"board attachment"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forskjellige m\u00E5ter permene blir festet til bokblokken f\u00F8r permene er blitt dekket av overtrekksmaterialet  "@nb ,
+		"The means by which boards are attached to bookblocks before the covering material is added, which includes the use of spine lining extensions, endleaves and the covering material itself, all of which will contribute to the attachment of the boards to the bookblock. The boards found in lace-attached and adhesive cases do not have direct attachment to the bookblock."@en .

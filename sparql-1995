@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1338" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2886" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1573" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fold endleaves" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A piece of sheet material folded once to make two complete leaves. A fold can be used singly or in multiples. Multiple folds may come from different pieces of sheet material, or a piece of sheet material folded to make a four-leaf endleaf unit. The term bifolia will often be found in bibliographical and codicological descriptions of books and has the same meaning, but in bindings, the term folds is more often used." , "lang" : "en" } ] }
+}

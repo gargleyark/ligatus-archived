@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2868">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2945" />
+    <skos:prefLabel xml:lang="en">cut and folded leaf markers</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Leaf markers made by making a vertical cut on the fore-edge to separate a strip of the leaf which is then folded back at right angle to the fore-edge, laced through a slot cut in the leaf so that it projects from the fore-edge. Leaf markers of this sort are most likely to be found on bookblocks with parchment leaves.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

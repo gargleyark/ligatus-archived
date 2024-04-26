@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1248>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1678> ;
+	skos:prefLabel	"centrepieces (decoration)"@en ,
+		"midtornament "@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"dekorativt element fra \u00E9n enkelt blokk plassert sentralt p\u00E5 permen"@nb ,
+		"Decorations in the centre of a board created by a single block. Large central ornaments created by combinations of small hand tools should be called tooled centres to avoid confusion."@en .

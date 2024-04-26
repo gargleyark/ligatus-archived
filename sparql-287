@@ -1,0 +1,8 @@
+{
+  "http://w3id.org/lob/concept/1209" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2286" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "bookbinder&#039;s gatherings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "binder&#039;s gatherings" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Gatherings which contain more than one bibliographical unit and inserted material such as interleaving, extra plates, etc. used as single gatherings. Single leaves or single bifolia, which may be distinct bibliographical units, become parts of a single gathering when they are held together by tipping, overcasting or oversewing." , "lang" : "en" } ] }
+}

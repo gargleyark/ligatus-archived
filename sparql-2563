@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1381>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2270> ;
+	skos:prefLabel	"hairside"@en ,
+		"h\u00E5rside"@nb ;
+	skos:altLabel	"grain side"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"yttersiden av skinnet der h\u00E5rene har grodd "@nb ,
+		"Describes the surface of the outside of an animal skin, which contains the hair folllicles by which the skins are most often identified."@en .

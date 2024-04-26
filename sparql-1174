@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3348">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/3347" />
+    <skos:prefLabel xml:lang="nb">kjedelinjer i papir</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">chain lines (paper)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">linjer i papiret som, som regel går parallelt med kortsiden i en rektangulær papirform</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The more widely spaced lines created in the thickness of laid paper, and visible as brighter lines when viewed by transmitted light. They are created by the thicker wires, usually parallel to the shorter sides of the rectangular laid mould, and which support the thinner wire lines, which lie at right-angles across them. The impressions of both sets of lines are often clearly visible in reflected light and particularly in raking light.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

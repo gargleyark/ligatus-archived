@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1284",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3347"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "b\u00F8ttekanter" , "@language" : "nb" } ,
+        { "@value" : "deckle edges" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Uneven edges of a sheet of hand-made paper caused by the deckle or frame which confines the pulp on the mould, and under which some of the pulp will leak unevenly." , "@language" : "en" } ,
+        { "@value" : "ujevn avslutning p\u00E5 et h\u00E5ndlaget ark papir, som skyldes at rammen i papirformen fordeler pulpen ujevnt " , "@language" : "nb" } ] }
+] }

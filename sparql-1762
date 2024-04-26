@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2398">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2396" />
+    <skos:prefLabel xml:lang="nb">elfenben</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">ivory (bone)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">hardt materiale av tenner fra elefant</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">The modified form of dentine found on the tusks of mature elephants, and for similar material from any tusked or large-toothed mammal such as a walrus or narwhal.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

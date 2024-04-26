@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1585">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/4174" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1292" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2527" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1547" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/2525" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3131" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1652" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1339" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1420" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3569" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1695" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1659" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1626" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1488" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1602" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1406" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1687" />
+    <skos:prefLabel xml:lang="nb">heftbind</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">sewing supports</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">remser av hamp, lin, skinn eller pergament utgjør en integrert del av heftestrukturen i form av smale bånd som løper tvers over bokryggen på håndinnbundne bøker </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Components placed across the spine of a bookblock to or through which the individual gatherings are sewn with thread. The most commonly encountered sewing supports are narrow strips of material around or across which the thread is taken when it emerges from the gatherings, but there are also pierced sewing supports, through which the thread is taken when the bookblock is sewn. Both can be found in many different shapes and sizes.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

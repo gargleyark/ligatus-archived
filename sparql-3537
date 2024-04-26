@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2466" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1481" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "maskinlaget papir " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "machine-made paper" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Paper made in a continuous length in a papermaking machine as opposed to individual sheets made by hand on a paper mould. Machine-made papers have a pronounced grain which runs parallel to the length of the paper." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "papir produsert p\u00E5 en l\u00F8pende vire av en maskin i motsetning til for h\u00E5nd " , "lang" : "nb" } ] }
+}

@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2310" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2340" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "embossed decoration" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "preget dekorasjon" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "resultatet av preging" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "The result of embossing." , "lang" : "en" } ] }
+}

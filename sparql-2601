@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1393" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1573" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2886" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1662" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1316" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1467" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "hook-type endleaves" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "An endleaf folded along the spine edge to create a stub which can be used as an endleaf-hook, text-hook or outside-hook." , "lang" : "en" } ] }
+}

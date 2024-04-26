@@ -1,0 +1,22 @@
+{
+  "http://w3id.org/lob/concept/1481" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2450" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2484" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1285" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1241" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2462" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2464" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2466" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/2460" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/1419" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4614" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3845" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3181" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "\u0A15\u0A3E\u0A17\u0A26" , "lang" : "pa-guru" } ,
+      { "type" : "literal", "value" : "paper" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "papir" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Refers generally to all types of thin matted or felted sheets or webs of fiber formed on a fine screen from a pulpy water suspension and dried." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "generell beskrivelse av alle slags materialer som er formet til tynne matter, filter eller fiber som er formet p\u00E5 en fin duk av en vandig l\u00F8sning og deretter t\u00F8rket " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "\u0A2C\u0A28\u0A38\u0A2A\u0A24\u0A40 \u0A26\u0A47 \u0A30\u0A47\u0A36\u0A47 \u0A2F\u0A3E \u0A24\u0A70\u0A26 \u0A28\u0A42\u0A70 \u0A15\u0A41\u0A71\u0A1F \u0A15\u0A47, \u0A2A\u0A3E\u0A23\u0A40 \u0A35\u0A3F\u0A1A \u0A30\u0A32\u0A3E \u0A15\u0A47 \u0A05\u0A24\u0A47 \u0A1B\u0A3E\u0A2A\u0A30\u0A40/\u0A1B\u0A3E\u0A28\u0A23\u0A40 \u0A26\u0A47 \u0A28\u0A3E\u0A32 \u0A15\u0A22 \u0A15\u0A47 \u0A2C\u0A23\u0A40 \u0A35\u0A38\u0A24\u0A42\u0964" , "lang" : "pa-guru" } ] }
+}

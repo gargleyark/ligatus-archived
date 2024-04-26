@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1465" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2344" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "gj\u00E6ret hj\u00F8rneinnslag med \u00E5pning" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "open mitres" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "The two cut edges if the mitered corner do not meet when they are folded over. It is possible for the cut edges of a butt mitre to pull apart slightly on leather covered boards as the leather dries and shrinks.The gap create by this prc ess is typically very narrow (less than 1 mm), and should not be confused with open mitres, which may be anything from 2-5 mm wide." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Gj\u00E6ret hj\u00F8rneinnslag der de to rett avsk\u00E5rne kantene ikke m\u00F8tes men har en \u00E5pen avstand p\u00E5 omkring 2 - 5 mm, som ikke m\u00E5 forveksles med at \u00E5pningens avstand skyldes utt\u00F8rking og krymping av skinnet." , "lang" : "nb" } ] }
+}

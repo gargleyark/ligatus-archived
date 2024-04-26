@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1210>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3154> ;
+	skos:prefLabel	"binders&#039; tickets"@en ,
+		"bokbinderetikett"@nb ;
+	skos:altLabel	"name pallets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Liten gravert, trykket eller av og til h\u00E5ndskrevet etikett med bokbinderens navn og eventuelt adresse som regel limt p\u00E5 innsiden av for- eller bakpermen. Alternativt kunne bokbinderen trykke navnet sitt blindt, i gull eller med blekk ofte p\u00E5 innslaget p\u00E5 innsiden av bakpermen."@nb ,
+		"Small engraved, printed or occasionally manuscript labels, usually pasted inside the left or right cover, or on the adjoining endleaves, giving the name (and usually the address) of the bookbinder.  Tickets were used from the early 18th century until about 1825, but were not often seen in England until about 1780. The use of the ticket gave way to the practice by binders of lettering their names in gilt, blind, or ink."@en .

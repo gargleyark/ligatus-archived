@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1257">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1663" />
+    <skos:prefLabel xml:lang="en">composite textblocks</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Sammelbände</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">samlebind</skos:prefLabel>
+    <skos:altLabel xml:lang="en">sammelbands</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">bok som inneholder flere forskjellige tekster som er bundet sammen i et bind </skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Single textblocks containing two or more manuscript parts or printed editions, as opposed to multiple textblock bindings which contain two or more discrete textblocks, each of which may, of course, be a composite textblock.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

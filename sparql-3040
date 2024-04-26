@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1405">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2270" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/3256" />
+    <skos:narrower rdf:resource="http://w3id.org/lob/concept/1397" />
+    <skos:prefLabel xml:lang="en">joints (places)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">The area along the edges of the spine along which the boards and/or cover hinge. It is sometimes useful to distinguish between the outer joint, which describes the cover on the outside of the boards/cover, and the inner joint, which can be used to describe those parts of the endleaves and spine linings which cross the joint on the inside of the board/cover.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

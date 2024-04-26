@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4514",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3347"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tverrg\u00E5ende fiberretning" , "@language" : "nb" } ,
+        { "@value" : "short grain" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Papers in which the grain direction of the paper is parallel to the shorter sides of a rectangular sheet of paper." , "@language" : "en" } ,
+        { "@value" : "Papirets fiberretning er parallell med kortsiden p\u00E5 et rektangul\u00E6rt ark." , "@language" : "nb" } ] }
+] }

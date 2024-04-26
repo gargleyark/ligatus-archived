@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1320>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3277> ;
+	skos:prefLabel	"expanding gussets"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Folded triangular inserts of sheet material, most often coloured tanned skin or woven silk textile, used to create expanding pockets at each end of a variety of pocket books (i.e. almanacs, memorandum books, etc.), for the insertion of notes, cards, etc."@en .

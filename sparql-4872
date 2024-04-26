@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1642">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1334" />
+    <skos:prefLabel xml:lang="en">stitched flayholes</skos:prefLabel>
+    <skos:altLabel xml:lang="en">sewn flayholes</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Holes made in an animal skin during flaying or processing which have been sewn up with thread to prevent them from opening up into larger holes when the skin is stretched and dryed. Sewn flayholes are a common feature of skins made into parchment.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

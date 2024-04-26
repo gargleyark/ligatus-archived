@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4604",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1244"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hole-type catchplates" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Catchplates with one or more holes into which hooked clasps can be inserted. Hole-type catchplates with three holes in them are frequently associated with almanac bindings containing pockets inside the boards and with envelope flaps, for which an adjustable fastening is necessary, to allow for the quantity of material inserted into the pockets." , "@language" : "en" } ] }
+] }

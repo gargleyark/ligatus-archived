@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/3796",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3793"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bindtittel" , "@language" : "nb" } ,
+        { "@value" : "binding titles" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "binder&#039;s titles" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "tekst p\u00E5 bindet, som regel plassert p\u00E5 rygg eller permer, som redegj\u00F8r for tekstblokkens innhold" , "@language" : "nb" } ,
+        { "@value" : "The title of a book as it appears on any external surface of the binding, including the edges of the bookblock. Until the 18th century, the choice of binding titles was often that of the owner of the book, and, when in manuscript, may well have been added by the owner rather than the binder. The tooled titles on many books were often added long after the binding was completed, to suit different owners and different storage methods in libraries.  As a consequence, therefore, it is not uncommon for books to have two or more titles in different places." , "@language" : "en" } ] }
+] }

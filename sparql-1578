@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/4087">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/1226" />
+    <skos:prefLabel xml:lang="en">decorated edges</skos:prefLabel>
+    <skos:prefLabel xml:lang="nb">dekorerte snitt</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb">Mange forskjellige typer dekor ble påført bokblokkens snitt enten før eller etter at kapitélbånd ble festet, permene ansatt eller omslaget montert.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Decoration applied to the cut edges of a bookblock. Many different decorative techniques were used for this purpose, and the decoration could be done both before and after endbands were sewn, boards attached and covers added.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

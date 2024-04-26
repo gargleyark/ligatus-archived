@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1363">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2358" />
+    <skos:prefLabel xml:lang="nb"> forgylling</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">gilding</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="nb"> pålegging av gull- eller annet bladmetall, som festes med et bindemiddel (eggehvite) på overflaten av et annet materiale, for eksempel papir, skinn eller tre</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Process involving the surface application of gold or another metal in the form of leaf, powder applied directly to the surface, powder mixed with a binder or other forms to approximate the effect of solid or inlaid metal.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

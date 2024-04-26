@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/1225">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2299" />
+    <skos:prefLabel xml:lang="en">bookblock back-cornering</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Back-cornering which lowers the spine-edge corners of the head and tail of each board to the level of the endband or bookblock. This was usually done to facilitate the endband-slip attachment to the board or to soften the square corners of the boards where they projected above the level of either the bookblock or endband. The ends of the worked portion of worked stuck-on endbands will usually start in back-cornering of this sort, allowing the worked portion to overlap the back edge of the board. This is one of the ways in which worked stuck-on endbands can be recognised.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

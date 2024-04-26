@@ -1,0 +1,18 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1242",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1268"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1191"} ,
+        { "@id": "http://w3id.org/lob/concept/2924"} ,
+        { "@id": "http://w3id.org/lob/concept/1412"} ,
+        { "@id": "http://w3id.org/lob/concept/1460"} ,
+        { "@id": "http://w3id.org/lob/concept/4395"} ,
+        { "@id": "http://w3id.org/lob/concept/2825"} ,
+        { "@id": "http://w3id.org/lob/concept/1665"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "l\u00F8sbind" , "@language" : "nb" } ,
+        { "@value" : "cases" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "@value" : "wrappers" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Covers which are complete in themselves before they are attached to bookblocks. They may or may not have boards and other components in addition to a cover but no part of them can have been attached to the bookblock separately before the cover was attached. In almost all recorded examples, the spine of the case is not adhered to the spine of the bookblock, but is left instead with a natural hollow back. Cases can be attached to the bookblock by adhesive only, primary or secondary tackets, longstitch bindings and bindings with external sewing supports. In one instance, a case made of cartonnage has been recorded adhered to the boards of an inboard binding. This as yet unique example should therefore be described as a primary cover on an inboard binding." , "@language" : "en" } ,
+        { "@value" : "omslaget/bindet  blir laget for seg f\u00F8r det festes til bokblokken" , "@language" : "nb" } ] }
+] }

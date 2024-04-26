@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/1531" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3699" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3665" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/3667" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "quartered boards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { "type" : "literal", "value" : "split wood" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "quarter-cut boards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Wooden planks obtained from the trunk of a tree inline with the medullary rays radiating from the centre of the trunk, with the growth rings at right angles to the sides of the planks. Such planks were procured either by splitting or sewing the wood along the medullary rays." , "lang" : "en" } ] }
+}

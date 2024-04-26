@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3087>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3161> ;
+	skos:prefLabel	"ferniss"@nb ,
+		"varnish"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A solution of a resin in a volatile solvent or a drying oil, which when spread out in a thin film, dries and hardens by evaporation of the volatile solvent, or by the oxidation of the oil, or both; applied as a protective coating or to enhance the appearance of the surface underneath."@en ,
+		"overflatebehandlingsmiddel  som gir en hard og blank overflate"@nb .

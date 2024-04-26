@@ -1,0 +1,11 @@
+{
+  "http://w3id.org/lob/concept/4694" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2272" } ] ,
+    "http://www.w3.org/2004/02/skos/core#narrower" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3077" } ,
+      { "type" : "uri", "value" : "http://w3id.org/lob/concept/4696" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "lukkemekanismens utforming" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "fastening features" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "utforming av l\u00E5semekanismen eller deler av l\u00E5semekanismen " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Features found on fastenings and fastening components." , "lang" : "en" } ] }
+}

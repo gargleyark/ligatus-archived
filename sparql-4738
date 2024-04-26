@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1577",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1313"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "separately-sewn endleaf guards" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A sewn endleaf guard found at the beginning and end of a bookblock which is not folded around the full leaves of the endleaf which are part of a separate unit. Separately-sewn endleaf guards would appear to be a particularly French phenomenon first found in the last quarter of the sixteenth century and surviving through to the beginning of the nineteenth." , "@language" : "en" } ] }
+] }

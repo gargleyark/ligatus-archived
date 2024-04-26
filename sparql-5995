@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4234>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1317> ;
+	skos:prefLabel	"u\u00E5pnet forsats"@nb ,
+		"unopened endleaves"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"forsats satt sammen av enkle falsede ark der falsene i hode, fot eller foran ikke er blitt sprettet opp "@nb ,
+		"Endleaves folded from single sheets in which bolts on the head, tail or fore-edges have not been opened."@en .

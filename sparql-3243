@@ -1,0 +1,12 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1646>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:narrower	<http://w3id.org/lob/concept/1643> ,
+		<http://w3id.org/lob/concept/1644> ,
+		<http://w3id.org/lob/concept/1645> ;
+	skos:prefLabel	"stitched bindings"@en ,
+		"leddbind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Heftet bokblokk holdt samlet ved hjelp av metalltr\u00E5d i ryggen (ryggstifting) eller fra siden (sidestifting eller falsstifting). Leddbindet kan v\u00E6re utstyrt med  permer eller omslag. Stiftingen som holder bokblokken sammen kalles prim\u00E6r stifting, i motsetning til sekund\u00E6r stifting som fester permer eller omslag til bokblokken."@nb ,
+		"Bindings in which the leaves or gatherings of a book are held together to create a single bookblock by stabbing thread or thongs through the inner margin of an entire bookblock. This process may also include a cover, or a drawn-on cover may be added after the stitching is completed. The stitching which holds the bookblock together is known as primary stitching, as opposed to secondary stitching which was used to attach boards or a case to an already stitched bookblock."@en .

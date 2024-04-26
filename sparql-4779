@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1597>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2969> ;
+	skos:prefLabel	"silver leaf"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Silver beaten out into thin leaf for use in gilding. Silver leaf is about three times as thick as gold leaf because silver is less malleable but the resulting leaf is easier to handle."@en .

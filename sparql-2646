@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1677",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1678"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "tooled corners (decoration)" , "@language" : "en" } ,
+        { "@value" : "hj\u00F8rneornament i ramme" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Tooled decoration in the corners of a frame built up with multiple impressions of hand tools." , "@language" : "en" } ,
+        { "@value" : "Pregede ornamenter i rammens hj\u00F8rner utf\u00F8rt med flere mindre h\u00E5ndforgyllerstempler. " , "@language" : "nb" } ] }
+] }

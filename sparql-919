@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/1256" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1322" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "utligningsfalser" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "compensating guards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "en type falser som settes inn i bokblokken for \u00E5 utligne \u00F8kning i tykkelsen, der det skal settes inn eller er satt inn en foldet plansje eller tabell" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "A type of extension guards incorporating additional folds or sewing guards to match the thickness of a folded plate or table." , "lang" : "en" } ] }
+}

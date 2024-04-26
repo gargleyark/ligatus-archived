@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/1566" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1565" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "secondary tackets, loop-type, twisted inside" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Loop tackets in which the tacket is passed from the outside of the binding (either through a gathering, between two gatherings, under the sewing supports on the spine or around the sewing support slips at each joint) to the inside, where the loose ends are twisted together to secure them." , "lang" : "en" } ] }
+}

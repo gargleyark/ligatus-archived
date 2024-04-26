@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1331>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1268> ;
+	skos:prefLabel	"fixed secondary covers"@en ,
+		"omslagsbind"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"A secondary cover which is permanently attached to a binding with a primary cover. There is a question as to whether the loose chemises with fore-edge pockets on medieval bindings which were subsequently fastened to the boards by bosses, catchplates, titles with nailed copper alloy frames, etc. should be refered to as loose or permanent. The pockets imply that they should be loose, and they can perhaps best be described as &#039;loose secondary covers now fixed in place by bosses&#039;, etc."@en ,
+		"A secondary cover which is permanently attached to a binding with a primary cover. There is a question as to whether the loose chemises with foredge pockets on medieval bindings which were subsequently fastened to the boards by bosses, catchplates, titles with nailed copper alloy frames, etc. should be refered to as loose or permanent. The pockets imply that they should be loose, and they can perhaps best be described as &#039;loose secondary covers now fixed in place by bosses&#039;, etc."@en .

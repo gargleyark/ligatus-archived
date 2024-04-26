@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/2882">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2879" />
+    <skos:prefLabel xml:lang="nb">kantstift</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">edge studs</skos:prefLabel>
+    <skos:altLabel xml:lang="en">heels</skos:altLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Raised fittings attached to the head-, fore- and, most often, tail-edge of a board to protect the edges of the binding or give a vertical orientation to a binding with an uneven tail edge (e.g. Greek-style binding) on a sloping lectern shelf. Such studs were usually made of a copper alloy and were made in a variety of shapes, sometimes combined with shoes or corners. Also known as &amp;#039;heels&amp;#039; (Szirmai, p.264).</skos:scopeNote>
+    <skos:scopeNote xml:lang="nb">utskytende kantbeslag, som regel av metall, som er festet til permkantene</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

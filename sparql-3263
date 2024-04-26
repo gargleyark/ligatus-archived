@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2938>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3347> ;
+	skos:prefLabel	"laid lines"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The impression left by the wire and chain lines in sheets of paper made on laid paper moulds. The appearance of handmade laid paper may be imitated by using a dandy roll to transfer a similar pattern to paper that has already been made."@en .

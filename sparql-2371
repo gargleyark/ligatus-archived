@@ -1,0 +1,8 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1361>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2279> ;
+	skos:prefLabel	"gift-book bindings"@en ;
+	skos:altLabel	"gift bindings"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Books printed and bound for the gift market as distinct for the library or the general reading market. The bindings on gift books would either be richly decorated or covered in exotic material such as silk, or both."@en .

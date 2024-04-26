@@ -1,0 +1,14 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1648>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1344> ;
+	skos:narrower	<http://w3id.org/lob/concept/1517> ,
+		<http://w3id.org/lob/concept/1471> ,
+		<http://w3id.org/lob/concept/1289> ,
+		<http://w3id.org/lob/concept/1564> ;
+	skos:prefLabel	"sidehefting"@nb ,
+		"stitching (techniques)"@en ;
+	skos:altLabel	"stabbing (techniques)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"hefteteknikk som utf\u00F8res langsetter og fra utsiden av ryggen p\u00E5 bokblokken "@nb ,
+		"The process of holding bookblocks together by stabbing a material such as thread, textile tape, parchment or tanned or tawed skin thongs through the inner margin of an entire bookblock (see also stitching in blocks). Stitching is such a simple technique that it was used both formally and informally from a very early date, but was recognised as a cheap and inferior alternative to sewing, and attempts were made in England in 1586 to control its use in order to protect the work of the bookbinders."@en .

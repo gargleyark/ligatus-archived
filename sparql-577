@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3094>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3344> ;
+	skos:prefLabel	"bunnlinjer"@nb ,
+		"wire lines (moulds)"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The fine wires laid across the chain lines in a rectangular laid paper mould that retain the paper pulp that forms a sheet whilst allowing the water to drain away between them. The impression of the wire lines in the paper is usually easily visible by transmitted light. In handmade papers made before the 19th century, the paper pulp is often somewhat thicker on each side of the chain lines and can obscure the wire lines."@en ,
+		"fine tr\u00E5der som g\u00E5r p\u00E5 tvers av kjedelinjene i en rektangul\u00E6r papirform"@nb .

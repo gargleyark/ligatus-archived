@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4034",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3277"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/1270"} ,
+        { "@id": "http://w3id.org/lob/concept/1632"} ,
+        { "@id": "http://w3id.org/lob/concept/1411"} ,
+        { "@id": "http://w3id.org/lob/concept/1683"} ,
+        { "@id": "http://w3id.org/lob/concept/1330"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "hj\u00F8rneovertrekk" , "@language" : "nb" } ,
+        { "@value" : "corners (cover components)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "biter av overtrekksmateriale til \u00E5 dekke permenes ytre hj\u00F8rner p\u00E5 halvbind" , "@language" : "nb" } ,
+        { "@value" : "The pieces of covering material used in half-bindings to cover the outer corners of the boards. These may be shaped in a number of a different ways." , "@language" : "en" } ] }
+] }

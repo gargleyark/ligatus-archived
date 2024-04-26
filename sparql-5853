@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/4504" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/4682" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "wood-blocks" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "treblokk" , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "materiale til \u00E5 skj\u00E6re ut m\u00F8nstre, ord eller bilder for \u00E5 overf\u00F8re ved hjelp av trykk til papir, tekstil eller andre materialer " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Blocks of wood on which designs, words, or other images are cut in order to transfer an impression in inks or other colours in a medium by means of printing on paper, textile or other material." , "lang" : "en" } ] }
+}

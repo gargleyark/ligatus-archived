@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2840",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/3311"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "buttoned bags" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Fitted bags of textile or soft leather with a buttoned flap at one end. It would seem that high-quality bindings were often supplied by their binders in such bags, which, in the late seventeenth and early eighteenth centuries, could be made of block-stamped leather of an Islamic pattern, as well as undecorated tanned skins." , "@language" : "en" } ] }
+] }

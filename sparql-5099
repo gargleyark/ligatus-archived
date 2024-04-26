@@ -1,0 +1,7 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3135>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1502> ;
+	skos:prefLabel	"separate pierced sewing supports"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Pierced sewing supports which appear as separate pieces on the spine of a bookblock with spaces in between them. There will usually be two or more of them, but single separate pierced supports may occasionally be found, distinguished from continuous pierced sewing supports by covering less than half the height of the spine.  Separate pierced sewing supports  usually have two sewing stations for each gathering, but shorter examples with only one sewing station (for chainstitch sewing structures only) or longer ones with three or more stations have been recorded. Both longstitch and chainstitch sewing were used with separate pierced sewing supports, or combinations of both within the same support."@en .

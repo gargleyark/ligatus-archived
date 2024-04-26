@@ -1,0 +1,11 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/1364",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2422"} ,
+        { "@id": "http://w3id.org/lob/concept/3161"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "eggehvite" , "@language" : "nb" } ,
+        { "@value" : "glaire" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "A heat activated adhesive composed of beaten egg white and vinegar used cold for the gilding of edges and set by heat with the use of heated finishing tools. Also used to secure metal leaf to covering materials through pressure from heated finishing tools." , "@language" : "en" } ,
+        { "@value" : "fargel\u00F8s bestanddel i egg med en viss klebeevne, brukt som bindemiddel til \u00E5 feste bladgull" , "@language" : "nb" } ] }
+] }

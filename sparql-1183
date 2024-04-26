@@ -1,0 +1,7 @@
+{
+  "http://w3id.org/lob/concept/3479" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/1222" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "constructed boards" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "Boards for exceptionally large books which are made up from multiple components such as planks and rails, or battens sitting in dovetail grooves. Such boards may be up to 20 mm thick, or more, and can be found on the anthiponers and graduals used in large churches." , "lang" : "en" } ] }
+}

@@ -1,0 +1,15 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/2342",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/2350"} ] ,
+      "http://www.w3.org/2004/02/skos/core#narrower" : [ { "@id": "http://w3id.org/lob/concept/2534"} ,
+        { "@id": "http://w3id.org/lob/concept/1326"} ,
+        { "@id": "http://w3id.org/lob/concept/1358"} ,
+        { "@id": "http://w3id.org/lob/concept/1533"} ,
+        { "@id": "http://w3id.org/lob/concept/1407"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "bind" , "@language" : "nb" } ,
+        { "@value" : "bands (spine features)" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "synlige opph\u00F8yde tverrb\u00E5nd p\u00E5 bokryggen, enten ekte eller falske bind, heftbind eller kjedesting " , "@language" : "nb" } ,
+        { "@value" : "Any raised bands, either genuine or false, lying across the spine of a book, either as raised sewing supports, halfbands or kettlebands." , "@language" : "en" } ] }
+] }

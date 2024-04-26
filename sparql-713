@@ -1,0 +1,23 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/3990>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1285> ;
+	skos:narrower	<http://w3id.org/lob/concept/4641> ,
+		<http://w3id.org/lob/concept/4643> ,
+		<http://w3id.org/lob/concept/4645> ,
+		<http://w3id.org/lob/concept/4647> ,
+		<http://w3id.org/lob/concept/4649> ,
+		<http://w3id.org/lob/concept/4651> ,
+		<http://w3id.org/lob/concept/4653> ,
+		<http://w3id.org/lob/concept/4655> ,
+		<http://w3id.org/lob/concept/4657> ,
+		<http://w3id.org/lob/concept/4659> ,
+		<http://w3id.org/lob/concept/4661> ,
+		<http://w3id.org/lob/concept/4663> ,
+		<http://w3id.org/lob/concept/4665> ;
+	skos:prefLabel	"bakkemarmorert papir"@nb ,
+		"trough-marbled paper"@en ;
+	skos:altLabel	"water marbling"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"Paper decorated by trough-marbling, which involves a transfer of colours floating on the surface of a liquid in a trough to the paper."@en ,
+		"Dekoreringsteknikk der m\u00F8nsteret ikke dannes direkte p\u00E5 papiret, men p\u00E5 en flytende marmoreringsgrund - ved \u00E5 legge papiret p\u00E5 grunden overf\u00F8res m\u00F8nsteret til papiret."@nb .

@@ -1,0 +1,10 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4488",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1353"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "metal sides" , "@language" : "en" } ,
+        { "@value" : "metalldekor" , "@language" : "nb" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Single pieces of decorated metal, often embossed, that cover the whole of each side of a binding in one piece with a conventional inboard binding with a primary cover underneath." , "@language" : "en" } ,
+        { "@value" : "stykker av metall gjerne dekorert, som dekker begge sider av bindet " , "@language" : "nb" } ] }
+] }

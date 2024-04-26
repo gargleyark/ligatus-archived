@@ -1,0 +1,17 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1226>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/3235> ;
+	skos:narrower	<http://w3id.org/lob/concept/1273> ,
+		<http://w3id.org/lob/concept/1700> ,
+		<http://w3id.org/lob/concept/4480> ,
+		<http://w3id.org/lob/concept/3840> ,
+		<http://w3id.org/lob/concept/1511> ,
+		<http://w3id.org/lob/concept/4087> ,
+		<http://w3id.org/lob/concept/4741> ,
+		<http://w3id.org/lob/concept/4712> ;
+	skos:prefLabel	"bookblock edges"@en ,
+		"bokblokkens kanter"@nb ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The surface of the three outer edges of the bookblock (and not the spine), created when the leaves or gatherings are collected, folded and assembled, usually after sewing, stitching or adhering. An edge may be uncut, rough trimmed or cut, and if cut, may then be decorated."@en ,
+		"kantene oppst\u00E5r n\u00E5r n\u00E5r bladene eller leggene stables eller sammenf\u00F8yes til en bokblokk"@nb .

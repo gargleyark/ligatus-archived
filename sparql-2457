@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/2414" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/2404" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "gull" , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "gold (metal)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "metallisk grunnstoff med kjemisk symbol Au og atomnr. 79 " , "lang" : "nb" } ,
+      { "type" : "literal", "value" : "Pure metallic element having symbol Au and atomic number 79; a soft, inert, shiny reddish yellow metal that is very malleable and ductile. Gold has been highly valued and found in artifacts dating to before 5000 BCE. Native gold, found in quartz veins (vein gold) and alluvial deposits (placer gold), generally contains some silver and copper. Gold is purified by dissolution in mercury or cyanide solutions, by melting, or by electrodeposition. The purity of commercial gold is expressed in karats which is the number of parts of gold in 24 parts of the alloy. Today gold is primarily used for monetary systems and for jewelery." , "lang" : "en" } ] }
+}

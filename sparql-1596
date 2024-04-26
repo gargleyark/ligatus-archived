@@ -1,0 +1,8 @@
+{ "@graph": [
+    { "@id": "http://w3id.org/lob/concept/4320",
+      "@type" : [ "http://www.w3.org/2004/02/skos/core#Concept" ] ,
+      "http://www.w3.org/2004/02/skos/core#broader" : [ { "@id": "http://w3id.org/lob/concept/1285"} ] ,
+      "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "@value" : "dabbed paper" , "@language" : "en" } ] ,
+      "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "@id": "http://w3id.org/lob/"} ] ,
+      "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "@value" : "Paper in which colours are directly applied in discrete applications on a white or previously coloured sheet, by repeatedly dabbing or pressing a tool, or any object, dipped in colour onto it, in order to produce an irregular design. Some of these papers were decorated with what appears to have been small pieces of natural sponge (sponge-decorating) dipped in colour and dabbed over the surface of the paper. One or more colours might be used, and the process might conform to a rough pattern or be completely random." , "@language" : "en" } ] }
+] }

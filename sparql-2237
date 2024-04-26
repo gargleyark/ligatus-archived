@@ -1,0 +1,9 @@
+{
+  "http://w3id.org/lob/concept/3602" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://w3id.org/lob/concept/3475" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "fine bevels" , "lang" : "en" } ,
+      { "type" : "literal", "value" : "rundet permkant " , "lang" : "nb" } ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { "type" : "uri", "value" : "http://w3id.org/lob/" } ] ,
+    "http://www.w3.org/2004/02/skos/core#scopeNote" : [ { "type" : "literal", "value" : "A small amount of the edge has been removed at approximately 45\u00B0, just enough to soften the square edges of a board." , "lang" : "en" } ,
+      { "type" : "literal", "value" : "Litt av permkantene er fjernet for \u00E5 gi kantene et avrundet preg." , "lang" : "nb" } ] }
+}

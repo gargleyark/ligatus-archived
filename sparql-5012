@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://w3id.org/lob/concept/3023">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <skos:broader rdf:resource="http://w3id.org/lob/concept/2346" />
+    <skos:prefLabel xml:lang="en">side beads</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://w3id.org/lob/" />
+    <skos:scopeNote xml:lang="en">Narrow half-round convex mouldings, or beads, run along the surface of the edge of a board. Beads are normally run along the grain of the board, i.e. the fore-edge of the board, and are a feature of many German inboard bindings with quarter spines of the first half of the sixteenth century. They can very occasionally be found run across the grain at head and tail, where they are at great risk of damage.</skos:scopeNote>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,31 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/2346>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2272> ;
+	skos:narrower	<http://w3id.org/lob/concept/1633> ,
+		<http://w3id.org/lob/concept/1303> ,
+		<http://w3id.org/lob/concept/1271> ,
+		<http://w3id.org/lob/concept/3055> ,
+		<http://w3id.org/lob/concept/1203> ,
+		<http://w3id.org/lob/concept/3627> ,
+		<http://w3id.org/lob/concept/1251> ,
+		<http://w3id.org/lob/concept/1217> ,
+		<http://w3id.org/lob/concept/3023> ,
+		<http://w3id.org/lob/concept/4910> ,
+		<http://w3id.org/lob/concept/2497> ,
+		<http://w3id.org/lob/concept/1690> ,
+		<http://w3id.org/lob/concept/3787> ,
+		<http://w3id.org/lob/concept/2834> ,
+		<http://w3id.org/lob/concept/3789> ,
+		<http://w3id.org/lob/concept/2991> ,
+		<http://w3id.org/lob/concept/3475> ,
+		<http://w3id.org/lob/concept/4423> ,
+		<http://w3id.org/lob/concept/4925> ,
+		<http://w3id.org/lob/concept/1631> ,
+		<http://w3id.org/lob/concept/1233> ,
+		<http://w3id.org/lob/concept/1231> ;
+	skos:prefLabel	"permenes egenskaper"@nb ,
+		"board features"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"All features relating to the shaping and functional preparation of the boards of a book."@en ,
+		"alt som har med forberedelse og  funksjonell utforming av permene"@nb .

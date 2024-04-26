@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1595>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/2350> ;
+	skos:prefLabel	"skulder"@nb ,
+		"shoulders"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The part of the backed joints on the spine of a book which project beyond the thickness of the rest of the bookblock. They can take a variety of shapes according to how the spine is treated."@en ,
+		"den bankede falsen p\u00E5 ryggen som stikker utenfor tykkelsen p\u00E5 resten av bokblokken "@nb .

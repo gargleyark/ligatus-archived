@@ -1,0 +1,9 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/1684>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1694> ;
+	skos:prefLabel	"besk\u00E5rne innslag"@nb ,
+		"trimmed out turn-ins"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The operation of tidying up the uneven edges of turn-ins on the inside of the boards or cover of a book. On many 16th-century bindings, the stains from the untrimmed turn-ins can be found on the endleaves and/or boards thus revealing exactly how much may have been cut away. The trimming can be done either with a straight or an oblique cut."@en ,
+		"For \u00E5 f\u00E5 innslagene til \u00E5 se mer ryddige ut, ble de besk\u00E5ret, ofte slik at innslaget i forkant var litt bredere enn innslagene i hode og fot."@nb .

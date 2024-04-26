@@ -1,0 +1,10 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://w3id.org/lob/concept/4741>	rdf:type	skos:Concept ;
+	skos:broader	<http://w3id.org/lob/concept/1226> ;
+	skos:prefLabel	"head-edges (bookblock edges)"@en ,
+		"toppsnitt"@nb ;
+	skos:altLabel	"top edges"@en ;
+	skos:inScheme	<http://w3id.org/lob/> ;
+	skos:scopeNote	"The edges of bookblocks at the top of books when placed upright on a shelf (i.e. the edges parallel to and above the top of the text on the pages in books with text)."@en ,
+		"den kanten av boken, permen, snittet som er h\u00F8yest oppe p\u00E5 og i boken i forhold til tekstretningen og n\u00E5r boken er plassert vertikalt p\u00E5 en hylle  "@nb .
